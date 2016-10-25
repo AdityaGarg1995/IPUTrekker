@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ankushsingh.ggsipu" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="IPU Trekker"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Colleges.aiactr" />
+        <activity android:name=".Colleges.amity" />
+        <activity android:name=".Colleges.bp" />
+        <activity android:name=".Colleges.bpit" />
+        <activity android:name=".Colleges.dite" />
+        <activity android:name=".Colleges.bvp" />
+        <activity android:name=".Colleges.gbp" />
+        <activity android:name=".Colleges.gtbit" />
+        <activity android:name=".Colleges.hmr" />
+        <activity android:name=".Colleges.jims" />
+        <activity android:name=".Colleges.mait" />
+        <activity android:name=".Colleges.msit" />
+        <activity android:name=".Colleges.niit" />
+        <activity android:name=".Colleges.npti" />
+        <activity android:name=".logo" />
+        <activity android:name=".Colleges.dtc" />
+        <activity android:name=".Streams.CSE" />
+        <activity android:name=".RESULT" />
+        <activity android:name=".Streams.CSE2" />
+        <activity android:name=".Streams.ECE" />
+        <activity android:name=".Streams.ECE2" />
+        <activity android:name=".Streams.IT" />
+        <activity android:name=".Streams.IT2" />
+        <activity android:name=".Streams.EE" />
+        <activity android:name=".Streams.EE2" />
+        <activity android:name=".Streams.EEE" />
+        <activity android:name=".Streams.EEE2" />
+        <activity android:name=".Streams.MAE" />
+        <activity android:name=".Streams.MAE2" />
+        <activity android:name=".Streams.CIVIL" />
+        <activity android:name=".Streams.CIVIL2" />
+        <activity android:name=".Streams.POWER" />
+        <activity android:name=".Streams.POWER2" />
+        <activity android:name=".Streams.ME" />
+        <activity android:name=".Streams.ME2" />
+        <activity android:name=".Streams.ICE" />
+        <activity android:name=".Streams.ICE2" />
+        <activity android:name=".Streams.MECH" />
+        <activity android:name=".Streams.MECH2" />
+        <activity android:name=".Streams.ENVO" />
+        <activity android:name=".Streams.ENVO2" />
+        <activity android:name=".Streams.TOOL" />
+        <activity android:name=".Streams.TOOL2" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name=".Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HomeActivity"
+            android:label="IPU Trekker"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Settings.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName=".HomeActivity" />
+    </application>
+
+</manifest>

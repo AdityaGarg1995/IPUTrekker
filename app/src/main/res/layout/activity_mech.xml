@@ -1,0 +1,82 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="WELCOME TO MECHATRONICS"
+            android:textSize="40dp"
+            android:gravity="center"
+            android:id="@+id/mech1"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mech1"
+            android:text="SYLLABUS"
+            android:id="@+id/mech2"
+
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mech2"
+            android:id="@+id/mech3"
+            android:text="IMPORTANT BOOKS THORUGHOUT YOUR STUDY"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mech3"
+            android:text="RESULT"
+            android:textSize="40dp"
+            android:gravity="center"
+            android:id="@+id/mech4"
+
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mech5"
+            android:layout_below="@id/mech4"
+            android:gravity="center"
+            android:weightSum="2"
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="COMPLETE RESULT OF ALL STUDENTS"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:id="@+id/mech6"
+
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="FOR INDIVIDUAL RESULT"
+                android:id="@+id/mech7"
+                />
+        </LinearLayout>
+
+
+
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

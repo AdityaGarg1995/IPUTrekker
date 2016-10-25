@@ -1,0 +1,82 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="WELCOME TO CIVIL"
+            android:textSize="40dp"
+            android:gravity="center"
+            android:id="@+id/civil1"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/civil1"
+            android:text="SYLLABUS"
+            android:id="@+id/civil2"
+
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/civil2"
+            android:id="@+id/civil3"
+            android:text="IMPORTANT BOOKS THORUGHOUT YOUR STUDY"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/civil3"
+            android:text="RESULT"
+            android:textSize="40dp"
+            android:gravity="center"
+            android:id="@+id/civil4"
+
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/civil5"
+            android:layout_below="@id/civil4"
+            android:gravity="center"
+            android:weightSum="2"
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="COMPLETE RESULT OF ALL STUDENTS"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:id="@+id/civil6"
+
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="FOR INDIVIDUAL RESULT"
+                android:id="@+id/civil7"
+                />
+        </LinearLayout>
+
+
+
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,82 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="WELCOME TO ICE"
+            android:textSize="40dp"
+            android:gravity="center"
+            android:id="@+id/ice1"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ice1"
+            android:text="SYLLABUS"
+            android:id="@+id/ice2"
+
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ice2"
+            android:id="@+id/ice3"
+            android:text="IMPORTANT BOOKS THORUGHOUT YOUR STUDY"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ice3"
+            android:text="RESULT"
+            android:textSize="40dp"
+            android:gravity="center"
+            android:id="@+id/ice4"
+
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/me5"
+            android:layout_below="@id/ice4"
+            android:gravity="center"
+            android:weightSum="2"
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="COMPLETE RESULT OF ALL STUDENTS"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:id="@+id/ice6"
+
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="FOR INDIVIDUAL RESULT"
+                android:id="@+id/ice7"
+                />
+        </LinearLayout>
+
+
+
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

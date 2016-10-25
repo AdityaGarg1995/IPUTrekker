@@ -1,0 +1,80 @@
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+
+
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/eee21"
+        android:text="FOR 1st SEMESTER"
+        android:layout_gravity="center"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FOR 2nd SEMESTER"
+        android:id="@+id/eee22"
+        android:layout_below="@+id/eee21"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FOR 3rd SEMESTER"
+        android:layout_gravity="center"
+        android:layout_below="@+id/eee22"
+        android:id="@+id/eee23"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FOR 4th SEMESTER"
+        android:layout_gravity="center"
+        android:layout_below="@+id/eee23"
+        android:id="@+id/eee24"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FOR 5th SEMESTER"
+        android:layout_below="@+id/eee24"
+        android:layout_gravity="center"
+        android:id="@+id/eee25"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FOR 6th SEMESTER"
+        android:layout_gravity="center"
+        android:layout_below="@+id/eee25"
+        android:id="@+id/eee26"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FOR 7th SEMESTER"
+        android:layout_gravity="center"
+        android:layout_below="@id/eee26"
+        android:id="@+id/eee27"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FOR 8th SEMESTER"
+        android:layout_gravity="center"
+        android:layout_below="@+id/eee27"
+        android:id="@+id/eee28"
+        />
+
+</RelativeLayout>
