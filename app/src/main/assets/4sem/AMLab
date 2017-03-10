@@ -1,0 +1,47 @@
+Paper Code: ETMA-252
+Paper: Applied Mathematics Lab
+
+
+List of Experiments:
+
+1. Solution of algebraic and transcendental equation
+
+2. Algebra of matrices: Addition, multiplication, transpose etc
+
+3. Inverse of a system of linear equations using Gauss-Jordan method
+
+4. Numerical Integration
+
+5. Solution of ordinary differential equations using Runge-Kutta Method
+
+6. Solution of Initial value problem
+
+7. Calculation of eigen values and eigen vectors of a matrix
+
+8. Plotting of Unit step function and square wave function
+
+
+Text Books:
+1. B.S. Grewal
+   “Numerical Methods in Engg. And Science”
+   Khanna Publications
+2. P. Dechaumphai & N. Wansophark
+   “Numerical Methods in Engg.: Theories with Matlab, Fortran, C & Pascal Programs”
+   Narosa Publications
+
+Reference Books:
+1. P.B. Patil & U.P. Verma
+   “Numerical Computational Methods”
+   Narosa Publications
+2. John C. Polking & David Arnold
+   “Ordinary Differential Equations using MATLAB”
+   Pearson Publications
+3. Rudra Pratap
+   “Getting Started With MatLab”
+   Oxford University Press
+4. Byrom Gottfried
+   “Programming With C”
+   Shaum’s Outline
+5. Santosh Kumar
+   “Computer based Numerical & Statistical Techniques”
+   S. Chand Publications.

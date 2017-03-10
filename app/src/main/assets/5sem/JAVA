@@ -1,0 +1,44 @@
+Paper Code: ETCS-307
+Paper: Java Programming
+
+
+UNIT I
+Overview and characteristics of Java, Java program Compilation & Execution Process Organization of Java Virtual Machine, JVM as an interpreter and emulator, Instruction Set, class File Format, Verification, Class Area, Java Stack, Heap, Garbage Collection.
+Security Promises of the JVM, Security Architecture and Security Policy.
+Class loaders and security aspects, sandbox model.
+[T1,R2]
+
+UNIT II
+Java Fundamentals, Data Types & Literals Variables, Wrapper Classes, Arrays, Arithmetic Operators, Logical Operators, Control of Flow, Classes and Instances, Class Member Modifiers Anonymous Inner Class Interfaces and Abstract Classes, inheritance, throw and throws clauses, user defined Exceptions, The String Buffer Class, tokenizer, applets, Life cycle of applet and Security concerns.
+[T1,T2]
+
+UNIT III
+Threads: Creating Threads, Thread Priority, Blocked States, Extending Thread Class, Runnable Interface, Starting Threads, Thread Synchronization, Synchronize Threads, Sync Code Block, Overriding Synced Methods, Thread Communication, wait, notify and notify all.
+AWT Components, Component Class, Container Class, Layout Manager Interface Default Layouts, Insets and Dimensions, Border Layout, Flow Layout, Grid Layout, Card Layout Grid Bag Layout AWT Events, Event Models, Listeners, Class Listener, Adapters, Action Event Methods Focus Event Key Event, Mouse Events, Window Event.
+[T2]
+
+UNIT IV
+Input/Output Stream, Stream Filters, Buffered Streams, Data Input and Output Stream, Print Stream Random Access File, JDBC(Database connectivity with MS-Access, Oracle, MS-SQL Server), Object serialization, Sockets, development of client Server applications, design of multithreaded server.
+Remote Method Invocation, Java Native Interfaces, Development of JNI based application.
+Collection API Interfaces, Vector, stack, Hashtable classes, Enumerations, Set, List, Map, Iterators.
+[T1][R1]
+
+
+Text Books:
+[T1] Patrick Naughton and Herbertz Schidt
+     “Java-2 the complete Reference”
+      TMH
+[T2] Sierra & Bates
+     “Head First Java”
+      O’reilly
+
+Reference Books:
+[R1] E. Balaguruswamy
+     “Programming with Java”
+      TMH
+[R2] Horstmann
+     “Computing Concepts with Java 2 Essentials”
+      John Wiley.
+[R3] Decker & Hirshfield
+     “Programming.Java”
+      Vikas Publication

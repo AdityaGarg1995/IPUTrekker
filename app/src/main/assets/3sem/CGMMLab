@@ -1,0 +1,13 @@
+Paper Code: ETCS-257
+Paper: Computer Graphics & Multimedia Lab
+
+
+List of Experiments:
+1. Study of Fundamental Graphics Functions
+2. Implementation of Line drawing algorithms: DDA & Bresenham's Algorithm
+3. Implementation of Circle drawing algorithms: Bresenham's & Mid Point Algorithm
+4. Programs on 2D and 3D transformations
+5. Program to implement Cohen-Sutherland line clipping algorithm
+6. Program to draw Bezier curve.
+7. Using Flash/Maya perform different operations (rotation, scaling move etc) on objects
+8. Create a Bouncing Ball using Key frame animation & Path animation.

@@ -3,7 +3,6 @@ package com.example.ankushsingh.ggsipu;
 
 
 
-
 import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
@@ -34,6 +33,7 @@ public class Splash extends AppCompatActivity {
         iv.startAnimation(an);
 
         an.setAnimationListener(new Animation.AnimationListener() {
+
             @Override
             public void onAnimationStart(Animation animation) { }
 
@@ -46,6 +46,9 @@ public class Splash extends AppCompatActivity {
 
             @Override
             public void onAnimationRepeat(Animation animation) { }
+
         });
+
     }
+
 }

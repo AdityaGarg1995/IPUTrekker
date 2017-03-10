@@ -1,0 +1,39 @@
+Paper Code: ETIT-413
+Paper: Software Testing
+
+
+UNIT I
+Introduction: What is software testing and why it is so hard?, Error, Fault, Failure, Incident, Test Cases, Testing Process, Limitations of Testing, No absolute proof of correctness, Overview of Graph Theory.
+[T1,T2]
+
+UNIT II
+Functional Testing: Boundary Value Analysis, Equivalence Class Testing, Decision Table Based Testing, Cause Effect Graphing Technique.
+Structural Testing: Path testing, DD-Paths, Cyclomatic Complexity, Graph Metrics, Data Flow Testing, Mutation testing.
+[T1,T2]
+
+UNIT III
+Reducing the number of test cases: Prioritization guidelines, Priority category, Scheme, Risk Analysis, Regression Testing, Slice based testing
+Testing Activities: Unit Testing, Levels of Testing, Integration Testing, System Testing, Debugging, Domain Testing.
+[T1,T2]
+
+UNIT IV
+Object Oriented Testing: Issues in Object Oriented Testing, Class Testing, GUI Testing, Object Oriented Integration and System Testing.
+Testing Tools: Static Testing Tools, Dynamic Testing Tools, Characteristics of Modern Tools.
+[T1,T2]
+
+
+Text Books:
+[T1] William Perry, “Effective Methods for Software Testing”, John Wiley & Sons, New York, 1995
+[T2] Cem Kaner, Jack Falk, Nguyen Quoc, “Testing Computer Software”, Second Edition, Van Nostrand Reinhold, New York, 1993
+[T3] Boris Beizer, “Software Testing Techniques”, Second Volume, Second Edition, Van Nostrand Reinhold, New York, 1990
+[T4] Louise Tamres, “Software Testing”, Pearson Education Asia, 2002
+
+Reference Books:
+[R1] Roger S. Pressman, “Software Engineering–A Practitioner’s Approach”, Fifth Edition, McGraw-Hill International Edition, New Delhi, 2001
+[R2] Boris Beizer, “Black-Box Testing–Techniques for Functional Testing of Software and Systems”, John Wiley & Sons Inc, New York, 1995
+[R3] K.K. Aggarwal & Yogesh Singh, “Software Engineering”, New Age International Publishers, New Delhi, 2003
+[R4] Marc Roper, “Software Testing”, McGraw-Hill Book Co, London, 1994
+[R5] Gordon Schulmeyer, “Zero Defect Software”, McGraw-Hill, New York, 1990
+[R6] Watts Humphrey, “Managing the Software Process”, Addison Wesley Pub Co Inc, Massachusetts, 1989
+[R7] Boris Beizer, “Software System Testing and Quality Assurance”, Van Nostrand Reinhold, New York, 1984
+[R8] Glenford Myers, “The Art of Software Testing”, John Wiley & Sons Inc, New York, 1979

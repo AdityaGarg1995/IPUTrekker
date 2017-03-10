@@ -1,0 +1,53 @@
+Paper Code: ETCE-304
+Paper: Applications of Remote Sensing and GIS
+
+
+UNIT I
+Introduction, concepts and physical basis of Remote Sensing, Electromagnetic spectrum, radiation laws, atmospheric effects, image characteristics.
+Remote sensing systems; sources of remote sensing information, spectral quantities spectral signatures and characteristics spectral reflectance curves for rocks, soil, vegetation and water.
+Introduction to Aerial and space borne platforms.
+Global positioning system (GPS) photogrammetry – analog, analytical and digital photogrammetry, height and plan metric.
+[T1][No. of Hours 11]
+
+UNIT II
+Optical, thermal and microwave sensors and their resolution, salient features of some of operating Remote Sensing satellites,
+Digital image processing; introduction, image rectification and restoration, image enhancement, manipulation, image classification, fusion.
+[T1,T2]
+
+UNIT III
+GIS system:
+  Definition terminology and data types, Map projection and Co-ordinate system, basic components of GIS software, data models, data acquisition, both raster based and vector based data input and data processing and management including topology, overlaying and integration and finally data product and report generation, principle of cartography and cartographic design.
+GIS customization concepts, approaches of Multi-criteria decision making, concepts and applications of Geostatistics.
+[T1]
+
+UNIT IV
+Application of Geo-spatial technology in Civil Engineering, assessment of cyclones, rainfall, atmospheric humidity etc. weather analysis, forecasting and modelling.
+Land use, inventory and monitoring, urban planning, snow and glaciers, coastal zone management, air and water pollution, commercially available remote sensing and GIS software.
+[T2]
+
+
+Text Books:
+[T1] Chang K.T.
+      “Introduction to Geographic Information System”
+       Tata McGraw Hill Education (P) Ltd
+[T2] John R.Jensen
+      “Remote Sensing of the Environment”
+       Pearson Education
+
+Reference Books:
+[R1] Clarke K.C., Parks B.O., Crane M.P., “GIS and Environmental Modelimg”, PHI Learning (P) Ltd., ND
+[R2] Lillesand T.M. and Kiefer R.W
+      “Remote Sensing and Image Interpretation”
+       John Wiley and Sons, NY
+[R3] Lo C.P. and Yeung A.K.W.
+      “Concept and Techniques of Geographic Information Systems”
+       PHI
+[R4] Chakraborty D. and Sahoo R.N.
+      “Fundamentals of Geographic Information System”
+       Viva Books, ND
+[R5] Joseph G.
+      “Fundamentals of Remote Sensing”
+       University Press (India) Ltd, Hyderabad
+[R6] L.R.A. Narayan
+      “Remote Sensing and its Applications”
+       University Press

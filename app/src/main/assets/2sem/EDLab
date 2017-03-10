@@ -1,0 +1,33 @@
+Paper Code: ETEC-156
+Paper: Electronic Devices Lab
+
+
+LIST OF EXPERIMENTS
+
+
+1. Introduction to C.R.O, Function Generator & Bread Board Kit & to generate different types of waveform with the help of Function Generator & to calculate their frequency, amplitude AC & DC voltage
+
+2. Identification & testing of Active & passive components
+
+3. Plot V-I characteristics of a semiconductor diode and calculate Static & Dynamic Resistance
+
+4. Study the Reverse characteristics of Zener diode
+
+5. Study the Rectifier circuit:
+   a) Half Wave Rectifier
+   b) Centre Tapped Rectifier
+   c) Bridge Rectifier
+
+6. Study output waveforms of different Filter Circuits of Rectifier
+
+7. Plot Input & Output characteristics CB transistor
+
+8. Plot Input & Output characteristics of CE transistor
+
+9. Realization of basic gates
+
+10. Implementation of Boolean functions (two or three variables)
+
+11. Few experiments mentioned above to be performed on P-spice
+
+12. Develop a working model of any electronic circuit

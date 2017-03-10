@@ -1,0 +1,42 @@
+Paper Code: ETCS-302
+Paper: Compiler Design
+
+
+UNIT- I
+Brief overview of the compilation process, structure of compiler & its different phases, lexical analyzer, cross
+compiler, Bootstrapping, quick & dirty compiler, Shift-reduce parsing, operator- precedence parsing, topdown
+parsing, predictive parsing ,LL(1) and LL(k) grammar, bottom up parsing, SLR, LR(0), LALR parsing
+techniques.
+[T1][T2][R1]
+
+UNIT- II
+Design and implementation of a lexical analyzer and parsing using automated compiler construction tools(eg.
+Lex, YACC, PLY), Syntax-directed translation schemes, implementation of syntax directed translations,
+intermediate code, postfix notation, three address code, quadruples, and triples, translation of assignment
+statements, Boolean expressions, control statements, Semantic Analysis, Type Systems, Type Expressions, Type
+Checker, Type Conversion
+[T2][R1][R3][R4][R5]
+
+UNIT- III
+Symbol table, data structures and implementation of symbol tables, representing scope information.
+Run Time Storage Administration, implementation of a simple stack allocation scheme, storage allocation in
+block structured languages and non block structured languages, Error, Lexical-phase errors, syntacticphase
+errors, semantic errors.
+[T1][T2]][R2]
+
+UNIT-IV
+The principle sources of optimization, loop optimization, the DAG representation of basic blocks, value number
+and algebraic laws, global dataflow analysis, Object programs, problems in code generation, a machine model, a
+single code generator, register allocation and assignment, code generation from DAGs, peephole optimization.
+[T1][T2]
+
+Text Books:
+[T1] Alfred V. Aho & J.D. Ullman, “Compiler Principles ,Techniques& Tools”, Pearson
+[T2] Kenneth C. Louden, “Compiler Design”,Cengage Publication
+Reference Books:
+[R1] Kakde O.G., “Complier Design”, Laxmi Publication
+[R2] Trembley and Sorenson, “Theory and Practice of Compiler Writing”, McGraw Hill
+[R3] Vinu V. DAS, “Compiler Design Using FLEX and YACC , PHI
+[R4] Jhon R. Levine, Tony Mason and Doug Brown, “Lex &Yacc”, O’Reilly.pdf
+[R5] Andrew W. Appel, Maia Ginsburg, “Modern Compiler Implementation in C”, Cambridge University
+Press

@@ -1,0 +1,50 @@
+Paper Code: ETIT-427
+Paper: Advanced Database Administration
+
+
+UNIT-I
+Creating a Database – Database configuring Assistant(DBCA), Password management, Using DBCA to delete a database.
+Managing the database instance – Management framework, starting and stopping database control, Initialising parameter files, starting up and shutting down database instance.
+Managing Database storage structure – Storage structure, How table data is stored? Tablespaces and data files, Space Management in Tablespaces, Tablespace management.
+[T1][T2]
+
+UNIT-II
+Database user security – Creating a user, Authenticating users, Unlocking a user account and resetting the password, Privileges and role, System privileges, object privileges.
+Managing Schema Objects – Table types, Action with tables, creating views, sequences, What is partition and why use it? Creating a Partition, Partitioning method, Index organised tables and heap tables, creating indexorganised tables, cluster, cluster types, sorted hash cluster.
+Managing data and concurrency – Manipulating with data through SQL, function procedure, packages, Triggers, locking concepts, detecting and resolving lock conflicts.
+[T1][T2]
+
+UNIT-III
+Managing undo Data – Monitoring Undo, Administering Undo, Configuring Undo Retention, Sizing Undo tablespace.
+Implementing database security – database transparent encryption (TDE), TDE Process, Implementing TDE.
+Performance management - troubleshooting, tuning.
+[T1][T2]
+
+UNIT-IV
+Performing Backup and Recovery – Configuring Recovery Manager, using Recovery manager, Recovering from noncritical Losses, recovery from loss of control file, data file and redo file.
+Performing flashback – Flashback database , Flashback database Architecture, Configuring flashback Database using enterprise manager, Monitoring Flashback database.
+Moving data- General Architecture, Loading data with SQL *loader, Data pump, Data pump export and import.
+[T1][T2]
+
+
+Text Books:
+[T1] Sam R. Alapati
+     “Expert Oracle Database 11G Administration“
+      Dreamtech Press
+[T2] Darl Kuhn
+     “Pro Oracle Database 11g Administration”
+      Apress
+
+References Books:
+[R1] Ken Simmons, Sylvester, Carstarphen
+     ”Pro SQL Server 2012 Administration”
+      Dreamtech Press
+[R2] Sheeri K Cabral, Keith Murphy
+     ”MySQL Administrator's Bible”
+      John Wiley & Sons
+[R3] Steve Fogel, Paul Lane
+     “Oracle Database Administrator’s Guide, 10g”
+      Oracle
+[R4] Craig S. Mullins
+     “Database Administration”
+      Addison-Wesley

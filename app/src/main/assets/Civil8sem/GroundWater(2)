@@ -1,0 +1,45 @@
+Paper Code: ETEN-418
+Paper: Ground Water Contamination and Mitigation Measures
+
+
+UNIT-I
+Ground Water Movement and Contamination:
+  Introduction, Characteristics of Ground Water, Sources and Types of Ground Water Contamination, Principals of Ground Water Movement, General Flow Equations, Unsaturated Flow and Water Table, Ground Water Flow and Well Mechanics, Sustainable Yield, Mass Balance Equations, Specific Storativity, Initial and Boundary Conditions, Boundary Surface, Particular Boundary Conditions, Complete 3-D Mathematical Flow Model, Modeling 2-D Flow in Aquifers, Complete Aquifer Flow Models, Groundwater Maps and Streamlines, Modeling Flow in the Unsaturated Zone.
+[T1,T2]
+
+UNIT-II
+Contaminant transport mechanism:
+  Underground storage tanks, Landfills, Septic Systems, Agricultural
+Wastes, Return Flow from Irrigation and Sewage, Strategy for Hydrologic Site Investigations, Geologic Data Acquisition, Hydrologic Data Acquisition, Acquisition of Soil and Groundwater Quality Data, Data Evaluation Procedures, Contaminant Transport Mechanism such as Advection, Diffusion and Dispersion, Sorption and Desorption, Biodegradation, Mass Transport Equations, 1-D Models, Governing Flow and Transport equations, Analytical Methods, Multi-Dimensional Methods.
+[T1,T2]
+
+UNIT-III
+Numerical Modeling of Contaminant Transport:
+  Introduction to Modeling Inorganic and Organic Solute Transport, Numerical Methods, Finite Difference Methods, Numeric Flow Methods, Contaminant Transport Models, Applying Numerical Models to Field Sites, Fate and Transport of organic Substances in Groundwater, Case Studies of Organic and inorganic Groundwater Pollution.
+Non-aqueous Phase Liquids (NAPLs):
+  Types of NAPL, Transport, Computational methods, Characterizing NAPLs at Remediation Sites.
+[T1,T2]
+
+UNIT-IV
+Natural Attenuation and Risk Based Corrective Action:
+  General Principles behind Natural Attenuation, Natural Attenuation Protocols and Guidance, Risk Based Corrective Action.
+Ground Water Remediation Alternatives:
+  Introduction to Remediation methods, Remedial Alternatives, Contaminant Methods for Source Control, Hydraulic Controls and Pump and Treat Systems.
+  Bioremediation, Remediating NAPL Sites.
+  Emerging Remediation Technologies, Case Studies of Remediation.
+[T1,T2]
+
+
+Text Books:
+[T1] Bedient P.B., Rifai H.S., Newell C.J., “Groundwater Contamination- Transport and Remediation”, Prentice Hall, New York
+[T2] Bear J. and Cheng A.H.D., “Modeling Groundwater Flow and Contaminant Transport (Theory and Applications of Transport in Porous Media)”, Springer, New York
+
+Reference Books:
+[R1] Cheremisinoff N.P., “Groundwater Remediation and Treatment Technologies”, Noyes Publications, New Jersey
+[R2] Charbeneau R.J., Bedient P.B., Loehr R.C., “Groundwater Remediation”, Technomic Publishing Company, Pennsylvania
+[R3] American Society of Civil Engineers, “Groundwater Contamination by Organic Pollutants- Analysis and Remediation”, Library of Congress Catalogue Card No.: 00-063966, USA
+[R4] http://www.interpore.org/reference_material/mgfc-course/
+     Computer mediated Distance learning course on "Modeling Groundwater flow and Contaminant transport”
+     Jacob Bear] Chien C.C., Medina M.A., Pinder G.F., Rieble D.D., Sleep B.B., Zheng C.
+     “Contaminated Groundwater and Sediment-Modeling for Management and Remediation”
+      Lewis Publishers, Florida

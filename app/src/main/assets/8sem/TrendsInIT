@@ -1,0 +1,54 @@
+Paper Code: ETIT-432
+Paper: Selected Topics of Recent Trends in IT
+
+
+UNIT I - Data Warehousing:
+Introduction to Data Warehousing:
+  Evolution of Data Warehousing, Data Warehousing concepts, Benefits of Data Warehousing, Comparison of OLTP and Data Warehousing, Problems of Data Warehousing.
+Data Warehousing Architecture:
+  Operational Data and Data store, Load Manager, Warehouse Manager, Query Manager, Detailed Data, Lightly and Highly summarized Data, Archive/Backup Data, Meta-Data,architecture model, 2-tier, 3-tier and 4-tier data warehouse, end user Access tools.
+[T1]
+
+UNIT II - Data Warehousing Tools and Technology:
+Tools and Technologies:
+  Extraction, cleaning and Transformation tools, Data Warehouse DBMS, Data Warehouse Meta-Data, Administration and management tolls, operational vs. information systems.
+  OLAP & DSS support in data warehouse.
+Distributed Data Warehouse:
+  Types of Distributed Data Warehouses, Nature of development Efforts, Distributed Data Warehouse Development, Building the Warehouse on multiple levels.
+[R1,R2]
+
+UNIT III - Types of Data Warehouses & Data Warehouse Design:
+Host based, single stage, LAN based, Multistage, stationary distributed & virtual data warehouses.
+Data warehousing Design:
+  Designing Data warehouse Database, Database Design Methodology for Data Warehouses, Data Warehousing design Using Oracle, OLAP and data mining: Online Analytical processing, Data mining.
+[T1,R1]
+
+UNIT IV - Introduction to Big Data:
+Big Data:
+  Definitions, characteristics, Challenges of Conventional Systems, Web Data, Evolution Of Analytic Scalability, Analytic Processes and Tools - Analysis vs Reporting, Modern Data Analytic Tools
+Statistical Concepts:
+  Sampling Distributions, Re-Sampling, Statistical Inference, Prediction Error.
+[T2,R3,R4]
+
+
+Text Books
+[T1] Paul Raj Poonia
+      “Fundamentals of Data Warehousing”
+       John Wiley & Sons, 2003
+[T2] Adam Jorgensen, James Rowland-Jones, John Welch, Dan Clark, Christopher Prices, Brian Mitchell
+      “Microsoft Big Data Solutions”
+       Wiley India
+
+Reference Books
+[R1] W.H. Inmon
+      “Building the operational data store”, 2nd Ed
+       John Wiley, 1999
+[R2] Kamber and Han
+      “Data Mining Concepts and Techniques”
+       Hartcourt India P Ltd, 2001
+[R3] Paul Zikopoulos, Dirk deRoos, Krishnan Parasuraman, Thomas Deutsch, James Giles, David Corrigan
+      Harness the Power of Big Data The IBM Big Data Platform
+       Tata McGraw Hill Publications, 2012
+[R4] Zikopoulos, Paul, Chris Eaton
+      Understanding Big Data: Analytics for Enterprise Class Hadoop and Streaming Data
+       Tata McGraw Hill Publications, 2011

@@ -1,0 +1,56 @@
+Paper Code: ETCE-305
+Paper: Design of Steel Structure
+
+
+UNIT I
+Introduction:
+  Types of steel structures like industrial buildings, beams/truss/arch/ suspension bridges, Beam and column framing, Rolled steel section, Advantages of steel as a structural material.
+  Introduction to working stress and limit state theories, Type of sections, Connections and frames.
+Riveted connections:
+  Analysis and design of various types of riveted connections, permissible stresses in rivets, Design criteria, Code requirements, Tacking rivets, rivet joints subject to moment, Stresses in rivets.
+Welded connections:
+  Advantage and disadvantages of welding, Design criteria, Code requirements, Analysis and design of Fillet and Butt weld, Fillet weld subjected to moment.
+Design of Tension members:
+  Analysis of trusses and design of axially loaded tension member, Lug angle, tension splice.
+[T1]
+
+UNIT II
+Design of compression members:
+  Modes of failure in column, Design of compression member, Lacing and battening for built up compression member.
+ Compression member composed of two components back-to-back, column base and foundation, Roof trusses [including Purlins, bracings and connections].
+[T1]
+
+UNIT III
+Design of flexural members:
+  Beam, Plate girder, Gantry girder including lateral and flexural torsional building, design of structural elements.
+[T2]
+
+UNIT IV
+Plastic Analysis of structures:
+  Moment curvature relationship, shape factor, plastic hinges, upper and lower bounds.
+Analysis and Design of Steel Frames:
+  Analysis and Design of frames as per codal recommendations.
+[T1,T2]
+
+
+Text Books:
+[T1] S.K. Duggal
+      “Limit State Design of steel structures”
+       Tata Mc Graw Hill
+[T2] L.S. Negi
+      “Design of steel structures”
+       Tata Mc Graw Hill
+
+References:
+[R1] N. Subramanian
+      “Design of steel structures”
+       Oxford University Press
+[R2] Krishnamurthy
+      “Elementary Structural Design” - Vol-III
+       CBS Publishers
+[R3] Elias G. Abu-Saba
+      “Design of steel structures”
+       CBS Publication
+[R4] John E. Lothers
+      “Design of steel structures”
+       Prentice-Hall

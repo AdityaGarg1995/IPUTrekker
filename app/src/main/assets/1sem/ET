@@ -1,0 +1,39 @@
+Paper Code: ETEE-107
+Paper : Electrical Technology
+
+
+UNIT – I: DC Circuits
+Introduction of Circuit parameters and energy sources (Dependent and Independent), Mesh and Nodal Analysis, Superposition, Thevenin’s, Norton’s, Reciprocity, Maximum Power Transfer and Millman’s Theorems, Star-Delta Transformation and their Applications to the Analysis of DC circuits.
+[T1][T2]
+
+UNIT – II: A.C.Circuits
+A.C. Fundamentals, Phasor representation, Steady State Response of Series and Parallel R-L, R-C & R-L-C circuits using j-notation, Series and Parallel resonance of RLC Circuits, Quality factor, Bandwidth, Complex Power.
+Introduction to balanced 3-phase circuits with Star-Delta Connections.
+[T1][T2]
+
+UNIT – III: Measuring Instruments
+Basics of measuring instruments and their types, Working principles and applications of moving coil, moving iron(ammeter & voltmeter) and Extension of their ranges, dynamometer-type Wattmeter, induction-type Energy Meter, Two-wattmeter method for the measurement of power in 3-phase circuits.
+Introduction to digital voltmeter, digital Multimeter and Electronic Energy Meter.
+[T1][T2][R2]
+
+UNIT – IV: Transformer and Rotating Machines
+Fundamentals of Magnetic Circuits, Hysteresis and Eddy current losses, working principle, equivalent circuit, efficiency and voltage regulation of single phase transformer and its applications.
+Introduction to DC and Induction motors (both 3-phase and single phase), Stepper Motor and Permanent Magnet Brushless DC Motor.
+[T1][T2][R2]
+
+
+Text Books:
+[T1] S.N Singh
+     “Basic Electrical Engineering”
+      PHI India Ed 2012
+[T2] Chakrabarti, Chanda, Nath
+     “Basic Electrical Engineering”
+      TMH India”, Ed 2012
+
+Reference Books:
+[R1] William Hayt
+     “Engineering Circuit Analysis”
+      TMH India Ed 2012
+[R2] Giorgio Rizzoni
+     “Principles and Application of Electrical Engineering”
+      5th Edition TMH India

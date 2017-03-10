@@ -1,0 +1,47 @@
+Paper Code: ETIT-459(ELECTIVE)
+Paper: System and Network Administration Lab
+
+
+List of Experiments:
+
+System Administration:
+
+1. Install 2 or more operating systems on a computer.
+
+2. Install Red Hat Linux using Graphical mode.
+
+3. Install Red Hat Linux using command prompt
+
+4. Creat a user in Linux server and assigning rights
+   i. Configuring and Troubleshooting of /etc/inittab.
+   ii. Configuring and Troubleshooting of /etc/passwd
+
+5. Configuring and Troubleshooting of /etc/grub.conf
+
+
+Network Administration:
+Linux TCP/IP Network Configuration
+Practical Examples of Nmap Commands for Linux System/Network Administrators.
+The Nmap aka Network Mapper is an open source and a very versatile tool for Linux system/network administrators. Nmap is used for exploring networks, perform security scans, network audit and finding open ports on remote machine. It scans for Live hosts, Operating systems, packet filters and open ports running on remote hosts.
+
+1. Scan a System with Hostname and IP Address
+
+2. Scan Multiple Hosts
+
+3. Scan a whole Subnet
+
+4. Scan Multiple Servers using last octet of IP address
+
+5. Enable OS Detection with Nmap
+
+6. Scan a Host to Detect Firewall
+
+7. Scan a Host to check its protected by Firewall
+
+8. Scan Ports Consecutively
+
+9. Print Host interfaces and Routes
+
+10. Scan a TCP Port
+
+11. Scan a UDP Port

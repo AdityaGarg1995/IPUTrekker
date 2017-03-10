@@ -1,0 +1,71 @@
+Paper Code: ETIT-408
+Paper: Social Network Analysis
+
+
+UNIT-I
+Social network analysis:
+  Network definition, manipulation, calculation, visualization.
+  Graph terminology and definitions.
+Representing networks:
+  Adjacency matrix and properties. Weighted, directed, bipartite networks. Trees.
+  Some sample networks.
+[T1,R1]
+
+UNIT-II
+Linear Algebra/Graph Properties:
+  Eigenvectors and eigenvalues.
+  Graph Laplacian. Markov matrices.
+  Paths, walks, cycles.
+  Degree, density.
+  Degree distribution.
+  Diameter, average path length.
+  Average and local clustering.
+Centrality measures:
+  Degree, betweenness, closeness, Katz, Bonacich.
+  Review of Poisson random graphs.
+  Growing random networks.
+  Preferential attachment.
+  Properties and phase transitions.
+  Degree distributions.
+  Fitting networks to data.
+  Exponential random graph models.
+[T1]
+
+UNIT-III
+Frameworks for evaluating results in network analysis:
+  Autocorrelation, matching techniques, QAP regression, exponential random graphs, and other models.
+  Computational considerations. Lab: Applying ERGM analysis.
+  Graph partitioning.
+  Spectral partitioning.
+  Modularity and modularity maximization.
+  Betweenness clustering. Lab: Calculating and comparing clustering approaches.
+[T1]
+
+UNIT-IV
+Game theory basics:
+  players, moves, payoffs.
+  Nash equilibrium.
+  Efficiency and optimality.
+  Examples.
+  Network
+  formation as a game.
+  Pairwise stability.
+  Positive and negative externalities.
+Processes on Networks:
+  Diffusion on networks.
+  SIS and SIR infection models and predictions.
+  Search on networks.
+  Networked adoption games.
+[T1]
+
+
+Text Books:
+[T1] Jackson, M. O.
+      Social and Economic Networks
+       Princeton U. Press, 2008
+       ISBN:978-0-691-14820-5
+
+Reference Books:
+[R1] Social Network Analysis (Google eBook)
+      John Scott
+       SAGE, 2012

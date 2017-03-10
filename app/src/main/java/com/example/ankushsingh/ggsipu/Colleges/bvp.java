@@ -1,7 +1,12 @@
 package com.example.ankushsingh.ggsipu.Colleges;
 
+import android.os.Build;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -14,24 +19,26 @@ public class bvp extends AppCompatActivity {
     public WebView webView;
 
 
-//    Departments
-    String ice = "http://ice.bvcoend.ac.in/",
-           cse = "http://cse.bvcoend.ac.in/",
-           eee = "http://eee.bvcoend.ac.in/",
-           it = "http://it.bvcoend.ac.in/",
-           ece = "http://ece.bvcoend.ac.in/";
+    private void setupActionBar() {
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null)
+            // Show the Up button in the action bar.
+            actionBar.setDisplayHomeAsUpEnabled(true);
 
-//    Placements
-    String placements = "http://bvcoend.ac.in/site/home/index/82?Page=T%20&%20P";
+    }
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_bvp);
+        setContentView(R.layout.activity_aiactr);
 
         webView = (WebView)findViewById(R.id.a);
+
         webView.getSettings().setJavaScriptEnabled(true);
+        webView.getSettings().setBuiltInZoomControls(true);
+
+
         webView.setWebViewClient(new WebViewClient(){
 
             @Override
@@ -40,6 +47,12 @@ public class bvp extends AppCompatActivity {
                 return true;
             }
         });
+
         webView.loadUrl(Urls.bvp);
+
+        setupActionBar();
+
     }
+
+
 }

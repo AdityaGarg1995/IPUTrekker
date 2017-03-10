@@ -1,0 +1,36 @@
+Paper Code: ETCS-258
+Paper: Object Oriented Programming Lab
+
+
+List of Experiment:
+
+1. Program for multiplication of 2 matrices using OOP.
+
+2. Program to perform addition of 2 complex numbers using constructor overloading.
+   The 1st constructor which takes no argument is used to create objects which are not initialized, 2nd which takes one argument is used to initialize real and imaginary parts to equal values and 3rd which takes 2 argument is used to initialized real and imaginary to 2 different values.
+
+3. Program to find the greatest of 2 given numbers in 2 different classes using friend function.
+
+4. Implement a class string containing the following functions:
+   - Overload + operator to carry out the concatenation of strings
+   - Overload = operator to carry out string copy
+   - Overload <= operator to carry out the comparison of strings
+   - Function to display the length of a string
+   - Function tolower( ) to convert upper case letters to lower case
+   - Function toupper( ) to convert lower case letters to upper case
+
+5. Create a class called LIST with two pure virtual function store() and retrieve().
+   To store a value call store and to retrieve call retrieve function.
+   Derive 2 classes stack and queue from it and override store and retrieve.
+
+6. Program to define the function template for calculating the square of given numbers with different data types.
+
+7. Program to demonstrate the use of special functions, constructor and destructor in the class template.
+   The program is used to find the bigger of two entered numbers.
+
+8. Program to perform the deletion of white spaces such as horizontal tab, vertical tab, space ,line feed ,new line and carriage return from a text file and store the contents of the file without the white spaces on another file.
+
+9. Program to read the class object of student info such as name , age ,sex ,height and weight from the keyboard and to store them on a specified file using read() and write() functions.
+   Again the same file is opened for reading and displaying the contents of the file on the screen.
+
+10. Write a program to raise an exception if any attempt is made to refer to an element whose index is beyond the array size.

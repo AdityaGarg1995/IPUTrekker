@@ -1,7 +1,10 @@
 package com.example.ankushsingh.ggsipu.Colleges;
 
+import android.app.Activity;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -11,28 +14,41 @@ import com.example.ankushsingh.ggsipu.Urls;
 
 public class amity extends AppCompatActivity {
 
-    public WebView webView;
-
-    String placements = "http://amity.edu/aset/placemnt.asp",
-           departments = "";
-
+     private void setupActionBar() {
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            // Show the Up button in the action bar.
+            actionBar.setDisplayHomeAsUpEnabled(true);
+        }
+    }
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_amity);
+        setContentView(R.layout.activity_aiactr);
 
-        webView = (WebView)findViewById(R.id.a);
+        WebView webView = (WebView)findViewById(R.id.a);
+
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.setWebViewClient(new WebViewClient(){
+        webView.getSettings().setBuiltInZoomControls(true);
 
+        webView.setWebChromeClient(new WebChromeClient());
+
+        webView.setWebViewClient(new WebViewClient(){
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, String url) {
                 view.loadUrl(url);
                 return true;
             }
         });
+
         webView.loadUrl(Urls.amity);
+
+        setupActionBar();
+
     }
+
+
 }

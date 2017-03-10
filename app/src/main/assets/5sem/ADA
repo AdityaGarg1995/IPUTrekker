@@ -1,0 +1,49 @@
+Paper Code: ETCS-301
+Paper: Algorithms Design and Analysis
+
+
+UNIT – I
+Asymptotic notations for time and space complexity, Big-Oh notation, Θ notation,  notation, the little-oh notation, the little-omega notation.
+Recurrence relations: iteration method, recursion tree method, substitution method, master method (with proof), subtract and conquer master method(with proof), Data Structures for Disjoint Sets, Medians and Order statistics.
+Complexity analysis, Insertion sort, Merge Sort, Quick sort.
+Strassen’s algorithm for Matrix Multiplications.
+[T1][R1][R2]
+
+UNIT – II
+Dynamic Programming: Ingredients of Dynamic Programming, emphasis on optimal substructure, overlapping substructures, memorization. Matrix Chain Multiplication, Longest common subsequence and optimal binary search trees problems, 0-1 knapsack problem, Binomial coefficient computation through dynamic programming.
+Floyd Warshall algorithm.
+[T1][T2][R1][R3]
+
+UNIT – III
+Greedy Algorithms: Elements of Greedy strategy, overview of local and global optima, matroid, Activity selection problem, Fractional Knapsack problem, Huffman Codes, A task scheduling problem.
+Minimum Spanning Trees: Kruskal’s and Prim’s Algorithm.
+Single source shortest path: Dijkstra’s and Bellman Ford Algorithm(with proof of correctness of algorithms).
+[T1][T2][R4]
+
+UNIT – IV
+String matching: Naïve String Matching algorithm, Rabin-Karp Algorithm, String Matching with finite automata, Knuth-Morris Pratt algorithm.
+NP-Complete Problem: Polynomial-time verification, NP-Completeness and Reducibility, NP-Completeness Proof, NP–hard, Case study of NP-Complete problems(Vertex cover problem, Clique problem).
+[T1][R1]
+
+
+Text Books:
+[T1] T.H. Cormen, C.E. Leiserson, R.L. Rivest, Clifford Stein
+     “Introduction to Algorithms”
+     3rd Ed, PHI, 2013
+[T2] Jon Klenberg, Eva Tardos
+     ”Algorithm Design”
+     Pearson Publications, 2014
+
+Reference Books:
+[R1] Sara Basse
+     “Introduction to Design & Analysis”
+     Pearson
+[R2] Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran
+     “Computer Algorithms/C++“
+     2nd Edition, Universities Press
+[R3] A.V. Aho, J.E. Hopcroft, J.D. Ullman
+    “The Design and Analysis of Computer Algorithms”
+     Pearson Publication, 2013
+[R4] Richard Neapolitan
+     “Foundations of Algorithms”
+      5th Edition, Jones & Bartlett Learning

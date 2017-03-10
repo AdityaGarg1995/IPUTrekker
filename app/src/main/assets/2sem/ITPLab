@@ -1,0 +1,45 @@
+Paper Code : ETCS - 154
+Paper : Programming Lab
+
+
+LIST OF EXPERIMENTS
+
+
+For program development an IDE e.g. CodeBlock[a], Eclipse CDT[b], Netbeans[c] is recommended
+
+
+1. Program to find divisor or factorial of a given number.
+
+2. Program to find sum of a geometric series
+
+3. Recursive program for tower of Hanoi problem
+
+4. Recursive program to print the first m Fibonacci number
+
+5. Menu driven program for matrices to do the following operation depending on whether the operation requires one or two matrices:
+   Addition of 2 matrices.
+   Subtraction of 2 matrices.
+   Finding upper and lower triangular matrices.
+   Transpose of a matrix.
+   Product of 2 matrices.
+
+6. Program to copy one file to other using command line arguments.
+
+7. An array of record contains information of managers and workers of a company. Print all the data of managers and workers in separate files.
+
+8. Program to perform the following operators an Strings without using String functions:
+    Find the Length of String.
+    Concatenate two string.
+    Find Reverse of a string.
+    Copy one sting to another string.
+
+9. Program to store records of an student in student file. The data must be stored using Binary File. Read the record stored in “Student.txt” file in Binary code. Edit the record stored in Binary File. Append a record in the Student file.
+
+10. Program to count the no of lowercase, uppercase, numbers and special characters presents in the contents of File.
+
+11. Two Mini Projects based on the skills learned in experiments 1-10 [These mini projects may be done in a group not exceeding group size of 4]
+
+
+[a] http://www.codeblocks.org/
+[b] http://www.eclipse.org/cdt/
+[c] https://netbeans.org/features/cpp/

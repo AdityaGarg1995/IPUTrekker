@@ -1,0 +1,57 @@
+Paper Code: ETCE-418
+Paper: FEM in Structural Engineering
+
+
+UNIT-I
+Boundary Value Problems and the Need for Numerical Discretisation:
+   Introduction, examples of Continuum problems, history of finite element method.
+Weighted residual methods:
+   Approximation by trial functions, weighted residual forms, piecewise trial functions, weak formulation, Galerkin method, examples of 1-, 2- and 3-D problems.
+[T1,T2]
+
+UNIT-II
+Higher order finite element approximation:
+  Degree of polynomial in trial functions and rate of convergence, patch test, shape functions for C0 and C1 continuity, 1-, 2-and 3-D shape functions.
+Isoperimetric formulation:
+  The concept of mapping, isoperimetric formulation, numerical integration, mapping and its use in mesh generation.
+[T1,T2]
+
+UNIT-III
+Variational Methods:
+  Variational principles, establishment of natural Variational principles, approximate solution of differential equations by Rayleigh-Ritz method, the use of Lagrange multipliers, general Variational principles, penalty functions, least-square method.
+Partial discretisation and time-dependent problems:
+  Partial discretisation applied to boundary value problems, time-dependent problems via partial discretisation, analytical solution procedures, finite element solution procedures in time domain.
+[T1,T2]
+
+UNIT-IV
+Generalized finite elements and error estimates:
+  Generalized finite element method, the discretisation error in a numerical solution, measure of discretisation error, estimate of discretisation error.
+Coordinate Transformation:
+  Transformation of vectors and tensors, transformation of stiffness matrices, degree of freedom within elements, condensation, condensation and recovery algorithm, sub structuring, structural symmetry.
+[T1,T2]
+
+
+Text Books:
+[T1] Zienkiewicz, O.C., and Morgan, K.
+      Finite Element Approximation
+       John Wiley and Sons
+[T2] Reddy, J.N.
+      An Introduction to the Finite Element Method
+       McGraw Hill
+
+References:
+[R1] Huebner, K.H., Thornton, E.A., and Byrom, T.G.
+      The Finite Element Method for Engineers
+       John Wiley
+[R2] Hutton, D.V.
+      Fundamentals of Finite Element Analysis
+       McGraw Hill
+[R3] Kikuchi, N.
+      Finite Element Methods in Mechanics
+       Cambridge University Press
+[R4] Cook, R.D., Malkus, D.S., Plesha, M.E., and Witt, R.J.
+      Concepts and Applications of Finite Element Analysis
+       John Wiley and Sons
+[R5] Zienkiewicz, O.C., and Taylor, R.L.
+      The Finite Element Method, Vol. I and II
+       McGraw Hill

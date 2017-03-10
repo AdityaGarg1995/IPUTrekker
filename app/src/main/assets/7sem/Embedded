@@ -1,0 +1,44 @@
+Paper Code: ETEC-401
+Paper: Embedded Systems
+
+
+UNIT- I
+Overview of Embedded Systems: Characteristics of Embedded Systems.
+Comparison of Embedded Systems with general purpose processors. General architecture and functioning of micro controllers.
+8051 micro controllers.
+PIC Microcontrollers: Architecture, Registers, memory interfacing, interrupts, instructions, programming and peripherals.
+[T1]
+
+UNIT- II
+ARM Processors: Comparison of ARM architecture with PIC micro controller, ARM 7 Data Path, Registers, Memory Organization, Instruction set, Programming, Exception programming, Interrupt Handling, Thumb mode Architecture.
+Bus structure: Time multiplexing, serial, parallel communication bus structure.
+Bus arbitration, DMA, PCI, AMBA, I2C and SPI Buses.
+[T2]
+
+UNIT- III
+Embedded Software, Concept of Real Time Systems, Software Quality Measurement, Compilers for Embedded System.
+[T3]
+
+UNIT-IV
+RTOS: Embedded Operating Systems, Multi Tasking, Multi Threading, Real-time Operating Systems, RTLinux introduction, RTOS kernel, Real-Time Scheduling.
+[T3]
+
+
+Text Book:
+[T1] Design with PIC Microcontrollers
+     John B. Peatman
+      Pearson Education Asia, 2002
+[T2] ARM System Developer’s Guide: Designing and Optimizing System Software
+     Andrew N. Sloss, Dominic Symes, Chris Wright
+      Morgan Kaufman Publication, 2004.
+[T3] Computers as components: Principles of Embedded Computing System Design
+     Wayne Wolf
+      Morgan Kaufman Publication, 2000
+
+References Books:
+[R1] The Design of Small-Scale embedded systems
+     Tim Wilmshurst
+      Palgrave 2003
+[R2] Embedded System Design
+     Marwedel, Peter
+      Kluwer Publishers, 2004

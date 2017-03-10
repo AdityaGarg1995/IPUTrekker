@@ -1,0 +1,30 @@
+Paper Code: ETIT-429
+Paper: Probabilistic Graphical Models
+
+
+UNIT-I
+Bayesian network, Examples(HMM, diagnostic system, etc), Separation and independence, Markov properties and minimalism, Markov network, Examples (Boltzmann machine, Markov random field, etc), Cliques and potentials, Markov properties.
+[T1,T2,R1]
+
+UNIT-II
+Exact inference, Complexity, Bucket elimination, Junction tree, Belief propagation (message passing), Application to HMM, Sum- and Max-product algorithms.
+[T1,R1]
+
+UNIT-III
+Parameter learning, Exponential family, Bayesian learning, Expectation-Maximization(EM).
+[T1,T2]
+
+UNIT-IV
+Approximate inference, Convexity, Mean field approach, Structured variational method, Loopy belief propagation, Characterization of solution spaces, Sampling methods.
+[T1,T2,R2]
+
+
+Text Books:
+[T1] Bayesian Networks and Beyond by Daphne Koller and Nir Friedman
+[T2] An Introduction to Probabilistic Graphical Models by Michael I. Jordan
+
+Reference Books:
+[R1] Probabilistic Networks and Expert Systems by Cowell, Dawid, Lauritzen, and Spiegelhalter
+      Springer 1999
+[R2] Learning in Graphical Models by M. Jordan (editor)
+      MIT Press, 1999

@@ -1,0 +1,55 @@
+Paper Code: ETEC-404
+Paper: Satellite Communication
+
+
+UNIT- I
+Principles of Satellite Communication:
+  Evolution & growth of communication satellite, Satellite frequency allocation & Band spectrum, Advantages of satellite communication, Active & Passive satellite, Applications of satellite communication. Synchronous satellite, Satellite Launch.
+Satellite Orbits:
+  Introduction, Kepler’s Laws, Newton’s law, orbital parameters, orbital perturbations, station keeping, geo stationary and non Geo-stationary orbits, LEO, MEO, Look Angle Determination- Limits of visibility –eclipse-Sub satellite point –Sun transit outage.
+[T1,T2,R1]
+
+UNIT- II
+Satellite Link Design Basic transmission, System noise temperature, G/T ratio, design of down links, uplink design, design of specified C/N, Atmospheric Absorption, Rain induced attenuation.
+Space Segment:
+  Power Supply, Altitude Control, Station Keeping, Thermal Control, TT&C sub system, Transponders, Antenna Sub system.
+Earth Segment:
+  Subsystem of earth station, Transmit-Receive Earth Station, different types of earth stations, frequency coordination.
+[T1,T2,R1]
+
+UNIT- III
+Multiple Access Techniques:
+  FDMA, FDMA down link analysis, TDMA, Satellite-switched TDMA, code division multiple access, DAMA, On board signal processing for FDMA/TDM Operation.
+Error Control for Digital Satellite Links:
+  Error detection and correction for digital satellite links, error control coding, Convolutional codes, satellite links concatenated coding and interleaving, Automatic Repeat Request(ARQ).
+[T1,T2,R2]
+
+UNIT- IV
+Interconnection of Satellite Networks:
+  Interconnection with ISDN, Interconnection of television networks.
+Satellite Applications:
+  Satellite mobile services, VSAT, GPS, Radarsat, INMARSAT, Satellite navigational system.
+Direct broadcast satellites(DBS)- Direct to home Broadcast(DTH), Worldspace services, Business TV(BTV).
+[T1,R2,R3]
+
+
+Text Books:
+[T1] Dennis Roddy
+      “Satellite Communication”
+       McGraw Hill International
+[T2] T. Pratt
+      “Satellite Communication”
+       John Willy and Sons(Asia) Pvt Ltd
+
+Reference Books:
+[R1] T. Ha
+      “Digital Satellite Communication”
+       McGraw Hill
+[R2] Bruce R. Elbert
+      “The Satellite Communication Applications Handbook”
+       Artech House Boston.
+[R3] Mark R. Chartrend
+      “Satellite Communication”
+       Cengage Learning
+[R4] Handbook of Satellite Communication
+       Wiley

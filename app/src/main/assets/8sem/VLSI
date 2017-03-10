@@ -1,0 +1,54 @@
+Paper Code: ETIC-414
+Paper: VLSI Design
+
+
+UNIT I
+Evolution of VLSI, MOS transistor theory, MOS structure, enhancement & depletion transistor, threshold voltage, MOS device design equations, MOSFET scaling and small geometry effects, MOSFET capacitances.
+NMOS inverter, CMOS inverter, DC characteristics, static load MOS inverter, pull up/pull down ratio, static & dynamic power dissipation, CMOS & NMOS process technology – explanation of different stages in fabrication, body effect, latch up in CMOS.
+[T1,T2]
+
+UNIT II
+Stick diagram and design rules, lambda based design rules, switching characteristics & inter connection effects:
+  rise time, fall time delays, noise margin.
+CMOS logic gate design:
+  NAND, NOR, XOR and XNOR gates, Transistor sizing, combinational MOS logic circuits: pass transistor and transmission gate designs, Pseudo NMOS logic.
+[T1,T2]
+
+UNIT III
+Sequential MOS logic circuits:
+  SR latch, clocked latch and flip flop circuits, CMOS D latch and edge triggered flip flop, dynamic logic circuits; basic principle, non ideal effects, domino CMOS logic, high performance dynamic CMOS circuits, clocking issues, clock distribution.
+[T1,T2]
+
+UNIT IV
+VLSI designing methodology, design flow, design Hierarchy, concept of regularity, modularity & locality, VLSI design style, Design quality, computer aided design technology, adder design and multiplier design examples.
+Low power design concepts using CMOS Technology.
+[T1,T2]
+
+
+Text Books:
+[T1] Pucknell Douglas A., Eshraghian Kamran
+      Basic VLSI Design
+       PHI Learning Pvt Ltd, 2013
+[T2] N. Weste and D. Harris
+      "CMOS VLSI Design: A Circuits and Systems Perspective - 4th Edition"
+       Pearson Education, India
+
+Reference Book:
+[R1] S.M. Kang, Y. Lebiebici
+      “CMOS digital integrated circuits analysis & design”
+       Tata McGraw Hill, 3rd Edition
+[R2] Digital Integrated Circuit Design
+      Ken Martin
+       Oxford University Press
+[R3] The MOS Transistor
+      Yaniiis Tsividis, Colin Mcandrew
+       Oxford University Press, 2013
+[R4] J.M. Rabaey
+      “Digital Integrated Circuits”
+       PHI Learning Pvt Ltd, India
+[R5] J.P. Uyemura
+      “Introduction to VLSI Circuits and Systems”
+       John Wiley & Sons, Inc, New York, NY
+[R6] Neelam Sharma
+      "Digital Logic Design"
+       Ashirwad Publication 2013-14

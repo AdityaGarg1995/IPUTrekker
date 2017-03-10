@@ -1,0 +1,66 @@
+Paper Code: ETIT-414
+Paper: Web Application Development Using .NET
+
+
+UNIT I
+Introduction to .NET 3.5:
+ Introduction to .NET Framework, Components of .NET - CLR and Class Library, MSIL, CTS etc.
+Introduction to C# 3.0:
+ Language elements of C#, OOP with C#, Properties and static members, Inheritance, overriding and shadowing, Runtime polymorphism - virtual and abstract methods, Boxing, unboxing, Interfaces and structures, Exception Handling.
+Introduction to VB.NET 9.0:
+ Structure of VB.NET, Control structures, OOP with VB.NET, Properties, Default properties, Inheritance, overriding and shadowing, Interfaces, structures and Exception handling.
+[T1,T2]
+
+UNIT II
+Fundamentals of ASP.NET:
+ server-side scripting, create simple ASP.NET, Server-side event processing, Validation Controls, Working with Rich Controls and Navigation related controls, Master pages and themes, Cookies and their application, Sessions and Applications, Working with GLOBAL.ASAX, Error handling, Debugging and tracing, Page output caching, Data caching.
+MS SQL Server:
+ Architecture of SQL Server, Using Query Analyzer, Working with Transact SQL, stored procedures and functions, creating database triggers.
+ADO.NET:
+ Introduction, SQL Connect, SQL Command, SQL Data Reader object to access SQL Server, connect to Ms Access, and Oracle, Data Set, Data Table etc, Retrieving and manipulating data using Grid View, Details View, List View, Form View and Data List, Calling stored procedures of SQL Server.
+[T1,T2]
+
+UNIT III
+XML:
+ Introduction, well-formed XML and valid XML, DOM and SAX, XML Reader and writer, Validating XML with Schema and DTD, Loading data from XML to Database, Writing data from Database to XML, Transforming XML content using XSLT.
+Web Services:
+ Introduction, role in web applications, Component and protocols - SOAP, WSDL, Proxy class, create web service, Web services accessing database.
+Advanced Programming:
+ Operator overloading, Conversion operators, Delegates, Multithreading, Event Handling, Generics, Iterators, Auto properties, Lambda Expressions.
+[T1,T2]
+
+UNIT IV
+LINQ:
+ Language Integrated Query: LINQ to Objects, LINQ to SQL, Object-Relational Mapping, LINQ to XML.
+AJAX:
+ What is AJAX , related technologies, Using ASP.NET AJAX – Script Manager, Update Panel, Timer, Update Progress etc, Using ASP.NET AJAX Control Toolkit – Always Visible Control, AutoComplete, Confirm Button, Filtered Text Box etc, Calling Web Services using AJAX.
+[T1,T2]
+
+
+Text Books:
+[T1] Stephen Walther
+     ”ASP.NET 3.5 Unleashed or ASP.NET 4.5 Unleashed”
+      Sams Pearsons Publication
+[T2] George Shepherd
+     "Microsoft ASP.NET 3.5 Step by Step"
+      PHI learning Publication Eastern Economy Edition
+[T3] Chris Love, Marco Bellinaso
+     ”ASP.NET 3.5 Website Programming Problem - Design – Solution”
+      Wrox Publication, 2012
+
+Reference Books:
+[R1] George Shepherd
+     "Microsoft ASP.NET 4.0 Step by Step"
+      PHI Learning Publication Eastern Economy Edition
+[R2] Imar Spaanjaars
+     "Beginning ASP.NET 3.5 In C# and VB"
+      Wiley/Wrox publication, 2009
+[R3] Bill Evjen, Scott Hanselman, Devin Rader
+     "Professional ASP.NET 3.5 in C# and VB"
+      Wiley Publication, 2008
+[R4] Matthew MacDonald
+     “The Complete Reference: ASP.NET”
+      Tata McGraw Hill, 2002
+[R5] Jason N. Gaylord et al
+     "Professional ASP.NET 4.5 in C# and VB"
+      Wrox Publication, 2013

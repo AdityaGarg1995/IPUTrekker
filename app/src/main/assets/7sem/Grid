@@ -1,0 +1,52 @@
+Paper Code: ETIT-425
+Paper: Grid Computing
+
+
+UNIT I
+Fundamentals: Overview of Distributed Systems and it's variants like grid computing, cloud computing, Cluster Computing etc.
+Introduction to Grid Computing, it's components(Functional View, Physical View, Service View), key issues and benefits, Characterization and Architecture of Grid, Grid - Types, Topologies, Components, Layers.
+Grid Computing Standards and Applications.
+[T1,T2]
+
+UNIT II
+Web Services and Grid Monitoring: OGSA and WSRF: Overview, Services, Schema and architecture.
+Grid Monitoring Systems: Overview, architecture, GridICE, JAMM, MDS and Other monitoring Systems (Ganglia and GridMon), Grid portals.
+[T1,T2]
+
+UNIT III
+Grid Security and Resource Management:
+Grid Security: A Brief Security Primer, PKI, X509 Certificates, Grid Security
+Grid Scheduling and Resource Management: Scheduling Paradigms, Working principles of Scheduling, A Review of Condor, SGE, PBS and LSF-Grid Scheduling with QoS.
+[T1,T2]
+
+UNIT IV
+Data Management and Grid Middleware-
+Data Management: Categories and Origins of Structured Data, Data Management, Challenges, Database integration with grid, Architectural Approaches-Collective Data Management Services, Federation Services .
+Grid Middleware: List of globally available Middlewares, Globus Toolkit.
+[T1,T2]
+
+
+Text Books:
+[T1] Maozhen Li, Mark Baker
+     The Grid Core Technologies
+      John Wiley & Sons
+[T2] Joshy Joseph & Craig Fellenstein
+     “Grid Computing”
+      Pearson 2004
+[T3] Ian Foster & Carl Kesselman
+     The Grid 2 – Blueprint for a New Computing Infrastructure
+      Morgan aufman–2004
+
+References Books:
+[R1] C.S.R. Prabhu
+     ”Grid and Cluster Computing"
+      PHI 2014
+[R2] Barry Wilkinson
+     “Grid Computing”
+      CRC Press
+[R3] Joel M. Crichlow
+     “Distributed Systems – Computing over Networks”
+      PHI, 2014
+[R4] RajKumar Buyya
+     “High Performance Cluster Computing – Volume I Architectures and Systems”
+      Pearson, 2013

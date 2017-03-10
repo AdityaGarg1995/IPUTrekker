@@ -1,0 +1,46 @@
+Paper Code: ETCS-206
+Paper: Theory of Computation
+
+
+UNIT- I
+Overview: Alphabets, Strings & Languages, Chomsky Classification of Languages.
+Finite Automata, Deterministic finite Automata (DFA) & Nondeterministic finite Automata (NDFA), Equivalence of NDFA and DFA, Minimization of Finite Automata, Moore and Mealy machine and their equivalence, Regular expression and Kleen’s Theorem(with proof), Closure properties of Regular Languages, Pumping Lemma for regular languages(with proof).
+[T1,T2]
+
+UNIT- II
+Context free grammar, Derivation trees, Ambiguity in grammar and its removal, Simplification of Context Free
+grammar, Normal forms for CFGs: Chomsky Normal Form & Greibach Normal Form, Pumping Lemma for
+Context Free languages, Closure properties of CFL(proof required), Push Down Automata (PDA), Deterministic
+PDA, Non Deterministic PDA ,Equivalence of PDA and CFG, Overview of LEX and YACC.
+[T1,T2]
+
+UNIT- III
+Turing machines, Turing Church’s Thesis, Variants and equivalence of Turing Machine, Recursive and
+recursively enumerable languages, Halting problem, Undecidability, Examples of Undecidable problem.
+[T1,T2]
+
+UNIT- IV
+Introduction to Complexity classes, Computability and Intractability, time complexity, P, NP, Co-NP, Proof of
+Cook’s Theorem, Space Complexity, SPACE, PSPACE, Proof of Savitch’s Theorem, L ,NL ,Co-NL complexity
+classes.
+[T1,T2]
+
+
+Text Books:
+[T1] Hopcroft, John E., Motwani, Rajeev, Ullman, Jeffrey D
+     “Introduction to Automata Theory, Languages, and Computation”
+     Third Edition, Pearson
+[T2] Sipser, Michael
+     ”Introduction to the theory of Computation”
+     Third Edition, Cengage
+
+References Books:
+[R1] Martin J.C.
+     “Introduction to Languages and Theory of Computations”
+     3rd Edition, TMH
+[R2] Papadimitrou, C. and Lewis, C.L.
+     “Elements of the Theory of Computation”
+     PHI
+[R3] Daniel I.A. Cohen
+     ”Introduction to Computer Theory”
+     2nd Edition, John Wiley

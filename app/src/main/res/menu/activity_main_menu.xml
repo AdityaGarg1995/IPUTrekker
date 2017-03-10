@@ -5,25 +5,8 @@
     <item
         android:id="@+id/home"
         android:orderInCategory="100"
-        android:title="Home"
-        app:showAsAction="never" />
+        android:title="Refresh"
+        app:showAsAction="always" />
 
-
-    <item
-        android:id="@+id/colleges"
-        android:orderInCategory="100"
-        android:title="Colleges"
-        app:showAsAction="never" />
-    <item
-    android:id="@+id/streams"
-    android:orderInCategory="100"
-    android:title="Streams"
-    app:showAsAction="never" />
-
-    <item
-        android:id="@+id/exit"
-        android:orderInCategory="100"
-        android:title="Exit"
-        app:showAsAction="never" />
 
 </menu>

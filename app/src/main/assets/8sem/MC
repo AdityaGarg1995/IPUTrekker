@@ -1,0 +1,77 @@
+Paper Code: ETIT-402
+Paper: Mobile Computing
+
+
+UNIT-I
+Mobile Physical Layer:
+  Review of generation of mobile services, overview of wireless telephony, cellular concept, GSM: air-interface, channel structure, location management: HLR-VLR, hierarchical, handoffs, channel allocation in cellular systems, CDMA, GPRS.
+Mobile Computing Architecture:
+  Issues in mobile computing, three tier architecture for mobile computing, design considerations, Mobile file systems, Mobile databases.
+WAP:
+  Architecture, protocol stack, Data gram protocol, Wireless transport layer security, Wireless transaction protocol, wireless session protocol, application environment, and applications.
+[T1][T2][T3]
+
+UNIT-II
+Mobile Data Link Layer:
+  Wireless LAN over view, IEEE 802.11, Motivation for a specialized MAC, Near & Far terminals, Multiple access techniques for wireless LANs such as collision avoidance, polling, Inhibit sense, spread spectrum, CDMA , LAN system architecture, protocol architecture, physical layer MAC layer and management, Hiper LAN.
+Blue Tooth:
+  IEEE 802.15 Blue tooth User scenarios, physical, MAC layer and link management.
+Local Area Wireless systems:
+  WPABX, IrDA, ZigBee, RFID, WiMax.
+[T1][T2][T3]
+
+UNIT-III
+MOBILE IP Network Layer:
+  IP and Mobile IP Network Layer- Packet delivery and Handover Management- Location Management- Registration- Tunnelling and Encapsulation-Route Optimization- Dynamic Host Configuration Protocol, Ad Hoc networks, localization, MAC issues, Routing protocols, global state routing(GSR), Destination Sequenced Distance Vector Routing(DSDV), Dynamic Source Routing(DSR), Ad Hoc on demand distance vector routing (AODV), VoIP –IPSec.
+Mobile Transport Layer:
+  Traditional TCP/IP, Transport Layer Protocols-Indirect, Snooping, Mobile TCP.
+[T1][T2][T3]
+
+UNIT-IV
+Support for Mobility:
+  Data bases, data hoarding, Data dissemination, UA Prof and Caching, Service discovery, Data management issues, data replication for mobile computers, adaptive clustering for mobile wireless networks, Mobile devices and File systems, Data Synchronization, Sync ML.
+Introduction to Wireless Devices and Operating systems:
+  Palm OS, Windows CE, Symbion OS, Android, Mobile Agents.
+Introduction to Mobile application languages and tool kits.
+[T1][T2][T3]
+
+
+Text Books:
+[T1] J. Schiller
+      “Mobile Communications”, 2nd edition
+       Pearson, 2011
+[T2] Raj Kamal
+      “Mobile Computing”
+       Oxford Higher Education, 2nd Edition, 2012
+[T3] Dharam prakash Agrawal and Qing-An Zeng
+      “Introduction to Wireless and Mobile Systems”
+       3rd edition, Cengage Learning 2013
+
+Reference Books:
+[R1] Asoke K Talukder, Hasan Ahmed, Roopa R Yavagal
+      “Mobile Computing”
+       Tata McGraw Hill Pub,Aug–2010
+[R2] Pei Zheng, Larry L. Peterson, Bruce S. Davie, Adrian Farrell
+      “Wireless Networking Complete”
+       Morgan Kaufmann Series in Networking, 2009(introduction, WLAN MAC)
+[R3] Vijay K Garg
+      “Wireless Communications & Networking”
+       Morgan Kaufmann Series, 2010
+[R4] M.V.D. Heijden, M. Taylor
+      Understanding WAP
+       Artech House
+[R5] Charles Perkins
+      Mobile IP
+       Addison Wesley
+[R6] Charles Perkins
+      Ad hoc Networks
+       Addison Wesley
+[R7] Uwe Hansmann, Lothar Merk, Martin S. Nicklous, Thomas Stober
+      “Principles of Mobile Computing”
+       Springer
+[R8] Evaggelia Pitoura and George Samarus
+      “Data Management for Mobile Computing”
+       Kluwer Academic Press, 1998
+
+
+

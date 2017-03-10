@@ -1,0 +1,32 @@
+Paper Code: ETCS-425 L T/P C
+Paper: Database Management Systems 3 0 3
+Objective: The concepts related to database, database techniques, SQL and database operations are introduced
+in this subject. This creates strong foundation for application data design.
+UNIT-I : Introductory Concepts of DBMS: Introduction and application of DBMS, Data Independence,
+Database System Architecture – levels, Mapping, Database users and DBA, Entity – Relationship model,
+constraints, keys, Design issues, E-R Diagram, Extended E-R features- Generalization, Specialization,
+Aggregation, Translating E-R model into Relational model.
+[T1, T2][No. of Hrs. 10]
+UNIT-II : Relational Model: The relational Model, The catalog, Types, Keys, Relational Algebra,
+Fundamental operations, Additional Operations-, SQL fundamentals, DDL,DML,DCL PL/SQL Concepts,
+Cursors, Stored Procedures, Stored Functions, Database Integrity – Triggers.
+[T2, R3][No. of Hrs. 10]
+UNIT-III: Functional Dependencies, Non-loss Decomposition, First, Second, Third Normal Forms,
+Dependency Preservation, Boyce/Codd Normal Form, Multi-valued Dependencies and Fourth Normal Form,
+Join Dependencies and Fifth Normal Form.
+[T2, R1][No. of Hrs. 10]
+UNIT-IV: Transaction Management: ACID properties, serializability of Transaction, Testing for
+Serializability and concurrency control, Lock based concurrency control (2PL, Deadlocks), Time stamping
+methods, Database recovery management.
+Implementation Techniques: Overview of Physical Storage Media, File Organization, Indexing and Hashing,
+B+ tree Index Files, Query Processing Overview, Catalog Information for Cost Estimation, Selection Operation,
+Sorting, Join Operation, Materialized views, Database Tuning.
+[T1, T2, R2][No. of Hrs. 12]
+Text Books:
+[T1] Abraham Silberschatz, Henry F. Korth, S. Sudharshan, “Database System Concepts”, 5th Edition, Tata
+McGraw Hill, 2006
+[T2] Elmsari and Navathe, “Fundamentals of Database Systems”, 4th Ed., A. Wesley, 2004
+References Books:
+[R1] C.J.Date, A.Kannan, S.Swamynathan, “An Introduction to Database Systems”, 8th Edition, Pearson
+Education, 2006.
+[R2] J. D. Ullman, “Principles of Database Systems”, 2nd Ed., Galgotia Publications, 1999.

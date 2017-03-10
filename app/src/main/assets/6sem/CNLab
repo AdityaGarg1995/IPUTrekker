@@ -1,0 +1,47 @@
+Paper Code: ETCS-354
+Paper: Computer Networks
+
+
+List of Experiments:
+
+
+1. Introduction to Computer Network laboratory
+   Introduction to Discrete Event Simulation
+   Discrete Event Simulation Tools - ns2/ns3, Omnet++
+
+2. Using Free Open Source Software tools for network simulation – I:
+   Preliminary usage of the tool ns3
+   Simulate telnet and ftp between N sources - N sinks (N = 1, 2, 3).
+   Evaluate the effect of increasing data rate on congestion.
+
+3. Using Free Open Source Software tools for network simulation - II:
+   Advanced usage of the tool ns3
+   Simulating the effect of queueing disciplines on network performance - Random Early
+   Detection/Weighted RED / Adaptive RED (This can be used as a lead up to DiffServ / IntServ later).
+
+4. Using Free Open Source Software tools for network simulation - III:
+   Advanced usage of the tool ns3 Simulate http, ftp and DBMS access in networks
+
+5. Using Free Open Source Software tools for network simulation - IV:
+   Advanced usage of the tool ns3
+   Effect of VLAN on network performance - multiple VLANs and single router.
+
+6. Using Free Open Source Software tools for network simulation - V:
+   Advanced usage of the tool ns3
+   Effect of VLAN on network performance - multiple VLANs with separate multiple routers.
+
+7. Using Free Open Source Software tools for network simulation - VI:
+   Advanced usage of the tool ns3
+   Simulating the effect of DiffServ / IntServ in routers on throughput enhancement.
+
+8. Using Free Open Source Software tools for network simulation - VII:
+   Advanced usage of the tool ns3
+   Simulating the performance of wireless networks
+
+9. Case Study I : Evaluating the effect of Network Components on Network Performance
+   To Design and Implement LAN With Various Topologies and To Evaluate Network Performance Parameters for DBMS etc
+
+10. Case Study II : Evaluating the effect of Network Components on Network Performance
+    To Design & Implement LAN Using Switch/Hub/Router As Interconnecting Devices For 2 Different LANs and To Evaluate Network Performance Parameters.
+
+11. Mini project - one experiment to be styled as a project of duration 1 month (the last month)

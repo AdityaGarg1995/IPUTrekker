@@ -1,0 +1,74 @@
+Paper Code: ETEC-406
+Paper: Ad Hoc and Sensor Networks
+
+
+UNIT I
+Ad Hoc Wireless Networks:
+Introduction. Issues in Ad Hoc Wireless Networks. Ad Hoc Wireless Internet.
+MAC Protocols for Ad Hoc Wireless Networks:
+Introduction, Issues in Designing a MAC Protocol for Ad Hoc Wireless Networks. Design Goals of a MAC
+Protocol for Ad Hoc Wireless Networks. Classifications of MAC Protocols. Contention-Based Protocols.
+Contention-Based Protocols with Reservation Mechanisms. Contention-Based MAC Protocols with Scheduling
+Mechanisms. MAC Protocols in Directional Antennas. Other MAC Protocols
+[T1,T2]
+
+UNIT II
+Routing Protocols for Ad Hoc Wireless Networks:
+Introduction to Routing algorithm, Issues in Designing a Routing Protocol for Ad Hoc Wireless Networks.
+Classifications of Routing Protocols. Table-Driven Routing Protocols. On-Demand Routing Protocols. Hybrid
+Routing Protocols. Routing Protocols with Efficient Flooding Mechanisms. Hierarchical Routing Protocols.
+Power-Aware Routing Protocols.
+Transport Layer and Security Protocols for Ad Hoc Wireless Networks:
+Introduction. Issues in Designing a Transport Layer Protocol for Ad Hoc Wireless Networks. Design Goals of a
+Transport Layer Protocol for Ad Hoc Wireless Networks. Classification of Transport Layer Solutions. TCP
+Over Ad Hoc Wireless Networks. Other Transport Layer Protocols for Ad Hoc Wireless Networks. Security in
+Ad Hoc Wireless Networks. Network Security Requirements. Issues and Challenges in Security Provisioning.
+Network Security Attacks. Key Management. Secure Routing in Ad Hoc Wireless Networks.
+[T1,T2]
+
+UNIT III
+Wireless Sensor Networks:
+Introduction. Sensor Network Architecture. Data Dissemination. Data Gathering. MAC Protocols for Sensor
+Networks. Location Discovery. Quality of a Sensor Network. Evolving Standards. Other Issues.
+Hybrid wireless Networks:
+Introduction. Next-Generation Hybrid Wireless Architectures. Routing in Hybrid Wireless Networks. Pricing in
+Multi-Hop Wireless Networks. Power Control Schemes in Hybrid Wireless Networks. Load Balancing in
+Hybrid Wireless Networks.
+[T1,T2]
+
+UNIT IV
+Wireless Geolocation Systems:
+Introduction. What is wireless Geolocation? Wireless Geolocation System Architecture. Technologies for
+Wireless Geolocation. Geolocation Standards for E-911 Services. Performance Measures for Geolocation
+Systems. Questions. Problems.
+Recent Advances in Wireless Networks:
+Introduction. Ultra-Wide-Band Radio Communication. Wireless Fidelity Systems. Optical Wireless Networks.
+The Multimode 802.11 -IEEE 802.11a/b/g. The Meghadoot Architecture, introduction to vehicular sensor
+networks.
+[T1,T2]
+
+
+Text Books:
+[T1] Siva Ram Murthy, C. and Manoj,B. S.
+     Adhoc Wireless Networks Architectures and Protocols
+      Prentice Hall, PTR, (2004) 2nd ed
+[T2] Perkins, Charles E.
+     Ad hoc Networking, Addison Wesley
+      (2000) 3rd ed
+
+Reference Books
+[R1] Toh, C. K.
+     Ad hoc Mobile Wireless Networks Protocols and Systems
+      Prentice Hall, PTR, (2001) 3rd Edition
+[R2] Pahlavan, Kaveh, Krishnamoorthy, Prashant
+     Principles of Wireless Networks, - A united approach
+      Pearson Education, (2002) 2nd e
+[R3] Wang X. and Poor H.V.
+     Wireless Communication Systems
+      Pearson education, (2004) 3rd ed
+[R4] Schiller Jochen
+     Mobile Communications
+      Person Education – 2003, 2nd ed
+[R5] Carlos De Morais Cordeiro and Dharam P Agrawal
+     “Adhoc and Sensor Networks- Theory & Applications”
+      2nd Ed, Cambridge Univ Press India Ltd

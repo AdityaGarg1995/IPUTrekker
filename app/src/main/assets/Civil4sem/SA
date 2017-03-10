@@ -1,0 +1,54 @@
+Paper Code: ETCE-204
+Paper: Structural Analysis
+
+
+UNIT I
+Columns and Struts:
+  Columns and struts of uniform section, crippling/buckling load, Euler theory and concept of equivalent length, Rankine’s formula and other empirical formulae, Secant formula.
+Combined direct and bending stresses:
+  Middle 3rd rule, core of a section, stresses due to wind, water and earth pressure in structures like retaining walls, dams, chimneys, walls etc.
+Thin cylinders:
+  Thin cylinders subjected to internal fluid pressure, wire wound thin cylinders.
+  Thin cylindrical shells, circumferential and hoop stresses, longitudinal stresses, Maximum shear stress.
+[T1]
+
+UNIT II
+Moving loads and Influence lines:
+  Introduction to moving loads, concept of equivalent UDL, absolute maximum bending moment and shear force, concept of influence lines, influence lines for reaction, shear force, bending and deflection of determinate beams, Influence line diagram[ILD] for forces in determinate frames and trusses, analysis for different types of moving loads, single concentrated load, several concentrated loads, uniformly distributed load shorter and longer than span, Application of Muller-Breslau Principle for determinate structures.
+[T2,T3]
+
+UNIT III
+Indeterminate Structures:
+  Indeterminacy, choice of unknowns, Castigliano’s 2nd theorem and its applications.
+Method of consistent deformation:
+  Analysis of indeterminate beams and frames upto 2 degree of indeterminacy, settlement effects, analysis of pin jointed trusses, externally and internally redundant trusses, effects of settlement and prestrains.
+Slope Deflection Method:
+  Analysis of continuous beams, analysis of rigid frames, frames with sloping legs, gabled frames, frames without/with sway, settlement effects.
+[T1,T2]
+
+UNIT IV
+Moment distribution and Kani’s method:
+  Analysis of beams and frames.
+Approximate methods of analysis of multistory frames:
+  Analysis of vertical load, substitute frames, loading condition for maximum positive and negative bending moment in beams and maximum bending moment in columns, analysis for lateral load, portal method, cantilever method and factor method.
+[T3]
+
+
+Text Books:
+[T1] G.S. Pandit
+      “Structural Analysis”
+       CBS Publication.
+[T2] Bhavikatti
+      “Structural Analysis" (Vol.I and II)
+        Vikas Publication
+[T3] C.K.Wang
+      “Statically Indeterminate Structures”
+       McGraw Hill
+
+References Books:
+[R1] C.S. Reddy, “Basic Structural Analysis”, Tata McGraw Hill
+[R2] R.C. Hibbler, “Structural Analysis”, Pearson Education
+[R3] Schodek, “Structures”, Pearson Education
+[R4] Vaidyanathan and P Perumal, “Comprehensive Structural Analysis”, Laxmi Publications
+[R5] Sujit kumar Roy, “Fundamental of Structural Analysis”, S. Chand Publication.
+[R6] D.S. Prakash Rao, “Structural Analysis”, University Press

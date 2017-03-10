@@ -1,5 +1,6 @@
 package com.example.ankushsingh.ggsipu.Streams;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
@@ -8,30 +9,30 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.ankushsingh.ggsipu.R;
-import com.example.ankushsingh.ggsipu.RESULT;
+import com.example.ankushsingh.ggsipu.Urls;
 
 public class EE extends AppCompatActivity implements View.OnClickListener{
 
-    Button button1,button2,button6,button5;
+//    Button button1,button2,button6,button5;
     Intent intent;
 
-    String url1 = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%203rd%20Semester4,5,6,7,8/Final%20Syllabus-EE-3rd%20Semester4,5,6,7,8.pdf";
-    String url2 = "http://www.engineersinstitute.com/gate_exam_reference_books_electrical_eee.php";
+    public static final String url2 = "http://www.engineersinstitute.com/gate_exam_reference_books_electrical_eee.php";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_ee);
-        button1 = (Button)findViewById(R.id.ee2);
-        button2 = (Button)findViewById(R.id.ee3);
-        button6 = (Button)findViewById(R.id.ee6);
-        button5 = (Button)findViewById(R.id.ee7);
+        setContentView(R.layout.activity_it);
+
+        findViewById(R.id.it2).setOnClickListener(this);
+        findViewById(R.id.it3).setOnClickListener(this);
+        findViewById(R.id.it6).setOnClickListener(this);
+        findViewById(R.id.it7).setOnClickListener(this);
 
 
-        button1.setOnClickListener(this);
-        button2.setOnClickListener(this);
-        button6.setOnClickListener(this);
-        button5.setOnClickListener(this);
+        final Activity a = this;
+        a.setTitle("Electrical Engineering");
 
 
     }
@@ -41,30 +42,18 @@ public class EE extends AppCompatActivity implements View.OnClickListener{
     public void onClick(View v) {
 
         switch(v.getId()){
-
-            case R.id.ee2:
-                intent = new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url1));
-                startActivity(intent);
+            case R.id.it2: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.eeSyllabus));
                 break;
-
-            case R.id.ee3:
-                intent = new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url2));
-                startActivity(intent);
+            case R.id.it3: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
                 break;
-
-            case R.id.ee7:
-                intent = new Intent(this,RESULT.class);
-                startActivity(intent);
+            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","EE");
                 break;
-
-            case R.id.ee6:
-                intent = new Intent(this,EE2.class);
-                startActivity(intent);
+            case R.id.it6: intent = new Intent(this,EE2.class).putExtra("StreamName", "EE");
                 break;
-
         }
+
+        if(intent != null)
+          startActivity(intent);
 
     }
 

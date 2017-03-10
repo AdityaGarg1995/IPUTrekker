@@ -1,8 +1,5 @@
 <RelativeLayout android:layout_height="match_parent"
     android:layout_width="match_parent"
-
-
-
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <Button
@@ -11,6 +8,7 @@
         android:id="@+id/c1"
         android:text="FOR 1st SEMESTER"
         android:layout_gravity="center"
+        android:background="@color/white"
         />
     <Button
         android:layout_width="match_parent"
@@ -19,6 +17,7 @@
         android:id="@+id/c2"
         android:layout_below="@+id/c1"
         android:layout_gravity="center"
+        android:background="@color/white"
         />
 
     <Button
@@ -28,7 +27,7 @@
         android:layout_gravity="center"
         android:layout_below="@+id/c2"
         android:id="@+id/c3"
-
+        android:background="@color/white"
         />
 
     <Button
@@ -38,6 +37,7 @@
         android:layout_gravity="center"
         android:layout_below="@+id/c3"
         android:id="@+id/c4"
+        android:background="@color/white"
         />
 
     <Button
@@ -47,6 +47,7 @@
         android:layout_below="@+id/c4"
         android:layout_gravity="center"
         android:id="@+id/c5"
+        android:background="@color/white"
         />
 
     <Button
@@ -56,7 +57,7 @@
         android:layout_gravity="center"
         android:layout_below="@+id/c5"
         android:id="@+id/c6"
-
+        android:background="@color/white"
         />
 
     <Button
@@ -66,6 +67,7 @@
         android:layout_gravity="center"
         android:layout_below="@id/c6"
         android:id="@+id/c7"
+        android:background="@color/white"
         />
 
     <Button
@@ -75,6 +77,7 @@
         android:layout_gravity="center"
         android:layout_below="@+id/c7"
         android:id="@+id/c8"
+        android:background="@color/white"
         />
 
 </RelativeLayout>

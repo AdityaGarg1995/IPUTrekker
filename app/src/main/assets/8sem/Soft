@@ -1,0 +1,53 @@
+Paper Code: ETIT-410
+Paper: Soft Computing
+
+
+UNIT-I
+Neural Networks:
+  History, overview of biological Neuro-system, Mathematical Models of Neurons, ANN architecture, Learning rules, Learning Paradigms-Supervised, unsupervised and reinforcement Learning, ANN training Algorithmsperceptions, Training rules, Delta, Back Propagation Algorithm, Multilayer Perceptron Model, Hopfield Networks, Associative Memories, Applications of Artificial Neural Networks.
+[T1,T2]
+
+UNIT-II
+Fuzzy Logic:
+  Introduction to Fuzzy Logic, Classical and Fuzzy Sets: Overview of Classical Sets, Membership Function, Fuzzy rule generation. Operations on Fuzzy Sets: Compliment, Intersections, Unions, Combinations of Operations, Aggregation, Operations.
+[T1,T2]
+
+UNIT-III
+Fuzzy Arithmetic:
+  Fuzzy Numbers, Linguistic Variables, Arithmetic Operations on Intervals & Numbers, Lattice of Fuzzy Numbers, Fuzzy Equations.
+Fuzzy Logic:
+  Classical Logic, Multivalued Logics, Fuzzy Propositions, Fuzzy Qualifiers.
+Uncertainty based Information:
+  Information & Uncertainty, Nonspecificity of Fuzzy & Crisp Sets, Fuzziness of Fuzzy Sets.
+[T1,T2]
+
+UNIT-IV
+Introduction of Neuro-Fuzzy Systems:
+  Architecture of Neuro Fuzzy Networks.
+Application of Fuzzy Logic:
+  Medicine, Economics etc.
+Genetic Algorithm:
+  An Overview, GA in problem solving, Implementation of GA.
+[T1,T2]
+
+
+Text Books:
+[T1] Hertz J. Krogh, R.G. Palmer
+      “Introduction to the Theory of Neural Computation”
+       Addison-Wesley, California, 1991
+[T2] G.J. Klir & B. Yuan
+      “Fuzzy Sets & Fuzzy Logic”
+       PHI, 1995
+[T3] Melanie Mitchell
+      “An Introduction to Genetic Algorithm”
+       PHI, 1998
+[T4] F.O. Karray and C. de Silva
+      “Soft computing and Intelligent System Design”
+       Pearson, 2009
+
+Reference Books:
+[R1] “Neural Networks-A Comprehensive Foundations”
+       Prentice-Hall International, New Jersey, 1999
+[R2] Freeman J.A. & D.M. Skapura
+      “Neural Networks: Algorithms, Applications and Programming Techniques”
+       Addison Wesley, Reading, Mass, (1992)

@@ -1,0 +1,39 @@
+Paper Code: ETCS-306
+Paper: Computer Networks
+
+UNIT–I
+Introduction: Internet History, Uses of computer networks, Network hardware, network software, Protocol layering, Reference models(OSI & TCP/IP), Network standardization.
+Physical Layer: Theoretical basis for data communication, Transmission media: Guided and Unguided media, Switching (circuit, packet), Multiplexing (FDM, WDM, and TDM), Overview of PSTN, ISDN, and ATM.
+[T1,T2]
+
+UNIT-II
+Data Link Layer: Data link layer design issues, Error detection and Correction Techniques, Elementary data link control protocols, Sliding window protocols, Example data link protocols (HDLC and PPP).
+Medium Access Sub layer: The channel allocation problem, multiple access protocols, IEEE standard 802.3 & 802.11 for LANS and WLANs, Network devices-repeaters, hubs, Bridge, Switches and Routers.
+[T1][T2]
+
+UNIT-III
+Transmission Networks: PDH Networks, SONET/SDH Networks, DWDM Networks, Introduction to Cell Switched Networks e.g Asynchronous Transfer Mode(ATM) and Packet Switched Networks.
+Network Layer: Network layer design issues, routing algorithms, congestion control algorithms, Quality of Service(QoS), Introduction to IPv4 Addressing, Subnetworks and Subnetting, IPv4 protocol Packet Format, Forwarding of IP packets, IPv4 vs IPv6, Congestion control algorithms.
+Delay Models in Data Networks: Queueing Models, M/M/1 Queueing System, M/M/m/m and Markov Systems.
+[T1][T2][No. of Hrs. 12]
+
+UNIT-IV
+Transport layer: Transport layer services, Elements of transport protocols, Overview of UDP and TCP.
+[T1]
+
+
+Text Books:
+[T1] Dimitri Bertsekas and Robert Gallager
+     “Data Networks"
+      PHI
+[T2] Behrouz A.Forouzan
+     "Data Communication and Networking"
+      5E, Tata McGraw Hill, 2013
+
+Reference Books:
+[R1] Uyless Black
+     "Computer Networks-Protocols, Standards and Interfaces"
+      2nd edition, PHI, 1996
+[R2] A. Tannenbaum
+     "Computer Networks"
+      5th edition, Pearson

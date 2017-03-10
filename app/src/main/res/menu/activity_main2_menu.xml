@@ -7,8 +7,6 @@
         android:orderInCategory="100"
         android:title="Home"
         app:showAsAction="never" />
-
-
     <item
         android:id="@+id/colleges"
         android:orderInCategory="100"
@@ -19,12 +17,10 @@
         android:orderInCategory="100"
         android:title="Streams"
         app:showAsAction="never" />
-
     <item
-        android:id="@+id/exit"
+        android:id="@+id/result"
         android:orderInCategory="100"
-        android:title="Exit"
+        android:title="Individual Result"
         app:showAsAction="never" />
-
 
 </menu>

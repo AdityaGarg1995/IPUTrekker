@@ -1,0 +1,58 @@
+Paper Code: ETIT-422
+Paper: GPS and GIS
+
+
+UNIT- I
+Global Information System (GIS):
+  Introduction, scope and benefits of GIS; application areas of GIS; functional components and elements of GIS; geographic objects: scale, accuracy and resolution.
+GIS Cartography and Maps:
+  Digital cartography: selection, classification and simplification; exaggeration and symbolization for cartographic abstraction; Types of Maps; map elements: projection, direction, scale and co-ordinates; Geodatabases; GIS map outputs; Topographic mapping.
+[T1,T2]
+
+UNIT- II
+Geographic Data:
+  Spatial and attribute data; vector and raster models; points, lines, polygon features; computed and associated attributes; grids, cells and image data; linking spatial and attributed data.
+Geoprocessing:
+  Geographic co-ordinate system: latitudes and longitudes; Geoids Spheroids ellipsoids and datum’s; projections and transformations.
+[T1,T2]
+
+UNIT- III
+Global Positioning System (GPS):
+  Introduction; GPS components: systems, scales and codes; error and accuracy of GPS observation; Differential GPS.
+Fundamentals of Satellite Orbits:
+  Orbital Mechanics, Constellation Design.
+Remote Sensing(RS):
+  Introduction; application of RS; electromagnetic radiation; spectral signatures; aerial/satellite image characteristics: spatial, spectral, radiometric and temporal.
+[T1,T2]
+
+UNIT- IV
+Statistics:
+  Spatial statistics; independent and dependent variables; continuous data: sampling, correlation, regression, frequency and descriptive analysis; discrete data.
+Interpolation:
+  Characteristic interpolators; deterministic interpolators; evaluating interpolators.
+[T1,T2]
+
+
+Text Books:
+[T1] Burrough, P.A. and R.A. McDonnell
+      Principles of Geographic Information System
+       Oxford University Press, Oxford
+[T2] Chang, K.T.
+      Introduction to Geographic Information System
+       Tata McGraw-Hill, New Delhi
+[T3] Heywood, I. et al
+      An Introduction to Geographic Information Systems
+       Pearson Education, Delhi
+[T4] Clarke, K.
+      Analytical and Computer Cartography. 2nd Ed
+       Upper Saddle River
+[T5] Garmin Corporation
+      GPS Guide for Beginners available at: http://www.garmin.com/manuals/gps4beg.pdf
+[T6] LLiffe, J.C.
+      Datum and Map Projections for remote Sensing, GIS and Surveying. New York : CRC Press
+[T7] Curran,Paul J.
+      Principles of Remote Sensing
+       Longman, London & New York
+[T8] Lillesand, T. and R. Kiefer
+      Remote Sensing and Image Interpretation
+       Wiley, New York

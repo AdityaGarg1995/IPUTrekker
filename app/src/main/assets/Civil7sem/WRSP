@@ -1,0 +1,51 @@
+Paper Code: ETCE-411 L T/P C
+Paper: Water Resource System planning 3 1 4
+Objective: The course will cover the topics of water planning and management by providing in- depth coverage
+of the tools of analysis, namely econometric principles, Fuzzy rule based model, optimization and simulation,
+and by providing the theoretical framework for analysis.
+UNIT I
+Introduction of Water Systems engineering-scope and approach
+Issues and the systems planning approach, Water system dynamics, Water Resource [W.R.] development
+alternatives, Water systems planning objectives, Constraints and Criteria,
+Economic and Econometric principles, Cost and Benefit Curves.
+[T1,R2][No. of Hours: 10]
+UNIT II
+Application of Linear programming [LP] and Dynamic programming [DP] models in Water Resource
+Engineering, Problem formulation for W.R. systems, Multi-objective Water Resource Planning, Non-inferior
+Solutions, Plan Formulation, Weighting Method, Constraint Method, Plan Selection.
+Reservoir Operation, Standard Operating Policy, Optimal Operating Policy using LP Rules, Curves for
+Reservoir Operations
+Reservoir Systems [Deterministic Inflow], Reservoir Sizing, Sequent Peak Analysis Neglecting Evaporation,
+Sequent Peak Analysis Considering Evaporation Loss, Reservoir Capacity using LP , Storage Yield Function,
+Mixed Integer LP Formulation for Maximizing Yield.
+[T2,R2][No. of Hours: 10]
+UNIT III
+Multireservoir Operation, Stationary Policy using DP, Simulation of Reservoir Operation for Hydropower
+Generation, Reservoir Systems [Random Inflow], Lognormal and Exponential Distributions, Chance
+Constrained LP, Linear Decision Rule, Deterministic Equivalent of a chance constraint
+Concept of Reliability, Reliability-based Reservoir Sizing, Maximum Reliability, Stochastic Dynamic
+programming for reservoir operation, State variable discretisation, Inflow as a stochastic process, Steady state
+operating policy, Steady State Probabilities, Real-time Operation, Case Study.
+[T1,T2][No. of Hours: 11]
+UNIT IV
+Water quality managements planning and associated models, Regional planning models, Policy issues for
+improvement in utilization of water resources, Optical Irrigation Water allocation for single and multiple crops,
+Crop Yield optimization.
+Applications of Linear Programming in [1] Optimal Irrigation water allocation to multiple crops, [2]
+Multireservoir system for irrigation planning, [3] Reservoir Operation [Short term] for irrigation, [4] Reservoir
+operation for Hydropower optimization.
+Application of dynamic programming in - [1] Steady State Reservoir operating policy for irrigation, [2] Realtime
+Reservoir Operation for Irrigation, An Example application for inflow forecasting, Fuzzy Sets and Fuzzy
+logic, Introduction, Fuzzy rule based reservoir operation model.
+[T1,R3] [No. of Hours: 10]
+Text Books:
+[T1] Water Resources Systems Planning and Management, Sharad K. Jain, 2003 ,Elsevier ,Singh .P.V
+[T2] Water Resources Systems Planning and Management: An Introduction to Methods, Models and
+Applications, Daniel P. Loucks, Eelco Van Beek, 2005.
+References:
+[R1] S.Vedula, P.P.Majumdar-Water Resources Systems, Tata Mcgraw Hill Publishing Company Ltd., ND
+[R2] M.C. Chaturvedi, W.R.Systems-Planning and Management, Tata McGraw Hill Publications, New
+Delhi
+[R3] Louks D Petal W.R. System Planning and Analysis, Prentice Hall – 1981.
+[R4] Maass. A. eta:-Design Water Resources Systems-McMillan, 1968.
+[R5] A.S. Goodman, Principals of Water Resources Planning, Prentice Hall, 1984

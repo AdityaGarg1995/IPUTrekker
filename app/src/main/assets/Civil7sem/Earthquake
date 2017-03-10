@@ -1,0 +1,51 @@
+Paper Code: ETCE-413 L T/P C
+Paper: Earthquake Technology 3 1 4
+Objective: To introduce the basic concepts in dynamic as well as probabilistic modeling of earthquake loading
+and dynamic analyses/simulation with uncertainty in earthquake engineering and to introduce the basics of
+structural dynamic analyses with emphasis on earthquake engineering applications.
+UNIT I
+Introduction, Causes and Classification of Earthquakes, Surface Wave Magnitude, Body Wave Magnitude,
+Moment Magnitude, Modified Mercalli Intensity Scale, Comprehensive Intensity Scale [MSKG 64] as per IS:
+1893 Part-I, Characteristics of ground motion, local site effects, Impact of earthquake on buildings and
+infrastructure, Iso-seismal map, Development of seismic zoning map of India, Types of Ground failures due to
+earthquake.
+D’ Alembert’s principle, Equation of motion, Degrees of freedom, Damping, Free and Forced Vibrations of an
+un-damped and damped single degree freedom system and its equivalence.
+[T1][No. of Hours: 11]
+UNIT II
+Free vibrations of an Un-damped two degree freedom system, Determination of frequencies and mode shape
+and concept of vibration absorber, Equation of Motion for multi-degree freedom system using D’ Alembert’s
+principle, Stiffness Coefficient and Flexibility coefficient, Determination of Frequencies and Mode Shapes for
+Three storey building idealize as lumped mass cantilever model with one degree of freedom at each mass, using
+matrix iteration technique, Holzers’ Method and Stodolas’ Method.
+[T2][No. of Hours: 11]
+UNIT III
+Orthogonality Property of Normal Modes, Modal Analysis, Modal Super position Methods, Fourier Spectra,
+Response Spectra, Dynamic Analysis by Response Spectrum Method as per IS 1893, Effect of form and
+irregularities in building as per IS 1893 on its seismic performance, Short column Effect.
+Comparative Merits of Stiff and Flexible construction, Failure Modes, Whipping Effect, General Principles and
+Philosophy of Earthquake Resistant Design, Concept of Capacity Based Design and Performance Based Design.
+Torsion in buildings during earthquakes, Determination of Torsional shares in columns of a framed building.
+Different type of lateral load resistance systems, Pounding of buildings and Required seismic separation
+between two adjacent buildings storey, Drift limitations for Buildings as per IS Code, Introduction of P- 
+Effect,
+[T1,T2][No. of Hours: 11]
+UNIT IV
+Earthquake resistance requirements for horizontal and vertical projections of the building, Special
+considerations for non-structural components attached to the building.
+Importance of shear wall buildings in earthquake resistance and Design of Reinforced Concrete Shear Walls as
+per IS 13920, Concept of Vibration Isolation of Buildings, Control devices like active control, passive control,
+hybrid control, semi-active control, isolation devices, energy dissipation devices, Need for Seismic Evaluation
+of Buildings and their Retrofitting, Condition Assessment of existing Buildings, GSDMA Guidelines on
+Seismic Evaluation and strengthening of Buildings.
+[T1,T2][No. of Hours: 11]
+Text Books:
+[T1] Steven and Kramer.-Geotechnical Earthquake Engineering, Pearson Education.
+[T2] Anil K. Chopra -Dynamics of Structures” [Third Edition], Published by Pearson Education
+References Books:
+[R1] IS 1893 [Part-I]- 2002 : “Criteria for Earthquake Resistance Design of Structure”.
+[R2] IS 4326: 1993 – “Earthquake Resistant Design and Construction of Building – Code of Practice.
+[R3] IS 13920: 1993 – Ductile Detailing of Reinforced Concrete Structures Subjected to Seismic Force –
+Code of Practice.
+[R4] IS 13935: 1995 “Repair and Seismic Strengthening of Buildings – Guidelines “.
+[R5] GSDMA-IITK “Guidelines for Seismic Strengthening of Buildings.

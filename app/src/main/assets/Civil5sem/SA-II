@@ -1,0 +1,60 @@
+Paper Code: ETCE-303
+Paper: Advanced Structural Analysis
+
+
+UNIT I
+Arches:
+  Theory of arches, Eddy’s theorem, Circular, parabolic and geometric arches, concept of radial shear force and axial thrust, analysis of 3-hinged & 2-hinged arches, Effect of yielding of supports, rib shortening and temperature changes, tied arches, ILD for 3-hinged arches.
+Curved Beams:
+  plan and elevation, beams on elastic foundations.
+[T1]
+
+UNIT II
+Basic Principles of Matrix Method:
+  Types of framed structures, Deformations, Equilibrium, Compatibility, Static and Kinematic Indeterminacy, Flexibility and Stiffness matrices, Equivalent joint loads, Energy concepts, Principle of virtual work.
+Matrix analysis of structures:
+  Force and displacement methods of analysis, definition of flexibility and stiffness influence coefficients.
+[T2]
+
+UNIT II
+Flexibility method:
+  Development of flexibility matrices by physical approach, Flexibility matrices for truss and frame elements, load transformation matrix, development of total flexibility matrix of the structure, analysis of simple structures, plane truss and plane frame, nodal loads and element loads, lack of fit and temperature effects.
+Stiffness method:
+  Development of stiffness matrices by physical approach, stiffness matrices for truss and frame elements, displacement transformation matrix, development of total stiffness matrix, analysis of simple structures, plane truss and plane frame, nodal loads and element loads, lack of fit and temperature effects.
+[T1,T2]
+
+UNIT III
+Direct stiffness method:
+  Introduction, element stiffness matrix, rotation transformation matrix, transformation of displacement and load vectors and stiffness matrix, equivalent nodal forces and load vectors, assembly of stiffness matrix and load vector, determination of nodal displacement and element forces, analysis of plane truss, plane frame [with numerical examples], analysis of grid, space truss and space frame [without numerical examples].
+Computer implementation:
+  A project on development of an analysis program using some of the above method is envisaged at this stage, Introduction to FEM package.
+[T1,T2]
+
+
+Text Books:
+[T1] S. Rajasekaran
+      “Computational Structural Mechanics”
+       Prentice-Hall India.
+[T2] Pandit and Gupta
+      “Structural Analysis a Matrix Approach”
+       Tata Mc Graw Hill
+
+References:
+[R1] C.K. Wang
+      “Matrix methods of structural analysis”
+       International Textbook Company
+[R2] Przemeineicki
+      “Theory of Matrix structural Analysis”
+       Mc Graw Hill
+[R3] Weaver and Gere
+      “Matrix Analysis of Framed structures”
+       CBS Publishers
+[R4] S.S.Bhavikatti
+      “Structural Analysis-Vol-2"
+       Vikas Publishing House.
+[R5] Devadas Menon
+      “Structural Analysis”
+       Narosa Publishing
+[R6] Structural Analysis
+      Hibbeler
+       Pearson Education

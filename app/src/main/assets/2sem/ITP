@@ -1,0 +1,53 @@
+Paper Code: ETCS-108
+Paper: Introduction to Programming
+
+
+UNIT I
+Concept of algorithms, Flow Charts, Overview of the compiler(preferably GCC), Assembler, linker and loader, Structure of a simple Hello World Program in C, Overview of compilation and execution process in an IDE(preferably Code Block).
+[T1][T2][R4][R5]
+
+UNIT II
+Programming using C:
+  Preprocessor Directive, C primitive input output using getchar() and putchar(), simple I/O function calls from library, data type in C including enumeration, arithmetic, relational and logical operations, conditional executing using if, else, switch and break.
+Concept of loops, for, while and do-while.
+Storage Classes:
+  Auto, Register, Static and Extern.
+[T1][T2][R7]
+
+UNIT III
+Arrays(1 and 2-dimensional), 2-d arrays used in matrix computation.
+Concept of Sub-programming, functions.
+Parameter transmission schemes i.e. call by value and call by reference, Pointers, relationship between array and pointer, Argument passing using pointers, Array of pointer, passing arrays as arguments.
+[T2][R1][R7]
+
+UNIT IV
+Structure and unions, Strings and C string library, File Handling in C Using File Pointers, fopen(), fclose(), Input/Output using file pointers, Character Input/Output with Files, String Input/Output Functions, Formatted Input/Output Functions, Block Input/Output Functions, Sequential Vs Random Access Files, Positioning the File Pointer.
+[T1][T2][R2][R7]
+
+
+Text Books:
+[T1] Herbert Schildt
+      “C: The Complete Reference”
+       OsbourneMcgraw Hill, 4th Edition, 2002
+[T2] Forouzan Behrouz A.
+      “Computer Science: A Structured Programming Approach Using C"
+       Cengage Learning 2/e
+
+Reference Books:
+[R1] Kernighan & Ritchie
+      “C Programming Language” (Ansi C version)
+       PHI, 2/e
+[R2] K.R Venugopal
+      “Mastering C ”
+       TMH
+[R3] R.S. Salaria
+      "Application Programming in C"
+       Khanna Publishers 4/e
+[R4] Yashwant Kanetkar
+      “Test your C Skills”
+       BPB Publications
+[R5] http://www.codeblocks.org/
+[R6] http://gcc.gnu.org/
+[R7] Programming in ANSI C
+      E. Balagurusamy
+       McGraw Hill, 6th Edition

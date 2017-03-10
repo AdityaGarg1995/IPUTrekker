@@ -1,0 +1,53 @@
+Paper Code: ETIT-430
+Paper: Distributed Systems
+
+
+UNIT-I
+Fundamentals of Distributed Computing:
+  Architectural models for distributed and mobile computing systems, Basic concepts in distributed computing.
+Distributed Operating Systems:
+  Overview, network operating systems, Distributed file systems, Middleware, client/server model for computing.
+[T1,T2]
+
+UNIT-II
+Communication:
+  Layered protocols, RPC, RMI, Remote objects.
+  Basic Algorithms in Message Passing Systems, Leader Election in Rings, and Mutual Exclusion in Shared Memory, Message Passing, PVM and MPI.
+Process Concepts:
+  Threads, Clients and Servers, Code migration, Agent based systems, Distributed objects, CORBA, Distributed COM.
+[T1]
+
+UNIT-III
+Synchronization:
+  Clock synchronization, Logical clocks, Election algorithms, Mutual exclusion, Distributed transactions, Naming concepts, Security in distributed systems.
+Distributed Databases:
+  Distributed Data Storage, Fragmentation & Replication, Transparency, Distributed Query Processing and Optimization, Distributed Transaction Modeling and concurrency Control, Distributed Deadlock, Commit Protocols.
+[T2]
+
+UNIT-IV
+Processing:
+  Basic Concepts: Introduction to processing, processing terminology, Design of algorithms, Design of Parallel Databases, Parallel Query Evaluation.
+[T1,T2]
+
+
+Text Books:
+[T1] Tannenbaum, A, Maarten Van Steen
+      Distributed Systems, Principles and Paradigm
+       Prentice Hall India, 2002
+[T2] Elmarsi, Navathe, Somayajulu, Gupta
+      “Fundamentals of Database Systems”, 4th Edition
+       Pearson Education, 2007
+
+Reference Books:
+[R1] Tanenbaum, A
+      “Modern Operating Systems”, 2nd Edition
+       Prentice Hall India, 2001
+[R2] Singhal and Shivaratri
+      “Advanced Concepts in Operating Systems”
+       McGraw Hill, 1994
+[R3] Attiya, Welch
+      “Distributed Computing”
+       Wiley India, 2006
+[R4] Coulouris, Dollimore and Kindberg
+      “Distributed Systems”
+       Pearson, 2009

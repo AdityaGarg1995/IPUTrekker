@@ -1,7 +1,12 @@
 package com.example.ankushsingh.ggsipu.Colleges;
 
+import android.os.Build;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -13,22 +18,27 @@ public class gbp extends AppCompatActivity {
 
     public WebView webView;
 
-    public String placements = "http://www.gbpec.edu.in/placement/index.php";
 
-
-//    Departments
-    public String cse = "http://www.gbpec.edu.in/CSE.php",
-                  mae = "http://www.gbpec.edu.in/MAE.php",
-                  ece = "http://www.gbpec.edu.in/ece.php";
+    private void setupActionBar() {
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null)
+            // Show the Up button in the action bar.
+            actionBar.setDisplayHomeAsUpEnabled(true);
+    }
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_gbp);
+        setContentView(R.layout.activity_aiactr);
 
         webView = (WebView)findViewById(R.id.a);
+
         webView.getSettings().setJavaScriptEnabled(true);
+        webView.getSettings().setBuiltInZoomControls(true);
+
+        webView.setWebChromeClient(new WebChromeClient());
+
         webView.setWebViewClient(new WebViewClient(){
 
             @Override
@@ -37,6 +47,13 @@ public class gbp extends AppCompatActivity {
                 return true;
             }
         });
+
         webView.loadUrl(Urls.gbp);
+
+        setupActionBar();
+
     }
+
+
+
 }

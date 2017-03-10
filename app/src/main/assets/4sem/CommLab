@@ -1,0 +1,28 @@
+Paper Code: ETEC-256
+Paper: Communication Systems Lab
+
+
+List of Experiments:
+
+1. Generate DSB-SC AM signal using balanced modulator
+
+2. Study amplitude demodulation by linear diode detector
+
+3. Generate SSB-AM signal
+
+4. Study envelop detector for demodulation of AM signal and observe diagonal peak clipping effect
+
+5. Generate FM signal using voltage controlled oscillator
+
+6. Generate a FM Signal using Varactor & reactance modulation
+
+7. Detect FM Signal using PLL & Foster-Seelay method
+
+8. Study Super heterodyne AM receiver and measurement of receiver parameters viz.sensitivity, selectivity & fidelity
+
+9. Study Pre-emphasis and De-emphasis in FM
+
+10. Generate Phase modulated and demodulated signal
+
+
+Simulations study of some of the above experiments using P-spice or Multisim softwares

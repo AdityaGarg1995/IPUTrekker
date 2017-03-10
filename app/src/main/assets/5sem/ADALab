@@ -1,0 +1,34 @@
+Paper Code: ETCS 351
+Paper: Algorithms Design and Analysis Lab
+
+
+List of Experiments:
+
+1. Implement following algorithm using array as a data structure and analyse its time complexity
+   a. Merge sort
+   b. Quick sort
+   c. Bubble sort
+   d. Bucket sort
+   e. Radix sort
+   f. Shell sort
+   g. Selection sort
+   h. Heap sort
+
+2. Implement Linear search and Binary search and analyse its time complexity
+
+3. Implement Matrix Multiplication and analyse its time complexity
+
+4. Implement Longest Common Subsequence problem and analyse its time complexity
+
+5. Implement Optimal Binary Search Tree problem and analyse its time complexity
+
+6. Implement Huffman Coding and analyse its time complexity
+
+7. Implement Dijkstra’s algorithm and analyse its time complexity
+
+8. Implement Bellman Ford algorithm and analyse its time complexity
+
+9. Implement following algoriyhms and analyse its time complexity:
+   a. naïve String Matching algorithm
+   b. Rabin Karp algorithm
+   c. Knuth Morris Pratt algorithm

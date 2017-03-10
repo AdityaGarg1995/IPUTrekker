@@ -1,0 +1,18 @@
+Paper Code: ETEC-358
+Paper: Data Communication & Networks Lab
+
+
+List of Experiments:
+1. PC to PC Communication
+2. Parallel Communication using 8 bit parallel cable & Serial communication using RS 232C
+3. Ethernet LAN protocol
+4. To create scenario and study the performance of CSMA/CD protocol through Simulation
+5. To create scenario and study the performance of token bus and token ring protocols through
+   simulation
+6. To create scenario and study the performance of network with CSMA / CA protocol and compare
+   with
+7. CSMA/CD protocols.
+8. Implementation and study of stop and wait protocol
+9. Implementation and study of Go back-N and selective repeat protocols
+10. Implementation of distance vector routing algorithm
+11. Implementation of Link state routing algorithm.

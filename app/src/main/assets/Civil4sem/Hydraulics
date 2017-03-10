@@ -1,0 +1,73 @@
+Paper Code: ETCE-206
+Paper: Hydraulics and Hydraulic Machines
+
+
+UNIT I
+Laminar Flow:
+  Flow through circular pipe and parallel plates, Kinetic energy correction factor, Momentum correction factor.
+  Loss of head due to friction; determination of coefficient of viscosity.
+Boundary Layer:
+  Concept and development of boundary layer, Laminar and turbulent boundary layers and their analysis, boundary layer thickness.
+  Critical Reynolds number.
+  Boundary layer separation and control.
+Turbulent flow:
+  Shear stress, velocity distribution in smooth and rough pipes, Resistance of smooth and rough.
+pipes.
+[T1,T2,T3]
+
+UNIT II
+Forces on submerged bodies:
+  Forces exerted by flowing fluid, Concept and expression for Drag and lift.
+  Pressure drag and friction drag.
+  Stream line and bluff body.
+  Drag on sphere and cylinder, Terminal velocity of a body, Lift on a circular cylinder, Drag force acting on a rotating cylinder, Development of lift on Airfoil.
+Flow through pipes:
+  Loss of head/energy in pipes - Major losses-friction loss by Darcy Weisbach formula, Chezy’s formula.
+  Types of minor losses; Hydraulic gradient and total energy line, Flow through siphon, Pipes in series, concept of equivalent pipe, flow through parallel and branched pipes.
+  Water hammer in pipes, sudden and gradual closure of valve.
+  Analysis of Pipe network using Hardy Cross method.
+  Use of EPANET software for pipe flow analysis.
+[T1,T2,T3]
+
+UNIT III
+Hydraulic machines:
+  General layout of hydroelectric power plant, classification of hydraulic turbines, Pelton turbine and its main parts, Analysis and design of Pelton turbine for jet diameter, wheel diameter, width, depth and number of buckets.
+  Hydraulic, mechanical and overall efficiencies of turbine, Introduction to other turbines like Francis and Kaplan turbines, Specific speed and its significance, characteristic curves of turbines.
+[T2,T3]
+
+UNIT IV
+Centrifugal pumps:
+  Main parts.
+  Head, efficiencies and work done computations, minimum speed for starting a centrifugal pump, specific speed, centrifugal pump.
+  Cavitations in turbines and centrifugal pumps and their effects and precautions, Computation for maximum suction lift.
+Reciprocating pumps:
+  Main parts of Reciprocating pump, discharge, work done and power required to drive a double acting pump, Velocity and acceleration in suction and delivery pipes, Indicator diagram and its utility, Air vessels.
+[T1,T2]
+
+
+Text Books:
+[T1] Victor Streeter
+      “Fluid Mechanics”, International Edition
+       Tata McGraw Hill Publications
+[T2] R.K. Bansal
+      “Fluid Mechanics”
+[T3] Hughes and Brighton
+      “Fluid Mechanics”
+       Tata McGraw Hill
+
+Reference Books:
+[R1] Vijay Gupta, Santosh K Gupta
+      “Fluid Mechanics and its Application”
+       New Age Publications
+[R2] R.J. Garde
+      “Fluid Mechanics through Problems”
+       New Age Publications
+[R3] Doughlas, Gasiorek, Swaffield and Jack
+      “Fluid Mechanics”
+       Pearson Education
+[R4] Fay A. James
+      “Introduction to Fluid Mechanics”
+       PHI Publications
+[R5] Kothandaraman and Rudramoorthy
+      “Fluid Mechanics and Machinery”
+       New Age Publication

@@ -1,0 +1,71 @@
+Paper Code: ETMA-203
+Paper: Numerical Analysis and Statistical Techniques
+
+
+UNIT I
+Probability Theory:
+  Conditional probability, Baye’s theorem.
+Random variable:
+  Discrete probability distribution, continuous probability distribution, expectation, moments, moment generating function, skewness, kurtosis, binomial distribution, Poisson distribution, normal distribution.
+Curve Fitting:
+  Principle of least square Method of least square and curve fitting for linear and parabolic curve .
+[T1,T2]
+
+UNIT II
+Correlation Coefficient, Rank correlation, line of regressions and properties of regression coefficients, ANOVA.
+Sampling distribution:
+  Testing of hypothesis, level of significance, sampling distribution of mean and variance, Chi-square distribution, Student’s T- distribution, F- distribution, Fisher’s Z- distribution.
+[T1,T2]
+
+UNIT III
+Numerical Methods:
+  Solution of algebraic and transcendental equations using bisection method, Regula-Falsi method and Newton–Raphson method.
+  Solution of linear simultaneous equations using Gauss-Jacobi’s iteration method and Gauss-Seidal’s iteration methods.
+Finite differences:
+  Forward differences, backward differences and Central differences.
+Interpolation:
+  Newton’s interpolation for equi-spaced values.
+  Stirling’s central difference interpolation formula, Divided differences and interpolation formula in terms of divided differences, Lagrange’s interpolation formula for unequi-spaced values.
+[T1,T2]
+
+UNIT IV:
+Numerical Differentiation, maxima and minima of a tabulated function.
+Numerical Integration:
+  Newton-Cote’s quadrature formula, Trapezoidal rule, Simpson’s one-third rule and Simpson’s three-eighth rule.
+Numerical solution of ordinary differential equations:
+  Picard’s method, Taylor’s method, Euler’s method, modified Euler’s method, Runge-Kutta method of fourth order.
+[T1,T2]
+
+
+Text Books:
+[T1] R.K. Jain and S.R.K. Iyengar
+      ”Numerical methods for Scientific and Engineering Computation”
+       New Age
+[T2] N.M. Kapoor
+      “Fundamentals of Mathematical Statistics”
+       Pitambar Publications
+
+Reference Books:
+[R1] E. kresyzig
+      ”Advance Engineering Mathematics”
+       Wiley publications
+[R2] P.B. Patil and U.P. Verma
+      “Numerical Computational Methods”
+       Narosa
+[R3] Partial Differential Equations
+      “Schaum’s Outline Series”
+       McGraw Hill
+[R4] Michael Greenberg
+      “Advance Engineering Mathematics”
+       Pearson
+[R5] Schaum’s Outline on Fourier Analysis with Applications to Boundary Value Problem
+       TMH
+[R6] B.S. Grewal
+      “Numerical Methods in Engg. And Science”
+       Khanna Publications
+[R7] Miller and Freund
+      “Probability and statistics for Engineers”
+       PHI
+[R8] Gupta and Kapoor
+      “Fundamentals of Mathematical Statistics”
+       Sultan Chand and Sons

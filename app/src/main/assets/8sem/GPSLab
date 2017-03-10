@@ -1,0 +1,47 @@
+Paper Code: ETIT-458(ELECTIVE-II)
+Paper: GPS and GIS Lab
+
+
+Softwares for GPS:
+ a. openGTS
+ b. GPSTk
+Softwares for GIS:
+ a. QGIS
+ b. GRASS GIS
+ c. GeoTools
+ d. ArcView GIS
+
+
+List of Experiments
+
+
+First Set of Experiments:
+
+1. Using Handheld GPS for location & recording points
+
+2. Recording point positions and data
+
+3. Importing Juno Data into ArcMap
+
+4. Set up a work area with basemap data
+
+5. Entering data into Excel and Adding as Events to ArcMap
+
+6. Using Pathfinder to download saved file from the GPS
+
+7. Execute ArcMap
+
+8. Loading an orthophoto into the Juno
+
+
+Second Set of Experiments:
+
+1. Introduction toMapping, Triangulation & Navigation using ArcView GIS
+
+2. GPS/GIS Data Conversion and Map Construction
+
+3. GPS Data Gathering
+
+4. DGPS Post Processing and GIS Data Transfer
+
+5. ArcView processing and map presentation

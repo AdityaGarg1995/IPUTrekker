@@ -1,0 +1,44 @@
+Paper Code: ETCS-308
+Paper: Web Engineering
+
+
+UNIT - I
+History of the Internet, Basic internet protocols, World Wide Web (W3C), HTTP: Hypertext Transfer Protocol.
+Markup languages-XHTML: Introduction to HTML, basics of XTHML, HTML elements, HTML tags, lists,
+tables, frames, forms, defining XHTML’s abstract syntax, defining HTML documents.
+CSS style sheets: Introduction, CSS core syntax, text properties, CSS box model, normal flow box layout, other
+properties like list, tables, DHTML, XML, XML documents & vocabulary, XML versions & declarations,
+Introduction to WML.
+[T1,T2]
+
+UNIT – II
+Client Side Programming: JAVA Scripts, basic syntax, variables & data-types, literals, functions, objects,
+arrays, built-in objects, JAVA Script form programming, Intrinsic event handling, modifying element style,
+document trees,
+Server side programming – Java Servlets: Servlet architecture, life cycle, parameter data, sessions, cookies,
+servlets capabilities, servlets & concurrency. Introduction to JSP, JSP Tags, JSP life cycle, custom tags.
+[T1,T2]
+
+UNIT - III
+Security Threats, Security risks of a site, Web attacks and their prevention, Web security model, Session
+management, authentication, HTTPS and certificates, Application vulnerabilities and defenses.
+Client-side security, Cookies security policy, HTTP security extensions, Plugins, extensions, and web apps,
+Web user tracking.
+Server-side security tools, Web Application Firewalls (WAFs) and Fuzzers.
+[T1,T2]
+
+UNIT – IV
+Introduction to Web 2.0 and Web 3.0, Concepts and Issues, Latest Trends in Web Technologies. Web Security
+concerns. Applications of Web Engineering Technologies in distributed systems etc. Case studies using different
+tools.
+[T1,T2]
+
+Text Books:
+[T1] Web Technologies: A Computer Science Perspective, Jackson, Pearson Education India, 2007.
+[T2] Web Engineering: A Practitioner's Approach by Roger S Pressman, David Lowe, TMH, 2008.
+Reference Books:
+[R1] Achyut Godbole,Atul Kahate, “Web Technologies”, McGraw-Hill Education, Third Edition.
+[R2] Uttam K Roy, “Web Technologies”, Oxford University Press, 2012.
+[R3] Chris Bates, "Web Programming", Wiley
+[R4] Web Engineering by Gertel Keppel, Birgit Proll, Siegfried Reich, Werner R., John Wiley.
+[R5] Thinking on the Web: Berner's LEE, Godel and Turing, John Wiley & Sons Inc

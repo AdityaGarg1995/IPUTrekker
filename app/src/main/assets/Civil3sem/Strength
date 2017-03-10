@@ -1,0 +1,61 @@
+Paper Code: ETCE-203
+Paper: Strength of Material
+
+
+UNIT I
+Simple stresses and strains:
+  Definition, types of stresses and strains; Hooke’s law, Modulus of elasticity, various elastic constants and their relationship, stress strain curve for ductile materials, deformation of bars under axial loads, temperature stresses, bars of varying cross sections and composite sections, Poisson’s ratio, volumetric strain, Strain rosette.
+Analysis of plane stress and plane strain:
+  General case of plane stress, Principle stresses due to combined bending and torsion, Analysis of strain, Mohr’s circle for 2-d stresses and strain, and Elementary concepts of theories of failure.
+[T1,T2]
+
+UNIT II
+Shear force and bending moment:
+  Different types of beams and loads, shear force and bending moment diagrams for cantilever and simply supported beams with and without overhangs subjected to different kinds of loads, relation between loading, shear force and bending moments.
+Bending and shear stresses in beams:
+  Theory of simple bending, moment of resistance, modulus of section, calculation of bending stresses in beams for different loads and different types of structural sections.
+  Shear stress and its distribution on different types of cross sections of beams.
+[T1,T2]
+
+UNIT III
+Combined direct and bending stresses:
+  Middle 3rd rule, core of a section, stresses due to wind, water and earth pressure in structures like retaining walls, dams, chimneys, walls etc.
+Slope and deflection of beams:
+  Relation between slope, deflection and radius of curvature, deflection and slope of statically determinate beams.
+  Moment area method, double integration method, conjugate beam method, dummy load method, Maxwell’s law of reciprocal deflection, Betti’s law and Castigliano’s theorem and their applications.
+[T1,T2]
+
+UNIT IV
+Torsion:
+  Torsion of hollow and solid circular shafts, torsion equation, torsional rigidity, modulus of rupture, power transmission by shafts, importance of angle of twist and various stresses in a shaft, comparison of solid and hollow shafts, torsional resilience.
+Columns and struts:
+  Columns and struts of uniform section, crippling/buckling load, Euler theory and concept of equivalent length, Rankine’s formula & other empirical formulae, Secant formula.
+[T1,T2]
+
+
+Text Books:
+[T1] James M Gere
+      ”Strength of Materials”
+       Cengage Publication
+[T2] Timoshenko, Stephen
+      Elements of Strength of Materials Part-2
+       CBS publication
+
+References:
+[R1] Mechanics of Materials
+      Popov E.P.
+       Prentice Hall of India
+[R2] Solid Mechanics
+      S.M.A Kazmi
+[R3] Structures
+      Schodek
+       Pearson Education
+[R4] Strength of Materials
+      Nash, W.A.
+       Tata Mc Graw Hill Publications
+[R5] Basic Structural Analysis
+      Reddy
+       Mc Graw Hill Publications
+[R6] B.S. Basavarajaiah, P. Mahadevappa
+      “Strength of Materials”, 3rd Edition
+       University Press

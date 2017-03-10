@@ -1,24 +1,15 @@
 package com.example.ankushsingh.ggsipu;
 
-
-
-
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.CardView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Button;
-import android.widget.TextView;
-
-import com.example.ankushsingh.ggsipu.Settings.SettingsActivity;
 
 public class HomeActivity extends AppCompatActivity implements View.OnClickListener{
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,26 +17,26 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+//        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+//        setSupportActionBar(toolbar);
 
+        setSupportActionBar((Toolbar) findViewById(R.id.toolbar));
 
-        Button b1 = (Button) findViewById(R.id.university),
-               b2 = (Button) findViewById(R.id.colleges),
-               b3 = (Button) findViewById(R.id.streams);
+        findViewById(R.id.university).setOnClickListener(this);
+        findViewById(R.id.colleges).setOnClickListener(this);
+        findViewById(R.id.streams).setOnClickListener(this);
+        findViewById(R.id.result).setOnClickListener(this);
 
-
-        b1.setOnClickListener(this);
-        b2.setOnClickListener(this);
-        b3.setOnClickListener(this);
 
     }
+
 
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.activity_home_menu, menu);
         return true;
     }
+
 
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here.
@@ -60,23 +51,21 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
     }
 
+
     @Override
     public void onClick(View v) {
 
         switch(v.getId()){
-
-            case R.id.university:
-                startActivity(new Intent(HomeActivity.this, logo.class));
+            case R.id.university: startActivity(new Intent(this, logo.class).putExtra("Task", StreamNames.task1));
                 break;
-
-            case R.id.colleges:
-                startActivity(new Intent(HomeActivity.this, MainActivity.class));
+            case R.id.colleges: startActivity(new Intent(this, CollegeActivity.class));
                 break;
-
-            case R.id.streams:
-                startActivity(new Intent(HomeActivity.this, Main2Activity.class));
+            case R.id.streams: startActivity(new Intent(this, StreamActivity.class));
                 break;
-
+            case R.id.result: startActivity(new Intent(this, logo.class).putExtra("Task", StreamNames.task2));
+                break;
         }
     }
+
+
 }

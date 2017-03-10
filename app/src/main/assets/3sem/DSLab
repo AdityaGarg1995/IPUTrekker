@@ -1,0 +1,36 @@
+Paper Code: ETCS-255
+Paper: Data Structures Lab
+
+
+List of Experiments :
+1. Perform Linear Search and Binary Search on an array.
+   Description of programs:
+   a. Read an array of type integer.
+   b. Input element from user for searching.
+   c. Search the element by passing the array to a function and then returning the position of the element from the function else return -1 if the element is not found.
+   d. Display the position where the element has been found.
+
+2. Implement sparse matrix using array.
+   Description of program:
+   a. Read a 2D array from the user.
+   b. Store it in the sparse matrix form, use array of structures.
+   c. Print the final array.
+
+3. Create a linked list with nodes having information about a student and perform
+   a. Insert a new node at specified position.
+   b. Delete of a node with the roll number of student specified.
+   c. Reversal of that linked list.
+
+4. Create doubly linked list with nodes having information about an employee and perform Insertion at front of doubly linked list and perform deletion at end of that doubly linked list
+
+5. Create circular linked list having information about an college and perform insertion at front perform deletion at end
+
+6. Create a stack and perform Pop, Push, Traverse operations on the stack using Linear Linked list
+
+7. Create a Linear Queue using Linked List and implement different operations such as Insert, Delete, and Display the queue elements
+
+8. Create a Binary Tree(Display using Graphics) perform Tree traversals (Preorder, Postorder, Inorder) using recursion
+
+9. Implement insertion, deletion and display (inorder, preorder and postorder) on binary search tree with the information in the tree about the details of an automobile (type, company, year of make)
+
+10.Implement Insertion sort, Merge sort, Quick sort, Bubble sort, Bucket sort, Radix sort, Shell sort, Selection sort, Heap sort & Exchange sort using array as a data structure

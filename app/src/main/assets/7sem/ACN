@@ -1,0 +1,44 @@
+Paper Code: ETIT-401
+Paper: Advanced Computer Networks
+
+
+UNIT-I
+Network Layer:
+ARP,RARP,ICMP,IPv4 Routing Principles, Routing and overview, DVR and LSR, the IGRP and EIGRP, BGP, Routing Information Protocol(RIP), OSPF (IPv4/IPv6).
+Multicasting in IP Environments-Broadcasting, Multicasting, IGMP and Multicast Listener Discovery(MLD).
+Distance Vector Multicast Routing Protoco (DVMRP), Multicast OSPF(MOSPF), Protocol Independent Multicast(PIM).
+[T1]
+
+UNIT-II
+Transport Layer: Transport layer overview, UDP, TCP(Flow Control, Error Control, and Connection Establishment), TCP Protocol: TCP Tahoe, TCP Reno.
+[R1, R3]
+
+UNIT-III
+Optical Networking:
+Introduction to Optical networking, its benefits and drawbacks, SONET layered architecture, frame format, SONET network configuration, its advantages and benefits.
+Quality of Service: Introducing QoS, Queue Analysis, QoS Mechanisms, Queue Management algorithms, Resource Reservation, Diffserv and Intserv.
+[T2]
+
+UNIT-IV
+Overview of latest concepts:
+TCP/IP Applications: VoIP, NFS, Telnet ,FTP,SMTP, SNMP, Finger, Whois and WWW, IP v6 and Next Generation Networks, xAAS(PAAS,SAAS,HAAS) and Cloud Computing, Big data, Elements of Social Network.
+[R2]
+
+
+Text Books:
+[T1] Douglas E. Comer
+     "Internet networking with TCP/IP"
+      Pearson. TCP/IP, Vol. 2
+[T2] B.A. Forouzan
+     "TCP/IP Protocol Suite"
+      TMH, 2nd Ed., 2004
+
+Reference Books:
+[R1] TCP/IP Illustrated, Volume 1 (The Protocols) by W. Richard Stevens
+      Pearson Education.
+[R2] U. Black
+     "Computer Networks-Protocols, Standards and Interfaces"
+      PHI, 1996
+[R3] W. Stallings
+     "Computer Communication Networks"
+      PHI, 1999

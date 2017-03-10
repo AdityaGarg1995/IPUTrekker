@@ -1,0 +1,32 @@
+Paper Code: ETIT-403
+Paper: Cryptography & Network Security
+
+
+UNIT-I:
+Basic Cryptographic Techniques, Computational Complexity, Finite Fields, Number Theory, DES & AES, Public Key Cryptosystems, Traffic Confidentiality ,Cryptanalysis, Intractable(Hard) Problems, Hash Functions, OSI Security Architecture Privacy of Data.
+[T1,T2]
+
+UNIT-II:
+Linear Cryptanalysis, Differential Cryptanalysis, DES, Triple DES, Message Authentication and Digital Signatures, Attacks on Protocols, Elliptic Curve Architecture and Cryptography, Public Key Cryptography and RSA, Evaluation criteria for AES, Key Management, Authentication requirements Digital forensics including digital evidence handling: Media forensics, Cyber forensics, Software forensics, Mobile forensics.
+[T1,T2]
+
+UNIT-III:
+Buffer Flow attack, Distributed Denial of service attack, Weak authentication, Design of Substitution Boxes(SBoxes), Hash Functions, Security of Hash Functions, Secure Hash Algorithm, Authentication applications, Kerberos, IP security, Pretty Good Privacy(PGP), Web Security Light weight cryptography for mobile devices, Side channel attacks.
+[T1,T2]
+
+UNIT-IV:
+System security, Security Standards, Intruders, and Viruses, Firewalls, Malicious software, Intrusion Detection System, Intrusion Prevention System, Trusted Systems, Virus Counter measures, Authentication Strategies.
+[T1,T2]
+
+
+Text Book:
+[T1] William Stallings, "Cryptography And Network Security - Principles and Practices", Prentice Hall of
+India, 3rd Edition, 2003
+[T2] Wade Trappe, Lawrence C Washington, “Introduction to Cryptography with coding theory”, 2nd ed,
+Pearson, 2007
+
+Reference Book:
+[R1] R.Rajaram, “Network Security and Cryptography” SciTech Publication, 1st Edition, 2013
+[R2] Atul Kahate, "Cryptography and Network Security", Tata McGraw-Hill, 2003
+[R3] Bruce Schneier, "Applied Cryptography", John Wiley & Sons Inc, 2001
+[R4] http://www.iiitd.edu.in/~gauravg/

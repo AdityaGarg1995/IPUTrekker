@@ -1,0 +1,25 @@
+Paper Code: ETIT-357
+Paper: Communication Systems Lab
+
+
+List of Experiments:
+
+1. Generation of DSB-SC AM signal using balanced modulator
+
+2. Practical study of amplitude demodulation by linear diode detector
+
+3. Generation of SSB AM signal
+
+4. Practical study of envelop detector for demodulation of AM signal and observe diagonal peak clipping effect
+
+5. To generate FM signal using voltage controlled oscillator
+
+6. To generate a FM Signal using Varactor & reactance modulation
+
+7. Detection of FM Signal using PLL & foster seelay method
+
+8. Practical study of Super heterodyne AM receiver and measurement of receiver parameters viz.sensitivity, selectivity & fidelity
+
+9. Practical study of Pre-emphasis and De-emphasis in FM
+
+10. Generation of Phase modulated and demodulated signal

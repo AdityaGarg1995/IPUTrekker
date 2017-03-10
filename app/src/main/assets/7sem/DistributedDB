@@ -1,0 +1,49 @@
+Paper Code: ETIT-409
+Paper: Distributed Databases
+
+
+UNIT I
+Architecture of distributed systems: network operating system, distributed operating systems, Distributed database systems.
+(a) Federated database systems, (b) multi database systems, and (c) Client/Server systems, Distributed DBMS architecture.
+Distributed database design: Top down design- Designing issues, Fragmentation, Allocation, Data dictionary, Bottom up design- Schema Matching, Schema Integration, Schema Mapping, Data Cleaning.
+Data and Access Control: views in centralised and distributed DBMS, Data security, Semantic Integrity Control.
+[T1,R1]
+
+UNIT II
+Query Processing: Characterization of query processors, Layers of query processing.
+Query Decomposition: Normalization, Analysis, Elimination of redundancy,
+Data Localization: Reduction of primary horizontal fragmentation, Reduction of vertical fragmentation, reduction of derived fragmentation, hybrid fragmentation.
+Optimization of Distributed Query: Join ordering, Semi join based algorithms, optimization
+[T1,T2]
+
+UNIT III
+Transaction Management: Properties of transactions, Types of transactions- flat transactions, nested transactions, workflow.
+Distributed Concurrency Control: Serializability theory, Locking based concurrency control Algorithm, Timestamp based algorithms.
+Deadlock Management: Prevention, Avoidance, Detection and Resolution
+[T1,T2]
+
+UNIT IV
+Distributed DBMS Reliability: Local Reliability protocol, Distributed Reliability protocol-  2 phase commit protocol, 3 phase commit protocol.
+Parallel Database System: System architecture, Parallel query processing, Load Balancing, Database Clusters.
+Web Data Management: Web Search-crawling, indexing ranking, Web Querying, Distributed XML Processing.
+[T1,R2]
+
+
+Text Books:
+[T1] Principles of Distributed Database Systems
+     Ozsu and Valduriez
+      Prentice Hall
+[T2] Distributed Database Principles and Systems
+     Ceri and Pelagatti
+      McGraw Hill
+
+Reference Books:
+[R1] Distributed Systems: Concept and Design
+     Coulouris, Dollimore, and Kindberg
+      AW
+[R2] Recovery Mechanisms in Database Systems
+     Kumar and Hsu
+      Prentice Hall
+[R3] Concurrency Control and Recovery in Database Systems
+     Bernstein, Hadzilacos and Goodman
+      AW

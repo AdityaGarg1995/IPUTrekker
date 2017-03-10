@@ -1,0 +1,49 @@
+Paper Code: ETIT-418
+Paper: Digital Image Processing
+
+
+UNIT- I :
+Introduction and Digital Image Fundamentals:
+  The origins of Digital Image Processing, Examples of Fields that Use Digital Image Processing, Fundamentals Steps in Image Processing, Elements of Digital Image Processing Systems, Image Sampling and Quantization, Some basic relationships like Neighbors, Connectivity, Distance Measures between pixels, Linear and Non Linear Operations.
+Image Enhancement in Spatial Domain:
+  Some basic Gray Level Transformations, Histogram Processing, Enhancement Using Arithmetic and Logic operations, Basics of Spatial Filters, Smoothening and Sharpening Spatial Filters, Combining Spatial Enhancement Methods.
+[T1,T2]
+
+UNIT- II:
+Filtering in the Frequency Domain:
+  Introduction to Fourier Transform and the frequency Domain, Smoothing and Sharpening Frequency Domain Filters.
+Image Restoration:
+  A model of Image Degradatio/Restoration Process, Noise Models, Restoration in the presence of Noise Only Spatial Filtering, Periodic Noise Reduction by Frequency Domain Filtering, Estimation of Degradation Function, Inverse filtering, Wiener filtering, Constrained Least Square Filtering, Geometric Mean Filter, Geometric Transformations.
+[T1,T2]
+
+UNIT- III:
+Image Compression:
+  Fundamentals of compression, coding redundancy, Lossy and lossless compression, Spatial and temporal redundancy, Image compression models.
+  Some basic compression methods
+Image Segmentation:
+  Detection of Discontinuities, Edge linking and boundary detection, Region Oriented Segmentation, Motion based segmentation.
+[T1,T2]
+
+UNIT- IV:
+Representation and Description:
+  Representation, Boundary Descriptors, Regional Descriptors, Use of Principal Components for Description, Introduction to Morphology, Some basic Morphological Algorithms.
+Object Recognition:
+  Patterns and Pattern Classes, Decision-Theoretic Methods, Structural Methods.
+[T1,T2]
+
+
+Text Books:
+[T1] Rafael C. Gonzalez & Richard E. Woods
+      “Digital Image Processing”
+       3rd edition, Pearson, 2002
+[T2] A.K. Jain
+      “Fundamental of Digital Image Processing”
+       PHI, 1989
+
+Reference Books:
+[R1] Bernd Jahne
+      “Digital Image Processing”
+       5th Ed, Springer, 2002
+[R2] William K. Pratt
+      “Digital Image Processing: Piks Inside”
+       John Wiley & Sons, 2001

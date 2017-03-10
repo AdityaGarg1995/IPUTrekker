@@ -1,0 +1,53 @@
+Paper Code: ETCE-424
+Paper: Offshore Structural Engineering
+
+
+UNIT I
+Concrete/composites:
+  Underwater concrete, mix design, quick setting compounds, high strength grout, fiber reinforced plastics, special composite materials for under water repairs.
+Structural Steel:
+  Corrosion Mechanism; Types of corrosion; Seawater corrosion; corrosion allowance, cathodic protection design, impressed current method, sacrificial anodes design, protective coatings, splash zone protection, cathodic protection monitoring system.
+Underwater repair:
+  Underwater welding, repair schemes for tubular members, grouted sleeve connections, and stressed–grouted connections for tubular joints.
+[T1,T2]
+
+UNIT II
+Static Structural Analysis:
+  Estimation of wave and current loading on framed structures.
+  Maximum base shear and overturning methods.
+  Cyclic loads for fatigue analysis.
+Dynamic Structural analysis:
+  Dynamic analysis of framed structures.
+  Mode shapes and Eigen frequency analysis.
+  Wave response, dynamic wave response, frequency and time domain analysis of risers and pipelines.
+[T1,T2]
+
+UNIT III
+Loads on offshore structures:
+  Wind Loads.
+  Wave and Current Loads.
+  Calculation based on Maximum base.
+  Shear and Overturning Moments.
+  Design Wave heights and Spectral Definition.
+  Hydrodynamic Coefficients and Marine Growth.
+  Fatigue Load Definition and Joint Probability distribution.
+  Seismic Loads.
+[T1,T2]
+
+UNIT IV
+Foundation for Offshore Structures:
+  Mud-mats: bearing capacity, sliding stability, over-turning stability, short term and long term settlements, factor of safety.
+  Bucket foundation; Suction anchors; Gravity foundation.
+[T1,T2]
+
+
+Text Books:
+[T1] Mohamed Abdallah El-Reedy. Offshore Structures: Design, Construction and Maintenance, Elsevier
+[T2] Hydrodynamics of Offshore Structures by S.K. Chakrabarti, Springer-Verlag
+
+References:
+[R1] Handbook of Offshore Engineering by S.K. Chakrabarti, Elseviers, 2005.
+[R2] Structural Stability - Theory and Implementation by W.F.Chen and E.M.Lui by Elsevier
+[R3] Construction of Marine and Offshore Structures by Ben C. Gerwick, CRC Press, 1999.
+[R4] Dynamics of Offshore Structures by James F. Wilson – 2003, John Wiley and Sons
+[R5] Construction of Marine and Offshore Structures by Ben C. Gerwick, Jr – 2007, CRC Press.

@@ -1,0 +1,21 @@
+Paper Code: ETIT-455
+Paper: Cryptography & Network Security
+
+
+List of Experiments:
+
+1. Design a program for encryption and decryption using mono-alphabetic/poly-alphabetic substitution
+
+2. Write a program to implement DES and AES algorithm for Encryption and Decryption
+
+3. Study of Account and password management. PAM, password cracking
+
+4. Configure common services like IIS, Apache, Open SSH, WU-FTP
+
+5. Study of Security analysis tools: Nessus, Microsoft baseline security analyzer
+
+6. Study of Security configuration tools: Bastille, Microsoft IIS lockdown tool
+
+7. Identify organization’s Firewall IP address
+
+8. Determine organization’s Firewall Access Control

@@ -1,0 +1,28 @@
+Paper Code: ETIT-453
+Paper: Advanced Computer Network Lab
+
+
+List of Experiments:
+
+1. Configuration and logging to a CISCO Router and introduction to the basic user Interfaces.
+   Introduction to the basic router configuration and basic commands.
+
+2. Configuration of IP addressing for a given scenario for a given set of topologies.
+
+3. Configure a DHCP Server to serve contiguous IP addresses to a pool of four IP devices with a default gateway and a default DNS address.
+   Integrate the DHCP server with a BOOTP demon to automatically serve Windows and Linux OS Binaries based on client MAC address.
+
+4. Configure, implement and debug the following: Use open source tools for debugging and diagnostics.
+   a. ARP/RARP protocols
+   b. RIP routing protocols
+   c. BGP routing
+   d. OSPF routing protocols
+   e. Static routes(check using netstat)
+
+5. Configure DNS: Make a caching DNS client, and a DNS Proxy; implement reverse DNS and forward DNS, using TCP dump/Wireshark characterise traffic when the DNS server is up and when it is down.
+
+6. Configure FTP Server on a Linux/Windows machine using a FTP client/SFTP client characterise file transfer rate for a cluster of small files 100k each and a video file of 700mb.Use a TFTP client and repeat the experiment.
+
+7. Configure a mail server for IMAP/POP protocols and write a simple SMTP client in C/C++/Java client to send and receive mails.
+
+8. Implement Open NMS+ SNMPD for checking Device status of devices in community MIB of a linux PC. Using yellow pages and NIS/NFS protocols implement Network Attached Storage Controller(NAS).

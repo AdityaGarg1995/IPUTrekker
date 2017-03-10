@@ -1,5 +1,6 @@
 package com.example.ankushsingh.ggsipu.Streams;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
@@ -8,31 +9,32 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.ankushsingh.ggsipu.R;
-import com.example.ankushsingh.ggsipu.RESULT;
+import com.example.ankushsingh.ggsipu.Urls;
 
 public class CIVIL extends AppCompatActivity implements View.OnClickListener{
 
     Button button1,button2,button3,button4;
     Intent intent;
 
-    String url1="http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%203rd%20Semester4,5,6,7,8/1Final%20Syllabus-CIVIL-3rd%20Semester4,5,6,7,8.pdf",
-           url2="http://bookboon.com/en/civil-engineering-ebooks";
+    Activity a = this;
+
+
+    public static final String url2 = "http://bookboon.com/en/civil-engineering-ebooks";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_civil);
+        setContentView(R.layout.activity_it);
 
-        button1 = (Button)findViewById(R.id.civil2);
-        button2 = (Button)findViewById(R.id.civil3);
-        button3 = (Button)findViewById(R.id.civil6);
-        button4 = (Button)findViewById(R.id.civil7);
+        findViewById(R.id.it2).setOnClickListener(this);
+        findViewById(R.id.it3).setOnClickListener(this);
+        findViewById(R.id.it6).setOnClickListener(this);
+        findViewById(R.id.it7).setOnClickListener(this);
 
 
-        button1.setOnClickListener(this);
-        button2.setOnClickListener(this);
-        button3.setOnClickListener(this);
-        button4.setOnClickListener(this);
+        a.setTitle("Civil Engineering");
 
 
     }
@@ -42,26 +44,18 @@ public class CIVIL extends AppCompatActivity implements View.OnClickListener{
     public void onClick(View v) {
 
         switch(v.getId()){
-
-            case R.id.civil2:
-                intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url1));
+            case R.id.it2: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.civilSyllabus));
                 break;
-
-            case R.id.civil3:
-                intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
+            case R.id.it3: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
                 break;
-
-            case R.id.civil7:
-                intent = new Intent(this,RESULT.class);
+            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","Civil Engineering");
                 break;
-
-            case R.id.civil6:
-                intent = new Intent(this,CIVIL2.class);
+            case R.id.it6: intent = new Intent(this,IT2.class).putExtra("StreamName", "Civil");
                 break;
-
         }
 
-        startActivity(intent);
+        if(intent != null)
+            startActivity(intent);
 
     }
 

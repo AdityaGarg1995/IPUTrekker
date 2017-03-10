@@ -1,82 +1,46 @@
-<LinearLayout android:layout_height="match_parent"
-    android:layout_width="match_parent"
-    xmlns:android="http://schemas.android.com/apk/res/android">
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="WELCOME TO IT"
-            android:textSize="40dp"
-            android:gravity="center"
-            android:id="@+id/it1"
-            />
+        android:layout_height="wrap_content"
+        xmlns:android="http://schemas.android.com/apk/res/android">
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/it1"
-            android:text="SYLLABUS"
+            android:text="COMPLETE SYLLABUS (PDF)"
             android:id="@+id/it2"
-
+            android:background="@color/white"
             />
+
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/it2"
             android:id="@+id/it3"
-            android:text="IMPORTANT BOOKS THORUGHOUT YOUR STUDY"
+            android:text="IMPORTANT BOOKS FOR STUDY"
+            android:background="@color/white"
             />
 
-        <TextView
+        <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="SEMESTER-WISE RESULT (PDF)"
+            android:layout_gravity="center"
             android:layout_below="@+id/it3"
-            android:text="RESULT"
-            android:textSize="40dp"
             android:gravity="center"
-            android:id="@+id/it4"
-
+            android:id="@+id/it6"
+            android:background="@color/white"
             />
 
-        <LinearLayout
-            android:layout_width="wrap_content"
+        <Button
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/it5"
-            android:layout_below="@id/it4"
-            android:gravity="center"
-            android:weightSum="2"
-            >
+            android:text="Semester-wise Syllabus"
+            android:layout_below="@+id/it6"
+            android:id="@+id/it7"
+            android:background="@color/white"
+            />
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="COMPLETE RESULT OF ALL STUDENTS"
-                android:layout_weight="1"
-                android:layout_gravity="center"
-                android:gravity="center"
-                android:id="@+id/it6"
-
-                />
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="FOR INDIVIDUAL RESULT"
-                android:id="@+id/it7"
-                />
-        </LinearLayout>
+</RelativeLayout>
 
 
-
-
-
-    </RelativeLayout>
-
-
-</LinearLayout>

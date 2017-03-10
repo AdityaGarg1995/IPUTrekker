@@ -1,0 +1,67 @@
+Paper Code: ETEC-405
+Paper: Wireless Communication
+
+
+UNIT – I
+Introduction To Wireless Communication Systems:
+ Evolution of mobile radio communications; examples of wireless comm. systems, paging systems, Cordless telephone systems, overview of generations of cellular systems, comparison of various wireless systems.
+Introduction to Personal Communication Services (PCS):
+ PCS architecture, Mobility management, Networks signaling.
+A basic cellular system, multiple access techniques:
+ FDMA, TDMA, CDMA.
+Introduction to Wireless Channels and Diversity:
+ Fast Fading Wireless Channel Modeling, Rayleigh/Ricean Fading Channels, BER Performance in Fading Channels, Introduction to Diversity modeling for Wireless communications.
+[T1,T2]
+
+UNIT - II
+2G Networks:
+ Second generation, digital, wireless systems: GSM, IS_136 (D-AMPS), IS-95 CDMA.
+Global system for Mobile Communication (GSM) system overview:
+ GSM Architecture, Mobility Management, Network signaling, mobile management, voice signal processing and coding.
+Spread Spectrum Systems:
+ Cellular Code Division Access Systems- Principle, Power Control, effects of multipath propagation on CDMA.
+[T1,T2]
+
+UNIT - III
+2.5G Mobile Data Networks:
+ Introduction to Mobile Data Networks, General Packet Radio Services (GPRS): GPRS architecture, GPRS Network nodes, EDGE, Wireless LANs, (IEEE 802.11), Mobile IP.
+Third Generation (3G) Mobile Services:
+ Introduction to International Mobile Telecommunications 2000 (IMT 2000) vision, Wideband Code Division Multiple Access (W-CDMA), and CDMA 2000, Quality of services in 3G, Introduction to 4G.
+[T1,T2]
+
+UNIT – IV
+Wireless Local Loop (WLL):
+ Introduction to WLL architecture, WLL technologies. Wireless personal area
+networks (WPAN):
+ Blue tooth, IEEE 802.15, architecture, protocol stack. Wi-Max, introduction to Mobile Adhoc Networks.
+Global Mobile Satellite Systems, Case studies of IRIDIUM and GLOBALSTAR systems.
+[T1,T2]
+
+
+Text Books:
+[T1] Raj Pandya
+     “Mobile & Personnel communication Systems and Services”
+      Prentice Hall India, 2001
+[T2] Theodore S. Rappaport
+     “Wireless Communication-Principles and practices”, 2nd Ed.
+      Pearson Education Pvt Ltd, 5th Edition, 2008
+
+Reference Books:
+[R1] T.L.Singhal
+     “Wireless Communication”
+      Tata McGraw Hill Publication
+[R2] Jochen Schiller
+     “Mobile communications”
+      Pearson Education Pvt Ltd, 2002
+[R3] Yi–Bing Lin & Imrich Chlamatac
+     “Wireless and Mobile Networks Architecture”
+      John Wiley & Sons, 2001
+[R4] Lee, W.C.Y.
+     “Mobile Cellular Telecommunication”, 2nd Edition
+      McGraw Hill, 1998
+[R5] Smith & Collins
+     “3G Wireless Networks”
+      TMH, 2007
+[R6] Schiller, Jochen
+     “Mobile Communications”, 2nd Edition
+      Addison Wesley

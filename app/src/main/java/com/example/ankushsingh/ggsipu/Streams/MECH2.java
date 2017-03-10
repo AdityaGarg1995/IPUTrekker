@@ -1,5 +1,6 @@
 package com.example.ankushsingh.ggsipu.Streams;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
@@ -11,76 +12,94 @@ import com.example.ankushsingh.ggsipu.R;
 
 public class MECH2 extends AppCompatActivity implements View.OnClickListener {
 
-    Button button1,button2,button3,button4,button5,button6;
-    Intent intent;
+    Button[] buttons = new Button[6];
 
-    String url1="http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/112_MET_1stSEM.pdf";
-    String url2="http://164.100.158.135/ExamResults/2016/310716/PDF2/112_MET_2_SEM.pdf";
-    String url3="http://ipu.ac.in/exam/ExamResults/2016/290316/112_MET_3rd%20Sem.pdf";
-    String url4="http://164.100.158.135/ExamResults/2016/310716/PDF4/112_MET_4_SEM.pdf";
-    String url5="http://ipu.ac.in/exam/ExamResults/2016/300316/112_MET_5th%20Sem.pdf";
-    String url6="http://164.100.158.135/ExamResults/2016/310716/PDF6/112_MET_6_SEM.pdf";
+    public static final String mechResult[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/112_MET_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/112_MET_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/112_MET_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/112_MET_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/112_MET_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/112_MET_6_SEM.pdf"
+    };
+
+    String stream;
+
+    Intent intent;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_mech2);
-        button1=(Button)findViewById(R.id.mech11);
-        button2=(Button)findViewById(R.id.mech12);
-        button3=(Button)findViewById(R.id.mech13);
-        button4=(Button)findViewById(R.id.mech14);
-        button5=(Button)findViewById(R.id.mech15);
-        button6=(Button)findViewById(R.id.mech16);
+        setContentView(R.layout.activity_ee2);
 
-
-        button1.setOnClickListener(this);
-        button2.setOnClickListener(this);
-        button3.setOnClickListener(this);
-        button4.setOnClickListener(this);
-        button5.setOnClickListener(this);
-        button6.setOnClickListener(this);
+//        buttons[0] = (Button)findViewById(R.id.ee11);
+//        buttons[1] = (Button)findViewById(R.id.ee12);
+//        buttons[2] = (Button)findViewById(R.id.ee13);
+//        buttons[3] = (Button)findViewById(R.id.ee14);
+//        buttons[4] = (Button)findViewById(R.id.ee15);
+//        buttons[5] = (Button)findViewById(R.id.ee16);
+//
+//        for(int i = 0; i < 6; i++)
+//            buttons[i].setOnClickListener(this);
+//
+//        stream = getIntent().getExtras().getString("Stream");
+//
+//
+//        final Activity a = this;
+//        a.setTitle(stream);
 
 
     }
+
 
     @Override
     public void onClick(View v) {
-        switch (v.getId()){
-            case R.id.mech11:
-                intent =new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url1));
-                startActivity(intent);
-                break;
 
-            case R.id.mech12:
-                intent =new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url2));
-                startActivity(intent);
-                break;
-            case R.id.mech13:
-                intent =new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url3));
-                startActivity(intent);
-                break;
-            case R.id.mech14:
-                intent =new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url4));
-                startActivity(intent);
-                break;
-            case R.id.mech15:
-                intent =new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url5));
-                startActivity(intent);
-                break;
 
-            case R.id.mech16:
-                intent =new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url6));
-                startActivity(intent);
-                break;
+//            String url = "";
+//            intent = new Intent(Intent.ACTION_VIEW);
 
-        }
+//            switch (v.getId()) {
+//                case R.id.ee11: url = url1;
+//                    break;
+//                case R.id.ee12: url = url2;
+//                    break;
+//                case R.id.ee13: url = url3;
+//                    break;
+//                case R.id.ee14:url = url4;
+//                    break;
+//                case R.id.ee15:url = url5;
+//                    break;
+//                case R.id.ee16:url = url6;
+//                    break;
+//            }
+
+//            if(!url.equals("") && (intent != null)){
+//                intent.setData(Uri.parse(url));
+//                startActivity(intent);
+//            }
+
+
+//        else if(stream == "IT Syllabus: Choose Semester"){
+//
+//            switch (v.getId()) {
+//                case R.id.ee11: startActivity(new Intent(this, IT3.class));
+//                    break;
+//                case R.id.ee12: startActivity(new Intent(this, IT4.class));
+//                    break;
+//                case R.id.ee13: intent = new Intent(this, IT5.class);
+//                    break;
+//                case R.id.ee14: intent = new Intent(this, IT6.class);
+//                    break;
+//                case R.id.ee15: intent = new Intent(this, IT7.class);
+//                    break;
+//                case R.id.ee16: intent = new Intent(this, IT8.class);
+//                    break;
+//            }
+//        }
+
     }
-}
 
+
+}

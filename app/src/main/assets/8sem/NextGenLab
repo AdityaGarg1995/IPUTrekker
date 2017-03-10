@@ -1,0 +1,45 @@
+Paper Code: ETIT-458(ELECTIVE-II)
+Paper: Next Generation Networks Lab
+
+
+List of Experiments:
+
+1. Overview of IP Address
+
+2. Design Ethernet Cables : Cross Cable, Straight Cable, Rollover Cable
+
+3. Demonstrate to connect two computer without connecting devices
+
+4. Demonstrate to connect two computer with connecting devices
+
+5. Demonstrate to establish client-server connection with using of windows server 2008
+
+6. Use of policies in Windows Server 2008
+
+7. Overview of Router
+
+8. Demonstrate the use of router to make a connection
+
+9. Introduction to Network Address Translation
+
+10. Overview of different interfaces in router
+
+11. Implement IP Subnetting in IPV4
+
+12. Implement IP routing using RIP
+
+13. Implement IP routing using IGRP
+
+14. Implement IP routing using EIGRP
+
+15. Implement IP routing using OSPF
+
+16. Configuration of VLAN
+
+17. Configuration of VTP
+
+18. Managing traffic with Standard IP Access List
+
+19. Managing traffic with Extended IP Access List
+
+20. Overview of MPLS

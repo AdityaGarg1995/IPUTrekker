@@ -1,0 +1,72 @@
+Paper Code : ETMA-101
+Paper : Applied Mathematics-I
+
+
+UNIT- I
+Successive differentiation:
+  Leibnitz theorem for nth derivative (without proof).
+Infinite series:
+  Convergence and divergence of infinite series, positive terms infinite series, necessary condition, comparison test (Limit test), D’Alembert ratio test, Integral Test, Cauchy’s root test, Raabe’s test and Logarithmic test(without proof).
+Alternating series, Leibnitz test, conditional and absolutely convergence.
+Taylor’s and Maclaurin’s expansion(without proof) of function (ex, log(1+x), cos x, sin x) with remainder terms, Taylor’s and Maclaurin’s series, Error and approximation.
+[T1][T2]
+
+UNIT- II
+Asymptotes to Cartesian curves.
+Radius of curvature and curve tracing for Cartesian, parametric and polar curves.
+Integration:
+  Integration using reduction formula for sin^nxdx, cos^nxdx, sin^nxcos^mxdx.
+Applications of integration:
+  Area under the curve, length of the curve, volumes and surface area of solids of revolution about axis only.
+Gamma and Beta functions.
+[T1][T2]
+
+UNIT- III
+Matrices:
+  Orthogonal matrix, Hermitian matrix, Skew-Hermitian matrix and Unitary matrix.
+  Inverse of matrix by Gauss-Jordan Method (without proof). Rank of matrix by echelon and Normal (canonical) form.
+Linear dependence and linear independence of vectors.
+Consistency and inconsistency of linear system of homogeneous and non homogeneous equations.
+Eigen values and Eigen vectors.
+Properties of Eigen values (without proof).
+Cayley-Hamilton theorem (without proof).
+Diagonlization of matrix.
+Quadratic form, reduction of quadratic form to canonical form.
+[T1][T2]
+
+UNIT-IV
+Ordinary differential equations:
+  1st order linear differential equations, Leibnitz and Bernaulli’s equation.
+  Exact differential equations, Equations reducible to exact differential equations.
+  Linear differential equation of higher order with constant coefficients, Homogeneous and non-homogeneous differential equations reducible to linear differential equations with constant coefficients.
+  Method of variation of parameters.
+  Bessel’s and Legendre’s equations (without series solutions), Bessel’s and Legendre’s functions and their properties.
+[T1][T2]
+
+
+Text:
+[T1] B.S. Grewal
+      ”Higher Engineering Mathematics”
+       Khanna Publications
+[T2] R.K. Jain and S.R.K. Iyengar
+      ”Advanced Engineering Mathematics“
+       Narosa Publications
+
+References:
+[R1] E. Kresyzig
+      ”Advance Engineering Mathematics”
+       Wiley publications
+[R2] G.Hadley
+      “Linear Algebra”
+       Narosa Publication
+[R3] N.M. Kapoor,
+      “A Text Book of Differential Equations”
+       Pitambar publication
+[R4] Wylie R,
+      “Advance Engineering mathematics”
+       McGraw-Hill
+[R5] Schaum’s Outline on Linear Algebra
+       Tata McGraw-Hill
+[R6] Polking and Arnold
+      “Ordinary Differential Equation using MatLab”
+       Pearson

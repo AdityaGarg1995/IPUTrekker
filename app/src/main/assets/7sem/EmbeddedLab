@@ -1,0 +1,21 @@
+Paper Code: ETIT-459(ELECTIVE)
+Paper: Embedded Systems Lab
+
+
+List of Experiments:
+
+1. Introduction to microcontroller and interfacing modules.
+
+2. Interface the 7 segment display with microcontroller 8051
+
+3. Create a series of moving lights using PIC on LEDs.
+
+4. Interface the stepper motor with microcontroller.
+
+5. Display character ‘A’ on 8*8 LED Matrix.
+
+6. Write an ALP to add 16 bits using ARM 7 Processor
+
+7. Write an ALP for multiplying two 32 bit numbers using ARM Processor
+
+8. Write an ALP to multiply two matrices using ARM processor

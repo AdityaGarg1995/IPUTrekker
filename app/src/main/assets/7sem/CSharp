@@ -1,0 +1,53 @@
+Paper Code: ETIT-419
+Paper: .NET and C# Programming
+
+
+UNIT I
+MS.NET Framework Introduction: Framework Components, Framework Versions, Types of Applications which can be developed, Base Class Library, Namespaces, MSIL/Metadata and PE files, Common Language Runtime(CLR), Managed Code, MS.NET Memory Management/Garbage Collection, Common Type System(CTS), Common Language Specification(CLS), Types of JIT Compilers, Security Manager, control application development
+Language basics: Why Datatypes, Global, Stack and Heap Memory, Reference Type and Value Type, Datatypes & Variables Declaration, Implicit and Explicit Casting, Checked and Unchecked Blocks – Overflow Checks, Casting between other datatypes, Boxing and Unboxing, Enum and Constant, Operators, Control Statements, Working with Arrays and methods.
+[T1,T2]
+
+UNIT II
+Introduction to Object Oriented Features: What is an Object, state of an Object, Lifecycle of an Object, relationship between Class and Object, define Application using Objects, Principles of Object Orientation, Encapsulation, Inheritance, Polymorphism, Encapsulation is binding of State and Behaviour together, Inheritance is based on “Is a” relationship, Understanding Polymorphism with Examples.
+Constructor & Destructor, Working with "static" Members, Constructor in Inheritance, Type Casting of Reference Types, Static and Dynamic Binding and Virtual Methods, Abstract Class Object as Parent of all classes, Interface, Syntax for Implementation of Interface, Explicit Implementation of Interface members, Types of Inheritance, exceptional handling.
+[T1,T2]
+
+UNIT III
+Working with Collections and Generics: IList and IDictionary, typesafety issue with ArrayList and Hashtable classes, IEnumerable and IEnumerator, Sorting Items in a collection using IComparable, custom generic classes, Generic Collection Classes.
+Operator Overloading, Partial Classes, Importance of Attributes, working with components/assemblies.
+Data stream and files: text stream, binary stream, working with file system, Serialization & Deserialization, multithreading.
+[T1,T2]
+
+UNIT IV
+WinForms: Introduction, Controls, Menus and Context Menus, Menu Strip, Toolbar Strip, Graphics & GDI, SDI & MDI Applications, Dialog box, Form Inheritance, Developing Custom, Composite & ExtendedControls, Data Access using ADO.NET, Data Access using ADO.NET - dataset, XML, debugging and tracing.
+Delegates & Events: Delegate Declaration, Sample Application, Chat Application using Delegates, += and -= Operator(Events), Chat Application using Delegates and Events, General Syntax for Delegates and Events.
+[T1,T2]
+
+
+Text Books:
+[T1] Stephen Walther
+     ”ASP.NET 3.5 Unleashed or ASP.NET 4.5 Unleashed”
+      Pearsons Publication
+[T2] George Shepherd
+     "Microsoft ASP.NET 3.5 Step by Step"
+      PHI learning Publication Eastern Economy
+[T3] Chris Love, Marco Bellinaso
+     ”ASP.NET 3.5 Website Programming Problem-Design–Solution”
+      Wrox publication 2012
+
+Reference Books:
+[R1] George Shepherd
+     "Microsoft ASP.NET 4.0 Step by Step"
+      PHI Learning Publication Eastern Economy
+[R2] Imar Spaanjaars
+     "Beginning ASP.NET 3.5 In C# and VB"
+      Wiley/Wrox publication, 2009
+[R3] Bill Evjen, Scott Hanselman, Devin Rader
+     “Professional ASP.NET 3.5 in C# and VB"
+      Wiley Publication, 2008
+[R4] Matthew MacDonald
+     “The Complete Reference: ASP.NET”
+      Tata McGraw Hill, 2002
+[R5] Jason N. Gaylord et al
+     "Professional ASP.NET 4.5 in C# and VB"
+      Wrox publication, 2013
