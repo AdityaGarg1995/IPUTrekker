@@ -1,0 +1,46 @@
+Paper Code: ETCS-423
+Paper: Advanced DBMS
+
+
+UNIT-I
+Concept of advanced database techniques, Impact of emerging database standards, Study of DDBMS architecture, New developments in database technology, Introduction of PL/SQL, PL/SQL Database Objects, Procedures, Functions, Packages, Triggers, Programmatic SQL, Embedded SQL, Dynamic SQL, and ODBC Standard.
+Parallel Database Architecture, Data base System Structure, Storage Manager, Query Processor.
+[T1, T3]
+
+UNIT-II
+Introduction to the Relational Model, Advanced SQL programming, Advanced Transaction Processing, Relational model conformity and Integrity, Data Replication, Security considerations, Relational Model of Data and RDBMS Implementation Techniques, Query optimization, Integrity Constraint Over relations, Querying relational data and relational Algebra.
+[T1, T3]
+
+UNIT-III
+Object Relational database concepts, Temporal database concepts, Mobile Databases, Object based databases Complex data types, structured types and inheritance in SQL, object identity and reference types in SQL, Structure of XML, Document Schema, Querying and Transformation, API in XML, XML applications.
+[T2]
+
+UNIT-IV
+Postgre SQL, Oracle, IBM DB2 Universal Database, SQL standards, SQL:1999, SQL:2003, Standards for interoperability and integration, XML related specifications, X-Query, X-Path, Web Services, SOAP.
+[T3, R3]
+
+
+Text Books:
+[T1] Silberschatz, Korth
+      Data base System Concepts, 5th edition
+       McGraw-Hill
+[T2] Elmasri, Navathe
+      Fundamentals of Database Systems, 5th Edition
+       Pearson Education, India
+
+Reference Books:
+[R1] Raghu Ramakrishnan, Johannes Gehrke
+      Database Management Systems
+       McGraw- Hill
+[R2]  Elmasri, Navrate
+       Fundamentals of Database Systems
+        Pearson Education
+[R3] S.R. Prabhu
+      “Object-Oriented Database Systems: Approaches and Architectures”, 2nd edition
+       Prentice-Hall of India, Pvt Ltd, 2005
+[R4] Ivan Bayross
+      SQL/ PL/SQL, The programming language of Oracle, 4th Edition
+       BPB Publications.
+[R5] Rajesh Narang
+      “Object Oriented Interfaces and Databases”
+       Prentice-Hall of India, Pvt Ltd, 2004

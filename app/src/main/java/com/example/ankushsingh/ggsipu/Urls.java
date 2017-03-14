@@ -76,11 +76,11 @@ public class Urls {
                                                  "3rd%20Semester4,5,6,7,8/Final%20Syllabus-Power-3rd%20Semester4,5,6,7,8.pdf",
 
                                  toolSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
-                                                "3rd%20Semester4,5,6,7,8/Final%20Syllabus-Tool-3rd%20Semester4,5,6,7,8.pdf";
+                                                "3rd%20Semester4,5,6,7,8/Final%20Syllabus-Tool-3rd%20Semester4,5,6,7,8.pdf",
 
 
-    // IT Books
-//    csharp = "http://sd.blackball.lv/library/Pro_CSharp_5.0_and_the_.NET_4.5_Framework_6th_edition.pdf",
+    // IT Book
+    cSharpBook = "http://sd.blackball.lv/library/Pro_CSharp_5.0_and_the_.NET_4.5_Framework_6th_edition.pdf";
 
 
 
@@ -161,7 +161,7 @@ public class Urls {
 //    ETHS 402 Human Values and Professional Ethics-II
                              hvpe_iiBook = "http://www.imd.inder.cu/adjuntos/article/524/Professional%20Ethics%20and%20Human%20Values.pdf",
 //    E- Business and E- commerce Management by Dave Chaffey
-                             ecom = "https://geomart25.files.wordpress.com/2014/05/dave-chaffey-e-business-and-e-commerce-management-strategies-4th-ed-qwerty80.pdf";
+                             ecomBook = "https://geomart25.files.wordpress.com/2014/05/dave-chaffey-e-business-and-e-commerce-management-strategies-4th-ed-qwerty80.pdf";
 
 
 

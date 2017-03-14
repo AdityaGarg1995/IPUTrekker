@@ -36,26 +36,18 @@
             android:text="Applied Mathematics-III"
             android:layout_weight="1"
             />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/fcs"
-            android:text="Foundation of Computer Science"
-            android:layout_weight="1"
-            />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/stld"
-            android:text="Switching Theory and Logic Design"
-            android:layout_weight="1"
-            />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cns"
-            android:text="Circuits and Systems"
+            android:text="Circuits &amp; Systems"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cgmm"
+            android:text="Computer Graphics &amp; Multimedia"
             android:layout_weight="1"
             />
         <Button
@@ -68,8 +60,15 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/cgmm"
-            android:text="Computer Graphics and Multimedia"
+            android:id="@+id/fcs"
+            android:text="Foundation of Computer Science"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/stld"
+            android:text="Switching Theory &amp; Logic Design"
             android:layout_weight="1"
             />
 
@@ -87,6 +86,20 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/cnsLab"
+            android:text="Circuits &amp; Systems Lab"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cgmmLab"
+            android:text="Computer Graphics &amp; Multimedia Lab"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:id="@+id/dsLab"
             android:text="Data Structures Lab"
             android:layout_weight="1"
@@ -95,22 +108,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/stldLab"
-            android:text="Switching Theory and Logic Design Lab"
+            android:text="Switching Theory &amp; Logic Design Lab"
             android:layout_weight="1"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lab1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/cgmmLab"
-            android:text="Computer Graphics and Multimedia Lab"
-            android:layout_weight="1"
-            />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/cnsLab"
-            android:text="Circuits and Systems Lab"
-            android:layout_weight="1"
+            android:id="@+id/lab2"
             />
     </LinearLayout>
 

@@ -1,0 +1,46 @@
+Paper Code: ETCS-414
+Paper: Computer Vision
+
+
+UNIT I
+Geometric Image Features
+Elements of Differential Geometry, Contour Geometry,
+Analytical Image Features
+Elements of Analytical Euclidean Geometry, Geometric Camera Parameters, Calibration Methods.
+[T1, T2]
+
+UNIT II
+Linear Filters
+Linear Filters and Convolution, Shift invariant linear systems, Spatial Frequency and Fourier Transforms, Sampling and Aliasing
+Edge Detection
+Estimating Derivatives with Finite Differences, Noise, Edges and Gradient-based Edge Detectors.
+[T1, R1]
+
+UNIT III
+Texture
+Representing Texture, Analysis (and Synthesis) Using Oriented Pyramids, Application: Synthesizing Textures for Rendering, Shape from Texture: Planes and Isotropy.
+Shape from Shading
+Introduction to the concept of Shading From Shading (SFS), Application of SFS (Texture Shop, Image-Based Material Emitting, Optimization Based SFS), Photometric stereo, Spherical Illumination, Displacement Mapping, Feature Mapping.
+[T1, T2]
+
+UNIT IV
+Affine Structure from Motion
+Elements of Affine Geometry, Affine Structure from Two Images, Affine Structure from Multiple Images, From
+Affine to Euclidean Images, Affine Motion Segmentation
+Projective Structure from Motion
+Elements of Projective Geometry.
+[T1, T2]
+
+
+Text Books:
+[T1] Computer Vision- A modern Approach
+      D. Forsyth and J. Ponce
+       Prentice Hall
+[T2] Robot Vision
+      B.K.P. Horn
+       McGraw-Hill
+
+Reference Books:
+[R1] Introductory Techniques for 3D Computer Vision
+      E. Trucco and A. Verri
+       Prentice Hall

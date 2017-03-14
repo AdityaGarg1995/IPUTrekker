@@ -16,6 +16,7 @@ public class IT2 extends AppCompatActivity implements View.OnClickListener {
 
     String stream;
 
+
     String itResult[] = {
            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/031_IT_1stSEM.pdf",
            "http://164.100.158.135/ExamResults/2016/310716/PDF2/031_IT_2_SEM.pdf",
@@ -26,6 +27,114 @@ public class IT2 extends AppCompatActivity implements View.OnClickListener {
            "http://ipu.ac.in/exam/ExamResults/2016/300316/031_IT_7th%20Sem.pdf",
            "http://164.100.158.135/ExamResults/2016/310716/PDF8/031_IT_8_SEM.pdf"
     };
+
+
+    String civilResult[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/034_CIVIL_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/034_CIVIL_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/034_CIVIL_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/034_CIVIL_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/034_CIVIL_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/034_CIVIL_6_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/034_CIVIL_7th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF8/034_CIVIL_8_SEM.pdf"
+    };
+
+
+    String cseResult[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/027_CSE_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/027_CSE_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/027_CSE_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/027_CSE_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/027_CSE_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/027_CSE_6_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/027_CSE_7th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF8/027_CSE_8_SEM.pdf"
+    };
+
+
+    String eceResult[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/028_ECE_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/028_ECE_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/028_ECE_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/028_ECE_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/028_ECE_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/028_ECE_6_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/028_ECE_7th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF8/028_ECE_8_SEM.pdf"
+    };
+
+
+    String eeeResult[] = {
+            "http://www.ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/049_EEE_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/049_EEE_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/049_EEE_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/049_EEE_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/049_EEE_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/049_EEE_6_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/049_EEE_7th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF8/049_EEE_8_SEM.pdf"
+    };
+
+
+    String eneResut[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/056_ENE_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/056_ENE_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/056_ENE_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/056_ENE_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/056_ENE_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/056_ENE_6_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/056_ENE_7th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF8/056_ENE_8_SEM.pdf"
+    };
+
+
+    String iceResult[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/030_ICE_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/030_ICE_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/030_ICE_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/030_ICE_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/030_ICE_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/030_ICE_6_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/030_ICE_7th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF8/030_ICE_8_SEM.pdf"
+    };
+
+
+    String maeResult[] = {"http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/036_MAE_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/036_MAE_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/036_MAE_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/036_MAE_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/036_MAE_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/036_MAE_6_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/036_MAE_7th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF8/036_MAE_8_SEM.pdf"
+    };
+
+
+    String powerResult[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/037_PE_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/037_PE_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/037_PE_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/037_PE_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/037_PE_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/037_PE_6_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/037_PE_7th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF8/037_PE_8_SEM.pdf"
+    };
+
+
+    String toolResult[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/086_TE_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/086_TE_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/086_TE_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/086_TE_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/086_TE_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/086_TE_6_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/086_TE_7th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF8/086_TE_8_SEM.pdf"
+    };
+
 
 
     @Override
@@ -60,23 +169,23 @@ public class IT2 extends AppCompatActivity implements View.OnClickListener {
         switch(streamName){
             case "IT": resultUrls = itResult;
                 break;
-            case "CSE": resultUrls = CSE2.cseResult;
+            case "CSE": resultUrls = cseResult;
                 break;
-            case "ECE": resultUrls = ECE2.eceResult;
+            case "ECE": resultUrls = eceResult;
                 break;
-            case "EEE": resultUrls = EEE2.eeeResult;
+            case "EEE": resultUrls = eeeResult;
                 break;
-            case "Civil": resultUrls = CIVIL2.civilResult;
+            case "CE": resultUrls = civilResult;
                 break;
-            case "ENE": resultUrls = ENVO2.eneResut;
+            case "ENE": resultUrls = eneResut;
                 break;
-            case "ICE": resultUrls = ICE2.iceResult;
+            case "ICE": resultUrls = iceResult;
                 break;
-            case "MAE": resultUrls = MAE2.maeResult;
+            case "MAE": resultUrls = maeResult;
                 break;
-            case "Power": resultUrls = POWER2.powerResult;
+            case "PE": resultUrls = powerResult;
                 break;
-            case "Tool": resultUrls = TOOL2.toolResult;
+            case "TE": resultUrls = toolResult;
                 break;
         }
         return resultUrls;
@@ -87,11 +196,9 @@ public class IT2 extends AppCompatActivity implements View.OnClickListener {
     public void onClick(View v) {
 
 
-        String url = "";
+        String url = "", result[] = resultUrls(stream);
         Intent intent = new Intent(Intent.ACTION_VIEW);
 
-
-        String result[] = resultUrls(stream);
 
         switch (v.getId()){
 

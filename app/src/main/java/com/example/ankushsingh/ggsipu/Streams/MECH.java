@@ -42,9 +42,9 @@ public class MECH extends AppCompatActivity implements View.OnClickListener {
                 break;
             case R.id.it3: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
                 break;
-            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","Mechatronics");
+            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","MT");
                 break;
-            case R.id.it6: intent = new Intent(this,EE2.class).putExtra("StreamName", "Mech");
+            case R.id.it6: intent = new Intent(this,EE2.class).putExtra("StreamName", "MT");
                 break;
         }
 

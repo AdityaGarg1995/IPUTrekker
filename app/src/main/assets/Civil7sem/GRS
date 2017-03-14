@@ -1,44 +1,57 @@
-Paper Code: ETCE-415 L T/P C
-Paper: Geo-synthetics and Reinforced Soil 3 1 4
-Objective: To introduce the students to the different types of geosynthetics, their manufacturing technique,
-testing methods and their applications in different types of Civil Engineering projects.
+Paper Code: ETCE-415
+Paper: Geo-synthetics and Reinforced Soil
+
+
 UNIT - I
-Introduction: Historical background of reinforced soil, Principles of reinforced soil through Mohr circle
-analysis.
-Different types of geosynthetics: Types of geosynthetics like geotextiles, geogrids, geonets, geocells, geocomposites,
-their manufacturing methods.
-Testing methods for geosynthetics: Techniques for testing of different index properties, strength properties,
-Apparent Opening Size, In-plane and cross-plane permeability tests.
-[T1,T2][No. of Hrs: 12]
+Introduction:
+  Historical background of reinforced soil, Principles of reinforced soil through Mohr circle analysis.
+Different types of geosynthetics:
+  Types of geosynthetics like geotextiles, geogrids, geonets, geocells, geocomposites, their manufacturing methods.
+Testing methods for geosynthetics:
+  Techniques for testing of different index properties, strength properties, Apparent Opening Size, In-plane and cross-plane permeability tests.
+[T1,T2]
+
 UNIT - II
-Reinforced Soil retaining walls: Different types of walls like wrap-around walls, full-height panel walls,
-discrete-facing panel walls, modular block walls Design methods as per BS-8006 and FHWA methods
-Construction methods for reinforced soil retaining walls.
-Reinforced soil slopes: Different slope stability analysis methods like planar wedge method, bi-linear wedge
-method, circular slip methods, Erosion control on slopes using geosynthetics.
-[T1][No. of Hrs: 12]
+Reinforced Soil retaining walls:
+  Different types of walls like wrap-around walls, full-height panel walls, discrete-facing panel walls, modular block walls Design methods as per BS-8006 and FHWA methodsConstruction methods for reinforced soil retaining walls.
+Reinforced soil slopes:
+  Different slope stability analysis methods like planar wedge method, bilinear wedge method, circular slip methods, Erosion control on slopes using geosynthetics.
+[T1]
+
 UNIT - III
-Applications in foundations: Binquet and Lee's approach for analysis of foundations with reinforcement layers.
-Drainage and filtration applications of geosynthetics: Different filtration requirements, filtration in different
-types of soils and criteria for selection of geotextiles.
-[T2][No. of Hrs: 10]
+Applications in foundations:
+  Binquet and Lee's approach for analysis of foundations with reinforcement layers.
+Drainage and filtration applications of geosynthetics:
+  Different filtration requirements, filtration in different types of soils and criteria for selection of geotextiles.
+[T2]
+
 UNIT - IV
-Pavement application: Geosynthetics for separation and reinforcement in flexible pavements, design by
-Giroud-Noiray approach, reflection cracking and control using geosynthetics.
-Construction of landfills using geosynthetics: Different components of modern landfills, collection techniques
-for leachate, application of different geosynthetics like geonets, geotextiles for drainage in landfills, use of
-geomembranes and Geosynthetic Clay Liner [GCL] as barriers.
-[T1,T2][No. of Hrs: 11]
+Pavement application:
+  Geosynthetics for separation and reinforcement in flexible pavements, design by Giroud-Noiray approach, reflection cracking and control using geosynthetics.
+Construction of landfills using geosynthetics:
+  Different components of modern landfills, collection techniques for leachate, application of different geosynthetics like geonets, geotextiles for drainage in landfills, use ofgeomembranes and Geosynthetic Clay Liner [GCL] as barriers.
+[T1,T2]
+
+
 Text Books:
-[T1] Koerner, R.M. "Designing with Geosynthetics", Prentice Hall, New Jersey, USA, 4th edition.
-[T2] Jewell, R.A., "Soil Reinforcement with Geotextiles", Special Publication No. 123, CIRIA, Thomas
-Telford. London, UK, 1996.
+[T1] Koerner, R.M.
+      "Designing with Geosynthetics", 4th edition
+        Prentice Hall, New Jersey, USA
+[T2] Jewell, R.A.
+      "Soil Reinforcement with Geotextiles"
+        Special Publication No. 123, CIRIA, Thomas Telford. London, UK, 1996
+
 References
-[R1] Geosynthetics - New Horizons, Eds. G.V. Rao, PK Banerjee, J.T. Shahu, G.V. Ramana, Asian Books
-Private Ltd., New Delhi, 2004.
-[R2] Reinforced Soil Engineering: Advances in Research and Practice, Hoe I. Ling, Dov Leshchinsky
-Fumio 2003-Tatsuoka.
-[R3] Design and Practice of Geosynthetic-Reinforced Soil Structures, Hoe I. Ling, Guido Gottardi Daniele,
-2013-Cazzuffi
-[R4] Geosynthetics and Their Applications, Sanjay Kumar Shukla – 2002
-[R5] Geosynthetics Asia 1997: Select papers, C.V.J. Varma, Venkatappa Rao, G 1998-Rao, G.R.A
+[R1] Geosynthetics - New Horizons, Eds
+      G.V. Rao, PK Banerjee, J.T. Shahu, G.V. Ramana
+       Asian Books Private Ltd, New Delhi, 2004
+[R2] Reinforced Soil Engineering: Advances in Research and Practice
+      Hoe I. Ling, Dov Leshchinsky Fumio
+       Tatsuoka, 2003
+[R3] Design and Practice of Geosynthetic-Reinforced Soil Structures
+      Hoe I. Ling, Guido Gottardi Daniele
+       Cazzuffi, 2013
+[R4] Geosynthetics and Their Applications
+      Sanjay Kumar Shukla – 2002
+[R5] Geosynthetics Asia 1997: Select papers
+      C.V.J. Varma, Venkatappa Rao, G 1998-Rao, G.R.A

@@ -22,6 +22,12 @@ public class CIVIL extends AppCompatActivity implements View.OnClickListener{
     public static final String url2 = "http://bookboon.com/en/civil-engineering-ebooks";
 
 
+    public static final String civilBook1 = "http://www.icivilengineer.com/Structural_Engineering/Structure_Maintenance/",
+                               civilBook2 = "http://www.structural.net/Repair/repair_concrete.html",
+                               civilBook3 = "http://www.interpore.org/reference_material/mgfc-course/";
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
@@ -48,9 +54,9 @@ public class CIVIL extends AppCompatActivity implements View.OnClickListener{
                 break;
             case R.id.it3: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
                 break;
-            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","Civil Engineering");
+            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","CE");
                 break;
-            case R.id.it6: intent = new Intent(this,IT2.class).putExtra("StreamName", "Civil");
+            case R.id.it6: intent = new Intent(this,IT2.class).putExtra("StreamName", "CE");
                 break;
         }
 

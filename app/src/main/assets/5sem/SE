@@ -4,38 +4,39 @@ Paper: Software Engineering
 
 UNIT – I
 Introduction:
-Software Crisis, Software Processes.
-Software life cycle models: Waterfall, Prototype, Evolutionary and Spiral models, Overview of Quality Standards like ISO 9001, SEI-CMM.
+  Software Crisis, Software Processes.
+Software life cycle models:
+  Waterfall, Prototype, Evolutionary and Spiral models, Overview of Quality Standards like ISO 9001, SEI-CMM.
 Software Metrics:
-Size Metrics- LOC, Token Count, Function Count, Design Metrics, Data Structure Metrics, Information Flow Metrics.
+  Size Metrics- LOC, Token Count, Function Count, Design Metrics, Data Structure Metrics, Information Flow Metrics.
 [T1][R1][R2]
 
 UNIT – II
 Software Project Planning:
-Cost estimation, static, Single and multivariate models, COCOMO model, Putnam Resource Allocation Model, Risk management.
+  Cost estimation, static, Single and multivariate models, COCOMO model, Putnam Resource Allocation Model, Risk management.
 Software Requirement Analysis and Specifications:
-Problem Analysis, Data Flow Diagrams, Data Dictionaries, Entity-Relationship diagrams, Software Requirement and Specifications, Behavioural and Non-behavioural requirements, Software Prototyping.
+  Problem Analysis, Data Flow Diagrams, Data Dictionaries, Entity-Relationship diagrams, Software Requirement and Specifications, Behavioural and Non-behavioural requirements, Software Prototyping.
 [T1][R1][R2]
 
 UNIT – III
 Software Design:
-Cohesion & Coupling, Classification of Cohesiveness & Coupling, Function Oriented Design, Object Oriented Design, User Interface Design.
+  Cohesion & Coupling, Classification of Cohesiveness & Coupling, Function Oriented Design, Object Oriented Design, User Interface Design.
 Software Reliability:
-Failure and Faults, Reliability Models: Basic Model, Logarithmic Poisson Model, Calender time Component, Reliability Allocation.
+  Failure and Faults, Reliability Models: Basic Model, Logarithmic Poisson Model, Calender time Component, Reliability Allocation.
 [T1][R1][R2]
 
 UNIT – IV
 Software Testing:
-Software process, Functional testing: Boundary value analysis, Equivalence class testing, Decision table testing, Cause effect graphing, Structural testing: Path testing, Data flow and mutation testing, unit testing, integration and system testing, Debugging, Testing Tools & Standards.
+  Software process, Functional testing: Boundary value analysis, Equivalence class testing, Decision table testing, Cause effect graphing, Structural testing: Path testing, Data flow and mutation testing, unit testing, integration and system testing, Debugging, Testing Tools & Standards.
 Software Maintenance:
-Management of Maintenance, Maintenance Process, Maintenance Models, Reverse Engineering, Software Re-engineering, Configuration Management, Documentation.
+  Management of Maintenance, Maintenance Process, Maintenance Models, Reverse Engineering, Software Re-engineering, Configuration Management, Documentation.
 [T1][R1][R2]
 
 
 TEXT BOOKS:
 [T1] R. S. Pressman
-     “Software Engineering – A practitioner’s approach”
-      3rd ed, McGraw Hill Int Ed, 1992
+     “Software Engineering – A practitioner’s approach”, 3rd ed
+      McGraw Hill Int Ed, 1992
 [T2] K.K. Aggarwal & Yogesh Singh
      “Software Engineering”
       New Age International, 2001

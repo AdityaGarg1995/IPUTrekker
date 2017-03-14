@@ -39,7 +39,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/crypto"
-            android:text="Cryptography and Network Security"
+            android:text="Cryptography &amp; Network Security"
             android:layout_weight="1"
             />
         <Button
@@ -72,7 +72,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cryptoLab"
-            android:text="Cryptography and Network Security Lab"
+            android:text="Cryptography &amp; Network Security Lab"
             android:layout_weight="1"
             />
         <Button
@@ -139,7 +139,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/opto"
-            android:text="Optoelectronics and Optical Comm"
+            android:text="Optoelectronics &amp; Optical Comm"
             android:layout_weight="1"
             />
         <Button
@@ -176,7 +176,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cSharp"
-            android:text=".NET and C# Programming"
+            android:text=".NET &amp; C# Programming"
             android:layout_weight="1"
             />
         <Button
@@ -204,14 +204,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/sysAdmin"
-            android:text="System and Network Administration"
+            android:text="System &amp; Network Administration"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/sociology"
-            android:text="Sociology and Elements of Indian History for Engineers"
+            android:text="Sociology &amp; Elements of Indian History for Engineers"
             android:layout_weight="1"
             />
 

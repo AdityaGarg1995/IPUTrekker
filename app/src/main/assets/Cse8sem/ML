@@ -1,0 +1,65 @@
+Paper Code: ETCS-402
+Paper: Machine Learning
+
+
+UNIT-I
+Introduction:
+Basic concepts:
+  Definition of learning systems, Goals and applications of machine learning. Aspects of developing a learning system: training data, concept representation, function approximation.
+Types of Learning:
+  Supervised learning and unsupervised learning.
+Overview of classification:
+  setup, training, test, validation dataset, over fitting.
+Classification Families:
+  linear discriminative, non-linear discriminative, decision trees, probabilistic (conditional and generative), nearest neighbor.
+[T1, T2]
+
+UNIT-II
+Logistic regression, Perceptron, Exponential family, Generative learning algorithms, Gaussian discriminant analysis, Naive Bayes, Support vector machines: Optimal hyper plane, Kernels.
+Model selection and feature selection.
+Combining classifiers: Bagging, boosting (The Ada boost algorithm), Evaluating and debugging learning algorithms, Classification errors.
+[T1, T2]
+
+UNIT-III
+Unsupervised learning:
+  Clustering.
+  K-means.
+  EM Algorithm.
+  Mixture of Gaussians.
+  Factor analysis.
+  PCA (Principal components analysis), ICA (Independent components analysis), latent semantic indexing.
+  Spectral clustering, Markov models Hidden Markov models (HMMs).
+[T1, T2]
+
+UNIT-IV
+Reinforcement Learning and Control:
+  MDPs.
+  Bellman equations, Value iteration and policy iteration, Linear quadratic regulation (LQR).
+  LQG.
+  Q-learning.
+  Value function approximation, Policy search.
+  Reinforce.
+  POMDPs.
+[T1, T2]
+
+
+Text Books:
+[T1] Tom M. Mitchell
+      Machine Learning
+       McGraw Hill Education
+[T2] Bishop, C.
+      Pattern Recognition and Machine Learning
+       Berlin: Springer-Verlag, 2006
+[T3] Duda, Richard, Peter Hart, and David Stork
+      Pattern Classification, 2nd ed
+       New York, NY: Wiley-Interscience, 2000. ISBN: 9780471056690.
+[T4] Tom M. Mitchell
+      Machine Learning, 1st Edition
+       ISBN – 9781259096952, McGraw-Hill Series
+Reference Books:
+[R1] Bishop, Christopher
+      Neural Networks for Pattern Recognition
+       New York, NY: Oxford University Press, 1995. ISBN: 9780198538646.
+[R2] Ethem Alpaydin
+      Introduction to Machine Learning
+       MIT Press, Prentice Hall of India

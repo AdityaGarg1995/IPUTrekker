@@ -138,17 +138,17 @@ public class RESULT extends AppCompatActivity implements View.OnClickListener {
                 break;
             case R.id.c2: startActivity(new Intent(this, CSE2.class));
                 break;
-            case R.id.c3: startActivity(new Intent(this,IT3.class).putExtra("Stream",stream));
+            case R.id.c3: startActivity(new Intent(this, IT3.class).putExtra("Stream",stream));
                 break;
-            case R.id.c4: startActivity(new Intent(this,IT4.class).putExtra("Stream",stream));
+            case R.id.c4: startActivity(new Intent(this, IT4.class).putExtra("Stream",stream));
                 break;
-            case R.id.c5: startActivity(new Intent(this,IT5.class).putExtra("Stream",stream));
+            case R.id.c5: startActivity(new Intent(this, IT5.class).putExtra("Stream",stream));
                 break;
-            case R.id.c6: startActivity(new Intent(this,IT6.class).putExtra("Stream",stream));
+            case R.id.c6: startActivity(new Intent(this, IT6.class).putExtra("Stream",stream));
                 break;
-            case R.id.c7: startActivity(new Intent(this,IT7.class).putExtra("Stream",stream));
+            case R.id.c7: startActivity(new Intent(this, IT7.class).putExtra("Stream",stream));
                 break;
-            case R.id.c8: startActivity(new Intent(this,IT8.class).putExtra("Stream",stream));
+            case R.id.c8: startActivity(new Intent(this, IT8.class).putExtra("Stream",stream));
                 break;
         }
 

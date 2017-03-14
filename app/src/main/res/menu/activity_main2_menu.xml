@@ -13,14 +13,20 @@
         android:title="Colleges"
         app:showAsAction="never" />
     <item
-        android:id="@+id/streams"
-        android:orderInCategory="100"
-        android:title="Streams"
-        app:showAsAction="never" />
-    <item
         android:id="@+id/result"
         android:orderInCategory="100"
         android:title="Individual Result"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/ncc"
+        android:orderInCategory="100"
+        android:title="NCC"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/codes"
+        android:orderInCategory="100"
+        android:title="Stream Codes"
+        app:showAsAction="never" />
+
 
 </menu>

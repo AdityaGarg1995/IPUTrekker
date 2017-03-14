@@ -1,20 +1,38 @@
-Paper Code: ETCS 157 L P C
-Paper: Fundamental of Computing Lab 0 2 1
+Paper Code: ETCS 157
+Paper: Fundamental of Computing Lab
+
+
 LIST OF EXPERIMENTS
 For program development an IDE e.g. CodeBlock[a], Eclipse CDT [b], Netbeans[c] is recommended
+
+
 1. Dismantling a PC Part -1
+
 2. Dismantling a PC Part -2
+
 3. Internal and External commands of DOS
+
 4. System utilities of windows including regedit
+
 5. Installation of any rpm or debianlinux distribution with emphasis on drive partitioning
+
 6. Installation of rpm and deb based packages
+
 7. Understanding of File system of Linux
+
 8. Creating user and group ( through CLI)
+
 9. Understanding and working knowledge of .Libre / Open Office Writer
+
 : Editing and Reviewing, Drawing, Tables, Graphs, Templates
+
 10. Understanding and working knowledge of Libre / Open Office Calc
+
 11. Understanding and working knowledge Libre / Open Office Impress
+
 12. Understanding of flow chart development through Dia *
+
 13. Two Mini Projects based on the skills learned in experiments 1-12
+
 
 *[Dia] http://projects.gnome.org/dia/

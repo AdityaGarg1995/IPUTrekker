@@ -1,0 +1,48 @@
+Paper Code: ETCS-422
+Paper: Multiagent Systems
+
+
+UNIT-I
+Introduction:
+  What Are Agents, Intelligent Agents, Agents and Objects, Agents and Expert Systems? Abstract Architectures for Intelligent Agents, Concrete Architectures for Intelligent Agents.
+Agent Programming Languages:
+  Agent-Oriented Programming, Concurrent MetateM.
+Multiagent Systems and Societies of Agents:
+  Introduction, Agent Communications, Agent Interaction Protocols, Societies of Agents.
+[T1, T2]
+
+UNIT-II
+Distributed Problem Solving and Planning, Introduction, Example Problems, Task Sharing, Result Sharing, Distributed Planning, Distributed Plan Representations, Distributed Planning and Execution, Search Algorithms for Agents, Introduction, Constraint Satisfaction, Path-Finding Problem, 2-Player Games.
+Distributed Rational Decision Making:
+  Introduction, Evaluation Criteria, Voting, Auctions, Bargaining, General Equilibrium Market Mechanisms, Contract Nets, Coalition Formation.
+[T1, T2]
+
+UNIT-III
+Methodologies:
+  When is an Agent-Based Solution Appropriate?, Agent-Oriented Analysis and Design, Pitfalls of Agent Development, Mobile Agents, Applications, Agents for Workflow and Business Process Management, Agents for Distributed Sensing, Agents for Information Retrieval and Management, Agents for Electronic Commerce, Agents for Human-Computer Interfaces, Agents for Virtual Environments, Agents for Social Simulation, Agents for X.
+Multiagent Decision Making:
+  Multiagent Interactions, Utilities and Preferences, Setting the Scene, Solution Concepts and Solution Properties, Competitive and Zero-Sum Interactions, The Prisoner’s Dilemma, Other Symmetric 2 x 2 Interactions, Representing Multiagent Scenarios, Dependence Relations in Multiagent Systems.
+[T1, T2]
+
+UNIT-IV
+Groupware and Computer Supported Cooperative Work- Introduction, Basic Definitions, Aspects of Groupware, Multi-Aspect Groupware, Social and Group Issues in Designing Groupware Systems, Supporting Technologies and Theories, Other Taxonomies of Groupware, Groupware and Internet.
+Distributed Models for Decision Support:
+  Introduction, Decision Support Systems, An Agent Architecture for Distributed Decision Support Systems, Application Case Studies.
+[T1, T2]
+
+
+Text Books:
+[T1] Wooldridge, Michael
+      “An Introduction to MultiAgent Systems”
+       John Wiley & Sons
+[T2] Gerhard Weiss
+      ”Multiagent systems: a modern approach to distributed artificial intelligence”
+       The MIT Press
+
+Reference Books:
+[R1] Yoav Shoham, Kevin Leyton-Brown
+      ”MULTIAGENT SYSTEMS: Algorithmic, Game-Theoretic, and Logical Foundations”
+       Cambridge University Press
+[R2] Adelinde M. Uhrmacher, Danny Weyns
+      ”Multi-Agent Systems: Simulation and Applications”
+       CRC Press

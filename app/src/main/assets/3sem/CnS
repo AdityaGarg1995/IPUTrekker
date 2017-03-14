@@ -11,9 +11,11 @@ System modeling in terms of differential equations & transient response of R, L,
 [T1,T2]
 
 UNIT-III
-Graph theory: concept of tree, tie set matrix, cut set matrix & application to solve electric networks.
-Two port networks: Introduction of two port parameters and their interconversion, interconnection of two 2-port networks, open circuit & short circuit impedances & ABCD constants, relation between image impedances & short circuit & open circuit impedances.
-Network functions, their properties & concept of transform impedance, Hurwitz polynomial.
+Graph theory:
+  concept of tree, tie set matrix, cut set matrix & application to solve electric networks.
+2-port networks:
+  Introduction of two port parameters and their interconversion, interconnection of two 2-port networks, open circuit & short circuit impedances & ABCD constants, relation between image impedances & short circuit & open circuit impedances.
+  Network functions, their properties & concept of transform impedance, Hurwitz polynomial.
 [T1,T2]
 
 Unit IV
@@ -24,28 +26,28 @@ Introduction of passive filter and their classification, frequency response, cha
 
 Text Books:
 [T1] W.H. Hayt
-     “Engineering Circuit Analysis”
-     TMH, Eighth Edition
+      “Engineering Circuit Analysis”, 8th Edition
+       TMH
 [T2] D.R. Choudhary
-     “Networks and Systems”
-     New Age International, 1999
+      “Networks and Systems”
+       New Age International, 1999
 
 Reference Books
 [R1] S Salivahanan
-     “Circuit Theory”
-      Vikas Publishing House, 1st Edition, 2014
+      “Circuit Theory”, 1st Edition
+       Vikas Publishing House, 2014
 [R2] Valkenburg
-     “Network analysis”
-      PHI, 2000
+      “Network analysis”
+       PHI, 2000
 [R3] Bhise, Chadda, Kulshreshtha
-     “Engineering network analysis and filter design”
-      Umesh publication, 2000
+      “Engineering network analysis and filter design”
+       Umesh publication, 2000
 [R4] Kuo
-     “Network analysis and synthesis”
-      John Weily and Sons, 2nd Edition
+      “Network analysis and synthesis”, 2nd Edition
+       John Weily & Sons
 [R5] Allan H. Robbins, W.C.Miller
-     “Circuit Analysis theory and Practice”
-      Cengage Learning Pub, 5th Edition, 2013
+      “Circuit Analysis theory and Practice”, 5th Edition
+       Cengage Learning Pub, 2013
 [R6] Bell
-     “Electric Circuit”
-      Oxford Publications, 7th Edition
+      “Electric Circuit”, 7th Edition
+       Oxford Publications

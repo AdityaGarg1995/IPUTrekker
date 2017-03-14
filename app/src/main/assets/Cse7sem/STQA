@@ -1,0 +1,59 @@
+Paper Code: ETCS-403
+Paper: Software Testing and Quality Assurance
+
+
+UNIT I
+Introduction
+Software testing:
+  Testing as an Engineering Activity, Role of Process in Software Quality, Testing as a Process, Software Testing Principles, Tester Role in Software Development, Artifacts of testing (Faults, Errors, and Failures), Limitations of Testing, Challenges in Software Testing, Testing and debugging, Verification, Validation, Test levels.
+Software Quality:
+  Software Quality, Software Control, Quality Assurance, Quality Assurance Analyst, Quality Factor, Quality Management, Methods of Quality Management, Core components of Quality, Cost Aspect of Quality.
+[T1][T2][R3]
+
+UNIT II
+White Box and Black Box Testing
+Different Testing Techniques, Differences between testing techniques.
+Black Box Testing:
+  Requirements based testing techniques, Boundary value analysis, Equivalence partitioning, Decision table, State/Graph based testing.
+White Box Testing:
+  Static testing techniques, Static analysis tools, Unit/Code functional testing, Control flow testing, Code complexity testing, Data flow testing.
+Integration, System and Acceptance Testing:
+  Integration testing approaches, System testing, Scenario Testing, Deployment testing, Non-functional testing techniques.
+Acceptance Testing:
+  Acceptance criteria, types, test cases selection and execution.
+[T1][T2][R2]
+
+UNIT III
+Quality Assurance:
+  Quality Planning, Quality plan objectives, Planning process overview, Business Plan and Quality Plan, TQM (Total Quality Management), TQM concepts, Zero defect movement.
+Quality Standards:
+  Quality Models/Standards, Standards and guidelines, Types of Models, ISO Standards, CMM & CMMI, Six Sigma concepts, Quality Challenge, National Quality Awards.
+[T2][R1][R3]
+
+UNIT IV
+Test Selection & Minimization for Regression Testing
+Regression testing, Regression test process, Selection of regression tests, Dynamic Slicing, Test Minimization, Tools for regression testing.
+Test Management and Automation Test Planning, Management, Execution and Reporting, Software Test Automation: Scope of automation, Design& Architecture for automation, Testing tools, Object Oriented Testing.
+[T1][R1][R2]
+
+
+Text Books:
+[T1] Yogesh Singh
+      ”Software Testing”
+       Cambridge University Press, 2011
+[T2] Sagar Naik, Piyu Tripathy
+      ”Software Testing and Quality Assurance”
+       Wiley
+
+REFERENCE BOOKS:
+[R1] William Perry
+      Effective methods for Software Testing
+       Wiley
+[R2] Aditya P. Mathur
+      “Foundation of Software Testing”
+       Pearson Education
+[R3] Milind Limaye
+      Software Quality Assurance, McGraw-Hill publication
+[R4] Paul C. Jorgensen
+      “Software Testing: A Craftsman’s Approach”
+       Auerbach Publications, 2008

@@ -1,30 +1,50 @@
-Paper Code: ETME-157 L P C
-Paper: Engineering Graphics Lab 0 3 2
+Paper Code: ETME-157
+Paper: Engineering Graphics Lab
+
+
 LIST OF EXPERIMENTS
-UNIT - I
-General: Importance, Significance and scope of engineering drawing, Lettering, Dimensioning, Scales, Sense of
-proportioning, Different types of projections, Orthographic Projection, B.I.S. Specifications,
-Projections of Point and Lines: Introduction of planes of projection, Reference and auxiliary planes,
-projections of points and Lines in different quadrants, traces, inclinations, and true lengths of the lines,
-projections on Auxiliary planes, shortest distance, intersecting and non-intersecting lines.
+
+
+Unit - I
+General:
+  Importance, Significance and scope of engineering drawing, Lettering, Dimensioning, Scales, Sense of proportioning, Different types of projections, Orthographic Projection, B.I.S. Specifications.
+Projections of Point and Lines:
+  Introduction of planes of projection, Reference and auxiliary planes, projections of points and Lines in different quadrants, traces, inclinations, and true lengths of the lines, projections on Auxiliary planes, shortest distance, intersecting and non-intersecting lines.
 (T1, T2, R1, R2 , R3 )
+
 Unit - II
-Planes other than the Reference Planes: Introduction of other planes (perpendicular and oblique), their traces,
-inclinations etc., Projections of points and lines lying in the planes, conversion of oblique plane into auxiliary
-Plane and solution of related problems.
-Projections of Plane Figures: Different cases of plane figures (of different shapes) making different angles
-with one or both reference planes and lines lying in the plane figures making different given angles (with one of
-both reference planes). Obtaining true shape of the plane figure by projection.
+Planes other than the Reference Planes:
+  Introduction of other planes (perpendicular and oblique), their traces, inclinations etc., Projections of points and lines lying in the planes, conversion of oblique plane into auxiliary Plane and solution of related problems.
+Projections of Plane Figures:
+  Different cases of plane figures (of different shapes) making different angles with one or both reference planes and lines lying in the plane figures making different given angles (with one of both reference planes).
+  Obtaining true shape of the plane figure by projection.
 (T1, T2, R1, R2 , R3)
+
 Unit - III
 Projection of Solids: Simple cases when solid are placed in different positions, Axis faces and lines lying in the
-faces of the solid making given angles. (T1, T2, R1, R2 , R3)
+faces of the solid making given angles.
+(T1, T2, R1, R2 , R3)
+
 Unit-IV
-Isometric Projection of plain surface and bodies. (T1, T2, R1, R2 , R3)
+Isometric Projection of plain surface and bodies.
+(T1, T2, R1, R2 , R3)
+
+
 Text Books:
-[T1] Engineering drawing by N.D.Bhatt (Charotar Publications).
-[T2] Engineering Drawing by S.C.Sharma & Navin Kumar (Galgotia Publications)
+[T1] Engineering drawing
+      N.D. Bhatt
+       Charotar Publications
+[T2] Engineering Drawing
+      S.C. Sharma & Navin Kumar
+       Galgotia Publications
+
 Reference Books:
-[R1] Engineering Drawing by Venugopalan, (New Age International).
-[R2] Engineering Drawing by P.S.Gill (S.K. Kataria & Sons)
-[R3] Engineering Graphics by K.C.John (PHI)
+[R1] Engineering Drawing
+      Venugopalan
+       New Age International
+[R2] Engineering Drawing
+      P.S. Gill
+       S.K. Kataria & Sons
+[R3] Engineering Graphics
+      K.C. John
+       PHI

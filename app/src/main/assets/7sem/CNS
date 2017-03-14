@@ -20,13 +20,21 @@ System security, Security Standards, Intruders, and Viruses, Firewalls, Maliciou
 
 
 Text Book:
-[T1] William Stallings, "Cryptography And Network Security - Principles and Practices", Prentice Hall of
-India, 3rd Edition, 2003
-[T2] Wade Trappe, Lawrence C Washington, “Introduction to Cryptography with coding theory”, 2nd ed,
-Pearson, 2007
+[T1] William Stallings
+      "Cryptography And Network Security - Principles and Practices", 3rd Edition
+        Prentice Hall of India, 2003
+[T2] Wade Trappe, Lawrence C. Washington
+      “Introduction to Cryptography with coding theory”, 2nd Edition
+        Pearson, 2007
 
 Reference Book:
-[R1] R.Rajaram, “Network Security and Cryptography” SciTech Publication, 1st Edition, 2013
-[R2] Atul Kahate, "Cryptography and Network Security", Tata McGraw-Hill, 2003
-[R3] Bruce Schneier, "Applied Cryptography", John Wiley & Sons Inc, 2001
+[R1] R. Rajaram
+      “Network Security and Cryptography”, 1st Edition
+       SciTech Publication, 2013
+[R2] Atul Kahate
+      "Cryptography and Network Security"
+        Tata McGrawHill, 2003
+[R3] Bruce Schneier
+      "Applied Cryptography"
+        John Wiley & Sons Inc, 2001
 [R4] http://www.iiitd.edu.in/~gauravg/

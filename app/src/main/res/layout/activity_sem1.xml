@@ -22,28 +22,28 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/am_i"
-            android:text="Applied Mathematics-I"
+            android:text="Applied Mathematics-I (M)"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/ap_i"
-            android:text="Applied Physics-I"
+            android:text="Applied Physics-I (M)"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/chem"
-            android:text="Chemistry"
+            android:text="Chemistry (M)"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/et"
-            android:text="Electrical Technology"
+            android:text="Electrical Technology (M)"
             android:layout_weight="1"
             />
         <Button
@@ -57,7 +57,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/mp"
-            android:text="Manufacturing Processes"
+            android:text="Manufacturing Processes (M)"
             android:layout_weight="1"/>
         <Button
             android:layout_width="match_parent"
@@ -82,7 +82,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/ap_iLab"
-            android:text="Applied physics-I Lab"
+            android:text="Applied Physics-I Lab"
             android:layout_weight="1"
             />
         <Button
@@ -103,14 +103,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/etLab"
-            android:text="Electrical Technology Lab"
+            android:text="Electrical Technology Lab (M)"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/mpLab"
-            android:text="Manufacturing Processes Lab"
+            android:text="Workshop Practice (M)"
             android:layout_weight="1"
             />
         <Button

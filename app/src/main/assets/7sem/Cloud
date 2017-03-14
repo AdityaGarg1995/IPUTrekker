@@ -4,50 +4,50 @@ Paper: Cloud Computing
 
 UNIT I
 Introduction to Cloud Computing:
-Overview of Parallel Computing, Grid Computing, Distributed Computing and its Variants (eg. MANETs, Peer to Peer, Cloud), Introduction to Autonomic Computing, Evolution of Cloud Computing and it's vision, Issues and Challenges in Cloud Computing, Applications of Cloud Computing.
+  Overview of Parallel Computing, Grid Computing, Distributed Computing and its Variants (eg. MANETs, Peer to Peer, Cloud), Introduction to Autonomic Computing, Evolution of Cloud Computing and it's vision, Issues and Challenges in Cloud Computing, Applications of Cloud Computing.
 [T1,T2]
 
 UNIT II
 Cloud Computing Architecture:
-Cloud Computing Architectures: features of Clouds: components, types, technologies, Service Models (Services: IaaS, PaaS, SaaS), Deployment Models(Public Cloud, Private Cloud, Hybrid Cloud, Community Cloud) various cloud management platforms and tools.
+  Cloud Computing Architectures: features of Clouds: components, types, technologies, Service Models (Services: IaaS, PaaS, SaaS), Deployment Models(Public Cloud, Private Cloud, Hybrid Cloud, Community Cloud) various cloud management platforms and tools.
 [T1,T2]
 
 UNIT III
 Virtualization of Clouds:
-Virtualization: Introduction, Evolution, Virtualized Environment characteristics, Server Virtualization, VM Provisioning and Manageability, VM Migration Services, VM Provisioning in the Cloud Context, and Future Research Directions.
-Cloud Security Mechanisms(Encryption, PKI, SSO, IAM), Service Management in Cloud Computing(SLA, Billing & Accounting etc).
+  Virtualization: Introduction, Evolution, Virtualized Environment characteristics, Server Virtualization, VM Provisioning and Manageability, VM Migration Services, VM Provisioning in the Cloud Context, and Future Research Directions.
+  Cloud Security Mechanisms(Encryption, PKI, SSO, IAM), Service Management in Cloud Computing(SLA, Billing & Accounting etc).
 [T1,T2]
 
 UNIT IV
 Advanced Cloud Applications:
-Specialized Cloud Architecture: Direct I/O Access, Load Balanced Virtual Switches, Multipath Resource Access, Federated Clouds, Basics of Cloud Mobility.
-Enterprise cloud computing: Data, Processes, Components, Architectures, applications, Enterprise Software(ERP, SCM, CRM) Case Studies on Open Source and Commercial available tools and platforms (Microsoft Azure, Google AppEngine, Amazon Web services, Hadoop, Eucalyptus, Cloud SIM etc).
+  Specialized Cloud Architecture: Direct I/O Access, Load Balanced Virtual Switches, Multipath Resource Access, Federated Clouds, Basics of Cloud Mobility.
+  Enterprise cloud computing: Data, Processes, Components, Architectures, applications, Enterprise Software(ERP, SCM, CRM) Case Studies on Open Source and Commercial available tools and platforms (Microsoft Azure, Google AppEngine, Amazon Web services, Hadoop, Eucalyptus, Cloud SIM etc).
 [T1,T2]
 
 
 Text Books:
 [T1] Rajkumar Buyya, Christian Vecchiola, and Thamarai Selvi
-     Mastering Cloud Computing
-      Tata McGraw Hill, New Delhi, India, 2013
+      Mastering Cloud Computing
+       Tata McGraw Hill, New Delhi, India, 2013
 [T2] Thomas Erl, Zaigam Mahmood, Ricardo Puttini
-     Cloud Computing Concepts, Technology & Architecture, 1st Reprint
-      Pearson India, 2013
+      Cloud Computing Concepts, Technology & Architecture, 1st Reprint
+       Pearson India, 2013
 [T3] Kumar Saurabh
-     Cloud Computing, 2nd Edition
-      Wiley, 2013}
+      Cloud Computing, 2nd Edition
+       Wiley, 2013}
 [T4] Gautam Shroff
-     "Enterprise Cloud Computing"
-      Cambridge University Press
+      "Enterprise Cloud Computing"
+       Cambridge University Press
 
 Reference Books:
 [R1] Barrie Sosinsky
-     Cloud Computing Bible
-      Wiley
+      Cloud Computing Bible
+       Wiley
 [R2] A. Srinivasan and J. Suresh
-     Cloud computing a pratical approach for learning and Implementation
-      Pearson India 1st edition
+      Cloud computing a pratical approach for learning and Implementation, 1st edition
+       Pearson India
 [R3] Michael Miller
-     Cloud Computing
-      Pearson, 2008
+      Cloud Computing
+       Pearson, 2008
 [R4] Mukesh Singhal, Niranjan G. Shivaratri
-      TMH Edition.
+       TMH Edition

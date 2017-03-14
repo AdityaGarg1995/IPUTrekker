@@ -1,0 +1,54 @@
+Paper Code: ETCS-413
+Paper: Data Mining and Business Intelligence
+
+
+UNIT – I
+Introduction to Data Warehousing:
+  Overview, Difference between Database System and Data Warehouse, The Compelling Need for data warehousing, Data warehouse – The building Blocks: Defining Features, data warehouses and data marts, overview of the components, Three tier architecture, Metadata in the data warehouse.
+Data pre-processing:
+  Data cleaning, Data transformation ETL Process.
+  ETL tools.
+Defining the business requirements:
+  Dimensional analysis, information packages – a new concept, requirements gathering methods, requirements definition: scope and content.
+[T1]
+
+UNIT – II
+Principles of Dimensional Modeling:
+  Objectives, From Requirements to data design, Multi Dimensional Data Model.
+Schemas:
+  STAR schema, Snowflake schema, Fact Constellation schema.
+OLAP in the Data Warehouse:
+  Demand for Online Analytical Processing, limitations of other analysis methods- OLAP is the answer, OLAP definitions and rules, OLAP characteristics, major features and functions, hyper cubes.
+OLAP Operations:
+  Drill-down and roll-up, slice-and-dice, pivot or rotation, OLAP models, overview of variations, the MOLAP model, the ROLAP model, the DOLAP model, ROLAP versus MOLAP, OLAP implementation considerations.
+  Query and Reporting, Executive Information Systems (EIS), Data Warehouse and Business Strategy.
+[T1, R4]
+
+UNIT – III
+Data Mining Basics:
+  What is Data Mining, Data Mining Defined, The knowledge discovery process (KDD Process), Data Mining Applications- The Business Context of Data Mining, Data Mining for Process Improvement, Data Mining as a Research Tool, Data Mining for Marketing, Benefits of data mining.
+Major Data Mining Techniques:
+  Classification and Prediction- Issues Regarding Classification and Prediction, Classification by Decision Tree Induction, KNN Algorithm.
+[T2, R4]
+
+UNIT – IV
+Cluster detection, K-means Algorithm, Outlier Analysis, memory-based reasoning, link analysis, Mining
+Association Rules in Large Databases:
+  Association Rule Mining, genetic algorithms, neural networks.
+  Data mining tools.
+[T2, R3]
+
+
+Text Books:
+[T1] Paul Raj Poonia
+      “Fundamentals of Data Warehousing”
+       John Wiley & Sons, 2004
+[T2] Kamber and Han
+      “Data Mining Concepts and Techniques”, 2nd Edition
+        Hart Court India P. Ltd. Elsevier Publications, 2001
+
+Reference Books:
+[R1] W. H. Inmon, “Building the operational data store”, 2nd Ed., John Wiley, 1999
+[R2] “Data Warehousing”, BPB Publications, 2004
+[R3] Pang- Ning Tan, Michael Steinbach, Viach, Vipin Kumar, Introduction to Data Mining, Pearson
+[R4] Shmueli, “Data Mining for Business Intelligence : Concepts, Techniques and Applications in Microsoft Excel with XLMiner”,Wiley Publications

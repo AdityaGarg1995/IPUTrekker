@@ -1,0 +1,38 @@
+Paper Code: ETCS-408
+Paper: Microelectronics
+
+
+UNIT I
+Semiconductor, VLSI device technology, VLSI design flow, MOS Capacitance fundamentals, MOSFET principles and characteristics, MOS transistor theory, MOS structure, enhancement & depletion transistor, CMOS & NMOS process technology, explanation of different stages in fabrication, Threshold voltage, MOS device design equations.
+[T1, R1, R2]
+
+UNIT II
+MOSFET Operation and modelling, Short and narrow channel effects, Radiation and hot-carrier effects, Breakdown, LDD, CMOS latch-up, CMOS Device design considerations & performance factors, Brief overview of MOSFET CAD SPICE model- different levels.
+[T1, R1]
+
+UNIT III
+CMOS inverter, DC characteristics, static load MOS inverter, pull up/pull down ratio, Static & Dynamic power dissipation, switching characteristics & inter connection effects, Rise time, fall time delays, Noise margin, power consumption in CMOS.
+[T1, R1, R2, R3]
+
+UNIT IV
+Basic I.C. processing step, Clean room concept, wafer cleaning, oxidation, diffusion.
+Ficks laws, Ion implantation.
+Epitaxy, Basics of vacuum deposition, Chemical vapour deposition, high and low temperature/pressure depositions.
+Etching techniques, integrated circuit packaging.
+[T2]
+
+
+Text Books:
+[T1] Sedra and Smith
+      “Microelectronic Circuits”, 6th Edition
+       Oxford University Press, 2013
+[T2] S.M. Sze
+      “VLSI Technology”
+       McGraw-Hill, 1983
+
+Reference Books:
+[R1] S. M. Kang, Y. Lebiebici, “CMOS digital integrated circuits analysis & design” TMH, 3rd Edition.
+[R2] Donald A. Neaman, Semiconductor Physics and Devices, Tata McGraw-Hill, 2003
+[R3] J. P. Uyemura, “Introduction to VLSI Circuits and Systems” John Wiley, 1st Edition
+[R4] J. M. Rabaey, “Digital Integrated Circuits” PHI – 2nd Edition
+[R5] R. T. Howe and C. G. Sodini, “Microelectronics: An Integrated Approach”, PHI.

@@ -1,0 +1,32 @@
+Paper Code: ETEC-351
+Paper: Digital System Design Lab
+
+
+List of Experiments:
+
+
+1. Design all gates using VHDL
+
+2. Write VHDL programs for the following circuits, check the wave forms and the hardware generated
+   i) half adder
+   ii) full adder
+
+3. Write VHDL programs for the following circuits, check the wave forms and the hardware generated
+   i) multiplexer
+   ii) demultiplexer
+
+4. Write VHDL programs for the following circuits, check the wave forms and the hardware generated
+   i) decoder
+   ii) encoder
+
+5. Write a VHDL program for a comparator and check the wave forms and the hardware generated
+
+6. Write a VHDL program for a code converter and check the wave forms and the hardware generated
+
+7. Write a VHDL program for a FLIP-FLOP and check the wave forms and the hardware generated
+
+8. Write a VHDL program for a counter and check the wave forms and the hardware generated
+
+9. Write VHDL programs for the following circuits, check the wave forms and the hardware generated
+   i) ALU
+   ii) shift register

@@ -1,0 +1,37 @@
+Paper Code: ETCS-410
+Paper: Natural Language Processing
+
+
+UNIT-I
+Introduction to NLP
+Achievement and brief history, open problems, major goal, characteristic of Language, Language structure, Language analyzer.
+[T1, T2]
+
+UNIT-II
+Study of Grammar and Semantics
+Morphology, word formation, theory of semantics, componential theory of meaning, truth conditional theory of meaning, pragmatics and discourse.
+[T1, T2]
+
+UNIT-III
+Machine Translation
+Introduction, problems of machine translation.
+Approaches, language Accesor, Structure of Anusaraka system.
+[T1, T2]
+
+UNIT-IV
+Lexical:
+  Functional Grammar (LFG) and Indian Languages Overview of LGF, LFG formalism, well formedness conditions, computational aspects, CFG and Indian languages, functional specification, tree adjoining grammar.
+[T1, T2]
+
+
+Text Books:
+[T1] Natural language processing, Eastern Economy Edition
+      Akshar Bhartati, Sangal and Chaitanya
+[T2] An introduction to Linguistics, language grammar and semantics, Eastern Economy Edition
+      P. Syal and D.V. Jindal
+
+References:
+[R1] Natural Language Processing with Python, 1st Edition
+      Steven Bird
+[R2] Foundations of Statistical Natural Language Processing
+      Christopher Manning

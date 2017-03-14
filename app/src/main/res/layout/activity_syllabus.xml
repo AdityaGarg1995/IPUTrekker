@@ -4,31 +4,32 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="E-book / Website"
+            android:textColor="@color/black"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:textAlignment="center"
+            android:fontFamily="sans-serif"
+            android:id="@+id/book"
+            android:textSize="15dp"
+            />
+
         <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="No Content To Display"
             android:textColor="@color/black"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
             android:fontFamily="sans-serif-smallcaps"
             android:id="@+id/txtContent"
             >
         </TextView>
 
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="E-book (Click to download PDF)"
-            android:textColor="@color/black"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginBottom="@dimen/activity_horizontal_margin"
-            android:layout_marginTop="16dp"
-            android:textAlignment="center"
-            android:fontFamily="sans-serif-smallcaps"
-            android:id="@+id/book"
-            android:textSize="15dp"
-            />
 
     </LinearLayout></ScrollView>

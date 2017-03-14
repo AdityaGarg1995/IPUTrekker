@@ -3,17 +3,21 @@ Paper: Foundation of Computer Science
 
 
 UNIT- I
-Formal Logic: Preposition, Symbolic Representation & logical entailment theory of inferences & tautologies, Predicates, Quantifiers, Theory of inferences for predicate calculus, resolution.
-Techniques for theorem proving: Direct Proof, Proof by Contraposition, Proof by contradiction.
+Formal Logic:
+  Preposition, Symbolic Representation & logical entailment theory of inferences & tautologies, Predicates, Quantifiers, Theory of inferences for predicate calculus, resolution.
+Techniques for theorem proving:
+  Direct Proof, Proof by Contraposition, Proof by contradiction.
 [T1,T2]
 
 UNIT- II
-Sets: Overview, set operations, permutation and combination, principle of inclusion, exclusion(with proof) and pigeonhole principle(with proof), Relation, operation & representation of a relation, equivalence relation, POSET, Hasse Diagrams, extremal elements, Lattices, composition of function, inverse, binary & n-ary operations.
+Sets:
+  Overview, set operations, permutation and combination, principle of inclusion, exclusion(with proof) and pigeonhole principle(with proof), Relation, operation & representation of a relation, equivalence relation, POSET, Hasse Diagrams, extremal elements, Lattices, composition of function, inverse, binary & n-ary operations.
 [T1,T2]
 
 UNIT- III
 Principle of mathematical induction, principle of complete induction, solution methods for linear & non-linear 1st-order recurrence relations with constant coefficients.
-Graph Theory: Terminology, isomorphic graphs, Euler’s formula(proof), chromatic number of a graph, 5-color theorem(with proof), Euler & Hamiltonian paths.
+Graph Theory:
+  Terminology, isomorphic graphs, Euler’s formula(proof), chromatic number of a graph, 5-color theorem(with proof), Euler & Hamiltonian paths.
 [T1,T2]
 
 UNIT-IV
@@ -24,19 +28,19 @@ Boolean function, Boolean expression, representation & minimization of Boolean f
 
 Text Books:
 [T1] Norman L. Biggs
-     “Discrete Mathematics”
-      Oxford, 2d edition
+      “Discrete Mathematics”, 2nd edition
+       Oxford
 [T2] Keneth H. Rosen
-     “Discrete Mathematics and Its Applications”
-      TMH, 7th edition
+      “Discrete Mathematics and Its Applications”, 7th edition
+       TMH
 
 Reference Books:
 [R1] Kolman, Busby & Ross
-     “Discrete Mathematical Structures”
-      PHI, 1996
+      “Discrete Mathematical Structures”
+       PHI, 1996
 [R2] C.L. Liu
-     “Elements of Discrete Mathematics”
-      TMH, 2000
+      “Elements of Discrete Mathematics”
+       TMH, 2000
 [R3] J.P. Trembly & P. Manohar
-     “Discrete Mathematical Structures with Applications to Computer Science”
-      McGraw Hill, 1997
+      “Discrete Mathematical Structures with Applications to Computer Science”
+       McGraw Hill, 1997

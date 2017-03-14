@@ -1,0 +1,30 @@
+Paper Code: ETEC-258
+Paper: Network Analysis and Synthesis Lab
+
+
+List of Experiments
+
+
+1. Study the transient response of series RLC circuit for different types of waveforms on CRO and verify using MATLAB
+
+2. Study the time response of a simulated linear system and verify the unit step and square wave response of first order and second order, type 0,1 system
+
+3. Using MATLAB determine current in various resistors connected in network using mesh current and node voltage analysis.
+
+4. Determine Z and Y parameters of the given two port network.
+
+5. Determine ABCD parameters of the given two port network.
+
+6. Verify Reciprocity Theorem for the given two port network.
+
+7. Determine Hybrid parameters of the given two port network.
+
+8. Design Cascade Connection and determine ABCD parameters of given 2-port network
+
+9. Design Series-Series Connection and determine Z parameters of given 2-port network
+
+10. Design Parallel-Parallel Connection and determine Y parameters of given 2-port network
+
+11. Design Series-Parallel Connection and determine h parameters of given 2-port network
+
+12. Study the frequency response of different filter circuits

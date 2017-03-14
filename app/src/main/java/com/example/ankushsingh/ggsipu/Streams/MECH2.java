@@ -12,16 +12,9 @@ import com.example.ankushsingh.ggsipu.R;
 
 public class MECH2 extends AppCompatActivity implements View.OnClickListener {
 
-    Button[] buttons = new Button[6];
+//    Button[] buttons = new Button[6];
 
-    public static final String mechResult[] = {
-            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/112_MET_1stSEM.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF2/112_MET_2_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/290316/112_MET_3rd%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF4/112_MET_4_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/112_MET_5th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF6/112_MET_6_SEM.pdf"
-    };
+
 
     String stream;
 

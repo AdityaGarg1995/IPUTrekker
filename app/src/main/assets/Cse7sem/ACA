@@ -1,0 +1,68 @@
+Paper Code: ETCS-415
+Paper: Advanced Computer Architecture
+
+
+UNIT-I
+Parallel Computer Models:
+  The state of computing, Classification of parallel computers, Multiprocessors and multicomputers, Multivector and SIMD computers.
+Program and Network Properties:
+  Conditions of parallelism, Data and resource Dependences, Hardware and software parallelism, Program partitioning and scheduling, Grain Size and latency, Program flow mechanisms, Control flow versus data flow, Data flow Architecture, Demand driven mechanisms, Comparisons of flow mechanisms.
+[T1, R4]
+
+UNIT-II
+Pipelining:
+  Linear pipeline processor, nonlinear pipeline processor, Instruction pipeline Design, Mechanisms for instruction pipelining, Dynamic instruction scheduling, Branch Handling techniques, branch prediction, Arithmetic Pipeline Design, Computer arithmetic principles, Static Arithmetic pipeline, Multifunctional arithmetic pipelines.
+[T1, R2]
+
+UNIT-III
+Arithmetic for Computers:
+  Signed and unsigned Numbers, Addition and Subtraction, Multiplication, Division, Floating Point.
+  CPU Performance and Its factors, Evaluating performance of CPU.
+[T2, R3]
+
+UNIT-IV
+Memory Hierarchy:
+  Introduction, The basics of Cache, Measuring and Improving of Cache Performance, Virtual Memory, Common framework for memory hierarchies.
+  Case study of PIV and AMD opteron memory hierarchies.
+[T2, T1]
+
+
+Text Books:
+[T1] Kai Hwang
+      “Advanced computer architecture”
+       TMH, 2000
+[T2] D.A. Patterson and J.L. Hennessey
+      “Computer organization and design”, 2nd Ed
+       Morgan Kaufmann, 2002
+
+Reference Books:
+[R1] J.P. Hayes
+      “Computer Architecture and Organization”
+       MGH, 1998
+[R2] Harvey G. Cragon
+      ”Memory System and Pipelined processors”
+       Narosa Publication, 1998
+[R3] V. Rajaranam & C.S.R. Murthy
+      “Parallel computer”
+       PHI, 2002
+[R4] R.K. Ghose, Rajan Moona & Phalguni Gupta
+      “Foundation of Parallel Processing”
+       Narosa Publications, 2003
+[R5] Kai Hwang and Zu
+      “Scalable Parallel Computers Architecture”
+       MGH, 2001
+[R6] Stalling W.
+      “Computer Organisation & Architecture”
+       PHI, 2000
+[R7] D. Sima, T. Fountain, P. Kasuk
+      “Advanced Computer Architecture-A Design space Approach”
+       Addison Wesley, 1997
+[R8] M.J. Flynn
+      “Computer Architecture, Pipelined and Parallel Processor Design”
+       Narosa Publishing, 1998
+[R9] D.A. Patterson, J.L. Hennessy
+      “Computer Architecture :A quantitative approach”
+       Morgan Kauffmann, Feb 2002
+[R10] Hwan and Briggs
+       “Computer Architecture and Parallel Processing”
+        MGH, 1999

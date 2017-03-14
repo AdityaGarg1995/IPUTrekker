@@ -19,16 +19,8 @@ public class CIVIL2 extends AppCompatActivity implements View.OnClickListener {
    Activity a = this;
    Intent i;
 
-   public static final String civilResult[] = {
-           "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/034_CIVIL_1stSEM.pdf",
-           "http://164.100.158.135/ExamResults/2016/310716/PDF2/034_CIVIL_2_SEM.pdf",
-           "http://ipu.ac.in/exam/ExamResults/2016/290316/034_CIVIL_3rd%20Sem.pdf",
-           "http://164.100.158.135/ExamResults/2016/310716/PDF4/034_CIVIL_4_SEM.pdf",
-           "http://ipu.ac.in/exam/ExamResults/2016/300316/034_CIVIL_5th%20Sem.pdf",
-           "http://164.100.158.135/ExamResults/2016/310716/PDF6/034_CIVIL_6_SEM.pdf",
-           "http://ipu.ac.in/exam/ExamResults/2016/300316/034_CIVIL_7th%20Sem.pdf",
-           "http://164.100.158.135/ExamResults/2016/310716/PDF8/034_CIVIL_8_SEM.pdf"
-   };
+
+
 
 
     @Override

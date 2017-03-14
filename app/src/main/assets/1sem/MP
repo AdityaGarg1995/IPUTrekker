@@ -1,60 +1,73 @@
 Paper Code: ETME-105
-Paper: Manufacturing Processes
+Paper: Manufacturing Processes (M)
 
 
 UNIT-I
-Introduction: Introduction of Manufacturing processes and their classification.
-Basic Metals & Alloys : Properties and Applications.
-Properties of Materials: Strength, elasticity, stiffness, malleability, ductility, brittleness, toughness and hardness.
-Ferrous Materials: Carbon steels, classification based on % carbon as low, mild, medium & high carbon steel, properties & applications, Wrought iron, Cast iron.
-Alloy steels: stainless steel, tool steel.
-Elementary introduction to heat-treatment of carbon steels: annealing, normalizing, quenching & tempering and case-hardening.
-Non-Ferrous metals & alloys: Properties and uses of various non-ferrous metals & alloys and its composition such as Cu-alloys- Brass, Bronze, Al-alloys such as Duralumin.
+Introduction:
+  Introduction of Manufacturing processes and their classification.
+Basic Metals & Alloys:
+  Properties and Applications.
+Properties of Materials:
+  Strength, elasticity, stiffness, malleability, ductility, brittleness, toughness and hardness.
+Ferrous Materials:
+  Carbon steels, classification based on % carbon as low, mild, medium & high carbon steel, properties & applications, Wrought iron, Cast iron.
+Alloy steels:
+  stainless steel, tool steel.
+Elementary introduction to heat-treatment of carbon steels:
+  annealing, normalizing, quenching & tempering and case-hardening.
+Non-Ferrous metals & alloys:
+  Properties and uses of various non-ferrous metals & alloys and its composition such as Cu-alloys- Brass, Bronze, Al-alloys such as Duralumin.
 Casting Processes:
-Principles of metal casting, Pattern materials, types and allowance, composition and properties of moulding
-sand, foundry tools, concept of cores and core print, elements of gating system, description and operation of
-cupola, special casting processes e.g. die-casting; permanent mould casting; centrifugal casting; investment
-casting; casting defects.
+  Principles of metal casting, Pattern materials, types and allowance, composition and properties of moulding sand, foundry tools, concept of cores and core print, elements of gating system, description and operation of cupola, special casting processes e.g. die-casting; permanent mould casting; centrifugal casting; investment casting; casting defects.
 (T1,T2,R1,R2,R3,R4,R5)
 
 UNIT-II
 Smithy and Forging:
-Hot working and cold working, Forging tools and equipments, Forging operations, Forging types: Smith forging, Drop forging, Press forging, Machine forging; Forging defects; Extrusion, wire drawing, swaging.
+  Hot working and cold working, Forging tools and equipments, Forging operations, Forging types: Smith forging, Drop forging, Press forging, Machine forging; Forging defects; Extrusion, wire drawing, swaging.
 Bench Work and Fitting:
-Fitting shop tools, operation: Fitting; sawing; chipping; thread cutting (with taps and dies);
-Marking and marking tools.
+  Fitting shop tools, operation: Fitting; sawing; chipping; thread cutting (with taps and dies); Marking and marking tools.
 (T1, T2, R1, R2, R3, R4, R5)
 
 UNIT-III
-Metal joining: Welding principles, classification of welding techniques, Oxyacetylene Gas welding, equipment and field of application.
-Arc-welding, metal arc, Carbon arc welding, submerged arc welding and atomic hydrogen welding, TIG and MIG welding.
-Electric resistance welding: spot; seam; flash; butt and percussion welding.
-Flux: composition, properties and function, Electrodes, Types of joints and edge preparation, Brazing and soldering, welding defects.
+Metal joining:
+  Welding principles, classification of welding techniques, Oxyacetylene Gas welding, equipment and field of application.
+  Arc-welding, metal arc, Carbon arc welding, submerged arc welding and atomic hydrogen welding, TIG and MIG welding.
+Electric resistance welding:
+  spot; seam; flash; butt and percussion welding.
+Flux:
+  composition, properties and function, Electrodes, Types of joints and edge preparation, Brazing and soldering, welding defects.
 (T1, T2, R1, R2, R3, R4, R5)
 
 UNIT-IV
 Sheet Metal Work:
-Tools and equipments used in sheet metal work, metals used for sheets, standard specification for sheets, types of sheet metal operations- shearing, drawing, bending.
-Other operations like spinning, stretch forming, embossing and coining.
+  Tools and equipments used in sheet metal work, metals used for sheets, standard specification for sheets, types of sheet metal operations- shearing, drawing, bending.
+  Other operations like spinning, stretch forming, embossing and coining.
 Powder Metallurgy:
-Introduction of powder metallurgy process: powder production, blending, compaction, sintering.
+  Introduction of powder metallurgy process: powder production, blending, compaction, sintering.
 (T1,T2,R1,R2,R3,R4,R5)
 
 
 Text Books:
-[T1]. Manufacturing Process by Raghuvanshi
-      (Dhanpat Rai and Co.)
-[T2]. Manufacturing Technology by P.N.Rao
-      (TMH publications)
+[T1]. Manufacturing Process
+       Raghuvanshi
+        Dhanpat Rai and Co
+[T2]. Manufacturing Technology
+       P.N. Rao
+        TMH publications
 
 Reference Books:
-[R1]. Workshop Technology by Hazra-Chowdhary
-       (Media Promoters and Publishers Pvt Ltd)
-[R2]. Production Engineering by R.K.Jain
-       (Khanna Publishers)
-[R3]. Workshop Technology by Chapman
-       (Elsevier Butterworth-Heinemann)
-[R4]. Fundamentals of Modern Manufacturing by Mikell P. Groover
-       (Wiley India Edition)
-[R5]. Manufacturing Processes for Engineering Materials by Kalpakjian and Schmid
-       (Pearson)
+[R1]. Workshop Technology
+       Hazra-Chowdhary
+        Media Promoters and Publishers Pvt Ltd
+[R2]. Production Engineering
+       R.K. Jain
+        Khanna Publishers
+[R3]. Workshop Technology
+       Chapman
+        Elsevier Butterworth-Heinemann
+[R4]. Fundamentals of Modern Manufacturing, India Edition
+       Mikell P. Groover
+        Wiley
+[R5]. Manufacturing Processes for Engineering Materials
+       Kalpakjian and Schmid
+        Pearson

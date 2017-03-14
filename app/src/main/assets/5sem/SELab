@@ -7,26 +7,27 @@ Tool Required: Rational Rose Enterprise Edition
 
 List of Experiments:
 
+
 1. Write down the problem statement for a suggested system of relevance
 
 2. Do requirement analysis and develop Software Requirement Specification Sheet(SRS) for suggested system
 
-3. To perform the function oriented diagram: Data Flow Diagram (DFD) and Structured chart
+3. Perform the function oriented diagram: Data Flow Diagram (DFD) and Structured chart
 
-4. To perform the user’s view analysis for the suggested system: Use case diagram
+4. Perform the user’s view analysis for the suggested system: Use case diagram
 
-5. To draw the structural view diagram for the system: Class diagram, object diagram
+5. Draw the structural view diagram for the system: Class diagram, object diagram
 
-6. To draw the behavioral view diagram : State-chart diagram, Activity diagram
+6. Draw the behavioral view diagram : State-chart diagram, Activity diagram
 
-7. To perform the behavioral view diagram for the suggested system : Sequence diagram, Collaboration diagram
+7. Perform the behavioral view diagram for the suggested system : Sequence diagram, Collaboration diagram
 
-8. To perform the implementation view diagram: Component diagram for the system
+8. Perform the implementation view diagram: Component diagram for the system
 
-9. To perform the environmental view diagram: Deployment diagram for the system
+9. Perform the environmental view diagram: Deployment diagram for the system
 
-10.To perform various testing using the testing tool unit testing, integration testing for a sample code of the suggested system
+10. Perform various testing using the testing tool unit testing, integration testing for a sample code of the suggested system
 
-11.Perform Estimation of effort using FP Estimation for chosen system
+11. Perform Estimation of effort using FP Estimation for chosen system
 
-12.To Prepare time line chart/Gantt Chart/PERT Chart for selected software project
+12. Prepare time line chart/Gantt Chart/PERT Chart for selected software project

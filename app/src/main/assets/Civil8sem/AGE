@@ -1,49 +1,60 @@
-Paper Code: ETCE-416 L T/P C
-Paper: Advance Geotechnical Engineering 3 1 4
-Objective: To introduce the fundamentals of soil dynamics and design of machine foundations as well as
-introduce the advanced topics of geotechnical engineering, such as, foundation of expansive soils and concepts
-and applications of geoenvironmental engineering.
+Paper Code: ETCE-416
+Paper: Advance Geotechnical Engineering
+
+
 UNIT-I
-Soil Dynamics: One Dimensional wave propagation, One Dimensional Wave in layered body, impedance ratio,
-angle of refraction, critical angle of incidence, introduction of attenuation of stress waves, Definitions of
-Material Damping and Radiation Damping in soil.
-Measurements of Wave Propagation Velocity, Shear Modulus, Thickness of soil layers etc; Field Tests like Low
-Strain Test, Seismic Reflection Test, Seismic Refraction Test for Horizontal Layering and inclined or irregular
-layering, Suspension Logging Test, Steady States Vibration [Raleigh wave] Test, Seismic Cross Hole Test,
-Seismic Down Hole Test, Seismic Cone Test, Details and interpretation of Standard Penetration Test and Cone
-Penetration Tests. Laboratory Tests: Cyclic Triaxial Shear Test, Introduction of Centrifuge and Shaking Table
-Test.
-[T1,T2] [No. of Hours: 12]
+Soil Dynamics:
+  1-D wave propagation, 1-D Wave in layered body, impedance ratio, angle of refraction, critical angle of incidence, introduction of attenuation of stress waves, Definitions of Material Damping and Radiation Damping in soil.
+  Measurements of Wave Propagation Velocity, Shear Modulus, Thickness of soil layers etc.
+  Field Tests like Low Strain Test, Seismic Reflection Test, Seismic Refraction Test for Horizontal Layering and inclined or irregular layering, Suspension Logging Test, Steady States Vibration [Rayleigh wave] Test, Seismic Cross Hole Test, Seismic Down Hole Test, Seismic Cone Test, Details and interpretation of Standard Penetration Test and Cone Penetration Tests.
+Laboratory Tests:
+  Cyclic Triaxial Shear Test, Introduction of Centrifuge and Shaking Table Test.
+[T1,T2]
+
 UNIT-II
-Machine Foundation: Types of Machine Foundations, General Requirements, Design Data, Dynamic Loads
-induced in simple Crank Mechanism, Permissible Amplitudes and Bearing Pressure, General Theory of
-Transmissibility of force for Vibrating machines in brief
-Analysis and Design of Block Type Machine Foundations: Brief review of Empirical Methods based on
-considering Soil as a Semi infinite Elastic Solid and Soil as a spring, Barkans Method of Analysis for Block
-Foundations including Vertical sliding, rocking and yawing of vibrations. Introduction of codes related with
-Machine Foundations.
-[T1,T2][No. of Hours: 12]
+Machine Foundation:
+  Types of Machine Foundations, General Requirements, Design Data, Dynamic Loads induced in simple Crank Mechanism, Permissible Amplitudes and Bearing Pressure, General Theory of Transmissibility of force for Vibrating machines in brief.
+Analysis and Design of Block Type Machine Foundations:
+  Brief review of Empirical Methods based on considering Soil as a Semi infinite Elastic Solid and Soil as a spring, Barkans Method of Analysis for Block Foundations including Vertical sliding, rocking and yawing of vibrations. Introduction of codes related with Machine Foundations.
+[T1,T2]
+
 UNIT-III
-Foundation on Expansive Soils: Identification of expensive soils by field inspection and Laboratory Tests,
-general mechanism and characterization of swelling, Types of Damages in Building on expensive clay. Design
-of foundation on expensive soils like under-reamed piles, Computation of collapse settlement, Retaining walls
-in expansive soils, Treatment of cracked buildings.
-[T1,T2][No. of Hours: 10]
+Foundation on Expansive Soils:
+  Identification of expensive soils by field inspection and Laboratory Tests, general mechanism and characterization of swelling, Types of Damages in Building on expensive clay.
+  Design of foundation on expensive soils like under-reamed piles, Computation of collapse settlement, Retaining walls in expansive soils, Treatment of cracked buildings.
+[T1,T2]
+
 UNIT-IV
-Environmental Geo-technology: Contamination due to landfills, subsurface contamination due to lechate and
-its effects. One dimensional analysis of contaminant transport, contaminated sites, Containment of solid waste in
-landfills, Vertical barrier for containment, Geo-technical reuse of construction and industrial waste materials
-Case study of Ash disposal from Thermal power plant, Ash pond and its design with/without geo-textiles,
-Environmental impact and control.
-[T1,T2][No. of Hours: 10]
+Environmental Geo-technology:
+  Contamination due to landfills, subsurface contamination due to leechate and its effects.
+  1-D analysis of contaminant transport, contaminated sites, Containment of solid waste in landfills, Vertical barrier for containment, Geo-technical reuse of construction and industrial waste materials Case study of Ash disposal from Thermal power plant, Ash pond and its design with/without geo-textiles, Environmental impact and control.
+[T1,T2]
+
+
 Text Books:
-[T1] Fundamentals of Soil Dynamics by B.M. Das, Elsevier Publication
-[T2] Foundation engineering, Varghese, PHI Learning Pvt. Ltd.
+[T1] Fundamentals of Soil Dynamics
+      B.M. Das
+       Elsevier Publication
+[T2] Foundation engineering
+      Varghese
+       PHI Learning Pvt Ltd
+
 References Books:
-[R1] Foundation for Machine: Analysis and Design by S. Prakash and V. K. Puri, John Wily
-[R2] Geotechnical Earthquake Engineering by Kramer, Pearson publications.
-[R3] Gulati-Datta - Geo-Technical Engineering, Tata McGraw Hill Publishers
-[R4] Waste containment systems, waste stabilization and landfills: design and evaluation, Hari D Sharma,
-and Sangeeta P.Lewis, John Willey and Sons.
-[R5] V.N.S. Murthy -Advanced Foundation Engineering, CBS Publishers and Distributors.
-[R6] Foundation analysis and Design, Bowles, McGraw Hill Education(I) Pvt. Ltd.
+[R1] Foundation for Machine: Analysis and Design
+      S. Prakash and V.K. Puri
+       John Wily
+[R2] Geotechnical Earthquake Engineering
+      Kramer
+       Pearson publications
+[R3] Geo-Technical Engineering
+      Gulati-Datta
+       Tata McGraw Hill Publishers
+[R4] Waste containment systems, waste stabilization and landfills: design and evaluation
+      Hari D Sharma, and Sangeeta P. Lewis
+       John Willey and Sons.
+[R5] V.N.S. Murthy
+      Advanced Foundation Engineering
+       CBS Publishers and Distributors
+[R6] Foundation analysis and Design
+      Bowles
+       McGraw Hill Education(I) Pvt. Ltd

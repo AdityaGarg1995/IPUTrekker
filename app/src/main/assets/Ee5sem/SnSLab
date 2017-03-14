@@ -1,0 +1,14 @@
+Paper Code: ETEL-351 L T/P C
+Paper: Signals and Systems Lab 0 2 1
+List of Experiments
+1. Introduction to MATLAB and its basic commands.
+2. Plot unit step, unit impulse, unit ramp, exponential, parabolic functions and sinusoidal signals
+3. Plot the linear convolution of two sequences.
+4. Plot the correlation of two sequences.
+5. Plot the magnitude and phase spectra of a signal using Fourier transforms.
+6. Plot the magnitude and phase spectrum of signal using Fourier series.
+7. Find out the Z transform of a signal and check the stability using pole zero location.
+8. Plot the spectra of ideally sampled signal w.r.t. sampling of Discrete time signals.
+9. Verification of few properties of Fourier transform.
+10. Evaluate the DTFS coefficients of a signal and plot them.
+11. Plot the step response for any impulse response entered by user.

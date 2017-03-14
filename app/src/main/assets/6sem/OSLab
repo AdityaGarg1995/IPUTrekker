@@ -3,11 +3,23 @@ Paper: Operating Systems (Linux Programming and Administration) Lab
 
 
 List of Experiments:
-1. Write a program to implement CPU scheduling for first come first serve.
-2. Write a program to implement CPU scheduling for shortest job first.
-3. Write a program to perform priority scheduling.
-4. Write a program to implement CPU scheduling for Round Robin.
-5. Write a program for page replacement policy using a) LRU b) FIFO c) Optimal.
-6. Write a program to implement first fit, best fit and worst fit algorithm for memory management.
-7. Write a program to implement reader/writer problem using semaphore.
-8. Write a program to implement Banker’s algorithm for deadlock avoidance.
+
+
+1. Write a program to implement CPU scheduling for first come first serve
+
+2. Write a program to implement CPU scheduling for shortest job first
+
+3. Write a program to perform priority scheduling
+
+4. Write a program to implement CPU scheduling for Round Robin
+
+5. Write a program for page replacement policy using
+   a) LRU
+   b) FIFO
+   c) Optimal
+
+6. Write a program to implement first fit, best fit and worst fit algorithm for memory management
+
+7. Write a program to implement reader/writer problem using semaphore
+
+8. Write a program to implement Banker’s algorithm for deadlock avoidance

@@ -5,13 +5,21 @@ Paper: System and Network Administration
 System Administration:
 
 UNIT- I
-System Hardware: PC and Server Hardware Architecture, Operating System Administration: UNIX, Windows, MAC OS.
-Centralization and Decentralization: Centralized Authentication, Active Directories; LDAP; Storage: RAID, Storage Area Network(SAN), Direct Attached Storage (DAS), Network Attached Storage(NAS); Data Integrity Backup and Recovery.
+System Hardware:
+  PC and Server Hardware Architecture, Operating System Administration: UNIX, Windows, MAC OS.
+Centralization and Decentralization:
+  Centralized Authentication, Active Directories.
+  LDAP.
+Storage:
+  RAID, Storage Area Network(SAN), Direct Attached Storage(DAS), Network Attached Storage(NAS).
+  Data Integrity Backup and Recovery.
 [T1,T2]
 
 UNIT- II
-Lab Management: System Configuration, Cloning, Monitoring and Administering them; workstations, server, Data centers Data Center Management: Administering, Surveillance, Access Control.
-Special Topics: High Performance Computing, Virtualization and Cloud Computing.
+Lab Management:
+  System Configuration, Cloning, Monitoring and Administering them; workstations, server, Data centers Data Center Management: Administering, Surveillance, Access Control.
+Special Topics:
+  High Performance Computing, Virtualization and Cloud Computing.
 [T1,T2]
 
 
@@ -19,23 +27,42 @@ Network Administration:
 
 UNIT- III
 Network administrator (definition and functions), Network Planning, Routine system maintenance
-Computer Networks: OSI & TCP/IP Model, clean architecture;
-Switching & Routing: Layer 2 & Layer 3 switching; Routing; VLAN; Cisco L2 and L3 Switch Configuration; DHCP Configuration; IPv6, Wireless LAN: 802.11 a/b/g/n/ac WiFi; Access Point and Wireless Router configuration.
+Computer Networks:
+  OSI & TCP/IP Model, clean architecture.
+Switching & Routing:
+  Layer 2 & Layer 3 switching.
+  Routing.
+  VLAN.
+  Cisco L2 and L3 Switch Configuration.
+  DHCP Configuration; IPv6, Wireless LAN: 802.11 a/b/g/n/ac, WiFi; Access Point and Wireless Router configuration.
 [T1,T2]
 
 UNIT-IV
-Internet Architecture: ISP Architecture; DNS Resolution; Content Mirroring.
-Internet Applications: DNS, Web, Mail, Proxy, NTP.
-Perimeter Security: Firewall, UTM.
-Network Security: LAN and WLAN Security issues; IP Spoofing; Dictionary Attack; DoS and DDoS Attack; Rogue/Misconfigured/External APs; Network Troubleshooting: ping, traceroute, nslookup, dig, tcpdump; Network Monitoring: SNMP; MRTG.
+Internet Architecture:
+  ISP Architecture; DNS Resolution; Content Mirroring.
+Internet Applications:
+  DNS, Web, Mail, Proxy, NTP.
+Perimeter Security:
+  Firewall, UTM.
+Network Security:
+  LAN and WLAN Security issues; IP Spoofing; Dictionary Attack; DoS and DDoS Attack; Rogue/Misconfigured/External APs; Network Troubleshooting: ping, traceroute, nslookup, dig, tcpdump; Network Monitoring: SNMP; MRTG.
 [T1,T2]
 
 
 Text Books:
-[T1] Thomas A Limoli, Christina J. Hogan , Strata R. Chalup " Theory and Practise of System and Network administration " Addison-Wesley Professional; 2 edition 2007
-[T2] Subramaniam Mani, Subramanian " Network Management: Principles And Practice" Pearson Education India, 2006
+[T1] Thomas A. Limoli, Christina J. Hogan, Strata R. Chalup
+      "Theory and Practise of System and Network administration", 2nd edition
+        Addison-Wesley Professional, 2007
+[T2] Subramaniam Mani, Subramanian
+      "Network Management: Principles And Practice"
+       Pearson Education India, 2006
 
 References Books:
-[R1] Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley "UNIX and Linux System Administration Handbook"(4th Edition), 2010
-[R2] Craig Hunt, "TCP/IP Network Administration" "O'Reilly Media Inc", 2002
-[R3] Bill McCarty Learning Red Hat Linux "O'Reilly Media Inc", 2003
+[R1] Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
+      "UNIX and Linux System Administration Handbook"(4th Edition), 2010
+[R2] Craig Hunt
+      "TCP/IP Network Administration"
+       O'Reilly Media Inc, 2002
+[R3] Bill McCarty
+      Learning Red Hat Linux
+       O'Reilly Media Inc, 2003

@@ -1,0 +1,59 @@
+Paper Code: ETEL-203
+Paper: Analog Electronics
+
+
+UNIT – I
+Review of Diode and BJT, Bias stabilization:
+  Need for stabilization, fixed Bias, emitter bias, self-bias, bias stability with respect to variations in Ico, VBE & β, Stabilization factors, thermal stability.
+  Bias compensation techniques.
+Small signal amplifiers:
+  CB, CE, CC configurations, hybrid model for transistor at low frequencies, RC coupled amplifiers, mid-band model, gain & impedance, comparisons of different configurations, Emitter follower, Darlington pair(derive voltage gain, current gain, input and output impedance).
+  Hybrid-model at high frequencies (π model).
+[T1,T2,T3]
+
+UNIT – II
+Multistage Amplifiers:
+  Cascade and cascode amplifiers, Calculations of gain, impedance and bandwidth.
+  Design of multistage amplifiers.
+Feedback Amplifiers:
+  Feedback concept, Classification of Feedback amplifiers, Properties of negative Feedback amplifiers, Impedance considerations in different configurations.
+  Analysis of feedback Amplifiers.
+[T1,T2,T3]
+
+UNIT – III
+Field Effect Transistor:
+  Introduction, Classification, FET characteristics, Operating point, Biasing, FET small signal model, enhancement & depletion type MOSFETS, MESFET, FET Amplifier configurations (CD,CG and CS).
+  Introduction to UJT, SCR, Triac and Diac (working, construction, characteristics and application), UJT relaxation oscillator.
+[T1,T2,T3]
+
+UNIT – IV
+Power Amplifiers:
+  Power dissipations in transistors, Amplifiers Classification, (Class-A, Class-B, Class-C, Class-AB) Efficiency analysis, Push-pull & complementary Push-pull amplifiers, cross over distortion & harmonic distortion in push-pull amplifier.
+  Tuned amplifiers(single, double & stagger tuned amplifier).
+[T1,T2,T3]
+
+
+Text Books:
+[T1] Boylestad & Nashelsky
+      “Electronic Devices & Circuit Theory”
+       Pearson
+[T2] Salivahanan, Suresh Kumar, Vallavaraj
+      “Electronic Devices and Circuits”
+       TMH, 1999
+[T3] J. Millman and Halkias
+      “Integrated Electronics, Analog & Digital Circuits & Systems”
+       TMH, 2000
+
+Reference Books:
+[R1] Sedra & Smith
+      “Micro Electronic Circuits”
+       Oxford University Press, 2000
+[R2] B. Kumar & Shail Bala Jain
+      “Electronic Devices And Circuits”
+       PHI
+[R3] David A. Bell
+      “Electronic Devices and Circuits”
+       Oxford University Press, 2000
+[R4] Albert Malvino, David J. Bates
+      “Problems and Solutions in Basic Electronics”
+       TMH

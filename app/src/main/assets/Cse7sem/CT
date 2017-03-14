@@ -1,0 +1,36 @@
+Paper Code: ETCS-407
+Paper: Complexity Theory
+
+
+UNIT I
+Complexity, properties common to complex systems, introduction to Net logo, Dynamics and Chaos, Fractals, Information, Order, and Randomness, Maxwell's Demon, Shannon Information.
+[T1][R2][T2]
+
+UNIT II
+Cellular Automata, Game of life, Cellular Automata as Dynamical Systems, Models of Biological Self- Organization, Ant Foraging and Task Allocation, Information Processing in Biological Systems, Models of Cooperation in Social Systems, The Prisoner's Dilemma.
+[T1][R1]
+
+UNIT III
+Small-World Networks, Scale-Free and Long-Tailed Degree Distributions, Scaling in Cities, Metabolic Scaling.
+[T1][T2][R1]
+
+Unit IV
+Evolving Automata, Agent Behavior, Adaptation, Taxonomy of 2 x 2 Games, Game Theory, One Agent, Many Games.
+[T2][R1][No. of hrs. 11]
+
+
+Text Books:
+[T1] Mitchell, Melanie
+      Complexity: A guided tour
+       Oxford University Press, 2009
+[T2] Miller, John H., and Scott E. Page
+      Complex Adaptive Systems: An Introduction to Computational Models of Social Life
+       Princeton University Press, 2009
+
+Reference Books:
+[R1] Wolfram, Stephen
+      A New Kind of Science, Vol. 5
+       Champaign: Wolfram media, 2002
+[R2] Johnson, Neil
+      Simply Complexity: A clear guide to complexity theory
+       One world Publications, 2009

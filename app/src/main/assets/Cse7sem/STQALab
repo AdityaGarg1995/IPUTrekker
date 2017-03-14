@@ -1,0 +1,28 @@
+Paper Code: ETCS-453
+Paper: Software Testing and Quality Assurance Lab
+
+
+List of Experiments:
+Tool Required: Smartbear QA Complete
+
+
+1. Determine the nature of roots of a quadratic equations, its input is triple of +ve integers (say x,y,z) and values may be from interval[1,100] the program output may have one of the following:-
+   [Not a Quadratic equations, Real roots, Imaginary roots, Equal roots] Perform BVA.
+
+2. Determine the type of triangle. Its input is triple of +ve integers (say x,y,z) and the values may be from interval[1,100].The program output may be one of the following [Scalene, Isosceles, Equilateral, Not a Triangle].Perform BVA
+
+3. Perform robust case testing on Problem No. 1
+
+4. Perform robust case testing on Problem No. 2
+
+5. Create a test plan document for any application (e.g. Library Management System)
+
+6. Study of Any Testing Tool (Win Runner)
+
+7. Study of Any Test Management Tool (QA Complete)
+
+8. Automate the Test cases using Test Automation tool(using QA Complete)
+
+9. Learn how to raise and report Bugs using Bug tracking tool (Bugzilla,Jira using QA Complete)
+
+10. Study of any open source testing tool (Web Performance Analyzer/O STA)

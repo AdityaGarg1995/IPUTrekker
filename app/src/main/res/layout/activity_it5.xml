@@ -21,7 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/ada"
-            android:text="Algorithms Design and analysis"
+            android:text="Algorithms Design &amp; Analysis"
             android:layout_weight="1"
             />
         <Button
@@ -49,14 +49,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/comm"
-            android:text="communication systems"
+            android:text="Communication Systems"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/skills"
-            android:text="communication skills for professionals"
+            android:text="Communication Skills for Professionals"
             android:layout_weight="1"
             />
 
@@ -75,7 +75,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/adaLab"
-            android:text="Algorithms Design and analysis lab"
+            android:text="Algorithms Design &amp; Analysis Lab"
             android:layout_weight="1"
             />
         <Button
@@ -103,8 +103,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/skillsLab"
-            android:text="communication skills for professionals Lab"
+            android:text="Communication Skills for Professionals Lab"
             android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lab1"
+            android:text=""
             />
     </LinearLayout>
 </ScrollView>

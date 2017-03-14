@@ -1,41 +1,54 @@
-Paper Code: ETEN-302 L T/P C
-Paper: Environment System Optimization 3 1 4
-Objective: The course aims to introduce fundamentals and need for optimization techniques in engineering
-problems. Various techniques such as Linear Programming, Geometric Programming, Dynamic Programming
-and Non-Linear Programming are taught to students to solve various environmental engineering problems for
-optimal solutions.
+Paper Code: ETEN-302
+Paper: Environment System Optimization (General Elective)
+
+
 UNIT–I
-Introduction to Optimization: Engineering Applications of Optimization, Statement of an Optimization
-Problem, Design Constraints, Constraint Surface, Objective Function, Optimization Techniques, Single-
-Variable Optimization, Multivariable Optimization with no Constraints, Multivariable Optimization with
-Equality Constraints, Multivariable Optimization with Inequality Constraints, Convex Programming Problem.
-[T1, T2][No. of Hours: 11]
+Introduction to Optimization:
+  Engineering Applications of Optimization, Statement of an Optimization Problem, Design Constraints, Constraint Surface, Objective Function, Optimization Techniques, Single- Variable Optimization, Multivariable Optimization with no Constraints, Multivariable Optimization with Equality Constraints, Multivariable Optimization with Inequality Constraints, Convex Programming Problem.
+[T1,T2]
+
 UNIT–II
-Linear Programming: Applications, Standard form, Pivotal Reduction, Simplex Algorithm, Two Phases of the
-simplex Method, Primal- Dual Relations, Transportation Problem, Integer Linear Programming. Assignment
-Problem. Examples- reservoir for irrigation and power production, river water quality (including treated
-effluent component). Water supply and drainage network optimization- case study.
-[T1, T2][No. of Hours: 11]
+Linear Programming:
+  Applications, Standard form, Pivotal Reduction, Simplex Algorithm, 2 Phases of the simplex Method, Primal-Dual Relations, Transportation Problem, Integer Linear Programming.
+  Assignment Problem.
+  Examples- reservoir for irrigation and power production, river water quality (including treated effluent component).
+  Water supply and drainage network optimization- case study.
+[T1,T2]
+
 UNIT–III
-Geometric Programming: Introduction, Polynomial, Unconstrained Minimization Problem, Constrained
-Minimization, Applications of Geometric Programming.
-Dynamic Programming: Introduction, Multistage Decision Processes, Representation of a Multistage Decision
-Process, Concept of Sub-optimization and the principle of the Optimality, Computational Procedure in Dynamic
-Programming, Continuous Dynamic Programming, Design of a Minimum-Cost Drainage System. Water
-allocation problem, capacity expansion problem, reservoir operation, case study.
-[T1, T2][No. of Hours: 12]
+Geometric Programming:
+  Introduction, Polynomial, Unconstrained Minimization Problem, Constrained Minimization, Applications of Geometric Programming.
+Dynamic Programming:
+  Introduction, Multistage Decision Processes, Representation of a Multistage Decision Process, Concept of Sub-optimization and the principle of the Optimality, Computational Procedure in Dynamic Programming, Continuous Dynamic Programming, Design of a Minimum-Cost Drainage System.
+  Water allocation problem, capacity expansion problem, reservoir operation, case study.
+[T1,T2]
+
 UNIT–IV
-Nonlinear Programming: Unrestricted Search, Exhaustive Search, Dichotomous Search, Interval Halving
-Method, Golden Section Method, Interpolation Method, Quadratic Interpolation Method, Cubic Interpolation
-Method, Direct Root Method, Case studies in Environmental Engineering.
-[T1, T2][No. of Hours: 11]
+Nonlinear Programming:
+  Unrestricted Search, Exhaustive Search, Dichotomous Search, Interval Halving Method, Golden Section Method, Interpolation Method, Quadratic Interpolation Method, Cubic Interpolation Method, Direct Root Method, Case studies in Environmental Engineering.
+[T1,T2]
+
 Text Books:
-[T1] Douglas A.H., “Environmental System Optimization”, John Wiley and Sons, New York.
-[T2] Vedula S. and Mujumdar P.P., “Water Resources Systems: Modeling Techniques and Analysis”,
-TMH
+[T1] Douglas A.H.
+      “Environmental System Optimization”
+       John Wiley and Sons, New York
+[T2] Vedula S. and Mujumdar P.P.
+      “Water Resources Systems: Modeling Techniques and Analysis”
+       TMH
+
 Reference Books:
-[R1] Rao S.S., “Engineering Optimization- Theory and Optimization”, New Age International Publishers
-[R2] Haith D.A., “Environmental System Optimization”, Wiley and Sons, New York.
-[R3] Geem Z.W., “Optimization In Civil and Environmental Engineering”, Old City Publishing, USA.
-[R4] Sieniutycz S and Jezowski J., “Energy Optimization In Process Systems”, Elsevier, U.K.
-[R5] Floudas A and Perdolas M., “Encyclopedia of Optimization- Volume 2”, Springer, United States.
+[R1] Rao S.S.
+      “Engineering Optimization - Theory and Optimization”
+       New Age International Publishers
+[R2] Haith D.A.
+      “Environmental System Optimization”
+       Wiley and Sons, New York
+[R3] Geem Z.W.
+      “Optimization In Civil and Environmental Engineering”
+       Old City Publishing, USA
+[R4] Sieniutycz S and Jezowski J.
+      “Energy Optimization In Process Systems”
+       Elsevier, UK
+[R5] Floudas A and Perdolas M.
+      “Encyclopedia of Optimization - Volume 2”
+       Springer, USA

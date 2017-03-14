@@ -1,0 +1,63 @@
+Paper Code: ETCS-420
+Paper: Service Oriented Architecture
+
+
+UNIT-I
+Service Oriented Architecture (SOA):
+  Introduction, Evolution, Fundamental SOA, Common Characteristics of contemporary SOA, Benefits of SOA, Common misperceptions about SOA, Promise and Challenges of SOA, Drivers, Dimensions, Key components, Perspectives.
+SO Architectures:
+  Architectures like Enterprise architecture, software architecture, SOA Reference architecture overview, The roots of SOA (comparing SOA to Past architectures).
+Enterprise-wide SOA:
+  Services-orientation and the enterprise, Considerations, Layers, Strawman architecture and other architectures, Application Development process, SOA methodology for Enterprise, Enterprise Applications.
+[T1]
+
+UNIT-II
+Service-Oriented Enterprise Applications:
+  Considerations, Patterns for SOA, SOA Programming Models.
+SOA Analysis and Design:
+  Principles and best practices of Service Design, Designing - Activity Services, Data Services, Client Services, Business process services.
+Designing SOA:
+  Business architecture, Business Process Models (Creating, Management & Modeling).
+Service Context and common Semantics:
+  Importance of Semantics in SOA, Core information modeling, defining types, Beyond the basics, structuring information models, documents and XML, XML: Schema and Patterns, Best practices for SOA Architect.
+[T2]
+
+UNIT-III
+Designing Service interfaces:
+  Services, Design Guidelines, Interface Design, Solution model.
+Designing Service implementations:
+  Basic Service architecture, Implementing: interface layer, business layer, Resource layer.
+Composing Services:
+  Understanding, Architectural models, implementation, business rules and Transactions.
+Designing and Using Integration in SOA Solutions:
+  Challenges of Integration in SOA, Special Considerations for implementing Integration.
+[T1, T2]
+
+UNIT-IV
+SOA Security:
+  Goals and fundamentals, Web service security Standards and specifications, SOA Security blueprints.
+SOA Governance:
+  Management and governance defined, Case for SOA governance, service life cycle, Developing and Registering Run Time policies, Run time policy enforcement and adaptation.
+  Approach for Enterprise-wide SOA Implementation.
+  SOA Applications and various Case Studies.
+[T1, T2]
+
+
+Text Books:
+[T1] Michael Rosen, Boris Lublinsky, Kevin T Smith, Marc J Balcer
+      “Applied SOA: Service Oriented Architectures and Design Strategies”
+       Wiley Reprint 2014
+[T2] Shankar Kambhampaly
+      “Service –Oriented Architecture for Enterprise and Cloud Applications”
+       Wiley
+
+Reference Books:
+[R1] Thomas Erl
+      "SOA Principles of Service Design"
+       Prentice Hall
+[R2] Roshen
+      "SOA based Enterprise Integration"
+       TMH publications
+[R3] Eric Newcomer, Greg Lomow
+      “Understanding SOA with Web Services”
+       Pearson Education

@@ -3,11 +3,12 @@ Paper: Fundamentals of Computing
 
 
 UNIT-I
-Five Component Model of a Computer, System and Application software(introduction) storage devices, primary(RAM, ROM, PROM, EPROM, cache) Memory and secondary (magnetic tape, hard disk, CDs) memory, peripheral devices, printers.
+5-Component Model of a Computer, System and Application software(introduction) storage devices, primary(RAM, ROM, PROM, EPROM, cache) Memory and secondary (magnetic tape, hard disk, CDs) memory, peripheral devices, printers.
 [T1][T2]
 
 UNIT-II
-Operating Systems: DOS Internal, External commands, Windows(2000 and NT), Overview of architecture of Windows, tools and system utilities including registry, partitioning of hard disk, Overview of Linux architecture, File system, file and permissions, concept of user and group, installation of rpm and deb based packages.
+Operating Systems:
+  DOS Internal, External commands, Windows(2000 and NT), Overview of architecture of Windows, tools and system utilities including registry, partitioning of hard disk, Overview of Linux architecture, File system, file and permissions, concept of user and group, installation of rpm and deb based packages.
 [T1][T2]
 
 UNIT-III
@@ -15,26 +16,29 @@ Basics of programming through flow chart, Networking Basics - Uses of a network 
 [T1][T2][R1]
 
 UNIT-IV
-Libre/Open Office Writer : Editing and Reviewing, Drawing, Tables, Graphs, Templates
-Libre/Open Office Calc : Worksheet Management, Formulas, Functions, Charts
-Libre/Open Office Impress: designing powerful power-point presentation
+Libre/Open Office Writer:
+  Editing and Reviewing, Drawing, Tables, Graphs, Templates
+Libre/Open Office Calc:
+  Worksheet Management, Formulas, Functions, Charts
+Libre/Open Office Impress:
+  designing powerful power-point presentation
 [R2][R3]
 
 
 Text Books:
 [T1] Peter Norton
-     Introduction to computers
-      6th Edition Tata McGraw Hill (2007).
+      Introduction to computers, 6th Edition
+       Tata McGraw Hill (2007)
 [T2] Andrews Jean
-     A+Guide to Managing & Maintaining Your PC
-      Cengage Publication 6/e
+      A+Guide to Managing & Maintaining Your PC, 6/e
+       Cengage Publication
 
 References:
 [R1] Anita Goel
-     Computer Fundamentals
-      Pearson Education.
+      Computer Fundamentals
+       Pearson Education
 [R2] Joiner Associates Staff
-     Flowcharts: Plain & Simple: Learning & Application Guide
-      Oriel Inc
+      Flowcharts: Plain & Simple: Learning & Application Guide
+       Oriel Inc
 [R3] http://www.openoffice.org/why/
 [R4] http://www.libreoffice.org/get-help/documentation/

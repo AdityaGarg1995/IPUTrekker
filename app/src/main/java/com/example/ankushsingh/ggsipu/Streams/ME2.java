@@ -16,14 +16,7 @@ public class ME2 extends AppCompatActivity implements View.OnClickListener {
 
     Activity a = this;
 
-    public static final String meResult[] = {
-            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/111_ME_1stSEM.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF2/111_ME_2_SEM.pdf",
-            "http://www.ipu.ac.in/exam/ExamResults/2016/290316/111_ME_3rd%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF4/111_ME_4_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/111_ME_5th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF6/111_ME_6_SEM.pdf"
-    };
+
 
 
     @Override

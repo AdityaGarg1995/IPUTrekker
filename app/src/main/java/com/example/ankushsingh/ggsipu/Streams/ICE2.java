@@ -15,16 +15,7 @@ public class ICE2 extends AppCompatActivity implements View.OnClickListener {
 
 //    Button[] buttons = new Button[8];
 
-    public static final String iceResult[] = {
-            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/030_ICE_1stSEM.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF2/030_ICE_2_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/290316/030_ICE_3rd%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF4/030_ICE_4_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/030_ICE_5th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF6/030_ICE_6_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/030_ICE_7th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF8/030_ICE_8_SEM.pdf"
-    };
+
 
 
     @Override

@@ -15,16 +15,7 @@ public class POWER2 extends AppCompatActivity implements View.OnClickListener{
 
 //    Button[] buttons = new Button[8];
 
-    public static final String powerResult[] = {
-            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/037_PE_1stSEM.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF2/037_PE_2_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/290316/037_PE_3rd%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF4/037_PE_4_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/037_PE_5th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF6/037_PE_6_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/037_PE_7th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF8/037_PE_8_SEM.pdf"
-    };
+
 
 
     @Override

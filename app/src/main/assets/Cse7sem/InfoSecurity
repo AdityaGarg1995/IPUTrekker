@@ -1,0 +1,53 @@
+Paper Code: ETCS-401
+Paper: Information Security
+
+
+UNIT- I
+Information and Security:
+Information Systems:
+  Recent History, Distributed Information System and its Importance, Role of Internet and Web Services, Threats and attacks, Classification of Threats and Assessing Damages Security in Mobile and Wireless Computing- Security Challenges in Mobile Devices, authentication Service Security, Security Implication for organizations, Laptops Security.
+Basic Principles of Information Security, Confidentiality, Integrity Availability and other terms in Information Security, Information Classification and their Roles, Privacy of Data.
+[T1, T2]
+
+UNIT-II
+Networks and E-Security:
+Concepts in Internet and World Wide Web:
+  Brief review of Internet Protocols-TCP/IP, IPV4, IPV6.
+  Functions of various networking components: Routers, bridges, switches, hub, gateway and Modulation Techniques. Need for security, Legal, Ethical and Professional Issues in Information Security, Risk Management, 11 Security Threats to E-Commerce, Virtual Organization, Business Transactions on Web, E Governance and EDI, Conceptsin Electronics payment systems, E Cash, Credit/Debit Cards.
+Digital forensics including digital evidence handling:
+  Media forensics, Cyber forensics, Software forensics, Mobile forensics.
+[T1, T2]
+
+UNIT-III
+Physical Security and Bio-metrics as Security:
+Physical Security:
+  Needs, Disaster and Controls, Basic Tenets of Physical Security and Physical Entry Controls, Access Control- Biometrics, Factors in Biometrics Systems, Benefits, Criteria for selection of biometrics, Design Issues in Biometric Systems, Interoperability Issues, Economic and Social Aspects, Legal Challenges Framework for Information Security, Security Metrics, Information Security vs Privacy.
+[T1, T2]
+
+UNIT-IV
+Network Cryptography:
+Model of Cryptographic Systems, Issues in Documents Security, System of Keys, Public Key Cryptography, Digital Signature, Requirement of Digital Signature System, Finger Prints, Firewalls, Design and Implementation Issues.
+Policies Network Security:
+  Basic Concepts, Dimensions, Perimeter for Network Protection, Network Attacks, Need of Intrusion Monitoring and Detection, Intrusion Detection Virtual Private Networks- Need, Use of Tunnelling with VPN, Authentication Mechanisms, Types of VPNs and their Usage, Security Concerns in VPN.
+[T1, T2]
+
+
+Text Books:
+[T1] Godbole
+      "Information Systems Security"
+       Wiley
+[T2] Merkov, Breithaupt
+      "Information Security"
+       Pearson Education
+
+References:
+[R1] Yadav
+      "Foundations of Information Technology"
+       New Age, Delhi
+[R2] Schou, Shoemaker
+      “Information Assurance for the Enterprise"
+       Tata McGraw Hill
+[R3] Furnell
+      "Computer Insecurity"
+       Springer
+[R4] http://www.iiitd.edu.in/~gauravg/

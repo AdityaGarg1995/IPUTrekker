@@ -21,28 +21,28 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/ai"
-            android:text="Artificial intelligence"
+            android:text="Artificial Intelligence"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cd"
-            android:text="compiler design"
+            android:text="Compiler Design"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/dcn"
-            android:text="data Communication and networks"
+            android:text="Data Communication &amp; Networks"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/micro"
-            android:text="Microprocessors and microcontrollers"
+            android:text="Microprocessors &amp; Microcontrollers"
             android:layout_weight="1"
             />
         <Button
@@ -75,14 +75,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/dcnLab"
-            android:text="data Communication and networks lab"
+            android:text="Data Communication &amp; Networks Lab"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/microLab"
-            android:text="Microprocessors and microcontrollers Lab"
+            android:text="Microprocessors &amp; Microcontrollers Lab"
             android:layout_weight="1"
             />
         <Button
@@ -98,6 +98,12 @@
             android:id="@+id/webLab"
             android:text="Web Engineering Lab"
             android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lab1"
+            android:text=""
             />
     </LinearLayout>
 

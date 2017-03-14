@@ -1,0 +1,36 @@
+Paper Code: ETEL-306 L T/P C
+Paper: EHV AC & HVDC Transmissions 3 1 4
+Objective: The objective of the paper is to facilitate the student with the basics of EHV AC and HVDC
+Transmission that are required for an engineering student.
+UNIT- I
+EHV AC Transmission System : Fundamental design aspects of EHV AC transmission lines and their power
+carrying capabilities; EHV AC Transmission lines analysis – nominal and equivalent circuits; Problems related
+with long lines: corona loss, audible noise generation and characteristic corona pulses, RI effect, ferro-resonance,
+principle of half wave transmission.
+[T1,T2][No. of hrs. 11]
+UNIT- II
+Reactive Power Management in EHV AC System: Reactive power management of power system, reactive
+power problems associated with EHV AC systems; Reactive power devices – their operation and control, series
+and shunt compensation of EHV AC system, different equipment and scheme details with analysis, application
+of FACTS Technology. Extra High Voltage Testing: Characteristics and generation of impulse voltage,
+generation of high AC and DC voltages, measurement of high voltage by sphere gaps and potential dividers.
+[T1,T2][No. of hrs. 11]
+UNIT- III
+HVDC Transmission: Fundamental aspects of HVDC systems and their comparison with EHV AC Systems;
+Different types of HVDC Schemes with their basic details, HVDC Equipment and their ratings, construction and
+characteristics; Power Converter circuits associated with HVDC systems, design aspects of 12- pulse converters,
+simple design problems of HVDC Systems.
+[T1,T2][No. of hrs. 10]
+UNIT-IV HVDC System Control: Types of DC link, principle of dc link control, converter controls
+characteristics, firing angle control, current and excitation angle control, power control, starting and stopping of
+dc link, Harmonic Filters – HVDC current and voltage filters, different types of filters, Fundamental aspects of
+HVDC circuit breaking, MTDC systems: types, control and application.
+[T2][No. of hrs. 12]
+Text Books:
+[T1] S.Rao, “EHV AC & HVDC Transmission Engineering & Practice”, Khanna Publishers.
+[T2] Padiyar, K.R, “HVDC power Transmission System”, New Age Publication.
+References Books:
+[R1] R.D.Begamudre,”Extra high Voltage AC transmission Engineering”,Wiley Eastern.
+[R2] Naidu, Kamaraju “High Voltage Engineering”, ,5 ed., TMH Publishing
+[R3] Kamakshaiah, Kamaraju,”HVDC Transmission”, McGraw-Hill Publication.
+[R4] Nagsarkar, Sukhija, “Power System Analysis” , Oxford Publication

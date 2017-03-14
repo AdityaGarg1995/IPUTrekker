@@ -1,0 +1,13 @@
+Paper Code: ETEE-353 L T/P C
+Paper: Power Electronics Lab 0 2 1
+List of Experiments:
+1. To study and analyze V-I characteristics of SCR and TRIAC.
+2. To study the switching characteristics of MOSFET and IGBT
+3. To study R and RC and UJT based firing circuits using SCR.
+4. To study single phase Semi-converter and Full converters feeding R and RL load
+5. To study A.C phase control using SCR (half and full wave) using DIAC and TRIAC for dimmer application.
+6. To study single-phase cyclo- converter feeding R and RL loads.
+7. To study the operation and duty cycle control of buck and boost converter feeding R loads.
+8. To study the operation and duty cycle control of Type-C chopper.
+9. To study the THD in operation of single phase Square wave and Quasi square wave Inverter.
+10. To study the operation of SPWM Inverter.

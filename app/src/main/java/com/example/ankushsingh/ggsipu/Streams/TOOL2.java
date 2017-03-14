@@ -2,13 +2,18 @@ package com.example.ankushsingh.ggsipu.Streams;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.res.AssetManager;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 
 import com.example.ankushsingh.ggsipu.R;
+
+import java.io.IOException;
+import java.io.InputStream;
 
 public class TOOL2 extends AppCompatActivity implements View.OnClickListener {
 
@@ -16,24 +21,41 @@ public class TOOL2 extends AppCompatActivity implements View.OnClickListener {
 //    Button[] buttons = new Button[8];
 
 
-    public static final String toolResult[] = {
-            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/086_TE_1stSEM.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF2/086_TE_2_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/290316/086_TE_3rd%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF4/086_TE_4_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/086_TE_5th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF6/086_TE_6_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/086_TE_7th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF8/086_TE_8_SEM.pdf"
-    };
 
+    Activity a = this;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cse2);
+        setContentView(R.layout.nues);
 
+        String task = getIntent().getStringExtra("Task");
+
+        TextView text = (TextView)findViewById(R.id.text);
+
+        AssetManager am1 = getAssets();
+
+        if(task.equals("NCC")){
+            try {
+                InputStream input1 = am1.open("NCC");
+                byte[] buffer = new byte[input1.available()];
+                input1.read(buffer);
+                input1.close(); // byte buffer into a string
+                text.setText(new String(buffer));
+            } catch (IOException e) { e.printStackTrace(); }
+
+        }
+
+        else if (task.equals("Codes")){
+            try {
+                InputStream input1 = am1.open("Codes");
+                byte[] buffer = new byte[input1.available()];
+                input1.read(buffer);
+                input1.close(); // byte buffer into a string
+                text.setText(new String(buffer));
+            } catch (IOException e) { e.printStackTrace(); }
+        }
 //        findViewById(R.id.c1).setOnClickListener(this);
 //        findViewById(R.id.c2).setOnClickListener(this);
 //        findViewById(R.id.c3).setOnClickListener(this);

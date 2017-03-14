@@ -4,42 +4,43 @@ Paper: Computer Organization & Architecture
 
 UNIT- I
 Computer Arithmetic and Register transfer language:
-Unsigned notation, signed notation, binary coded decimal, floating point numbers, IEEE-754 floating point standard, Micro-operation, Bus and Memory Transfers, Bus Architecture, Bus Arbitration, Arithmetic Logic, Shift Micro operation, Arithmetic Logic Shift Unit.
+  Unsigned notation, signed notation, binary coded decimal, floating point numbers, IEEE-754 floating point standard, Micro-operation, Bus and Memory Transfers, Bus Architecture, Bus Arbitration, Arithmetic Logic, Shift Micro operation, Arithmetic Logic Shift Unit.
 [T1,T2]
 
 UNIT- II
 Instruction set architecture & computer organization:
-Levels of programming languages, assembly language instructions, 8085 instruction set architecture, Instruction Codes, Computer Registers, Computer Instructions, Timing & Control, Instruction Cycle, Memory Reference Instructions, Input-Output and Interrupts
+  Levels of programming languages, assembly language instructions, 8085 instruction set architecture, Instruction Codes, Computer Registers, Computer Instructions, Timing & Control, Instruction Cycle, Memory Reference Instructions, Input-Output and Interrupts
 [T1,T2]
 
 UNIT- III
 Control Design:
-Instruction sequencing & interpretation, Hardwired & Micro Programmed (Control Unit), Micrprogrammed computers.
-Microcoded CPU: Pentium processor.
-Specifying a CPU, Design & implementation of simple CPU, General Register Organization, Stack Organization, Instruction Formats, Addressing Modes, Internal architecture of 8085 microprocessor.
+  Instruction sequencing & interpretation, Hardwired & Micro Programmed (Control Unit), Micrprogrammed computers.
+Microcoded CPU:
+  Pentium processor.
+  Specifying a CPU, Design & implementation of simple CPU, General Register Organization, Stack Organization, Instruction Formats, Addressing Modes, Internal architecture of 8085 microprocessor.
 [T1,T2]
 
 UNIT- IV
 Memory & Input/Output organization:
-Memory Technology, Main Memory (RAM and ROM Chips), Virtual memory, High-speed memories, Asynchronous Data Transfers, Programmed I/O, interrupts, Direct memory Access, Serial communication, UARTs, RS-232-C & RS-422 standard.
+  Memory Technology, Main Memory (RAM and ROM Chips), Virtual memory, High-speed memories, Asynchronous Data Transfers, Programmed I/O, interrupts, Direct memory Access, Serial communication, UARTs, RS-232-C & RS-422 standard.
 [T1,T2]
 
 
 Text Books:
 [T1] J.D. Carpinelli
-     “Computer Systems Organization and Architecture”
-     Pearson Education, 2006
+      “Computer Systems Organization and Architecture”
+       Pearson Education, 2006
 [T2] J.P. Hayes
-     “Computer Architecture and Organization”
-     McGraw Hill, 1988
+      “Computer Architecture and Organization”
+       McGraw Hill, 1988
 
 Reference Books:
 [R1] J.L Hennessy and D.A. Patterson
-     “Computer Architecture: A quantitative approach”
-     Morgon Kauffman, 1992
+      “Computer Architecture: A quantitative approach”
+       Morgon Kauffman, 1992
 [R2] W. Stallings
-     “Computer organization and Architecture”
-     PHI, 7th ed, 2005
+      “Computer organization and Architecture”, 7th ed
+       PHI, 2005
 [R3] B. Parhami
-     “Computer Architecture: From Microprocessors to Supercomputers”
-     Oxford University Press, 2006
+      “Computer Architecture: From Microprocessors to Supercomputers”
+       Oxford University Press, 2006

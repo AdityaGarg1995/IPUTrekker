@@ -3,35 +3,46 @@ Paper: Semantic Web Technologies
 
 
 UNIT-I
-Introduction: Why Semantics-Data integration across the web, Traditional data modelling methods, semantic relationships, metadata, Building models, Calculating with knowledge, Exchanging information, Semantic web technology.
+Introduction:
+  Why Semantics-Data integration across the web, Traditional data modelling methods, semantic relationships, metadata, Building models, Calculating with knowledge, Exchanging information, Semantic web technology.
 [T1,T2]
 
 UNIT-II
-RDF Resource description language: Simple Ontology’s in RDF and RDF schema- Introduction, syntax for RDF, advanced features, Simple ontology’s in RDF schemas.
-RDF Formal semantics: Why semantics, Model theoretic semantic for RDF(S), Semantic reasoning with deduction rules, semantic limits of RDF(S).
+RDF Resource description language:
+  Simple Ontology’s in RDF and RDF schema- Introduction, syntax for RDF, advanced features, Simple ontology’s in RDF schemas.
+RDF Formal semantics:
+  Why semantics, Model theoretic semantic for RDF(S), Semantic reasoning with deduction rules, semantic limits of RDF(S).
 [T1,T2]
 
 UNIT-III
-Web Ontology Languages(OWL): OWL syntax and intuitive semantics, OWL species, Description logics, Model theoretic semantics of OWL, Automated Reasoning with OWL.
+Web Ontology Languages(OWL):
+  OWL syntax and intuitive semantics, OWL species, Description logics, Model theoretic semantics of OWL, Automated Reasoning with OWL.
 [T1,T2]
 
 UNIT-IV
-Rules and Queries: Ontology and Rules-What is Rule, Data log as a 1st order rule language, Combining Rules with OWL-DL, Rule interchange format RIF.
-Query Language: SPARQL-Query language for RDF, Conjunctive queries for OWL-DL.
+Rules and Queries:
+  Ontology and Rules-What is Rule, Data log as a 1st order rule language, Combining Rules with OWL-DL, Rule interchange format RIF.
+Query Language:
+  SPARQL-Query language for RDF, Conjunctive queries for OWL-DL.
 [T1,T2]
 
 
 Text Books:
 [T1] Foundation Of Semantic Web Technology
-     Pascal Hitzler, Marcus Krotzsch, Sebastion Rudolph
-      Chapman and Hall Book(CRC Press)
+      Pascal Hitzler, Marcus Krotzsch, Sebastion Rudolph
+       Chapman and Hall Book(CRC Press)
 [T2] Programming The Semantic Web
-     Toby Segaran, Colin Evans, Jamie Taylor
-      O’Reilly Media Publication
+      Toby Segaran, Colin Evans, Jamie Taylor
+       O’Reilly Media Publication
 
 Reference Books:
-[R1] A Semantic Web Primer MIT Press.
-[R2] Knowledge Representation: Logical, Philosophical, and Computational Foundations, John Sowa,(ISBN-13:978-0534949655)
-[R3] Foundations of Semantic Web Technologies, Pascal Hitzler, Markus Krotzsch, Sebastian Rudolph (ISBN:978-1-4200-9059-5)
-[R4] Agency and the Semantic Web, Christopher Walton, ISBN-13: 978-0199292486
-[R5] Artificial Intelligence: A Modern Approach, 3rd Edition, Stuart Russell, Peter Norvig (ISBN-13:978-0-13-604259-4)
+[R1] A Semantic Web Primer
+      MIT Press
+[R2] Knowledge Representation: Logical, Philosophical, and Computational Foundations
+      John Sowa,(ISBN-13:978-0534949655)
+[R3] Foundations of Semantic Web Technologies
+      Pascal Hitzler, Markus Krotzsch, Sebastian Rudolph (ISBN:978-1-4200-9059-5)
+[R4] Agency and the Semantic Web
+      Christopher Walton, ISBN-13: 978-0199292486
+[R5] Artificial Intelligence: A Modern Approach, 3rd Edition
+      Stuart Russell, Peter Norvig (ISBN-13:978-0-13-604259-4)

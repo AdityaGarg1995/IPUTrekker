@@ -1,0 +1,30 @@
+Paper Code: ETCS-454
+Paper: Machine Learning Lab
+
+
+List of Experiments:
+
+
+1. Study and Implement the Naive Bayes learner using WEKA. (The datasets taken can be: Breast Cancer data file or Reuters data set)
+
+2. Study and Implement the Decision Tree learners using WEKA. (The datasets taken can be: Breast Cancer data file or Reuter’s data set)
+
+3. Estimate the accuracy of decision classifier on breast cancer dataset using 5-fold cross-validation. (You need to choose the appropriate options for missing values)
+
+4. Estimate the precision, recall, accuracy, and F-measure of the decision tree classifier on the text classification task for each of the 10 categories using 10-fold cross-validation
+
+5. Develop a machine learning method to classifying your incoming mail
+
+6. Develop a machine learning method to Predict stock prices based on past price variation
+
+7. Develop a machine learning method to predict how people would rate movies, books, etc
+
+8. Develop a machine learning method to Cluster gene expression data, how to modify existing methods to solve the problem better
+
+9. Select two datasets. Each dataset should contain examples from multiple classes. For training purposes assume that the class label of each example is unknown (if it is known, ignore it). Implement the Kmeans algorithm and apply it to the data you selected. Evaluate performance by measuring the sum of Euclidean distance of each example from its class center. Test the performance of the algorithm as a function of the parameter k
+
+10. Implement the EM algorithm assuming a Gaussian mixture. Apply the algorithm to your datasets and report the parameters you obtain. Evaluate performance by measuring the sum of Mahalanobis distance of each example from its class center. Test performance as a function of the number of clusters
+
+11. Suggest and test a method for automatically determining the number of clusters
+
+12. Using a dataset with known class labels compare the labeling error of the K-means and EM algorithms. Measure the error by assigning a class label to each example. Assume that the number of clusters is known

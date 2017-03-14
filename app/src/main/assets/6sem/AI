@@ -3,30 +3,42 @@ Paper: Artificial Intelligence
 
 
 UNIT-I
-Introduction: Introduction to intelligent agents
-Problem solving: Problem formulation, uninformed search strategies, heuristics, informed search strategies,
-constraint satisfaction Solving problems by searching, state space formulation, depth first and breadth first
-search, iterative deepening
+Introduction:
+  Introduction to intelligent agents.
+Problem solving:
+  Problem formulation, uninformed search strategies, heuristics, informed search strategies, constraint satisfaction Solving problems by searching, state space formulation, depth first and breadth first search, iterative deepening
 [T1,T2]
+
 UNIT-II
-Logical Reasoning : Logical agents , propositional logic, inferences ,first-order logic, inferences in first order
-logic, forward chaining, backward chaining, unification , resolution
+Logical Reasoning:
+  Logical agents, propositional logic, inferences, 1st-order logic, inferences in 1st-order logic, forward chaining, backward chaining, unification, resolution.
 [T1,T2]
 
 UNIT-III
-Game Playing: Scope of AI -Games, theorem proving, natural language processing, vision and speech
-processing, robotics, expert systems, AI techniques- search knowledge, abstraction
+Game Playing:
+  Scope of AI-Games, theorem proving, natural language processing, vision and speech processing, robotics, expert systems, AI techniques- search knowledge, abstraction
 [T1,T2]
 
 UNIT-IV
-Learning from observations: Inductive learning, learning decision trees, computational learning theory,
-Explanation based learning
-Applications: Environmental Science, Robotics, Aerospace, Medical Sciences etc.
+Learning from observations:
+  Inductive learning, learning decision trees, computational learning theory, Explanation based learning.
+Applications:
+ Environmental Science, Robotics, Aerospace, Medical Sciences etc.
 [T1,T2]
 
+
 Text Book:
-[T1] Rich and Knight, “Artificial Intelligence”, Tata McGraw Hill, 1992
-[T2] S. Russel and P. Norvig, “Artificial Intelligence – A Modern Approach”, Second Edition, Pearson Edu.
+[T1] Rich and Knight
+      “Artificial Intelligence”
+       Tata McGraw Hill, 1992
+[T2] S. Russel and P. Norvig
+      “Artificial Intelligence – A Modern Approach”, 2nd Edition
+       Pearson Education
+
 Reference Books:
-[R1] KM Fu, "Neural Networks in Computer Intelligence", McGraw Hill
-[R2] Russel and Norvig, "Artificial Intelligence: A modern approach", Pearson Education
+[R1] K.M. Fu
+      "Neural Networks in Computer Intelligence"
+       McGraw Hill
+[R2] Russel and Norvig
+      "Artificial Intelligence: A modern approach"
+       Pearson Education

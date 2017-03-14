@@ -1,0 +1,65 @@
+Paper Code: ETCS-424
+Paper: Principles of Programming Languages
+
+
+UNIT-I
+Introduction:
+  Syntax, semantics and pragmatics.
+  Formal translation models, Variables, Expressions & Statements, Binding time spectrum.
+  Variables and expressions.
+  Assignment.
+  I-values and r-values.
+  Environments and stores.
+  Storage allocation.
+  Constants and initialization
+  Statement-level control structure.
+[T1, T2]
+
+UNIT-II
+Primitive Types:
+  Pointers; Structured types; Coercion; Notion of type equivalence;
+Polymorphism:
+  overloading, inheritance, type parameterization, Abstract data types; Information hiding and abstraction; Visibility, Procedures, Modules, Classes, Packages, Objects and Object-Oriented Programming.
+[T1, T2]
+
+UNIT-III
+Storage Management:
+  Static and dynamic, stack-based, and heap-based storage management.
+Sequence Control:
+  Implicit and explicit sequencing with arithmetic and non-arithmetic expressions; Sequence control between statements.
+Subprogram Control:
+  Subprogram sequence control, data control and referencing environments; parameter passing; static and dynamic scope; block structure.
+[T1, T2]
+
+UNIT-IV
+Concurrent Programming:
+  Concepts, Communication, Deadlocks, Semaphores, Monitors, Threads, Synchronization.
+Logic programming:
+  Introduction; Rules, Structured Data and Scope of the variables; Operators and Functions; Recursion and recursive rules; Lists, Input and Output; Program control; Logic Program design.
+[T1, T2]
+
+
+Text Books:
+[T1] Programming Languages
+      Pratt T.V.
+       Pearson Ed
+[T2] Introduction to Programming Languages: Programming in C, C++, Scheme, Prolog, C# and SOA
+      Chen Y., Tsai W.T.
+       Kendall
+[T3] Programming Languages: Design & Implementation
+      Pratt T.W., Zelkowski M.V.
+       PHI
+[T4] Programming Languages
+      Adesh K. Pandey
+       Narosa Publishing House
+
+References:
+[R1] Programming Languages: Principles and Practice
+      Louden K.C.
+       Addision-Wesley
+[R2] Programming languages
+      Grover P.S.
+       S. Chand
+[R3] Programming Languages: Principles and Paradigms
+      Tucker A., Noonan R.
+       TMH

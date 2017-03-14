@@ -1,0 +1,31 @@
+Paper Code: ETEC-352
+Paper: Microwave Engineering Lab
+
+
+List of Experiments:
+
+
+1. Measure the frequency and wavelength using slotted line section and frequency meter.
+
+2. Measure the Isolation and Insertion loss of Isolator and Circulator.
+
+3. Study E-plane, H-plane and Magic Tee.
+
+4. Measure Coupling Factor, Directivity and Isolation of directional coupler.
+
+5. Measure VSWR and Reflection coefficient of different loads.
+
+6. Study the characteristics of Klystron and Gunn diode.
+
+7. Simulation of Transmission line: Waveguide and Coaxial line.*
+
+8. Simulation of directional coupler.*
+
+9. Simulation of E-plane and H-plane Tee.*
+
+10. Study of micro strip line and LPF using MIC kit/Software.*
+
+11. Study of BPF using MIC kit/ Software.*
+
+
+* These experiments may be performed using simulation software like HFSS, CST or IE3D (for planar circuits) etc.

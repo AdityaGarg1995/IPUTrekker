@@ -1,0 +1,22 @@
+Paper Code: ETCS-451
+Paper: Information Security Lab
+
+
+List of Experiments:
+
+
+1. Make an experiment to implement WEP/WPA2 PSK, 802.1x EAP security protocol.
+
+2. Implement firewall through App to login into bank-site,; to implement E-commerce, debit card transaction through payment gateway
+
+3. Implement bio-metric system to have physical security through different access control permissions.
+
+4. Implement RSA algorithm.
+
+5. Implement DES algorithm
+
+6. Implement Diffie-Hellman algorithm
+
+7. Make a study of anyone simulation tool based on parameters of information security
+
+8. Implement VPN through Packet-Tracer or any other network simulator tool

@@ -33,25 +33,25 @@ Hashing concepts, hashing methods (Direct, subtraction, modulo-division, midsqua
 
 Text Books:
 [T1] R.F. Gilberg and B.A. Forouzan
-     “Data structures: A Pseudocode approach with C”
-      Thomson Learning
+      “Data structures: A Pseudocode approach with C”
+       Thomson Learning
 [T2] A.V. Aho, J.E. Hopcroft, J.D. Ulman
-     “Data Structures and Algorithm”
-      Pearson Education
+      “Data Structures and Algorithm”
+       Pearson Education
 
 Reference Books:
 [R1] S. Sahni and E. Horowitz
-     “Data Structures”
-      Galgotia Publications
+      “Data Structures”
+       Galgotia Publications
 [R2] Tanenbaum
-     “Data Structures using C”
-      Pearson/PHI
+      “Data Structures using C”
+       Pearson/PHI
 [R3] T.H. Cormen, C.E. Leiserson, R.L. Rivest
-     “Introduction to Algorithms”
-      PHI/Pearson
-[R4] A.K.Sharma
-     “Data Structures”
-      Pearson
+      “Introduction to Algorithms”
+       PHI/Pearson
+[R4] A.K. Sharma
+      “Data Structures”
+       Pearson
 [R5] Ellis Horowitz and Sartaz Sahani
-     “Fundamentals of Computer Algorithms”
-      Computer Science Press
+      “Fundamentals of Computer Algorithms”
+       Computer Science Press

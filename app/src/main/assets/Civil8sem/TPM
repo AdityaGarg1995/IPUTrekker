@@ -1,54 +1,58 @@
-Paper Code: ETCE-410 L T/P C
-Paper: Transportation, Planning and Management 3 1 4
-Objectives: This course aims at understanding system approach to traffic planning process based on travel
-demand and traffic management. Further, exposure to traffic management for accident prevention, smooth
-highway traffic flow has been dealt. Application of queuing approach to traffic flow, trip generation, trip
-distribution models have also been used for traffic analysis. The ultimate aim of the course is to develop urgent
-intelligent transport system based on the experience of ITS in developed world.
+Paper Code: ETCE-410
+Paper: Transportation, Planning and Management
+
+
 UNIT-I
-Urban travel characteristics, System approach to Traffic Planning Process, Methods of Measuring Spot Speeds,
-Radar Speed Meters, Video Camera Method, Moving Observer Method, Presentation of Travel Time an Journey
-Speed Data, Vehicle Volume Classification and Occupancy Counts by manual methods, combination of manual
-and mechanical method, Origin-Destination Survey, Parking Surveys, Use of photographic Techniques in
-Traffic Survey, Analysis and Interpretation of Traffic Study, fitting a Normal Distribution Curve to Observed
-Speed Data, Accuracy of sampling, Time Mean Speed and Space Mean Speed.
-Traffic Forecasting using travel demand function, Traffic and Parking Problems, Parking Space requirement
-standards, Design standards for on-street and off-street parking facilities. Public transport systems, planning for
-pedestrians and bicycles.
-[T1,T2][No. of Hours: 12]
+Urban travel characteristics, System approach to Traffic Planning Process, Methods of Measuring Spot Speeds, Radar Speed Meters, Video Camera Method, Moving Observer Method, Presentation of Travel Time an Journey Speed Data, Vehicle Volume Classification and Occupancy Counts by manual methods, combination of manual and mechanical method, Origin-Destination Survey, Parking Surveys, Use of photographic Techniques in Traffic Survey, Analysis and Interpretation of Traffic Study, fitting a Normal Distribution Curve to Observed Speed Data, Accuracy of sampling, Time Mean Speed and Space Mean Speed.
+Traffic Forecasting using travel demand function, Traffic and Parking Problems, Parking Space requirement standards, Design standards for on-street and off-street parking facilities.
+Public transport systems, planning for pedestrians and bicycles.
+[T1,T2]
+
 UNIT-II
-Number and Location of Traffic Signals, Fixed Time Signals and Vehicle Actuated signals, Optimum Cycle
-Length, Co-Coordinated Control of Signals, Delay at Signalized Intersections
-Regulation of Vehicle Speed, Regulation concerning the Driver, Traffic Parking Regulations, Enforcement of
-Regulation,
-Introduction to Travel Demand and Traffic Management, Traffic Management measures and their influence on
-accident prevention, Road Safety Audit. Theory of Traffic Flow, Basic Diagram of Traffic flow, Speed Flow
-Curves, Vehicular Stream equations and diagrams, Cases of uniform flow, Highway traffic flow, Shock Waves
-in traffic. Uninterrupted speed flow relationships, Fleet size, Transit Network fleet size, Minimum station
-headway or interrupted flow, Freeway capacity and level of service, Freeway congestion quantification.
-[T1,T2][No. of Hours: 11]
+Number and Location of Traffic Signals, Fixed Time Signals and Vehicle Actuated signals, Optimum Cycle Length, Co-Coordinated Control of Signals, Delay at Signalized Intersections Regulation of Vehicle Speed, Regulation concerning the Driver, Traffic Parking Regulations, Enforcement of Regulation.
+Introduction to Travel Demand and Traffic Management, Traffic Management measures and their influence on accident prevention, Road Safety Audit.
+Theory of Traffic Flow, Basic Diagram of Traffic flow, Speed Flow Curves, Vehicular Stream equations and diagrams, Cases of uniform flow, Highway traffic flow, Shock Waves in traffic.
+Uninterrupted speed flow relationships, Fleet size, Transit Network fleet size, Minimum station headway or interrupted flow, Freeway capacity and level of service, Freeway congestion quantification.
+[T1,T2]
+
 UNIT-III
-Application of Queuing approach to traffic flow, Probabilistic aspects of Traffic flow, Poisson’s Distribution of
-Vehicle Arrivals, Gap and Headway Distribution, Analysis of Traffic delay at uncontrolled intersections using
-Adam’s formula, Trip generation models: Zonal models, Category analysis. Trip distribution models: Growth
-factor models, Gravity models. Mode split analysis: Mode choice behavior, Mode split curves, Probabilistic
-models.
-[T1,T2][No. of Hours: 10]
+Application of Queuing approach to traffic flow, Probabilistic aspects of Traffic flow, Poisson’s Distribution of Vehicle Arrivals, Gap and Headway Distribution, Analysis of Traffic delay at uncontrolled intersections using Adam’s formula.
+Trip generation models:
+  Zonal models, Category analysis.
+Trip distribution models:
+  Growth factor models, Gravity models.
+Mode split analysis:
+  Mode choice behavior, Mode split curves, Probabilistic models.
+[T1,T2]
+
 UNIT-IV
-Urban Intelligent Transport System, Urban Transportation issues. Transportation Demand Analysis, Sequential
-Demand Analysis, Development of comprehensive mobility plan, Standards of Intelligent Transportation
-System [ITS], Experience of ITS in Europe/Japan/North America, Sensors in ITS, ITS applications such as
-Detector, Traffic Signal systems, Freeway Management, Electronic Road Pricing and Automatic vehicle
-classification, ITS for traffic law enforcement, Application of GIS in ITS. Simultaneous or direct demand
-formulation, Model of demand elasticities, Direct and Cross elasticities Comprehensive examples of traffic
-impact study.
-[T1,T2][No. of Hours: 12]
+Urban Intelligent Transport System, Urban Transportation issues.
+Transportation Demand Analysis, Sequential Demand Analysis, Development of comprehensive mobility plan, Standards of Intelligent Transportation System [ITS], Experience of ITS in Europe/Japan/North America, Sensors in ITS, ITS applications such as Detector, Traffic Signal systems, Freeway Management, Electronic Road Pricing and Automatic vehicle classification, ITS for traffic law enforcement, Application of GIS in ITS.
+Simultaneous or direct demand formulation, Model of demand elasticities, Direct and Cross elasticities Comprehensive examples of traffic impact study.
+[T1,T2]
+
+
 Text Books:
-[T1] Dr. L.R.Kadiyali -Traffic Engineering and Transport Planning, Khanna Publication
-[T2] C.S.Papacostas and P.O.Prevedouros - Transportation Engineering and Planning, PHI, New Delhi
+[T1] Dr. L.R.Kadiyali
+      Traffic Engineering and Transport Planning
+       Khanna Publication
+[T2] C.S. Papacostas and P.O. Prevedouros
+      Transportation Engineering and Planning
+       PHI, New Delhi
+
 References Books:
-[R1] Urban Transport: Planning and Management by Ashok Kumar Jain – 2009, APH pub Corporation, ND.
-[R2] Partha Chakroborty Animesh Das-Principles of Transportation Engineering, PHI, New Delhi.
-[R3] Dicky J.W., Metropolitan Transportation Planning, Tata McGraw Hill
-[R4] Hutchinson B.G., Principles of Urban Transportation System Planning, McGraw Hill
-[R5] Public Transport: Its Planning, Management and Operation by Peter R. White – 2003, Spon press.
+[R1] Urban Transport: Planning and Management
+      Ashok Kumar Jain, 2009
+       APH Pub Corporation, New Delhi
+[R2] Partha Chakroborty, Animesh Das
+      Principles of Transportation Engineering
+       PHI, New Delhi
+[R3] Dicky J.W.
+      Metropolitan Transportation Planning
+       Tata McGraw Hill
+[R4] Hutchinson B.G.
+      Principles of Urban Transportation System Planning
+       McGraw Hill
+[R5] Public Transport: Its Planning, Management and Operation
+      Peter R. White, 2003
+       Spon press

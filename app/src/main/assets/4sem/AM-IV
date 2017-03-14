@@ -3,52 +3,58 @@ Paper: Applied Mathematics-IV
 
 
 UNIT – I
-Partial Differential Equation: linear partial differential equations with constant coefficient, homogeneous & non homogeneous linear equations.
-Method of separation of variables.
-Laplace equation, wave equation and heat flow equation in Cartesian coordinates only with initial and boundary value.
+Partial Differential Equation:
+  linear partial differential equations with constant coefficient, homogeneous & non homogeneous linear equations.
+  Method of separation of variables.
+  Laplace equation, wave equation and heat flow equation in Cartesian coordinates only with initial and boundary value.
 [T1]
 
 UNIT II
-Probability Theory: Definition, addition law of probability, multiplication law of probability, conditional probability, Baye’s theorem.
-Random variable: discrete probability distribution, continuous probability distribution, expectation, moments, moment generating function, skewness, kurtosis, binomial distribution, Poisson distribution, normal distribution.
+Probability Theory:
+  Definition, addition law of probability, multiplication law of probability, conditional probability, Baye’s theorem.
+Random variable:
+  discrete probability distribution, continuous probability distribution, expectation, moments, moment generating function, skewness, kurtosis, binomial distribution, Poisson distribution, normal distribution.
 [T1,T2]
 
 UNIT-III
-Curve Fitting: Principle of least square Method of least square and curve fitting for linear and parabolic curve, Correlation Coefficient, Rank correlation, line of regressions and properties of regression coefficients.
-Sampling distribution: Testing of hypothesis, level of significance, sampling distribution of mean and variance, Chi-square distribution, Student’s T-distribution, F-distribution, Fisher’s Z-distribution.
+Curve Fitting:
+  Principle of least square Method of least square and curve fitting for linear and parabolic curve, Correlation Coefficient, Rank correlation, line of regressions and properties of regression coefficients.
+Sampling distribution:
+  Testing of hypothesis, level of significance, sampling distribution of mean and variance, Chi-square distribution, Student’s T-distribution, F-distribution, Fisher’s Z-distribution.
 [T1,T2]
 
 UNIT IV
-Linear Programming: Introduction, formulation of problem, Graphical method, Canonical & Standard form of LPP, Simplex method, Duality concept, Dual simplex method, Transportation and Assignment problem.
+Linear Programming:
+  Introduction, formulation of problem, Graphical method, Canonical & Standard form of LPP, Simplex method, Duality concept, Dual simplex method, Transportation and Assignment problem.
 [T1]
 
 
 Text Books:
 [T1] B.S. Grewal
-     ”Higher Engineering Mathematics”
-     Khanna Publications.
+      ”Higher Engineering Mathematics”
+       Khanna Publications
 [T2] N.M. Kapoor
-     “Fundamentals of Mathematical Statistics”
-     Pitambar Publications
+      “Fundamentals of Mathematical Statistics”
+       Pitambar Publications
 
 References Books:
 [R1] E. Kresyzig
-     ”Advance Engineering Mathematics”
-     Wiley publications
-[R2] Miller and Freund,
-     "Probability and Statistics for Engineers”
-     PHI
+      ”Advance Engineering Mathematics”
+       Wiley publications
+[R2] Miller and Freund
+      "Probability and Statistics for Engineers”
+       PHI
 [R3] Gupta and Kapoor
-     “Fundamentals of Mathematical Statistics”
-     Sultan Chand and Sons
+      “Fundamentals of Mathematical Statistics”
+       Sultan Chand and Sons
 [R4] G. Hadley
-     “Linear Programming”
-     Narosa
+      “Linear Programming”
+       Narosa
 [R5] Schaum’s Outline on Probability and Statistics
-     Tata McGraw-Hill
+       Tata McGraw-Hill
 [R6] Gupta and Manmohan
-     “Problems in Operations Research”
-     Sultan Chand and Sons.
+      “Problems in Operations Research”
+       Sultan Chand and Sons
 [R7] R.K. Jain and S.R.K. Iyengar
-     "Advanced Engineering Mathematics"
-     Narosa Publications.
+      "Advanced Engineering Mathematics"
+       Narosa Publications

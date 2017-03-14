@@ -1,0 +1,46 @@
+Paper Code: ETEC-309
+Paper: Digital System Design
+
+
+UNIT I
+Introduction to VHDL, design units, data objects, signal drivers, inertial and transport delays, delta delay, VHDL data types, concurrent and sequential statements.
+Subprograms – Functions, Procedures, attributes, generio, generate, package, IEEE standard logic library, file I/O, test bench, component declaration, instantiation, configuration.
+[T1]
+
+UNIT II
+Combinational logic circuit design and VHDL implementation of following circuits –first adder, Subtractor, decoder, encoder, multiplexer, ALU, barrel shifter, 4X4 key board encoder, multiplier, divider, Hamming code encoder and correction circuits.
+[T1]
+
+UNIT III
+Synchronous sequential circuits design – finite state machines, Mealy and Moore, state assignments, design and VHDL implementation of FSMs, Linear feedback shift register (Pseudorandom and CRC).
+[T2]
+
+UNIT IV
+Asynchronous sequential circuit design – primitive flow table, concept of race, critical race and hazards, design issues like metastability, synchronizers, clock skew and timing considerations Introduction to place & route process, Introduction to ROM, PLA, PAL, Architecture of CPLD (Xilinx/Altera).
+[T2]
+
+
+Text Books:
+[T1] Douglas Perry
+      ”VHDL”, 4th Edition
+       TMH
+[T2] Stephen Brown, Zvonko Vranesic
+      “Fundamentals of Digital Logic with VHDL design”
+       TMH
+
+Reference Books:
+[R1] Charles H. Roth
+      “Digital System Design using VHDL”
+       PWS, 1998
+[R2] John F. Wakerley
+      “Digital Design Principles And Practices”
+       Pearson Education
+[R3] Navabi Z.
+      “VHDL-Analysis & Modelling of Digital Systems”
+       McGraw Hill
+[R4] William I. Fletcher
+      “An Engineering Approach To Digital Design”
+       Prentice Hall
+[R5] Bhasker
+       “A VHDL Primmer”
+        Prentice Hall, 1995

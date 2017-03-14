@@ -6,9 +6,10 @@ Lab includes implementation of DDL, DCL, DML i.e SQL in Oracle.
 
 List of Experiments:
 
+
 1. Design a Database and create required tables. For e.g. Bank, College Database
 
-2. Apply the constraints like Primary Key, Foreign key, NOT NULL to the tables.
+2. Apply the constraints like Primary Key, Foreign key, NOT NULL to the tables
 
 3. Write a SQL statement for implementing ALTER, UPDATE and DELETE
 

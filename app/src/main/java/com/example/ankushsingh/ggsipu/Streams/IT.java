@@ -20,6 +20,10 @@ public class IT extends AppCompatActivity implements View.OnClickListener{
 
     public static final String url2 = "http://gatecse.in/best-books-for-gate/";
 
+
+    public static final String cnsBook = "http://www.iiitd.edu.in/~gauravg/",
+                               evsBook = "dst.gov.in/green-chem.pdf";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 

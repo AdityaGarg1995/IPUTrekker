@@ -15,16 +15,6 @@ public class ECE2 extends AppCompatActivity implements View.OnClickListener {
 //    Button button1, button2, button3, button4, button5, button6, button7, button8;
 
 
-    public static final String eceResult[] = {
-            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/028_ECE_1stSEM.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF2/028_ECE_2_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/290316/028_ECE_3rd%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF4/028_ECE_4_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/028_ECE_5th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF6/028_ECE_6_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/028_ECE_7th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF8/028_ECE_8_SEM.pdf"
-    };
 
 
     @Override

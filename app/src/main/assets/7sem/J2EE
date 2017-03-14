@@ -8,50 +8,55 @@ Introduction to J2EE and building J2EE applications, MVC architecture, Introduct
 [T1,T2]
 
 UNIT II
-JSP Basics and Architecture: JSP directives, Scripting elements, standard actions, implicit objects, JSP design strategies.
-Struts: Introduction of Struts and its architecture, advantages and application of Struts.
+JSP Basics and Architecture:
+  JSP directives, Scripting elements, standard actions, implicit objects, JSP design strategies.
+Struts:
+  Introduction of Struts and its architecture, advantages and application of Struts.
 [T1,T2]
 
 UNIT III
-EJB Fundamentals: Motivation for EJB, EJB Echo system, J2EE technologies, Enterprise beans and types, distributed objects and middleware, developing EJB components, remote local and home interface, bean class and deployment descriptor.
+EJB Fundamentals:
+  Motivation for EJB, EJB Echo system, J2EE technologies, Enterprise beans and types, distributed objects and middleware, developing EJB components, remote local and home interface, bean class and deployment descriptor.
 [T1,T2]
 
 UNIT IV
-Introducing session beans: Session beans life time, statefull and Stateless session beans, lifecycle of session beans.
-Introducing Entity beans: Persistence concepts, features of entity beans, entity context, Introduction to JMS & Message driven beans.
+Introducing session beans:
+  Session beans life time, statefull and Stateless session beans, lifecycle of session beans.
+Introducing Entity beans:
+  Persistence concepts, features of entity beans, entity context, Introduction to JMS & Message driven beans.
 [T1,T2]
 
 
 Text Books:
 [T1] Ed Roman, Scott W Ambler, Tyler Jewell
-     “Mastering Enterprise Java Beans”
-      Wiley, 2nd Ed., 2005
+      “Mastering Enterprise Java Beans”, 2nd Ed
+       Wiley, 2005
 [T2] Govind Sesadri
-     “Enterprise Java Computing: Application and Architectures”
-      Cambridge University Publications, 1999
+      “Enterprise Java Computing: Application and Architectures”
+       Cambridge University Publications, 1999
 
 Reference Books:
 [R1] Ted Neward
-     “Effective Enterprise Java”
-      Eddison-Wesley, 2004
+      “Effective Enterprise Java”
+       Eddison-Wesley, 2004
 [R2] Jim Farley, William Crawford
-     “Java Enterprise in a Nutshell”
-      O’Reilly and Associates, 3rd Ed
+      “Java Enterprise in a Nutshell”, 3rd Ed
+       O’Reilly and Associates
 [R3] Austin Sincock
-     “Enterprise Java for SAP”
-      A Press Publications
+      “Enterprise Java for SAP”
+       A Press Publications
 [R4] Joe Wigglesworth and McMilan Paula
-     “Java Programming: Advanced Topic”
-      Thomson, 3rd Ed, 2003
+      “Java Programming: Advanced Topic”, 3rd Ed
+       Thomson, 2003
 [R5] Subrahamanyam Allamaraju, Cedric Buest
-     “Professional Java Server Programming, J2EE"
-      Apress, 1.3 Ed, 2005.
+      “Professional Java Server Programming, J2EE", 1.3 Ed
+       Apress, 2005
 [R6] Ivan Bayross and Sharanam Shah
-     “Java Server Programming”
-      Shroff
+      “Java Server Programming”
+       Shroff
 [R7] John Hunt and Chris Loftus
-     “Guide to J2EE: Enterprise Java”
-      Springer Verlag Publications
+      “Guide to J2EE: Enterprise Java”
+       Springer Verlag Publications
 [R8] Govind Seshadri
-     “Enterprise Java Computing: Application and Architectures”
-      Cambridge University Press, 1999
+      “Enterprise Java Computing: Application and Architectures”
+       Cambridge University Press, 1999

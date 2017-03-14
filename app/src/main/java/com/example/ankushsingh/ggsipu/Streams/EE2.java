@@ -10,9 +10,11 @@ import android.widget.Button;
 
 import com.example.ankushsingh.ggsipu.R;
 
+
 public class EE2 extends AppCompatActivity implements View.OnClickListener{
 
-    public static final String eeResult[] = {
+
+    String eeResult[] = {
             "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/110_EE_1stSEM.pdf",
             "http://164.100.158.135/ExamResults/2016/310716/PDF2/110_EE_2_SEM.pdf",
             "http://ipu.ac.in/exam/ExamResults/2016/290316/110_EE_3rd%20Sem.pdf",
@@ -22,7 +24,28 @@ public class EE2 extends AppCompatActivity implements View.OnClickListener{
     };
 
 
+    String mechResult[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/112_MET_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/112_MET_2_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/290316/112_MET_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/112_MET_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/112_MET_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/112_MET_6_SEM.pdf"
+    };
+
+
+    String meResult[] = {
+            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/111_ME_1stSEM.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF2/111_ME_2_SEM.pdf",
+            "http://www.ipu.ac.in/exam/ExamResults/2016/290316/111_ME_3rd%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF4/111_ME_4_SEM.pdf",
+            "http://ipu.ac.in/exam/ExamResults/2016/300316/111_ME_5th%20Sem.pdf",
+            "http://164.100.158.135/ExamResults/2016/310716/PDF6/111_ME_6_SEM.pdf"
+    };
+
+
     String stream;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,6 +85,8 @@ public class EE2 extends AppCompatActivity implements View.OnClickListener{
         a.setTitle("EE: Semester-wise Result");
 
 
+
+
     }
 
 
@@ -71,9 +96,9 @@ public class EE2 extends AppCompatActivity implements View.OnClickListener{
         switch(stream){
             case "EE": result = eeResult;
                 break;
-            case "ME": result = ME2.meResult;
+            case "ME": result = meResult;
                 break;
-            case "Mech": result = MECH2.mechResult;
+            case "MT": result = mechResult;
                 break;
         }
         return result;

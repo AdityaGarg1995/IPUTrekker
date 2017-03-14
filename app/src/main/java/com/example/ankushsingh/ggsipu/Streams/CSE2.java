@@ -18,16 +18,6 @@ public class CSE2 extends AppCompatActivity  implements View.OnClickListener {
     Activity a = this;
     Intent i;
 
-    public static final String cseResult[] = {
-            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/027_CSE_1stSEM.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF2/027_CSE_2_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/290316/027_CSE_3rd%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF4/027_CSE_4_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/027_CSE_5th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF6/027_CSE_6_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/027_CSE_7th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF8/027_CSE_8_SEM.pdf"
-    };
 
 
     @Override

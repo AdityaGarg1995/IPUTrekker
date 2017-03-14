@@ -1,0 +1,29 @@
+Paper Code: ETEC-254
+Paper: Analog Electronics-II Lab
+
+
+List of Experiments:
+
+
+1. To study the op-amp (IC 741) as inverting and non-inverting amplifier and calculate its gain
+
+2. Observe and plot the output Wave shape of Op-Amp R-C differentiating circuits, R-C integrating circuits for square wave input
+
+3. To study the op-amp (IC 741) as adder, subtractor and voltage follower, calculate its output voltage
+
+4. Construct biased and unbiased series and shunt clipping circuits & combinational clipper circuit for positive and negative peak clipping of a sine wave
+
+5. To study RC phase shift/Wien Bridge oscillator measurement of frequency and amplitude of oscillations using Op-Amp
+
+6. To study the waveform of square wave generator using 741 Op-Amp IC
+
+7. To study the waveform of Schmitt Trigger circuit & Precision Rectifier using 741 OP-AMP IC
+
+8. To make and test the operations of Monostable Multivibrator circuits using 555 timer
+
+9. To make and test the operations of Astable Multivibrator circuits using 555 timer
+
+10. To study the Sallen Key Voltage controlled voltage source active filters
+
+
+* Some lab experiments must be performed using any circuit simulation software e.g. PSPICE/Scilab/MATLAB/LabVIEW etc.

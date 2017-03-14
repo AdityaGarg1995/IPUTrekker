@@ -11,6 +11,7 @@ import android.widget.Button;
 import com.example.ankushsingh.ggsipu.R;
 import com.example.ankushsingh.ggsipu.Urls;
 
+
 public class EE extends AppCompatActivity implements View.OnClickListener{
 
 //    Button button1,button2,button6,button5;
@@ -24,6 +25,7 @@ public class EE extends AppCompatActivity implements View.OnClickListener{
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_it);
+
 
         findViewById(R.id.it2).setOnClickListener(this);
         findViewById(R.id.it3).setOnClickListener(this);
@@ -46,7 +48,7 @@ public class EE extends AppCompatActivity implements View.OnClickListener{
                 break;
             case R.id.it3: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
                 break;
-            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","EE");
+            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream", "EE");
                 break;
             case R.id.it6: intent = new Intent(this,EE2.class).putExtra("StreamName", "EE");
                 break;
@@ -56,6 +58,5 @@ public class EE extends AppCompatActivity implements View.OnClickListener{
           startActivity(intent);
 
     }
-
 
 }

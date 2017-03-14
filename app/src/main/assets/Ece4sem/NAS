@@ -1,0 +1,52 @@
+Paper Code: ETEC-206
+Paper: Network Analysis and Synthesis
+
+
+UNIT-I
+Review of signals & systems and their classification, periodic waveforms & signal synthesis, properties & applications of Laplace transform of complex waveform.
+Concept of generalized frequency, circuit representation & their response in terms of generalized frequency.
+[T1, T2]
+
+UNIT-II
+System modeling in terms of differential equations and transient response of R, L, C, series and parallel circuits for impulse, step, ramp, sinusoidal and exponential signals by classical method and using Laplace transform.
+[T1, T2]
+
+UNIT-III
+Two port networks – Introduction of 2-port parameters and their interconversion, interconnection of two 2-port networks, open circuit and short circuit impedances and ABCD constants relation between image impedances and short circuit and open circuit impedances.
+[T1,T2]
+
+UNIT IV
+General Network Functions:
+  Concepts of Network functions (driving point & transfer function), concept of minimum phase analysis of Lattice T & Bridged T networks.
+  Concept of poles & zeros.
+  Hurwitz polynomial, positive real function and synthesis of LC, RC, RL Networks in Foster’s I & II, Cauer’s I & II forms, Introduction of passive filter and their classification, frequency response, characteristic impedance of low pass & high pass prototype section.
+[T1,T2]
+
+
+Text Books:
+[T1] W.H. Hayt
+      “Engineering Circuit Analysis”, 8th Edition
+       TMH
+[T2] Valkenburg
+      “Network analysis”
+       PHI
+
+Reference Books
+[R1] S. Salivahanan
+      “Circuit Theory”, 1st Edition
+       Vikas Publishing House, 2014
+[R2] D.R. Choudhary
+      “Networks and Systems”
+       New Age International, 1999
+[R3] Bhise, Chadda, Kulshreshtha
+      “Engineering network analysis and filter design”
+       Umesh Publication, 2000
+[R4] Kuo
+      “Network analysis and synthesis”, 2nd Edition
+       John Wily and Sons
+[R5] Allan H. Robbins, W.C. Miller
+      “Circuit Analysis theory and Practice”, 5th Edition
+       Cengage Learning Pub 2013
+[R6] Bell
+      “Electric Circuit”, 7th Edition
+       Oxford Publications

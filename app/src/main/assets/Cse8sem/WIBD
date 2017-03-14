@@ -1,0 +1,47 @@
+Paper Code: ETCS-418
+Paper: Web Intelligence and Big Data
+
+
+UNIT-I
+Introduction:
+  Web Scale AI and Big Data, Web Intelligence, Big Data
+Look:
+  Indexing- Index creation, Ranking, Page Rank Searching- Enterprise search, Searching structured data, Object Search, Locality Sensitive Hashing and Memory.
+[T1, R2]
+
+UNIT-II
+Listen:
+  Streams, Information and Language, Analyzing Sentiment and Intent
+Load:
+  Databases and their Evolution, Big data Technology and Trends.
+Programming:
+  Map-Reduce, Map-Reduce applications and its efficiency, Big-Table and HBase
+[T1, R1]
+
+UNIT-III
+Learn:
+  Classification, Clustering, and Mining, Information Extraction
+Connect:
+  Reasoning: Logic and its Limits, Dealing with Uncertainty.
+[T1, R1]
+
+UNIT-IV
+Predict:
+  Forecasting, Neural Models, Deep Learning, and Research Topics.
+Data Analysis:
+  Regression and Feature Selection
+[T1, R1]
+
+
+Text Book:
+[T1] The Intelligent Web: Search, Smart Algorithms and Big Data
+      Dr. Gautam Shroff
+       Oxford University Press, UK, November 2013
+
+References Books:
+[R1] Mining Massive Datasets
+      J.D. Ullman and A. Rajaraman
+       Cambridge University Press, UK 2012
+[R2] Introduction to Information Retrieval
+      Christopher Manning, Prabhakar Raghavan and Hinrich Schutze
+       Cambridge University Press, UK 2008)

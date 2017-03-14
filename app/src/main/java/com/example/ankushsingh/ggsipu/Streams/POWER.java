@@ -45,9 +45,9 @@ public class POWER extends AppCompatActivity implements View.OnClickListener{
                 break;
             case R.id.it3: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
                 break;
-            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","Power Engineering");
+            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream", "PE");
                 break;
-            case R.id.it6: intent = new Intent(this,IT2.class).putExtra("StreamName", "Power");
+            case R.id.it6: intent = new Intent(this,IT2.class).putExtra("StreamName", "PE");
                 break;
         }
 

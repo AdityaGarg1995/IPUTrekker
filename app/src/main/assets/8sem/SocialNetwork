@@ -14,7 +14,8 @@ Representing networks:
 UNIT-II
 Linear Algebra/Graph Properties:
   Eigenvectors and eigenvalues.
-  Graph Laplacian. Markov matrices.
+  Graph Laplacian.
+  Markov matrices.
   Paths, walks, cycles.
   Degree, density.
   Degree distribution.

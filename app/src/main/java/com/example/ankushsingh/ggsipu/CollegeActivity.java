@@ -17,6 +17,7 @@ public class CollegeActivity extends AppCompatActivity implements View.OnClickLi
 
     ImageButton[] b = new ImageButton[15];
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
@@ -95,22 +96,22 @@ public class CollegeActivity extends AppCompatActivity implements View.OnClickLi
         // The action bar automatically handles clicks on the Home/Up button, if you specify a parent activity in AndroidManifest.xml.
 
         if(item.getItemId() == R.id.home){
-            startActivity(new Intent(CollegeActivity.this,HomeActivity.class));
+            startActivity(new Intent(CollegeActivity.this, HomeActivity.class));
             return true;
         }
 
-        else if(item.getItemId() == R.id.colleges)
-            // Do nothing
-            return true;
+//        else if(item.getItemId() == R.id.colleges)
+//            // Do nothing
+//            return true;
 
 
         else if(item.getItemId() == R.id.streams){
-            startActivity(new Intent(CollegeActivity.this,StreamActivity.class));
+            startActivity(new Intent(CollegeActivity.this, StreamActivity.class));
             return true;
         }
 
         else if(item.getItemId() == R.id.result){
-            startActivity(new Intent(CollegeActivity.this,logo.class).putExtra("Task",StreamNames.task2));
+            startActivity(new Intent(CollegeActivity.this, logo.class).putExtra("Task", StreamNames.task2));
             return true;
         }
 

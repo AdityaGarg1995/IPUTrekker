@@ -22,7 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/am_ii"
-            android:text="Applied Mathematics-II"
+            android:text="Applied Mathematics-II (M)"
             android:layout_weight="1"
             />
         <Button
@@ -43,14 +43,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/ed"
-            android:text="Electronic Devices"
+            android:text="Electronic Devices (M)"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/itp"
-            android:text="Introduction to Programming"
+            android:text="Introduction to Programming (M)"
             android:layout_weight="1"
             />
         <Button
@@ -82,14 +82,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/ap_iiLab"
-            android:text="Applied physics-II Lab"
+            android:text="Applied Physics-II Lab"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/edLab"
-            android:text="Electronic Devices Lab"
+            android:text="Electronic Devices Lab (M)"
             android:layout_weight="1"
             />
         <Button
@@ -110,7 +110,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/itpLab"
-            android:text="Introduction To Programming Lab"
+            android:text="Introduction To Programming Lab (M)"
             android:layout_weight="1"
             />
 

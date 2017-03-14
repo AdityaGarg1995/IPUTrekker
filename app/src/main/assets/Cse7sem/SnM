@@ -1,0 +1,65 @@
+Paper Code: ETCS-421
+Paper: Simulation and Modelling
+
+
+UNIT-I:
+Introduction to Simulation and Modelling:
+  Appropriateness, Advantages and disadvantage, application areas, history of simulation software, an evaluation and selection technique for simulation software, general – purpose simulation packages.
+  System and system environment, components of system, type of systems, model of a system, types of models and steps in simulation study.
+[T1, T2]
+
+UNIT-II:
+Manual Simulation of Systems:
+  Simulation of Queuing Systems such as single channel and multi channel queue, lead time demand, inventory system, reliability problem, time-shared computer model, job-shop model.
+Discrete Event Formalisms:
+  Concepts of discrete event simulation, model components, a discrete event system simulation, simulation world views or formalisms, simulation of single channel queue, multi channel queue, inventory system and dump truck problem using event scheduling approach.
+Statistical Models in Simulation:
+  Overview of probability and statistics, useful statistical model, discrete distribution, continuous distribution, empirical distribution, Poisson process.
+Queuing Models:
+  Characteristics of queuing systems, queuing notations, long run measures of performance of queuing systems, Steady state behaviour of Markovian models (M/G/1, M/M/1, M/M/c) overview of finite capacity and finite calling population models, Network of Queues.
+[T1, T3]
+
+UNIT-III:
+Random Number Generation:
+  Properties of random numbers, generation of true and pseudo random numbers, techniques for generating random numbers, hypothesis testing, various tests for uniformity, Kolmogorov-Smirnov and Chi-Square) and independence(runs, autocorrelation, gap, poker).
+Random Variate Generation:
+  Introduction, different techniques to generate random variate:- inverse transform technique, direct transformation technique, convolution method and acceptance rejection techniques.
+Input Modeling:
+  Introduction, steps to build a useful model of input data, data collection, identifying the distribution with data, parameter estimation, suggested estimators, goodness of fit tests, selection input model without data, covariance and correlation, multivariate and time series input models.
+[T1, T3]
+
+UNIT-IV:
+Verification and Validation of Simulation Model:
+  Introduction, model building, verification of simulation models, calibration and validation of models:- validation process, face validity, validation of model, validating input-output transformation, test, power of test, input output validation using historical data and Turing test.
+Output Analysis:
+  Types of simulations with respect to output analysis, stochastic nature of output data, measure of performance and their estimation, output analysis of terminating simulators, output analysis for steady state simulation.
+Case Studies:
+  Simulation of manufacturing systems, Simulation of Material Handling system, Simulation of computer systems, Simulation of super market, Cobweb model, and any service sectors.
+[T1, T2, T3]
+
+
+Text Books:
+[T1] Banks J., Carson J.S., Nelson B.L., and Nicol D.M.
+      “Discrete Event System Simulation”, 3rd edition, Pearson Education, 2001.
+[T2] Edward A. Bender
+      An Introduction to Mathematical Modeling
+[T3] A.M. Law and W.D. Kelton
+      Simulation Modeling and Analysis
+       T.M.H. Edition
+
+References Books:
+[R1] A.C. Fowler
+      “Mathematical Models in Applied Sciences”
+       Cambridge University Press
+[R2] J.N. Kapoor
+      “Mathematical Modeling”
+       Wiley Eastern Limited
+[R3] S.M. Ross
+      “Simulation”
+       India: Elsevier Publication
+[R4] A.M. Law and W.D. Kelton
+      Simulation Modeling and Techniques, 2nd ed
+       New York: McGraw-Hill, 1990
+[R5] M.H. MacDougall
+      Simulating Computer Systems: Techniques and Tools
+       Cambridge, MA: MIT Press, 1987

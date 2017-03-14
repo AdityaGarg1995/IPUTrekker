@@ -18,6 +18,10 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
     Activity a = this;
     String stream;
 
+
+    Button ai, cd, dcn, dcnLab, micro, microLab, os, osLab, web, webLab, lab1,
+           button[] = new Button[12];
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,28 +34,85 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
 //        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
 
 
-        findViewById(R.id.ai).setOnClickListener(this);
-        findViewById(R.id.cd).setOnClickListener(this);
-        findViewById(R.id.micro).setOnClickListener(this);
-        findViewById(R.id.microLab).setOnClickListener(this);
-        findViewById(R.id.os).setOnClickListener(this);
-        findViewById(R.id.osLab).setOnClickListener(this);
-        findViewById(R.id.web).setOnClickListener(this);
-        findViewById(R.id.webLab).setOnClickListener(this);
+        dcn      = button[0] = (Button) findViewById(R.id.dcn);
+        dcnLab   = button[1] = (Button) findViewById(R.id.dcnLab);
+        ai       = button[2] = (Button)findViewById(R.id.ai);
+        cd       = button[3] = (Button)findViewById(R.id.cd);
+        micro    = button[4] = (Button)findViewById(R.id.micro);
+        microLab = button[5] = (Button)findViewById(R.id.microLab);
+        os       = button[6] = (Button)findViewById(R.id.os);
+        osLab    = button[7] = (Button)findViewById(R.id.osLab);
+        web      = button[8] = (Button)findViewById(R.id.web);
+        webLab   = button[9] = (Button)findViewById(R.id.webLab);
+        lab1     = button[10] = (Button)findViewById(R.id.lab1);
+
+        lab1.setVisibility(View.INVISIBLE);
+
+        for(int i = 0; i < 11; i++)
+            button[i].setOnClickListener(this);
 
 
-        Button dcn =  (Button) findViewById(R.id.dcn),
-               dcnLab = (Button) findViewById(R.id.dcnLab);
-
-        dcn.setOnClickListener(this);
-        dcnLab.setOnClickListener(this);
+        setSubject(stream);
 
 
-        if(stream.equals("CSE")){
-            dcn.setText("Computer Networks");
-            dcnLab.setText("Computer Networks Lab");
+    }
+
+
+    public void setSubject(String stream){
+
+        switch (stream){
+
+            case "CSE":
+                dcn.setText("Computer Networks");
+                dcnLab.setText("Computer Networks Lab");
+                break;
+
+            case "EEE":
+
+                dcn.setText("Power System–II (M)");
+                dcnLab.setText("Power System–II Lab");
+
+                os.setText("Utilization of Electrical Energy & Electric Traction (M)");
+                osLab.setText("Utilization of Electrical Energy Lab");
+
+                web.setText("Digital Signal Processing");
+                webLab.setText("Digital Signal Processing Lab");
+
+                ai.setText("Power Station Practice (M)");
+                cd.setText("VLSI Design");
+
+                break;
+
+            case "ECE":
+
+                web.setText("Digital Signal Processing");
+                webLab.setText("Digital Signal Processing Lab");
+
+                ai.setText("Antenna & Wave Propagation");
+
+                cd.setText("Information Theory & Coding");
+
+                break;
+
+            case "EE":
+
+                micro.setText(micro.getText() + " (M)");
+
+                dcn.setText("Power System-II (M)");
+                dcnLab.setText("Power System-II Lab");
+
+                os.setText("Utilization of Electrical Energy and Electric Traction");
+                osLab.setText("Utilization of Electrical Energy Lab");
+
+                web.setText("Electrical Machine – III (M)");
+                webLab.setText("Electrical Machine – III Lab");
+
+                ai.setText("EHV AC and HVDC Transmissions");
+
+                cd.setText("Power Station Practice");
+
+                break;
         }
-
 
     }
 
@@ -59,80 +120,167 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
     public void onClick(View v) {
 
 
-        switch (v.getId()){
+        switch (v.getId()) {
 
-            case R.id.ai:       i = new Intent(this,Syllabus.class).putExtra("Subject","AI")
-                                                                   .putExtra("Sem","6")
-                                                                   .putExtra("SubjectName","Artificial Intelligence");
-                break;
+            case R.id.ai:
+                switch (stream) {
+                    case "IT":
+                    case "CSE":
+                        i = new Intent(this, Syllabus.class).putExtra("Subject", "AI")
+                                .putExtra("Sem", "6");
+                        break;
+                    case "ECE":
+                        i = new Intent(this, Syllabus.class).putExtra("Subject", "AWP")
+                                .putExtra("Sem", "Ece6");
+                        break;
+                    case "EE":
+                        i = new Intent(this, Syllabus.class).putExtra("Subject", "ACDC")
+                                .putExtra("Sem", "6");
+                        break;
+                }
 
-            case R.id.cd:       i = new Intent(this,Syllabus.class).putExtra("Subject","CD")
-                                                                   .putExtra("Sem","6")
-                                                                   .putExtra("SubjectName","Compiler Design");
+            case R.id.cd:
+                switch (stream) {
+                    case "IT":
+                    case "CSE":
+                    i = new Intent(this, Syllabus.class).putExtra("Subject", "CD")
+                            .putExtra("Sem", "6");
+                        break;
+                    case "ECE":
+                        i = new Intent(this,Syllabus.class).putExtra("Subject","InfoTheory")
+                                .putExtra("Sem","8");
+                        break;
+                    case "EEE":
+                        i = new Intent(this,Syllabus.class).putExtra("Subject","VLSI")
+                                .putExtra("Sem","8");
+                        break;
+                    case "EE":
+                        i = new Intent(this,Syllabus.class).putExtra("Subject","PSP")
+                                .putExtra("Sem","6");
+                        break;
+                }
                 break;
 
 
             case R.id.dcn:
-
-                if(stream.equals("IT"))
-                   i = new Intent(this,Syllabus.class).putExtra("Subject","DCN")
-                                                      .putExtra("Sem","6")
-                                                      .putExtra("SubjectName","Data Communication & Networks");
-
-                else if(stream.equals("CSE"))
-                    i = new Intent(this,Syllabus.class).putExtra("Subject","CN")
-                                                       .putExtra("Sem","6")
-                                                       .putExtra("SubjectName","Computer Networks");
-
+                if (stream.equals("IT") || stream.equals("ECE") || stream.equals("MAE") || stream.equals("ICE"))
+                    i = new Intent(this, Syllabus.class).putExtra("Subject", "DCN")
+                                                        .putExtra("Sem", "6");
+                else if (stream.equals("CSE"))
+                    i = new Intent(this, Syllabus.class).putExtra("Subject", "CN")
+                                                        .putExtra("Sem", "6");
+                else if (stream.equals("EE"))
+                    i = new Intent(this, Syllabus.class).putExtra("Subject", "PE-II")
+                            .putExtra("Sem", "6");
                 break;
 
 
             case R.id.dcnLab:
-
-                if(stream.equals("IT"))
-                   i = new Intent(this,Syllabus.class).putExtra("Subject","DCNLab")
-                                                      .putExtra("Sem","6")
-                                                      .putExtra("SubjectName","Data Communication & Networks Lab");
-
-                else if(stream.equals("CSE"))
-                    i = new Intent(this,Syllabus.class).putExtra("Subject","DCN")
-                                                       .putExtra("Sem","6")
-                                                       .putExtra("SubjectName","Data Communication & Networks ");
-
+                if (stream.equals("IT") || stream.equals("ECE") || stream.equals("MAE") || stream.equals("ICE"))
+                    i = new Intent(this, Syllabus.class).putExtra("Subject", "DCNLab")
+                                                        .putExtra("Sem", "6");
+                else if (stream.equals("CSE"))
+                    i = new Intent(this, Syllabus.class).putExtra("Subject", "CNLab")
+                                                        .putExtra("Sem", "6");
+                else if (stream.equals("EE"))
+                    i = new Intent(this, Syllabus.class).putExtra("Subject", "PELab-II")
+                            .putExtra("Sem", "6");
                 break;
 
-            case R.id.micro:    i = new Intent(this,Syllabus.class).putExtra("Subject","Micro")
-                                                                   .putExtra("Sem","6")
-                                                                   .putExtra("SubjectName","Microprocessors & Microcontrollers");
+            case R.id.micro:
+                switch (stream) {
+                    case "IT":
+                    case "CSE":
+                    case "EEE":
+                    case "MAE":
+                    case "EE":
+                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Micro")
+                                .putExtra("Sem", "6");
+                        break;
+                }
                 break;
 
-            case R.id.microLab: i = new Intent(this,Syllabus.class).putExtra("Subject","MicroLab")
-                                                                   .putExtra("Sem","6")
-                                                                   .putExtra("SubjectName","Microprocessors & Microcontrollers Lab");
+            case R.id.microLab:
+                switch (stream) {
+                    case "IT":
+                    case "CSE":
+                    case "EEE":
+                    case "EE":
+                    case "MAE":
+                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MicroLab")
+                                .putExtra("Sem", "6");
+                        break;
+                }
                 break;
 
-            case R.id.os:       i = new Intent(this,Syllabus.class).putExtra("Subject","OS")
-                                                                   .putExtra("Sem","6")
-                                                                   .putExtra("SubjectName","Operating Systems");
+            case R.id.os:
+                switch (stream) {
+                    case "IT":
+                    case "CSE":
+                         i = new Intent(this, Syllabus.class).putExtra("Subject", "OS")
+                                 .putExtra("Sem", "6");
+                         break;
+                    case "EE":
+                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Energy")
+                                .putExtra("Sem", "6");
+                    break;
+
+                }
                 break;
 
-            case R.id.osLab:    i = new Intent(this,Syllabus.class).putExtra("Subject","OSLab")
-                                                                   .putExtra("Sem","6")
-                                                                   .putExtra("SubjectName","Operating Systems Lab");
+            case R.id.osLab:
+                switch (stream) {
+                    case "IT":
+                    case "CSE":
+                         i = new Intent(this, Syllabus.class).putExtra("Subject", "OSLab")
+                                 .putExtra("Sem", "6");
+                         break;
+                    case "EE":
+                        i = new Intent(this, Syllabus.class).putExtra("Subject", "EnergyLab")
+                                .putExtra("Sem", "6");
+                        break;
+                }
                 break;
 
-            case R.id.web:      i = new Intent(this,Syllabus.class).putExtra("Subject","Web")
-                                                                   .putExtra("Sem","6")
-                                                                   .putExtra("SubjectName","Web Engineering");
+            case R.id.web:
+                switch (stream) {
+                    case "IT":
+                    case "CSE":
+                         i = new Intent(this, Syllabus.class).putExtra("Subject", "Web")
+                                 .putExtra("Sem", "6");
+                         break;
+                    case "ECE":
+                         i = new Intent(this,Syllabus.class).putExtra("Subject","DSP")
+                                 .putExtra("Sem","7");
+                         break;
+                    case "EE":
+                        i = new Intent(this, Syllabus.class).putExtra("Subject", "EM-III")
+                                .putExtra("Sem", "6");
+                        break;
+                }
                 break;
 
-            case R.id.webLab:   i = new Intent(this,Syllabus.class).putExtra("Subject","WebLab")
-                                                                   .putExtra("Sem","6")
-                                                                   .putExtra("SubjectName", "Web Engineering Lab");
+            case R.id.webLab:
+                switch (stream) {
+                    case "IT":
+                    case "CSE":
+                         i = new Intent(this, Syllabus.class).putExtra("Subject", "WebLab")
+                                 .putExtra("Sem", "6");
+                         break;
+                    case "ECE":
+                         i = new Intent(this,Syllabus.class).putExtra("Subject","DSPLab")
+                                 .putExtra("Sem","7");
+                         break;
+                    case "EE":
+                        i = new Intent(this, Syllabus.class).putExtra("Subject", "EMLab-III")
+                                .putExtra("Sem", "6");
+                        break;
+                }
                 break;
 
         }
 
+        i.putExtra("SubjectName", ((Button)v).getText());
         if(i != null)
             startActivity(i);
 

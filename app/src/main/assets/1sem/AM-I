@@ -1,5 +1,5 @@
 Paper Code : ETMA-101
-Paper : Applied Mathematics-I
+Paper: Applied Mathematics-I (M)
 
 
 UNIT- I
@@ -7,15 +7,15 @@ Successive differentiation:
   Leibnitz theorem for nth derivative (without proof).
 Infinite series:
   Convergence and divergence of infinite series, positive terms infinite series, necessary condition, comparison test (Limit test), D’Alembert ratio test, Integral Test, Cauchy’s root test, Raabe’s test and Logarithmic test(without proof).
-Alternating series, Leibnitz test, conditional and absolutely convergence.
-Taylor’s and Maclaurin’s expansion(without proof) of function (ex, log(1+x), cos x, sin x) with remainder terms, Taylor’s and Maclaurin’s series, Error and approximation.
+  Alternating series, Leibnitz test, conditional and absolutely convergence.
+  Taylor’s and Maclaurin’s expansion(without proof) of function (ex, log(1+x), cos x, sin x) with remainder terms, Taylor’s and Maclaurin’s series, Error and approximation.
 [T1][T2]
 
 UNIT- II
 Asymptotes to Cartesian curves.
 Radius of curvature and curve tracing for Cartesian, parametric and polar curves.
 Integration:
-  Integration using reduction formula for sin^nxdx, cos^nxdx, sin^nxcos^mxdx.
+  Integration using reduction formula for sin^nxdx, cos^nxdx, sin^nx*cos^mxdx.
 Applications of integration:
   Area under the curve, length of the curve, volumes and surface area of solids of revolution about axis only.
 Gamma and Beta functions.
@@ -24,9 +24,10 @@ Gamma and Beta functions.
 UNIT- III
 Matrices:
   Orthogonal matrix, Hermitian matrix, Skew-Hermitian matrix and Unitary matrix.
-  Inverse of matrix by Gauss-Jordan Method (without proof). Rank of matrix by echelon and Normal (canonical) form.
+  Inverse of matrix by Gauss-Jordan Method (without proof).
+  Rank of matrix by echelon and Normal (canonical) form.
 Linear dependence and linear independence of vectors.
-Consistency and inconsistency of linear system of homogeneous and non homogeneous equations.
+Consistency and inconsistency of linear system of homogeneous and non-homogeneous equations.
 Eigen values and Eigen vectors.
 Properties of Eigen values (without proof).
 Cayley-Hamilton theorem (without proof).
@@ -36,7 +37,7 @@ Quadratic form, reduction of quadratic form to canonical form.
 
 UNIT-IV
 Ordinary differential equations:
-  1st order linear differential equations, Leibnitz and Bernaulli’s equation.
+  1st order linear differential equations, Leibnitz's and Bernoulli’s equation.
   Exact differential equations, Equations reducible to exact differential equations.
   Linear differential equation of higher order with constant coefficients, Homogeneous and non-homogeneous differential equations reducible to linear differential equations with constant coefficients.
   Method of variation of parameters.
@@ -54,19 +55,19 @@ Text:
 
 References:
 [R1] E. Kresyzig
-      ”Advance Engineering Mathematics”
-       Wiley publications
+      ”Advanced Engineering Mathematics”
+       Wiley Publications
 [R2] G.Hadley
       “Linear Algebra”
        Narosa Publication
-[R3] N.M. Kapoor,
+[R3] N.M. Kapoor
       “A Text Book of Differential Equations”
-       Pitambar publication
-[R4] Wylie R,
+       Pitambar Publication
+[R4] Wylie R
       “Advance Engineering mathematics”
        McGraw-Hill
 [R5] Schaum’s Outline on Linear Algebra
        Tata McGraw-Hill
 [R6] Polking and Arnold
-      “Ordinary Differential Equation using MatLab”
+      “Ordinary Differential Equations using MatLab”
        Pearson

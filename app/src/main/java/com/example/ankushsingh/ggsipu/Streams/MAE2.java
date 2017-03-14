@@ -15,14 +15,7 @@ public class MAE2 extends AppCompatActivity implements View.OnClickListener {
 //    Button[] buttons = new Button[8];
 
 
-    public static final String maeResult[] = {"http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/036_MAE_1stSEM.pdf",
-                               "http://164.100.158.135/ExamResults/2016/310716/PDF2/036_MAE_2_SEM.pdf",
-                               "http://ipu.ac.in/exam/ExamResults/2016/290316/036_MAE_3rd%20Sem.pdf",
-                               "http://164.100.158.135/ExamResults/2016/310716/PDF4/036_MAE_4_SEM.pdf",
-                               "http://ipu.ac.in/exam/ExamResults/2016/300316/036_MAE_5th%20Sem.pdf",
-                               "http://164.100.158.135/ExamResults/2016/310716/PDF6/036_MAE_6_SEM.pdf",
-                               "http://ipu.ac.in/exam/ExamResults/2016/300316/036_MAE_7th%20Sem.pdf",
-                               "http://164.100.158.135/ExamResults/2016/310716/PDF8/036_MAE_8_SEM.pdf"};
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

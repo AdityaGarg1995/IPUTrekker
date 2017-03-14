@@ -4,57 +4,57 @@ Paper: Applied Mathematics-III
 
 UNIT-I
 Fourier series:
- Definition, Euler’s formula, conditions for Fourier expansion, functions having points of discontinuity, change of intervals, even and odd functions ,half range series, Harmonic analysis.
+  Definition, Euler’s formula, conditions for Fourier expansion, functions having points of discontinuity, change of intervals, even and odd functions ,half range series, Harmonic analysis.
 Fourier Transforms:
- Definition, Fourier integral, Fourier transform, inverse Fourier transform, Fourier sine and cosine transforms, properties of Fourier transforms(linearity, scaling, shifting, modulation), Application to partial differential equations.
+  Definition, Fourier integral, Fourier transform, inverse Fourier transform, Fourier sine and cosine transforms, properties of Fourier transforms(linearity, scaling, shifting, modulation), Application to partial differential equations.
 [T2]
 
 UNIT-II
 Difference equation:
- Definition, formation, solution of linear difference equation with constant coefficients, simultaneous difference equations with constant coefficients, applications of difference equations.
+  Definition, formation, solution of linear difference equation with constant coefficients, simultaneous difference equations with constant coefficients, applications of difference equations.
 Z-transform:
- Definition, Z-transform of basic functions, properties of Z-transform (linearity, damping, shifting, multiplication),initial value theorem, final value theorem, convolution theorem, convergence of Z-transform, inverse of Z-transform, Application to difference equations.
+  Definition, Z-transform of basic functions, properties of Z-transform (linearity, damping, shifting, multiplication),initial value theorem, final value theorem, convolution theorem, convergence of Z-transform, inverse of Z-transform, Application to difference equations.
 [T2]
 
 UNIT-III
 Numerical Methods:
- Solution of algebraic and transcendental equations using bisection method, Regula-Falsi method and Newton–Raphson method.
- Solution of linear simultaneous equations using Gauss-Jacobi’s iteration method and Gauss-Seidal’s iteration methods.
+  Solution of algebraic and transcendental equations using bisection method, Regula-Falsi method and Newton–Raphson method.
+  Solution of linear simultaneous equations using Gauss-Jacobi’s iteration method and Gauss-Seidal’s iteration methods.
 Finite differences:
- Forward differences, backward differences and Central differences.
+  Forward differences, backward differences and Central differences.
 Interpolation:
- Newton’s interpolation for equi-spaced values. Stirling’s central difference interpolation formula, Divided differences and interpolation formula in terms of divided differences, Lagrange’s interpolation formula for unequi-spaced values.
+  Newton’s interpolation for equi-spaced values. Stirling’s central difference interpolation formula, Divided differences and interpolation formula in terms of divided differences, Lagrange’s interpolation formula for unequi-spaced values.
 [T1,T2]
 
 UNIT-IV
 Numerical Differentiation, maxima and minima of a tabulated function.
 Numerical Integration:
- Newton-Cote’s quadrature formula, Trapezoidal rule, Simpson’s one-third rule and Simpson’s three-eighth rule.
+  Newton-Cote’s quadrature formula, Trapezoidal rule, Simpson’s one-third rule and Simpson’s three-eighth rule.
 Numerical solution of ordinary differential equations:
- Picard’s method, Taylor’s method, Euler’s method, modified Euler’s method, Runge-Kutta method of fourth order.
+  Picard’s method, Taylor’s method, Euler’s method, modified Euler’s method, Runge-Kutta method of fourth order.
 [T1,T2]
 
 
 Text Books:
 [T1] R.K. Jain and S.R.K. Iyengar
-     ”Numerical methods for Scientific and Engineering Computation”
-      New Age Publishing Delhi-2014
+      ”Numerical methods for Scientific and Engineering Computation”
+       New Age Publishing Delhi, 2014
 [T2] B.S. Grewal
-     ”Higher Engineering Mathematics”
-      Khanna Publications, 2014 Edition
+      ”Higher Engineering Mathematics”
+       Khanna Publications, 2014 Edition
 
 Reference Books:
-[R1] E.Kresyzig
-     ”Advance Engineering Mathematics”
-      Wiley publications
+[R1] E. Kresyzig
+      ”Advance Engineering Mathematics”
+       Wiley publications
 [R2] P.B. Patil and U.P. Verma
-     “Numerical Computational Methods”
-      Narosa
+      “Numerical Computational Methods”
+       Narosa
 [R3] "Partial Differential Equations”
-      Schaum’s Outline Series
-      McGraw-Hill
+       Schaum’s Outline Series
+        McGraw-Hill
 [R4] Michael Greenberg
-     “Advance Engineering mathematics”
-      Pearson
-[R5] Schaum’s Outline on Fourier Analysis with Applications to Boundary Value Proble
-     Tata McGraw-Hill
+      “Advance Engineering mathematics”
+       Pearson
+[R5] Schaum’s Outline on Fourier Analysis with Applications to Boundary Value Problem
+      Tata McGraw-Hill

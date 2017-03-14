@@ -28,7 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/coa"
-            android:text="Computer Organisation and Architecture"
+            android:text="Computer Organisation &amp; Architecture"
             android:layout_weight="1"
             />
         <Button
@@ -42,7 +42,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/dbms"
-            android:text="Database management systems"
+            android:text="Database Management Systems"
             android:layout_weight="1"
             />
         <Button
@@ -82,7 +82,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/dbmsLab"
-            android:text="Database management systems Lab"
+            android:text="Database Management Systems Lab"
             android:layout_weight="1"
             />
         <Button
@@ -96,7 +96,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/coaLab"
-            android:text="Computer Organisation and Architecture Lab"
+            android:text="Computer Organisation &amp; Architecture Lab"
             android:layout_weight="1"
             />
         <Button
@@ -105,6 +105,11 @@
             android:id="@+id/oopsLab"
             android:text="Object Oriented Programming Lab"
             android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lab1"
             />
 
     </LinearLayout>

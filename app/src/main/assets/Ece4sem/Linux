@@ -1,0 +1,27 @@
+Paper Code: ETCS-260
+Paper: Linux Programming and Administration Lab
+
+
+List of Experiments:
+
+
+1. Installation of Red Hat Linux using Graphical mode.
+
+2. Installation of Red Hat Linux using command prompt.
+
+3. Installation of Red Hat Linux using NFS.
+
+4. Enter into a linux machine whose password is not known using the password “REDHAT”.
+
+5. Troubleshooting of /etc/inittab.
+
+6. Troubleshooting of /etc/passwd
+
+7. Troubleshooting of /etc/grub.conf
+
+8. Automounting of disk partition.
+
+9. Sharing of data using Samba Server.
+
+
+The instructor is advised to develop lab programs based on the learning concepts of architecture and insight into operating systems

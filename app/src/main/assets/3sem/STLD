@@ -3,45 +3,54 @@ Paper: Switching Theory & Logic Design
 
 
 UNIT- I
-Number Systems and Codes: Decimal, Binary, Octal & Hexadecimal Number systems, Codes- BCD, Gray Code, Excess-3 Code, ASCII, EBCDIC, Conversion between various Codes.
-Switching Theory: Boolean Algebra- Postulates and Theorems, DeMorgan’s Theorem, Switching Functions- Canonical Forms- Simplification of Switching Functions- Karnaugh Map and Quine Mc-Clusky Methods.
-Combinational Logic Circuits: Review of basic gates- Universal gates, Adder, Subtractor ,Serial Adder, Parallel Adder- Carry Propagate Adder, Carry Look-ahead Adder, Carry Save Adder, Comparators, Parity Generators, Decoder & Encoder, Multiplexer & De-multiplexer, ALU, PLA and PAL.
+Number Systems and Codes:
+  Decimal, Binary, Octal & Hexadecimal Number systems, Codes- BCD, Gray Code, Excess-3 Code, ASCII, EBCDIC, Conversion between various Codes.
+Switching Theory:
+  Boolean Algebra- Postulates and Theorems, DeMorgan’s Theorem, Switching Functions- Canonical Forms- Simplification of Switching Functions- Karnaugh Map and Quine Mc-Clusky Methods.
+Combinational Logic Circuits:
+  Review of basic gates- Universal gates, Adder, Subtractor ,Serial Adder, Parallel Adder- Carry Propagate Adder, Carry Look-ahead Adder, Carry Save Adder, Comparators, Parity Generators, Decoder & Encoder, Multiplexer & De-multiplexer, ALU, PLA and PAL.
 [T2,T3]
 
 UNIT- II
-Integrated circuits: TTL & CMOS logic families and their characteristics.
-Brief introduction to RAM & ROM.
-Sequential Logic Circuits: Latches & Flip Flops- SR, D, T & MS-JK Flip Flops, Asynchronous Inputs.
-Counters and Shift Registers: Design of Synchronous & Asynchronous Counters- Binary, BCD, Decade & Up/Down Counters, Shift Registers, Types of Shift Registers, Counters using Shift Registers- Ring Counter & Johnson Counter.
+Integrated circuits:
+  TTL & CMOS logic families and their characteristics.
+  Brief introduction to RAM & ROM.
+Sequential Logic Circuits:
+  Latches & Flip Flops- SR, D, T & MS-JK Flip Flops, Asynchronous Inputs.
+Counters and Shift Registers:
+  Design of Synchronous & Asynchronous Counters- Binary, BCD, Decade & Up/Down Counters, Shift Registers, Types of Shift Registers, Counters using Shift Registers- Ring Counter & Johnson Counter.
 [T2,T3]
 
 UNIT- III
-Synchronous Sequential Circuits: State Tables State Equations and State Diagrams, State Reduction and State Assignment, Design of Clocked Sequential Circuits using State Equations.
-Finite state machine- capabilities and limitations, Mealy & Moore models- minimization of completely specified and incompletely specified sequential machines, Partition techniques and merger chart methodsconcept of minimal cover table.
+Synchronous Sequential Circuits:
+  State Tables State Equations and State Diagrams, State Reduction and State Assignment, Design of Clocked Sequential Circuits using State Equations.
+  Finite state machine- capabilities and limitations, Mealy & Moore models- minimization of completely specified and incompletely specified sequential machines, Partition techniques and merger chart methodsconcept of minimal cover table.
 [T1]
 
 UNIT- IV
-Algorithmic State Machine: Representation of sequential circuits using ASM charts synthesis of output and next state functions, Data path control path partition-based design.
-Fault Detection and Location: Fault models for combinational and sequential circuits, Fault detection in combinational circuits.
-Homing experiments, distinguishing experiments, machine identification and fault detection experiments in sequential circuits.
+Algorithmic State Machine:
+  Representation of sequential circuits using ASM charts synthesis of output and next state functions, Data path control path partition-based design.
+Fault Detection and Location:
+  Fault models for combinational and sequential circuits, Fault detection in combinational circuits.
+  Homing experiments, distinguishing experiments, machine identification and fault detection experiments in sequential circuits.
 [T1]
 
 
 Text Book:
 [T1] Zyi Kohavi
-     “Switching & Finite Automata Theory”
-      TMH, 2nd Edition
+      “Switching & Finite Automata Theory”, 2nd Edition
+       TMH
 [T2] Morris Mano
-     "Digital Logic and Computer Design”
-      Pearson
+      "Digital Logic and Computer Design”
+       Pearson
 [T3] R.P. Jain,
-     “Modern Digital Electronics”
-      TMH, 2nd Ed
+      “Modern Digital Electronics”, 2nd Edition
+       TMH
 
 Reference Books:
 [R1] A Anand Kumar
-     “Fundamentals of Digital Logic Circuits”
-      PHI
+      “Fundamentals of Digital Logic Circuits”
+       PHI
 [R2] Taub, Helbert and Schilling
-     “Digital Integrated Electronics”
-      TMH
+      “Digital Integrated Electronics”
+       TMH

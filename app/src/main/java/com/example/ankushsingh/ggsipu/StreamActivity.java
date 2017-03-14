@@ -22,11 +22,12 @@ import com.example.ankushsingh.ggsipu.Streams.ME;
 import com.example.ankushsingh.ggsipu.Streams.MECH;
 import com.example.ankushsingh.ggsipu.Streams.POWER;
 import com.example.ankushsingh.ggsipu.Streams.TOOL;
+import com.example.ankushsingh.ggsipu.Streams.TOOL2;
 
 
 public class StreamActivity extends AppCompatActivity implements View.OnClickListener {
 
-    ImageButton[] b = new ImageButton[13];
+//    ImageButton[] b = new ImageButton[13];
 
 
     @Override
@@ -55,37 +56,38 @@ public class StreamActivity extends AppCompatActivity implements View.OnClickLis
 
     @Override
     public void onClick(View v) {
+
         switch(v.getId()){
-            case R.id.cse: startActivity(new Intent(this, CSE.class));
+            case R.id.cse:   startActivity(new Intent(this, CSE.class));
                 break;
-            case R.id.ece: startActivity(new Intent(this, ECE.class));
+            case R.id.ece:   startActivity(new Intent(this, ECE.class));
                 break;
-            case R.id.it: startActivity(new Intent(this, IT.class));
+            case R.id.it:    startActivity(new Intent(this, IT.class));
                 break;
-            case R.id.mae: startActivity(new Intent(this, MAE.class));
+            case R.id.mae:   startActivity(new Intent(this, MAE.class));
                 break;
-            case R.id.eee: startActivity(new Intent(this, EEE.class));
+            case R.id.eee:   startActivity(new Intent(this, EEE.class));
                 break;
             case R.id.civil: startActivity(new Intent(this, CIVIL.class));
                 break;
             case R.id.power: startActivity(new Intent(this, POWER.class));
                 break;
-            case R.id.ee: startActivity(new Intent(this, EE.class));
+            case R.id.ee:    startActivity(new Intent(this, EE.class));
                 break;
-            case R.id.me: startActivity(new Intent(this, ME.class));
+            case R.id.me:    startActivity(new Intent(this, ME.class));
                 break;
-            case R.id.ice: startActivity(new Intent(this, ICE.class));
+            case R.id.ice:   startActivity(new Intent(this, ICE.class));
                 break;
-            case R.id.mech: startActivity(new Intent(this, MECH.class));
+            case R.id.mech:  startActivity(new Intent(this, MECH.class));
                 break;
-            case R.id.envo: startActivity(new Intent(this, ENVO.class));
+            case R.id.envo:  startActivity(new Intent(this, ENVO.class));
                 break;
-            case R.id.tool: startActivity(new Intent(this, TOOL.class));
+            case R.id.tool:  startActivity(new Intent(this, TOOL.class));
                 break;
         }
 
-
     }
+
 
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -97,24 +99,32 @@ public class StreamActivity extends AppCompatActivity implements View.OnClickLis
         // Handle action bar item clicks here.
         // The action bar will automatically handle clicks on the Home/Up button, so long as you specify a parent activity in AndroidManifest.xml.
 
-        if(item.getItemId() == R.id.home){
-            startActivity(new Intent(StreamActivity.this, HomeActivity.class));
-            return true;
-        }
 
-        else if(item.getItemId() == R.id.colleges){
-            startActivity(new Intent(StreamActivity.this, CollegeActivity.class));
-            return true;
-        }
+        switch (item.getItemId()) {
+            case R.id.home:
+                startActivity(new Intent(StreamActivity.this, HomeActivity.class));
+                return true;
 
-        else if(item.getItemId() == R.id.streams)
-            // Do nothing
-            return true;
+            case R.id.colleges:
+                startActivity(new Intent(StreamActivity.this, CollegeActivity.class));
+                return true;
 
+//        else if(item.getItemId() == R.id.streams)
+//            // Do nothing
+//            return true;
 
-        else if(item.getItemId() == R.id.result){
-            startActivity(new Intent(StreamActivity.this, logo.class).putExtra("Task", StreamNames.task2));
-            return true;
+            case R.id.result:
+                startActivity(new Intent(StreamActivity.this, logo.class).putExtra("Task", StreamNames.task2));
+                return true;
+
+            case R.id.ncc:
+                startActivity(new Intent(StreamActivity.this, TOOL2.class).putExtra("Task", "NCC"));
+                return true;
+
+            case R.id.codes:
+                startActivity(new Intent(StreamActivity.this, TOOL2.class).putExtra("Task", "Codes"));
+                return true;
+
         }
 
         return super.onOptionsItemSelected(item);

@@ -15,16 +15,7 @@ public class ENVO2 extends AppCompatActivity implements View.OnClickListener {
 
 //    Button[] buttons = new Button[8];
 
-    public static final String eneResut[] = {
-            "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/056_ENE_1stSEM.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF2/056_ENE_2_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/290316/056_ENE_3rd%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF4/056_ENE_4_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/056_ENE_5th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF6/056_ENE_6_SEM.pdf",
-            "http://ipu.ac.in/exam/ExamResults/2016/300316/056_ENE_7th%20Sem.pdf",
-            "http://164.100.158.135/ExamResults/2016/310716/PDF8/056_ENE_8_SEM.pdf"
-    };
+
 
 
     @Override

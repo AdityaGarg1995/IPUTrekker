@@ -3,49 +3,57 @@ Paper: Optoelectronics and Optical Communication
 
 
 UNIT - I
-Introduction: Optical Fiber: Structures, Wave guiding and Fabrication – Nature of light, Basic optical laws and Definition, Optical fiber modes and Configuration, Mode theory for circular waveguides, Single mode fibers, Graded index fiber, Fiber materials, Fabrication and mechanical properties, Fiber optic cables, Basic Optical Communication System, Advantage of Optical Communication System.
+Introduction:
+  Optical Fiber: Structures, Wave guiding and Fabrication – Nature of light, Basic optical laws and Definition, Optical fiber modes and Configuration, Mode theory for circular waveguides, Single mode fibers, Graded index fiber, Fiber materials, Fabrication and mechanical properties, Fiber optic cables, Basic Optical Communication System, Advantage of Optical Communication System.
 [T1,T2]
 
 UNIT – II
-Attenuation in Optical Fibers: Introduction, Absorption, Scattering, Very Low Loss Materials, All Plastic & Polymer-Clad-Silica Fibers.
-Wave Propagation: Wave propagation in Step-Index & Graded Index Fiber, Overall Fiber Dispersion-Single Mode Fibers, Multimode Fibers, Dispersion-Shifted Fiber, Dispersion, Flattened Fiber, Polarization.
+Attenuation in Optical Fibers:
+  Introduction, Absorption, Scattering, Very Low Loss Materials, All Plastic & Polymer-Clad-Silica Fibers.
+Wave Propagation:
+  Wave propagation in Step-Index & Graded Index Fiber, Overall Fiber Dispersion-Single Mode Fibers, Multimode Fibers, Dispersion-Shifted Fiber, Dispersion, Flattened Fiber, Polarization.
 [T1,T2]
 
 UNIT – III
-Source & Detectors: Design & LED’s for Optical Communication, Semiconductor Lasers for Optical Fiber Communication System and their types, Semiconductor Photodiode Detectors, Avalanche Photodiode Detector & Photo multiplier Tubes.
-Source to fiber power launching- Output patterns, Power coupling, Power launching, Equilibrium Numerical Aperture, Laser diode to fiber coupling.
-Optical detectors- Physical principles of PIN and APD, Detector response time, Temperature effect on Avalanche gain, Comparison of Photo detectors.
-Optical receiver operation- Fundamental receiver operation, Digital signal transmission, error sources, Receiver configuration, Digital receiver performance, Probability of error, Quantum limit, Analog receivers.
+Source & Detectors:
+  Design & LED’s for Optical Communication, Semiconductor Lasers for Optical Fiber Communication System and their types, Semiconductor Photodiode Detectors, Avalanche Photodiode Detector & Photo multiplier Tubes.
+  Source to fiber power launching- Output patterns, Power coupling, Power launching, Equilibrium Numerical Aperture, Laser diode to fiber coupling.
+  Optical detectors- Physical principles of PIN and APD, Detector response time, Temperature effect on Avalanche gain, Comparison of Photo detectors.
+O  ptical receiver operation- Fundamental receiver operation, Digital signal transmission, error sources, Receiver configuration, Digital receiver performance, Probability of error, Quantum limit, Analog receivers.
 [T1,T2]
 
 UNIT – IV
-Optical Fiber Communication Systems: Data Communication Networks– Network Topologies, Mac Protocols, Analog System.
-Advanced Multiplexing Strategies– Optical TDM, Sub carrier Multiplexing, WDM Network.
-Architectures: SONET/SDH.
-Optical Transport Network, Optical Access Network, Optical Premise Network.
-Applications- Military Applications, Civil, Consumer & Industrial Applications.
+Optical Fiber Communication Systems:
+  Data Communication Networks– Network Topologies, Mac Protocols, Analog System.
+  Advanced Multiplexing Strategies– Optical TDM, Sub carrier Multiplexing, WDM Network.
+Architectures:
+  SONET/SDH.
+  Optical Transport Network, Optical Access Network, Optical Premise Network.
+  Applications- Military Applications, Civil, Consumer & Industrial Applications.
 [T1,T2]
 
 
 Text Books:
 [T1] J. Gowar
-     “Optical Communication System”
-      IEEE Press–2nd Edition
+     “Optical Communication System”, 2nd Edition
+      IEEE Press
 [T2] R.P.Khare
      "Fiber Optics and Opto Electronics"
       Oxford Publication
 
 Reference Books:
-[R1] Optical Information Processing – F. T. S. Yu–Wiley, New York, 1983
+[R1] Optical Information Processing
+      F.T.S. Yu
+       Wiley, New York, 1983
 [R2] G.P. Agrawal
-     Fiber optic Communication Systems
-      John Wiley & sons, New York, 1992
+      Fiber optic Communication Systems
+       John Wiley & sons, New York, 1992
 [R3] A. Ghatak, K. Thyagarajan
-     “An Introduction to Fiber Optics”
-      Cambridge University Press
+      “An Introduction to Fiber Optics”
+       Cambridge University Press
 [R4] J.H. Franz & V.K. Jain
-     “Optical Communication Components & Systems”
-      Narosa Publish, 2013
+      “Optical Communication Components & Systems”
+       Narosa Publish, 2013
 [R5] John M. Senior
-     “Optical Fiber Communications”
-      Pearson, 3rd Edition, 2010
+      “Optical Fiber Communications”, 3rd Edition
+       Pearson, 2010

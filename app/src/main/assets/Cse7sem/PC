@@ -1,0 +1,55 @@
+Paper Code: ETCS-427
+Paper: Parallel Computing
+
+
+UNIT I
+Theory of Parallelism:
+  Parallelism, Reason of parallel processing, Concepts and challenges, applications of parallel processing.
+Parallel computer models:
+  The state of computing, Classification of parallel computers, Flynn & Feng’s classification, SIMD and MIMD operations, Shared Memory vs. message passing multiprocessors, Distributed shared memory, Hybrid multiprocessors, multiprocessors and multicomputers, Multivector and SIMD computers, PRAM and VLSI Models.
+Program and Network Properties:
+  Conditions of parallelism, program partitioning and scheduling, program flow mechanism, system interconnection architecture.
+[T1, T2]
+
+UNIT II
+Memory Hierarchy Design:
+  Memory technologies and optimization, inclusion, coherence and locality, cache memory organization and cache performance optimization, shared memory organization, memory protection, virtual memory technology and introduction to buses, crossbar and multi-stage switches.
+Pipelining and ILP:
+  Instruction level parallelism and its exploitation- concepts and challenges, overcoming data hazards with dynamic scheduling. Pipelining, instruction and arithmetic pipelining designs, branch handling techniques, linear and non-linear pipeline processors, superscalar and super pipeline design.
+[T1, T2]
+
+UNIT III
+Parallel architectures:
+  Multi-processor system interconnects, cache coherence and synchronization mechanism, message passing mechanism, vector processing principles, multivector multiprocessors, compound vector processing, principles of multithreading, latency hiding techniques- shared virtual memory, prefetching techniques, distributed coherent cache, scalable and multithread architectures, dataflow and hybrid architecture.
+[T1, T2]
+
+UNIT IV
+Parallel Programming Platforms:
+  Implicit Parallelism: Trends in Microprocessor Architectures, limitations of Memory System Performance, Dichotomy of Parallel Computing Platforms, Physical Organization of Parallel Platforms, Communication Costs in Parallel Machines, Routing Mechanisms for Interconnection Networks.
+Parallel Programming Models:
+  Shared variable models, message passing models, parallel languages and complier, code optimization and scheduling, Introduction of shared-memory MIMD machines and message-passing MIMD machines.
+[T1, T2]
+
+
+Text Books:
+[T1] Introduction to Parallel Computing
+      Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar
+       Pearson Publication
+[T2] Advance computer Architecture
+      Kai Hwang
+       Tata McGraw Hill publications.
+[T3] Introduction to Parallel Processing: Algorithms & Architectures
+      Behrooz Parhami
+       Springer Shop
+
+Reference Books:
+[R1] Introduction to Parallel Processing
+      P. Ravi Prakash, M. Sasikumar, Dinesh Shikhare
+       PHI Publications
+[R2] Fundamentals of Parallel Processing
+      Jordan Harry, Alaghband Gita
+       PHI Publication
+[R3] Introduction to Parallel Programming
+      Steven Brawer
+[R4] Parallel Computers – Architecture and Programming
+      V. Rajaraman And C. Siva Ram Murthy

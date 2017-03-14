@@ -1,0 +1,63 @@
+Paper Code: ETCS-412
+Paper: Object Oriented Software Engineering
+
+
+UNIT I:
+Introduction – Overview of Object-Orientation.
+Basic Concepts of Object-Orientation:
+  Data abstraction, Encapsulation, Inheritance, Aggregation, classes, objects, messages, inheritance, polymorphism.
+  Importance of modeling, principles of modeling, Object oriented modeling.
+OO Life cycle – Object Oriented analysis, modeling and design; Requirement Elicitation.
+Introduction to Object Oriented Methodologies, Overview of Requirements Elicitation, Requirements Model-Action & Use cases.
+[T1][R1][R2]
+
+UNIT II:
+Architecture:
+  Introduction, System development is model building, model architecture, requirement model, analysis model, design model, implementation model.
+Analysis:
+  Introduction, System development based on user requirement, Use case model, interface descriptions, Problem domain objects, interface objects, entity objects, control objects.
+Code Design Improvement:
+  Refactoring, Anti patterns, Visitor Patterns.
+[T1][R3]
+
+UNIT III:
+Construction:
+  Introduction, the design model, design model dimensions, block design, working with construction.
+Testing:
+  Introduction, Object Oriented testing process, testing of analysis and design model, testing of classes.
+[T1][R1]
+
+UNIT IV:
+Modelling with UML:
+  Basic Building Blocks of UML, A Conceptual Model of UML.
+Basic structural modelling:
+  Classes, interfaces, Dependency , generalization and association relationship, comparison of E-R diagram and UML class Diagram, forward and reverse engineering.
+  Basic Behavioral Modeling- Use case diagram-relationships between use cases- extend, include, and generalize.
+  Activity diagram-Action state, Activity state, Transition (Fork, Merge, Join), State diagram-events, State Diagram states, transitions, Interaction diagrams: Sequence diagram, Collaboration diagram (iterations, conditional messaging, branching, object creation and destruction, time constraints, origin of links.)
+Architectural modelling:
+  Deployment: Common Modelling technique; Modelling processors and devices, modelling distribution of artifacts.
+  Collaboration: Modeling roles, modelling the realization of a Use Case, modelling the realization of an operation, modelling a mechanism.
+[T1][R3]
+
+
+Text Books:
+[T1] Ivar Jacobson
+      “Object Oriented Software Engineering”
+       Pearson
+[T2] Grady Booch, James Runbaugh, Ivar Jacobson
+      “The UML User Guide”
+       Pearson
+
+Reference Books:
+[R1] Rumbaugh et. al
+      “Object Oriented Modeling and Design”
+       Pearson
+[R2] Booch, Maksimchuk, Engle, Young, Conallen and Houstan
+      “Object Oriented Analysis and Design with Applications”
+       Pearson Education
+[R3] Mike O'Docherty
+      Object-Oriented Analysis and Design: using UML
+       Wiley Publication
+[R4] Edwards Yourdon, Carl Argila
+      ”Case Studies in object oriented analysis and design”
+       Prentice Hall

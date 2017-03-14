@@ -3,46 +3,63 @@ Paper: Operating Systems
 
 
 UNIT I
-Introduction: What is an Operating System, Simple Batch Systems, Multiprogrammed Batches systems, Time-
-Sharing Systems, Personal-computer systems, Parallel systems, Distributed Systems, Real-Time Systems, OS –
-A Resource Manager.
-Memory Organization & Management: Memory Organization, Memory Hierarchy, Memory Management
-Strategies, Contiguous versus non- Contiguous memory allocation, Partition Management Techniques, Logical
-versus Physical Address space, swapping, Paging, Segmentation, Segmentation with Paging
-Virtual Memory: Demand Paging, Page Replacement, Page-replacement Algorithms, Performance of Demand
-Paging, Thrashing, Demand Segmentation, and Overlay Concepts.
-[T1] [T2][R2][R3]
+Introduction:
+  What is an Operating System, Simple Batch Systems, Multiprogrammed Batches systems, Time- Sharing Systems, Personal-computer systems, Parallel systems, Distributed Systems, Real-Time Systems, OS – A Resource Manager.
+Memory Organization & Management:
+  Memory Organization, Memory Hierarchy, Memory Management Strategies, Contiguous versus non-contiguous memory allocation, Partition Management Techniques, Logical versus Physical Address space, swapping, Paging, Segmentation, Segmentation with Paging.
+Virtual Memory:
+  Demand Paging, Page Replacement, Page-replacement Algorithms, Performance of Demand Paging, Thrashing, Demand Segmentation, and Overlay Concepts.
+[T1][T2][R2][R3]
 
 UNIT II
-Processes: Introduction, Process states, process management, Interrupts, Interprocess Communication
-Threads: Introduction, Thread states, Thread Operation, Threading Models.
-Processor Scheduling: Scheduling levels, pre emptive vs no pre emptive scheduling, priorities, scheduling
-objective, scheduling criteria, scheduling algorithms, demand scheduling, real time scheduling.
-Process Synchronization: Mutual exclusion, software solution to Mutual exclusion problem, hardware solution
-to Mutual exclusion problem, semaphores, Critical section problems. Case study on Dining philosopher
-problem, Barber shop problem etc.
+Processes:
+  Introduction, Process states, process management, Interrupts, Interprocess Communication
+Threads:
+  Introduction, Thread states, Thread Operation, Threading Models.
+Processor Scheduling:
+  Scheduling levels, pre emptive vs no pre emptive scheduling, priorities, scheduling objective, scheduling criteria, scheduling algorithms, demand scheduling, real time scheduling.
+Process Synchronization:
+  Mutual exclusion, software solution to Mutual exclusion problem, hardware solution to Mutual exclusion problem, semaphores, Critical section problems.
+  Case study on Dining philosopher problem, Barber shop problem etc.
 [T1][T2][[R3]
 
 UNIT III
-Deadlocks: examples of deadlock, resource concepts, necessary conditions for deadlock, deadlock solution,
-deadlock prevention, deadlock avoidance with Bankers algorithms, deadlock detection, deadlock recovery.
-Device Management: Disk Scheduling Strategies, Rotational Optimization, System Consideration, Caching and
-Buffering
+Deadlocks:
+  examples of deadlock, resource concepts, necessary conditions for deadlock, deadlock solution, deadlock prevention, deadlock avoidance with Bankers algorithms, deadlock detection, deadlock recovery.
+Device Management:
+  Disk Scheduling Strategies, Rotational Optimization, System Consideration, Caching and Buffering
 [T1][T2][R1]
 
 UNIT IV
-File System: Introduction, File Organization, Logical File System, Physical File System , File Allocation
-strategy, Free Space Management, File Access Control, Data Access Techniques, Data Integrity Protection,
-Case study on file system viz FAT32, NTFS, Ext2/Ext3 etc.
-[T1] [T2][R4][R5]
+File System:
+  Introduction, File Organization, Logical File System, Physical File System, File Allocation strategy, Free Space Management, File Access Control, Data Access Techniques, Data Integrity Protection, Case study on file system viz FAT32, NTFS, Ext2/Ext3 etc.
+[T1][T2][R4][R5]
+
 
 Text Books:
-[T1] Deitel & Dietel, “Operating System”, Pearson, 3rd Ed., 2011
-[T2] Silbersachatz and Galvin, “Operating System Concepts”, Pearson, 5th Ed., 2001
-[T3] Madnick & Donovan, “Operating System”, TMH,1st Ed., 2001
+[T1] Deitel & Dietel
+      “Operating System”, 3rd Ed
+       Pearson, 2011
+[T2] Silbersachatz and Galvin
+      “Operating System Concepts”, 5th Ed
+        Pearson, 2001
+[T3] Madnick & Donovan
+      “Operating System”, 1st Ed
+        TMH, 2001
+
 Reference Books:
-[R1] Tannenbaum, “Operating Systems”, PHI, 4th Edition, 2000
-[R2] Godbole, “Operating Systems”, Tata McGraw Hill, 3rd edition, 2014
-[R3] Chauhan, “Principles of Operating Systems”, Oxford Uni. Press, 2014
-[R4] Dhamdhere, “Operating Systems”, Tata McGraw Hill, 3rd edition, 2012
-[R5] Loomis, “Data Management & File Structure”, PHI, 2nd Ed.
+[R1] Tannenbaum
+      “Operating Systems”, 4th Edition
+       PHI, 2000
+[R2] Godbole
+      “Operating Systems”, 3rd edition
+       Tata McGraw Hill, 2014
+[R3] Chauhan
+      “Principles of Operating Systems”
+       Oxford Uni. Press, 2014
+[R4] Dhamdhere
+      “Operating Systems”, 3rd edition
+       Tata McGraw Hill, 2012
+[R5] Loomis
+      “Data Management & File Structure”, 2nd Ed
+       PHI

@@ -1,0 +1,57 @@
+Paper Code: ETEC-314
+Paper: Antenna and Wave Propagation
+
+
+UNIT –I
+Introduction of antenna:
+  radiation mechanism, single wire, two wire, dipole, current distribution of thin wire antenna.
+Fundamental parameters of antenna:
+  radiation pattern, isotropic, directional and omni directional pattern, principal patterns, radiation patterns lobes, field regions, radian and steradian, Radiation power density, radiation intensity, directivity, gain, antenna efficiency, half power beam width, beam efficiency, bandwidth efficiency, input impedance, antenna radiation efficiency, antenna aperture, effective height.
+[T1][T2]
+
+UNIT-II
+Vector potential for an electric and magnetic current source, electric and magnetic fields for electric and magnetic current source, far field radiation, Duality theorem, reciprocity theorem.
+Linear wire antenna:
+  infinitesimal dipole, radiation field (with derivation), directivity, near field, intermediate field, far field, power density, small/short dipole, half wavelength dipole. folded dipole.
+Antenna Array:
+  2-element arrays, N-element linear array, broadside array, ordinary endfire array, phased
+array.
+[T1][T2][R1][R2]
+
+UNIT-III
+Types of antenna:
+  Travelling wave antenna: long wire, V antenna, rhombic antenna.
+  Broadband antenna: helical antenna, Yagi-Uda antenna.
+  Frequency independent antenna: log periodic antenna.
+  Introduction of Microstrip patch antenna (MPA), basic characteristics, feeding method, microstrip rectangular patch antenna and its design using transmission line model, smart antennas.
+[T1][T2][R1][R2]
+
+UNIT-IV
+Wave propagation:
+  Ground wave, sky wave, space wave, ionosphere, reflection and refraction by ionosphere, critical frequency, virtual height, MUF (max. usable frequency), skip distance, troposphere and duct propagation.
+Antenna measurements:
+  Measurement of reflection coefficient and radiation pattern, Introduction of Anechoic chamber and Vector Network Analyzer.
+[T1][R2]
+
+
+Text Books
+[T1] Edward Conrad Jordan, Keith George Balmain
+      Electromagnetic waves and radiating systems
+       Prentice Hall, 1968
+[T2] J.D. Kraus, R.J. Marhefka and Ahmad S. Khan
+      “Antennas and Wave Propagation”, 4th edition(Special Indian Edition)
+       Tata Mcgraw Hill publications, New Delhi, 2010
+[T2] Constantine A. Balanis
+      “Antenna Theory Analysis and Design”, 3rd Edition
+       Wiley Publications
+
+Reference Books
+[R1] S. Das and A. Das
+      “Antennas and Wave Propagation”
+       Tata McGraw Hill Publications
+[R2] A.R. Harish and M. Sachidananda
+      “Antenna and wave Propagation”
+       Oxford Publications
+[R3] G.S.N. Raju
+      Antenna Wave Propagation
+       Pearson Education, 2004

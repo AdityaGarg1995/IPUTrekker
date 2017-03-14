@@ -32,7 +32,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/adHoc"
-            android:text="Ad Hoc and Sensor Networks"
+            android:text="Ad Hoc &amp; Sensor Networks"
             android:layout_weight="1"
             />
 
@@ -47,7 +47,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/hvpe_ii"
-            android:text="Human Values and Professional Ethics-II"
+            android:text="Human Values &amp; Professional Ethics-II"
             android:layout_weight="1"
             />
 
@@ -67,7 +67,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/adHocLab"
-            android:text=" Ad Hoc and Sensor Networks Lab"
+            android:text="Ad Hoc &amp; Sensor Networks Lab"
             android:layout_weight="1"
             />
         <Button
@@ -76,6 +76,16 @@
             android:id="@+id/mcLab"
             android:text="Mobile Computing Lab"
             android:layout_weight="1"
+            />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Elective Subjects"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textColor="@color/colorAccent"
             />
 
         <TextView
@@ -141,7 +151,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/infoTheory"
-            android:text="Information Theory and Coding"
+            android:text="Information Theory &amp; Coding"
             android:layout_weight="1"
             />
         <Button
@@ -172,14 +182,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/ecom"
-            android:text="E-Commerce and M-Commerce"
+            android:text="E-Commerce &amp; M-Commerce"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/gps"
-            android:text="GPS and GIS"
+            android:text="GPS &amp; GIS"
             android:layout_weight="1"
             />
         <Button

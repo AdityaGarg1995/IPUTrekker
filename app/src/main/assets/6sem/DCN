@@ -3,44 +3,66 @@ Paper: Data Communication & Networks
 
 
 UNIT- I
-Data Communications : Components, protocols and standards, Network and Protocol Architecture, Reference
-Model ISO-OSI, TCP/IP-Overview ,topology, transmission mode, digital signals, digital to digital encoding,
-digital data transmission, DTE-DCE interface, interface standards, modems, cable modem, transmission mediaguided
-and unguided, transmission impairment, Performance, wavelength and Shannon capacity. Review of
-Error Detection and Correction codes.
-Switching: Circuit switching (space-division, time division and space-time division), packet switching (virtual
-circuit and Datagram approach), message switching.
-[T1, T2, R1, R4]
+Data Communications:
+  Components, protocols and standards, Network and Protocol Architecture, Reference Model ISO-OSI, TCP/IP-Overview ,topology, transmission mode, digital signals, digital to digital encoding, digital data transmission, DTE-DCE interface, interface standards, modems, cable modem, transmission media- guided and unguided, transmission impairment, Performance, wavelength and Shannon capacity.
+  Review of Error Detection and Correction codes.
+Switching:
+  Circuit switching (space-division, time division and space-time division), packet switching (virtual circuit and Datagram approach), message switching.
+[T1,T2,R1,R4]
 
 
 UNIT- II
-Data Link Layer: Design issues, Data Link Control and Protocols: Flow and Error Control, Stop-and-wait
-ARQ. Sliding window protocol, Go-Back-N ARQ, Selective Repeat ARQ, HDLC, Point-to –Point Access: PPP
-Point –to- Point Protocol, PPP Stack,
-Medium Access Sub layer: Channel allocation problem, Controlled Access, Channelization, multiple access
-protocols, IEEE standard 802.3 & 802.11 for LANS and WLAN, high-speed LANs, Token ring, Token Bus,
-FDDI based LAN, Network Devices-repeaters, hubs, switches bridges.
-[T1, T2,R1]
+Data Link Layer:
+  Design issues, Data Link Control and Protocols: Flow and Error Control, Stop-and-wait ARQ.
+  Sliding window protocol, Go-Back-N ARQ, Selective Repeat ARQ, HDLC.
+  Point-to–Point Access: PPP Point–to-Point Protocol, PPP Stack.
+Medium Access Sub layer:
+  Channel allocation problem, Controlled Access, Channelization, multiple access protocols, IEEE standard 802.3 & 802.11 for LANS and WLAN, high-speed LANs, Token ring, Token Bus, FDDI based LAN, Network Devices-repeaters, hubs, switches bridges.
+[T1,T2,R1]
 
 UNIT- III
-Network Layer: Design issues, Routing algorithms, Congestion control algorithms,
-Host to Host Delivery: Internetworking, addressing and routing, IP addressing (class full & Classless), Subnet,
-Network Layer Protocols: ARP, IPV4, ICMP, IPV6 ad ICMPV6.
-[T1, T2,R1]
+Network Layer:
+  Design issues, Routing algorithms, Congestion control algorithms.
+Host to Host Delivery:
+  Internetworking, addressing and routing, IP addressing (class full & Classless), Subnet.
+Network Layer Protocols:
+  ARP, IPV4, ICMP, IPV6 ad ICMPV6.
+[T1,T2,R1]
 
 UNIT- IV
-Transport Layer: Process to Process Delivery: UDP; TCP, congestion control and Quality of service.
-Application Layer: Client Server Model, Socket Interface, Domain Name System (DNS): Electronic Mail
-(SMTP), file transfer (FTP), HTTP and WWW.
+Transport Layer:
+  Process to Process Delivery: UDP, TCP, congestion control and Quality of service.
+Application Layer:
+  Client Server Model, Socket Interface.
+Domain Name System (DNS):
+  Electronic Mail (SMTP), file transfer (FTP), HTTP and WWW.
 [T2, T1, R1, R4]
 
+
 Text Books:
-[T1] A. S. Tannenbum, D. Wetherall, “Computer Networks”, Prentice Hall, Pearson, 5th Ed
-[T2] Behrouz A. Forouzan, “Data Communications and Networking”, Tata McGraw-Hill, 4th Ed
+[T1] A.S. Tannenbum, D. Wetherall
+      “Computer Networks”, 5th Ed
+       Prentice Hall, Pearson
+[T2] Behrouz A. Forouzan
+      “Data Communications and Networking”, 4th Ed
+       Tata McGraw-Hill
+
 Reference Books:
-[R1] Fred Halsall, “Computer Networks”, Addison – Wesley Pub. Co. 1996.
-[R2] Larry L, Peterson and Bruce S. Davie, “Computer Networks: A system Approach”, Elsevier, 4th Ed
-[R3] Tomasi, “Introduction To Data Communications & Networking”, Pearson 7th impression 2011
-[R4] William Stallings, “Data and Computer Communications”, Prentice Hall, Imprint of Pearson, 9th Ed.
-[R5] Zheng , “Network for Computer Scientists & Engineers”, Oxford University Press
-[R6] Data Communications and Networking: White, Cengage Learning
+[R1] Fred Halsall
+      “Computer Networks”
+       Addison–Wesley Pub. Co. 1996
+[R2] Larry L, Peterson and Bruce S. Davie
+      “Computer Networks: A system Approach”, 4th Ed
+       Elsevier
+[R3] Tomasi
+      “Introduction To Data Communications & Networking”, 7th impression
+       Pearson, 2011
+[R4] William Stallings
+      “Data and Computer Communications”, 9th Ed
+       Prentice Hall, Imprint of Pearson
+[R5] Zheng
+      “Network for Computer Scientists & Engineers”
+       Oxford University Press
+[R6] Data Communications and Networking
+      White
+       Cengage Learning

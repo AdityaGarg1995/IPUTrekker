@@ -21,6 +21,7 @@ public class StreamNames {
                                power = "Power Engineering";
 
 
-    public static String task1 = "GGSIPU: Official Website", task2 = "Individual Result";
+    public static String task1 = "GGSIPU: Official Website",
+                         task2 = "Individual Result";
 
 }

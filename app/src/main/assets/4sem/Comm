@@ -2,50 +2,51 @@ Paper Code: ETEC-208
 Paper: Communication Systems
 
 
-UNIT I
-Introduction
+UNIT I Introduction-
 Overview of Communication system and Communication channels, Introduction to Analog Communication & Digital Communication technique.
 Amplitude Modulation
 Definition, Generation of AM waves, Demodulation of AM waves, DSBSC, Generation of DSBSC waves, Coherent detection of DSBSC waves, single side band(SSB) modulation, generation of SSB waves, demodulation of SSB waves, vestigial sideband modulation(VSB).
 [T1]
 
-UNIT II
-Angle Modulation
-Basic definitions: Phase modulation(PM) & frequency modulation(FM), narrow band frequency modulation, wideband frequency modulation, generation of FM waves, Demodulation of FM waves, frequency division(FDM) multiplexing.
-Noise Theory: Noise, Types of noise, Addition of Noise due to several sources in series and parallel, Noise sources, Equivalent Noise Bandwidth, Signal to Noise Ratio, Noise-Figure, Noise Temperature, Calculation of Noise Figure.
+UNIT II Angle Modulation-
+Basic definitions:
+  Phase modulation(PM) & frequency modulation(FM), narrow band frequency modulation, wideband frequency modulation, generation of FM waves, Demodulation of FM waves, frequency division(FDM) multiplexing.
+Noise Theory:
+  Noise, Types of noise, Addition of Noise due to several sources in series and parallel, Noise sources, Equivalent Noise Bandwidth, Signal to Noise Ratio, Noise-Figure, Noise Temperature, Calculation of Noise Figure.
 [T1,T2]
 
-UNIT III
-Pulse Modulation
-Sampling theory, Aliasing effect, practical sampling, Aperture effect, uniform and non uniform quantization, signal to quantization noise ratio, Companding, pulse amplitude modulation(PAM), pulse time modulation, pulse code modulation, Time division(TDM) multiplexing, differential pulse code modulation(DPCM), delta modulation(DM), adaptive delta modulation.
+UNIT III Pulse Modulation-
+Sampling theory, Aliasing effect, practical sampling, Aperture effect, uniform and non-uniform quantization, signal to quantization noise ratio, Companding, pulse amplitude modulation(PAM), pulse time modulation, pulse code modulation(PCM), Time division multiplexing(TDM), differential pulse code modulation(DPCM), delta modulation(DM), adaptive delta modulation.
 [T1,T2]
 
-UNIT IV
-Digital Modulation
+UNIT IV Digital Modulation-
 Amplitude, Frequency and phase shift keying, Differential phase shift keying, MSK QPSK and QAM modulation & detection, BER/SER calculation.
-Introduction to Information Theory: Measurement of Information, mutual information, Shannon’s Theorem, channel coding and channel capacity theorem. Huffman code, Lempel–Ziv code.
-Error Control Coding: Parity codes, Hamming codes , Block codes, Syndrome decoding, CRC codes, Introduction to Convolutional coding.
+Introduction to Information Theory:
+  Measurement of Information, mutual information, Shannon’s Theorem, channel coding and channel capacity theorem.
+  Huffman code, Lempel–Ziv code.
+Error Control Coding:
+  Parity codes, Hamming codes, Block codes, Syndrome decoding, CRC codes, Introduction to Convolutional coding.
 [T1,T2]
 
 
 TEXT BOOKS:
 [T1] Taub & Schilling
-     “Principles of Communication Systems”
-      TMH, 1998
+      “Principles of Communication Systems”
+        TMH, 1998
 [T2] Simon Haykins
-     “Communication Systems”
-      John Wiley, 1998
+      “Communication Systems”
+        John Wiley, 1998
 
 REFERENCE BOOKS:
 [R1] Kennedy, G.
-     “Electronic Communication Systems”
-      McGraw-Hill, 2008, 4th ed.
+      “Electronic Communication Systems”, 4th ed
+        McGraw-Hill, 2008
 [R2] V. Chandra Sekar
-     “Analog Communication”
-      Oxford University Press, Incorporated, 2010
+      “Analog Communication”
+        Oxford University Press, Incorporated, 2010
 [R3] John G Proakis, M.Salehi and G.Bauch
-     “Modern Communication System Using MATLAB”
-      Cengage Learning, 3rd edition, 2013
+      “Modern Communication System Using MATLAB”, 3rd edition
+        Cengage Learning, 2013
 [R3] J.C. Hancock
-     “An Introduction to the Principles of Communication Theory”
-      TMH, 1998
+      “An Introduction to the Principles of Communication Theory”
+        TMH, 1998

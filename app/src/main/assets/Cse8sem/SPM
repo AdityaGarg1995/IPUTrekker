@@ -1,0 +1,57 @@
+Paper Code: ETCS-416
+Paper: Software Project Management
+
+
+UNIT-I
+Introduction to Software Project Management (SPM):
+  Definition of a Software Project (SP), SP vs other types of projects activities covered by SPM, categorizing SPs, project as a system, management control.
+Software Project scheduling and planning:
+  Basic concepts, project scheduling, defining a task set and task network, scheduling, earned value analysis indicators, Project elements, WBS [Work Breakdown Structure] .
+  Selecting a project, identifying project scope and objectives, identifying project infrastructure, analyzing project cZaracteristics, identifying project products and activities.
+[T1, T2]
+
+UNIT-II
+Project Estimation and Evaluation:
+  software project estimation, decomposition techniques, empirical estimation models, estimation for object oriented projects, estimation for Agile development and Web engineering projects.
+  Cost benefit analysis, cash flow forecasting, cost benefit evaluation techniques, risk evaluation.
+  Selection of an appropriate project report; choice of process model, structured methods, rapid application development, water fall, spiral models, Prototyping delivery, Albrecht function point analysis.
+[T1, T2]
+
+UNIT-III
+Activity planning:
+  Objectives of activity planning, project schedule, projects and activities, sequencing and scheduling activities, Network planning model; Network Diagrams : CPM, Bar Charts, Gantt Chart, PERT [ Activity-on-arrow network; Activity on Node network ] Precedence network; Forward pass; Backward pass; Critical path.
+Risk Analysis and Management:
+  Risk and risk types, Risk Break down Structure, Risk management process, Evaluating schedule risk using PERT.
+[T1, T2]
+
+UNIT-IV
+Resource allocation &Monitoring the control:
+  Introduction, the nature of resources, identifying resource requirements, visualizing progress, Project Tracking, Status Reports, Milestone Analysis, Actual Versus Estimated Analysis of Effort and Schedule.
+Software quality and project closure:
+  Defining software quality attributes, ISO:9126, Software quality measures, Project Closure Analysis, The Role of Closure Analysis, Performing Closure Analysis.
+[T1, T2]
+
+
+Text Books:
+[T1] Software Project Management (2nd Edition)
+      Bob Hughes and Mike Cottrell, 1999
+       TMH
+[T2] Software Project Management
+      Walker Royce, 1998
+       Addison Wesley
+
+Reference Books:
+[R1] R.S. Pressman
+      Software Engineering, 7th ed
+       TMH
+[R2] Pankaj Jalote
+      Software project management in practice
+       Addison-Wesley
+[R3] Robert T. Futrell, Donald F. Shafer, and Linda I. Shafer
+      “Quality Software Project Management”, 2002
+       Pearson Education Asia
+[R4] Ramesh Gopalaswamy
+      “Managing Global Software Projects”, 2003
+       Tata McGraw-Hill
+[R5] S.A. Kelkar
+      “Software Project Management”

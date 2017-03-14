@@ -14,6 +14,7 @@ public class IT7 extends AppCompatActivity implements View.OnClickListener {
 
     Intent i;
     Activity a  = this;
+    String stream = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,6 +46,9 @@ public class IT7 extends AppCompatActivity implements View.OnClickListener {
         findViewById(R.id.sysAdmin).setOnClickListener(this);
         findViewById(R.id.st).setOnClickListener(this);
         findViewById(R.id.sociology).setOnClickListener(this);
+
+
+        stream = getIntent().getStringExtra("Stream");
 
     }
 

@@ -1,0 +1,37 @@
+Paper Code: ETEE-253
+Paper: Electrical Machines−I Lab
+
+
+EXP: 1 To study the construction and operation of various types of starters available in the laboratory for
+starting DC motors.
+EXP:2 To study the magnetization characteristics of a separately excited D.C generator at different speeds
+and to find the critical field resistance at those speeds.
+EXP:3 To perform the load test on D.C. shunt motor and to draw the performance characteristics.
+EXP:4 To control the speed of a DC shunt motor by using
+a) Field control
+b) Armature/Rheostatic control
+c) Supply voltage control
+EXP: 5 To perform the Swinburne’s test on a D.C. shunt Machine and to pre determine its efficiency when
+running as a motor as well as generator and also draw the characteristic curves.
+EXP: 6 To conduct load test on DC shunt generator and obtain its internal and external characteristics.
+EXP: 7 To perform O.C./S.C. tests on a single phase transformer and determine equivalent circuit parameters.
+EXP: 8 To perform Sumpner’s (back to back) test on two identical single phase transformers and draw the
+load efficiency graphs.
+EXP: 9 To perform load test on a single-phase transformer and determine the following:
+(a) Voltage ratio of transformer.
+(b) Efficiency at different loads.
+(c) Voltage regulation of the transformer.
+EXP: 10 To perform Polarity test on two single-phase transformers, connect them in parallel and study the
+load sharing between them.
+EXP: 11 To convert a three-phase supply into two phase supply using Scott-connection between two single
+phase transformers with suitable tapping. Verify the following:
+(a) Turn ratio between windings of main and teaser transformers.
+(b) Voltage of both phases of two phase supply is equal.
+(c) Whether the phase angle between them is 900.
+EXP: 12 To connect three-phase transformers in Y- Y / Y - Δ , Δ-Δ/Δ- Y connections and study line /phase
+voltage relationships.
+
+
+Books:
+[T1]. Laboratory Operations for Rotating Electric Machinery and Transformer Technology, Donald V. Richardson, Prentice Hall, 1980
+[T2] Electric Machinery Experiments: Laboratory Practices and Simulation Studies, Sailendra Nath Bhadra, Alpha Science International Ltd, 2013

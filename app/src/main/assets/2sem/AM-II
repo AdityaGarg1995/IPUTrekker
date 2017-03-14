@@ -1,77 +1,77 @@
 Paper Code : ETMA-102
-Paper: APPLIED MATHEMATICS-II
+Paper: APPLIED MATHEMATICS-II (M)
 
 
 Unit –I
 Partial differentiation and its Applications:
- Partial derivatives of 1st and 2nd order.
- Euler’s theorem for homogeneous functions (without proof).
- Derivatives of Implicit Functions, total derivatives.
- Change of variables.
- Jacobian.
- Taylor’s theorem for function of two variables(without proof).
- Error and approximation.
- Extreme values of function of several variables(maxima, minima, saddle points).
- Lagrange method of undetermined multipliers.
+  Partial derivatives of 1st and 2nd order.
+  Euler’s theorem for homogeneous functions (without proof).
+  Derivatives of Implicit Functions, total derivatives.
+  Change of variables.
+  Jacobian.
+  Taylor’s theorem for function of two variables(without proof).
+  Error and approximation.
+  Extreme values of function of several variables(maxima, minima, saddle points).
+  Lagrange method of undetermined multipliers.
 Partial differential equations:
- Formulation, solution of 1st order equations, Lagranges equations, Charpit’s method.
+  Formulation, solution of 1st order equations, Lagranges equations, Charpit’s method.
 [T2]
 
 Unit-II
 Laplace Transformation:
- Definition, Laplace transformation of basic functions, existence condition for Laplace transformation, Properties of Laplace transformation(Linearity, scaling and shifting).
- Unit step function, Impulse Function, Periodic Functions.
- Laplace transformation of derivatives, Laplace transformation of integrals, differentiation of transforms, integration of transforms, Convolution theorem, inverse Laplace transformation.
- Solution of ordinary Differential equations.
+  Definition, Laplace transformation of basic functions, existence condition for Laplace transformation, Properties of Laplace transformation(Linearity, scaling and shifting).
+  Unit step function, Impulse Function, Periodic Functions.
+  Laplace transformation of derivatives, Laplace transformation of integrals, differentiation of transforms, integration of transforms, Convolution theorem, inverse Laplace transformation.
+  Solution of ordinary Differential equations.
 [T1,T2]
 
 Unit-III
 Complex Function:
- Definition, Derivatives, Analytic function, Cauchy’s Riemann equation (without proof).
- Conformal and bilinear mappings.
+  Definition, Derivatives, Analytic function, Cauchy’s Riemann equation (without proof).
+  Conformal and bilinear mappings.
 Complex Integration:
- Complex Line integration, Cauchy’s integral theorem and integral formula(without proof).
- Zeros and Singularities, Taylor’s and Laurent’s series (without proof).
- Residues, Residue theorem (without proof).
+  Complex Line integration, Cauchy’s integral theorem and integral formula(without proof).
+  Zeros and Singularities, Taylor’s and Laurent’s series (without proof).
+  Residues, Residue theorem (without proof).
 Evaluation of real definite integrals:
- Integration around the unit circle, integration around a small semi circle and integration around rectangular contours.
+  Integration around the unit circle, integration around a small semi circle and integration around rectangular contours.
 [T1,T2]
 
 Unit-IV
 Multiple integrals:
- Double integrals, Change of order of integration, Triple integrals.
+  Double integrals, Change of order of integration, Triple integrals.
 Vector Calculus:
- Scalar and vector functions, Gradient, Divergence and curl.
- Directional derivatives, Line Integrals.
- Surface integrals, volume integrals.
- Green’s theorem, Stoke’s theorem and Gauss divergence theorem (without proof).
+  Scalar and vector functions, Gradient, Divergence and curl.
+  Directional derivatives, Line Integrals.
+  Surface integrals, volume integrals.
+  Green’s theorem, Stoke’s theorem and Gauss divergence theorem (without proof).
 [T1,T2]
 
 
 Text:
 [T1] E. Kresyzig
-     ”Advance Engineering Mathematics”
-      Wiley publications
+      ”Advance Engineering Mathematics”
+       Wiley publications
 [T2] Michael Greenberg
-     “Advance Engineering mathematics”
-      Pearson
+      “Advance Engineering mathematics”
+       Pearson
 
 References:
 [R1] R.K. Jain and S.R.K. Iyengar
-     ”Advanced Engineering Mathematics“
-      Narosa Publications
+      ”Advanced Engineering Mathematics“
+       Narosa Publications
 [R2] B.S. Grewal
-     ”Higher Engineering Mathematics”
-      Khanna Publications
+      ”Higher Engineering Mathematics”
+       Khanna Publications
 [R3] S. Ponnusamy
-     “Foundation of Complex Analysis”
-      Narosa Publication
+      “Foundation of Complex Analysis”
+       Narosa Publication
 [R4] G.B. Thomas and R.N. Finny
-     “Calculus and Analytic Geometry”
-      Addison Wesley/ Narosa
+      “Calculus and Analytic Geometry”
+       Addison Wesley/Narosa
 [R5] Wylie R
-     “Advance Engineering mathematics”
-      McGraw-Hill
+      “Advance Engineering mathematics”
+       McGraw-Hill
 [R6] M. Spiegel
-     “Schaum’s Outline on Laplace Transform"
-      Tata McGraw-Hill
+      “Schaum’s Outline on Laplace Transform"
+       Tata McGraw-Hill

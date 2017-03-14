@@ -24,7 +24,7 @@ Sediment Transport:
 
 UNIT IV
 The finite volume Method for Diffusion Problems:
-  Introduction, one-dimensional steady state diffusion, twodimentional diffusion problems, discritised equations for diffusion problems.
+  Introduction, 1-D steady state diffusion, twodimentional diffusion problems, discretised equations for diffusion problems.
 The Finite volume Method for Convection-Diffusion Problems:
   Steady one-dimensional convection and diffusion, central differencing scheme.
 Basic mechanisms for mixing:
@@ -53,10 +53,10 @@ References:
        CBS Publishers, New Delhi 2007
 [R3] H.K. Versteeg and W. Malalasekera
       “An Introduction To Computational Fluid Dynamics: The Finite Volume Method”
-       Longman scientific and technical publishers
+       Longman Scientific and Technical Publishers
 [R4] John D. Anderson
       “Computational Fluid Dynamics: The Basics with an Applications”
-       McGraw- Hill
+       McGraw Hill
 [R5] Vivek V. Ranade
       Computational Flow Modeling For Chemical Reactor Engineering
        Academic Press, San Diego

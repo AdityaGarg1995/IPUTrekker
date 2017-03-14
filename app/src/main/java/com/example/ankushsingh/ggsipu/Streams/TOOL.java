@@ -43,7 +43,7 @@ public class TOOL extends AppCompatActivity implements View.OnClickListener {
                 break;
             case R.id.it3: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
                 break;
-            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","Tool Engineering");
+            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","TE");
                 break;
             case R.id.it6: intent = new Intent(this,IT2.class).putExtra("StreamName", "Tool");
                 break;
