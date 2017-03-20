@@ -54,8 +54,6 @@ public class IT7 extends AppCompatActivity implements View.OnClickListener {
 
     @Override
     public void onClick(View v) {
-
-
         switch (v.getId()){
 
             case R.id.acn:       i = new Intent(this,Syllabus.class).putExtra("Subject","ACN")
@@ -160,10 +158,10 @@ public class IT7 extends AppCompatActivity implements View.OnClickListener {
                                                                     .putExtra("Sem","7")
                                                                     .putExtra("SubjectName","System & Network Administration");
                break;
-
         }
-
-        startActivity(i);
-
+        try {
+            startActivity(i);
+        }
+        catch(Exception e){e.printStackTrace();}
     }
 }

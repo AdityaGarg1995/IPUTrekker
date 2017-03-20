@@ -1,0 +1,43 @@
+Paper Code: ETCS-428 L T/P C
+Paper: Selected Topics of Recent Trends in CSE 3 0 3
+Objective: The objective of the paper is to facilitate the student with the recent trends in CSE and IT fields that
+are required for an engineering student.
+UNIT I
+Trends in Information Retrieval:
+Recent Trends in IR: Parallel and distributed IR , multimedia IR, data modeling Web Searching, Characterizing
+the Web, Search Engines ,Browsing , Meta searchers ,Searching using hyperlinks.
+Cluster Analysis: Cluster Analysis, Types of data, Categorization of methods, Partitioning methods, hierarchical
+methods, density based methods, grid based methods.
+[T1][R2][No. of hrs. 10]
+UNIT II
+High Performance Computing
+Introduction: Need of high speed computing – increase the speed of computers – history of parallel computers
+and recent parallel computers; solving problems in parallel – temporal parallelism – data parallelism – comparison
+of temporal and data parallel processing – data parallel processing with specialized processors – inter-task
+dependency. The need for parallel computers - models of computation - analyzing algorithms – expressing
+algorithms.
+[T2][No. of hrs. 12]
+UNIT III
+Grid Computing
+IT Infrastructure Evolution: Introduction, Technologies, Global Internet Infrastructure,- World Wide Web and
+Web Services, Open-Source Movement. Productivity Paradox and Information Technology: Productivity Paradox,
+Return on Technology Investment, Information Technology Straightjacket, Consolidation - Outsourcing - Toward
+a Real-Time Enterprise - Operational Excellence. Business Value of Grid Computing: Grid Computing Business
+Value Analysis, Risk Analysis, Grid Marketplace.
+[R1][No. of hrs. 10]
+UNIT IV
+BIG DATA Analysis using Hadoop:
+Database evolution, Big data and Hadoop overview, Hadoop Distributed File System (HDFS), Map Reduce,
+Hadoop Streaming and Compression.
+[R3][R4][No. of hrs. 10]
+Text Books:
+[T1] Ricardo Baeza-Yates, Berthier Ribeiro-Neto, “Modern Information Retrieval”, Addison Wesley, 1999.
+[T2] V. Rajaraman and C. Siva Ram Murthy, “Parallel Computers – Architecture and Programming”,
+Prentice-Hall of India, 2003.
+Reference Books:
+[R1] Joshy Joseph and Craig Fellenstein, “Grid Computing”, Pearson Education, 2003.
+[R2] Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, “Introduction to
+Information Retrieval”, Cambridge University Press, 2008.
+[R3] Hadoop in Practice, Holmes Wiley
+[R4] Chuck Lam “Hadoop in Action” Wiley India Selim G. Akl, “The Design and Analysis of Parallel
+Algorithms”, Prentice-Hall of India, 1999

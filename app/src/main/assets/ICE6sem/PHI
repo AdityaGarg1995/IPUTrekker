@@ -1,0 +1,35 @@
+Paper Code: ETIC-302 L T/P C
+Paper: Pneumatic and Hydraulic Instrumentation 3 1 4
+
+
+UNIT - I
+Introduction:
+  Basic requirement for Pneumatic System, Servicing compressed air: Air compressors, air treatment stages, pressure regulation (FRL unit) Introduction to hydraulic system, comparison of pneumatic & hydraulic system.
+[T1, T2]
+
+UNIT - II
+Pneumatic & hydraulic Actuators, cylinders valve positioner, piston & motor actuators, electro pneumatic actuators, cylinder lubrication, cylinder with sensors, hydraulic actuators, control valves types of control valves.
+[T1, T2]
+
+UNIT - III
+Basic pneumatic circuits, Timing & sequence diagram:
+  Cylinder sequencing hydraulic & pneumatic
+Accessories pneumatic telemetry systems:
+  Pneumatic temperature & pressure transmitters their working and applications, electrical control in pneumatic circuit.
+[T1, T2]
+
+UNIT - IV
+Pneumatic & Hydraulic Controllers (P,PI,PID), P&ID diagrams, converters:
+  I/P,P/I, Pneumatic Relay, Pneumatic Sensors, Flapper nozzle assembly. Maintenance & troubleshooting of pneumatic &hydraulic systems.
+  Introduction to Mechatronic Systems & their applications.
+[T1, T2]
+
+
+Text Books:
+[T1] C.D. Johnson , “Process Control Instrumentation Technology”, PHI, 2002
+[T2] Andrew Parr, “Pneumatic & Hydraulic”, PHI, 1999.
+
+Reference Books:
+[R1] D. Considine , “Process Industrial Instruments & Control Handbook”, McGraw Hill, 1993.
+[R2] B.G. Liptak, “Instrument Engineers Handbook”, Chilton Book Co.
+[R3] S.R. Majumdar, “Pneumatic system”, Tata McGraw-Hill Education

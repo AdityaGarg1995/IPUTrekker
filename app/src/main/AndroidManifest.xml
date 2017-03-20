@@ -77,7 +77,6 @@
             android:parentActivityName=".StreamActivity" />
         <activity
             android:name=".Streams.IT"
-            android:label="Information Technology"
             android:parentActivityName=".StreamActivity" />
         <activity
             android:name=".Streams.EE"
@@ -92,8 +91,8 @@
             android:name=".Streams.CIVIL"
             android:parentActivityName=".StreamActivity" />
         <activity
-            android:name=".Streams.POWER"
-            android:parentActivityName=".StreamActivity" />
+            android:name=".Streams.SEM5_PE"
+            android:parentActivityName=".Streams.ZChooseSemForSyll" />
         <activity
             android:name=".Streams.TOOL"
             android:parentActivityName=".StreamActivity" />
@@ -110,14 +109,7 @@
             android:name=".Streams.ENVO"
             android:parentActivityName=".StreamActivity" />
         <activity
-            android:name=".Streams.CSE2"
-            android:parentActivityName=".Streams.CSE" />
-        <activity
-            android:name=".Streams.ECE2"
-            android:parentActivityName=".Streams.ECE2" />
-        <activity
             android:name=".Streams.IT2"
-            android:label="IT: Semester-wise result"
             android:parentActivityName=".Streams.IT" />
         <activity
             android:name=".Streams.EE2"
@@ -129,11 +121,8 @@
             android:name=".Streams.MAE2"
             android:parentActivityName=".Streams.MAE" />
         <activity
-            android:name=".Streams.CIVIL2"
-            android:parentActivityName=".Streams.CIVIL" />
-        <activity
-            android:name=".Streams.POWER2"
-            android:parentActivityName=".Streams.POWER" />
+            android:name=".Streams.SEM6_PE"
+            android:parentActivityName=".Streams.ZChooseSemForSyll" />
         <activity
             android:name=".Streams.ME2"
             android:parentActivityName=".Streams.ME" />
@@ -146,11 +135,22 @@
         <activity
             android:name=".Streams.ENVO2"
             android:parentActivityName=".Streams.ENVO" />
+
         <activity
-            android:name=".Streams.TOOL2"
+            android:name=".Streams.SEM1Syllabus"
+            android:parentActivityName=".Streams.CIVIL" />
+        <activity
+            android:name=".Streams.SEM2Syllabus"
+            android:parentActivityName=".Streams.CSE" />
+        <activity
+            android:name=".Streams.SEM6_CEnENE"
+            android:parentActivityName=".Streams.SEM6_CEnENE" />
+
+        <activity
+            android:name=".Streams.ZCodes"
             android:parentActivityName=".Streams.TOOL" />
         <activity
-            android:name=".Streams.RESULT"
+            android:name=".Streams.ZChooseSemForSyll"
             android:parentActivityName=".Streams.IT" />
 
 

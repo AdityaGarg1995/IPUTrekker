@@ -27,16 +27,13 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.streams).setOnClickListener(this);
         findViewById(R.id.result).setOnClickListener(this);
 
-
     }
-
 
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.activity_home_menu, menu);
         return true;
     }
-
 
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here.
@@ -46,7 +43,6 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
             System.exit(0);
             return true;
         }
-
         return super.onOptionsItemSelected(item);
 
     }
@@ -56,13 +52,24 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
 
         switch(v.getId()){
-            case R.id.university: startActivity(new Intent(this, logo.class).putExtra("Task", StreamNames.task1));
+            case R.id.university:
+                try{startActivity(new Intent(this, logo.class).putExtra("Task", StreamNames.task1));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.colleges: startActivity(new Intent(this, CollegeActivity.class));
+
+            case R.id.colleges:
+                try{startActivity(new Intent(this, CollegeActivity.class));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.streams: startActivity(new Intent(this, StreamActivity.class));
+
+            case R.id.streams:
+                try{startActivity(new Intent(this, StreamActivity.class));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.result: startActivity(new Intent(this, logo.class).putExtra("Task", StreamNames.task2));
+
+            case R.id.result:
+                try{startActivity(new Intent(this, logo.class).putExtra("Task", StreamNames.task2));}
+                catch (Exception e){e.printStackTrace();}
                 break;
         }
     }

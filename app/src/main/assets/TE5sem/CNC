@@ -1,0 +1,36 @@
+Paper Code: ETTE-303 L T C
+Paper: CNC Machining & Programming 3 1 4
+Objective: This paper provides understanding of working and applications of CNC Machines to the students.
+UNIT I
+An overview of CNC machines: Need, benefits & limitations, classification of CNC machines, Constructional
+features of CNC machines, Design considerations of CNC machine tools, elements of CNC machine & systems,
+precision measuring & positioning of CNC, Function of MCU, Machining centre, Turning centre, CNC EDM,
+Ball screw, Bearings, Centralised lubrication systems.
+[T1],[T2][No. of Hrs.12]
+UNIT II
+Manual part programming - preparatory, miscellaneous functions- Fanuc, Sinumeric, Hass controls.
+Linear interpolation, circular interpolation, canned cycles, cycles of threading & grooving operations, tool
+compensation, sub-program, main program, part programming structure, work co-ordinate system, absolute &
+incremental commands, feed, program zero point , co-ordinate system, process planning & flow chart for part
+programming, scaling, rotating, mirroring, copy & special cycles for CNC lathe and milling.
+[T1],[T2][No. of Hrs.12]
+UNIT III
+Tooling for CNC machine: introduction, cutting tool materials, types of cutting tools for NC machines, tool
+selection, ISO specification of cutting tools, different clamping system in tool holders, tooling for milling, angle
+plates, CNC vices, work holding devices, clamps, rotary tables.
+[T1],[T2][No. of Hrs.10]
+UNIT IV
+CNC Program generation from CAD, CNC controller & motion control in CNC system. Application of CNC
+and recent advances in CNC machines, maintenance of CNC machine tools, CNC trainer, DNC.
+[T1],[T2][No. of Hrs.10]
+Text Books:
+[T1] T. K. Kundra, P. N. Rao and N. K. Tiwari, “Numerical Control and Computer Aided Manufacturing”
+TMH
+[T2] P. Radhakrishnan, “Computer Numerical Control Machine & Computer Aided Manufacturing”, New
+Academic Science Limited.
+Reference Books:
+[R1] Tilak Raj, “CNC Technology & Programming”, Dhanpat Rai publishing Company (P) ltd., N Delhi
+[R2] M. Adithan & B. S. Pabla, CNC Machines, New Age International Publishers, N Delhi
+[R3] Binit Kumar Jha, CNC Programming Made Easy, UBS Publisher’s Distributors limited, N Delhi
+[R4] Krak S. & Gill A., “CNC Technology & Programming, Tata McGraw-Hill Publishing Co., N Delhi
+[R5] M. Lynch, “Computer Numerical Control for Machining, McGraw Hill

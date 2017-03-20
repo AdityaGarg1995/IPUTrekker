@@ -1,0 +1,41 @@
+Paper Code: ETEC-429 L T/P C
+Paper: Selected Topics in ECE 3 0 3
+Objective: The objective of this course is to familiarize the selected vital topics of the electronics and
+communication engineering.
+UNIT I
+Introduction to the Verilog Hardware Description Language (HDL), Verilog system design , Module testing,
+Behaviour Modelling, Tasks and functions, Verilog structure, syntax and semantics, Identifier names, logic
+values and numbers, data types. Gate level modeling, Generating arrays of instances • Generating arrays of
+instances Dataflow modelling, Reset function design. Design of digital sequential modules. Examples - Bus
+design.
+[T1,R2][No. of Hrs. 10]
+UNIT II
+Introduction to System Verilog, System Verilog extensions to Verilog data types, System Verilog enhanced
+procedural blocks, System Verilog coding styles for top-down design with synthesis and simulation. Blocking
+and non-blocking assignments affect, simulation and synthesis. Overview of RTL/gate/switch models. Writing
+verification test benches in Verilog. System verilog interfaces. Using interfaces to simplify inter-module
+connections, Specifying interface views (modports), using tasks and functions in interfaces
+[T1,R2][No. of Hrs. 10]
+UNIT III
+Introduction to Smart Antenna Systems, Concept and benefits of smart antennas, Fixed weight beam forming
+basics, Detection and estimation of arrival angle, Adaptive beam forming. Tx-Rx Array processing. Spatial
+processing for wireless systems. Adaptive antennas. Beam forming networks. Digital radio receiver techniques
+and software radios. Coherent and non-coherent CDMA spatial processors. Dynamic re-sectoring. Range and
+capacity extension – multi-cell systems. Spatio – temporal channel models. Environment and signal parameters.
+Geometrically based single bounce elliptical model.
+[T2,R1][No. of Hrs. 10]
+UNIT IV
+Optimal Spatial filtering – adaptive algorithms for CDMA. Multitarget decision – directed algorithm. DOA
+estimation – conventional and subspace methods. ML estimation techniques. Estimation of the number of
+sources using eigen decomposition. Direction finding and true ranging PL systems. Elliptic and hyperbolic PL
+systems. TDOA estimation techniques. Applications of Smart Antennas in Wireless/Mobile Communications
+Applications, Smart Antenna Techniques for CDMA (including current applications).
+[T2,R1][No. of Hrs. 10]
+Textbook:
+[T1] SystemVerilog for Verification by Ben Cohen, Srinivasan Venkataramanan, Ajeetha Kumari
+[T2] T.S.Rappaport & J.C.Liberti, Smart Antennas for Wireless Communication, Prentice Hall (PTR), 1999.
+Reference Books:
+[R1] R.Janaswamy, Radio Wave Propagation and Smart Antennas for Wireless Communication, Kluwer,
+2001.
+[R2] Verilog HDL: A Guide to Digital Design and Synthesis, by Samir Palnitkar Prentice Hall Professional,
+2003

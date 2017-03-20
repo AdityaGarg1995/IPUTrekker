@@ -1,0 +1,33 @@
+Paper Code: ETMT-352 L T/P C
+Paper: Programmable Logic Controller & SCADA Lab 0 2 1
+
+
+Name of the Experiments
+
+
+1. To study about software components like contacts and coils.
+
+2. Study of input and output of PLC with physical wiring.
+
+3. To develop a ladder program for GO-DOWN Wiring and verify it on PLC using SPST Switches.
+
+4. To develop a ladder program for STAIR-CASE Wiring and verify it on PLC using SPST Switches.
+
+5. To develop a ladder program for START/STOP of a motor and verify it on PLC using Push Buttons.
+
+6. To develop a ladder program for FORWARD/REVERSE of a motor and verify it on PLC using Push Buttons.
+
+7. To study about software functional blocks like TIMERS and COUNTERS.
+
+8. To develop a ladder program to generate a SQUARE WAVE and verify it on PLC using Timers.
+
+9. To develop a ladder program to generate an RTC using timer and counter.
+
+10. To develop a ladder program to generate a SEQUENTIAL SQUARE CYCLE(A+B+A-B-) for the movement of a piston using Mono-Stable and Bi-Stable Electro-Pneumatic valves.
+
+11. PLC interfaced with SCADA and status read/ command transfer operation.
+
+12. Parameter reading of PLC in SCADA.
+
+
+NOTE: At least 8 Experiments out of the list must be done in the semester.

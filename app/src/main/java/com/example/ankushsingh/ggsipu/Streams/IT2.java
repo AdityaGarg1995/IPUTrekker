@@ -152,12 +152,10 @@ public class IT2 extends AppCompatActivity implements View.OnClickListener {
         findViewById(R.id.c7).setOnClickListener(this);
         findViewById(R.id.c8).setOnClickListener(this);
 
-
         stream = getIntent().getStringExtra("StreamName");
 
         final Activity a = this;
         a.setTitle(stream + ": Semester-wise Result");
-
 
     }
 
@@ -228,10 +226,13 @@ public class IT2 extends AppCompatActivity implements View.OnClickListener {
 
         }
 
-        if(!url.equals("") && (intent != null)){
-            intent.setData(Uri.parse(url));
-            startActivity(intent);
+        try {
+            if (!url.equals("") && (intent != null)) {
+                intent.setData(Uri.parse(url));
+                startActivity(intent);
+            }
         }
+        catch (Exception e){e.printStackTrace();}
     }
 
 

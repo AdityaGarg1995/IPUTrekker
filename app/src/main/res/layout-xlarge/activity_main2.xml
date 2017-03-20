@@ -1,228 +1,337 @@
-<LinearLayout
-    android:layout_width="match_parent"
+<ScrollView android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <RelativeLayout
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        xmlns:android="http://schemas.android.com/apk/res/android">
 
-        <android.support.v7.widget.CardView
+        <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/l11"
-            >
-            <TextView
+            android:layout_height="match_parent">
+
+            <!--<android.support.v7.widget.CardView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/l11"-->
+            <!--&gt;-->
+            <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textSize="35dp"-->
+            <!--android:text="Select Your Stream"-->
+            <!--android:gravity="center"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:layout_marginTop="@dimen/activity_horizontal_margin"-->
+            <!--/> </android.support.v7.widget.CardView>-->
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/l11"-->
+            <!--android:id="@+id/l22"-->
+            <!--&gt;-->
+
+            <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="SELECT YOUR BRANCH"-->
+            <!--android:textSize="30dp"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:background="@color/white"-->
+            <!--/>-->
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/l22"-->
+            <!--android:weightSum="3"-->
+
+            <!--android:id="@+id/l33"-->
+            <!--&gt;-->
+
+
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/cse"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/cse"-->
+            <!--android:layout_weight="1.45"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/ece"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/ece"-->
+            <!--android:layout_weight="0.68"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/it"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/it"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/l33"-->
+            <!--android:weightSum="3"-->
+            <!--android:id="@+id/l44"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--&gt;-->
+
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/eee"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/eee"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/mae"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/mae"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/civil"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/civil"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+
+
+            <!--</LinearLayout>-->
+
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/l44"-->
+            <!--android:weightSum="3"-->
+            <!--android:id="@+id/l55"-->
+            <!--&gt;-->
+
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/power"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/power"-->
+            <!--android:layout_weight="0.60"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/ee"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/ee"-->
+            <!--android:layout_weight="0.50"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/me"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/me"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+
+
+
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/l55"-->
+            <!--android:weightSum="3"-->
+            <!--android:id="@+id/l66"-->
+            <!--&gt;-->
+
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/ice"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/ice"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/mech"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/mech"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+            <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/envo"-->
+            <!--android:background="@color/white"-->
+            <!--android:id="@+id/envo"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_marginBottom="4dp"-->
+            <!--/>-->
+
+            <!--</LinearLayout>-->
+
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/l77"-->
+            <!--android:gravity="center"-->
+            <!--android:layout_marginTop="13dp"-->
+            <!--android:layout_below="@+id/l66"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_marginRight="127dp"-->
+            <!--android:layout_marginEnd="127dp">-->
+
+            <!--<ImageButton-->
+            <!--android:layout_width="119dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/tool"-->
+            <!--android:src="@drawable/tool"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:background="@color/white"-->
+            <!--/>-->
+            <!--</LinearLayout>-->
+
+            <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="35dp"
-                android:text="Select Your Stream"
-                android:gravity="center"
-                android:textColor="@color/black"
-                android:layout_marginTop="@dimen/activity_horizontal_margin"
-                /> </android.support.v7.widget.CardView>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/l11"
-            android:id="@+id/l22"
-            >
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="SELECT YOUR BRANCH"
-                android:textSize="30dp"
-                android:textColor="@color/white"
-                android:background="@color/white"
-                />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/l22"
-            android:weightSum="3"
-
-            android:id="@+id/l33"
-            >
-
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/cse"
-                android:background="@color/white"
-                android:id="@+id/cse"
-                android:layout_weight="1.45"
-                android:layout_marginBottom="4dp"
-                />
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/ece"
-                android:background="@color/white"
-                android:id="@+id/ece"
-                android:layout_weight="0.68"
-                android:layout_marginBottom="4dp"
-                />
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/it"
-                android:background="@color/white"
                 android:id="@+id/it"
-                android:layout_weight="1"
-                android:layout_marginBottom="4dp"
+                android:text="@string/it"
+                android:drawableLeft="@drawable/it"
                 />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/l33"
-            android:weightSum="3"
-            android:id="@+id/l44"
-            android:layout_marginBottom="4dp"
-            >
-
-            <ImageButton
-                android:layout_width="wrap_content"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/eee"
-                android:background="@color/white"
+                android:id="@+id/cse"
+                android:layout_below="@+id/it"
+                android:text="@string/cse"
+                android:drawableLeft="@drawable/cse"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/ece"
+                android:layout_below="@+id/cse"
+                android:text="@string/ece"
+                android:drawableLeft="@drawable/ece"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
                 android:id="@+id/eee"
-                android:layout_weight="1"
-                android:layout_marginBottom="4dp"
+                android:layout_below="@+id/ece"
+                android:text="@string/eee"
+                android:drawableLeft="@drawable/eee"
                 />
-            <ImageButton
-                android:layout_width="wrap_content"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/mae"
-                android:background="@color/white"
                 android:id="@+id/mae"
-                android:layout_weight="1"
-                android:layout_marginBottom="4dp"
+                android:layout_below="@+id/eee"
+                android:text="@string/mae"
+                android:drawableLeft="@drawable/mae"
                 />
-            <ImageButton
-                android:layout_width="wrap_content"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/civil"
-                android:background="@color/white"
                 android:id="@+id/civil"
-                android:layout_weight="1"
-                android:layout_marginBottom="4dp"
+                android:layout_below="@id/mae"
+                android:text="@string/ce"
+                android:drawableLeft="@drawable/civil"
                 />
-
-
-        </LinearLayout>
-
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/l44"
-            android:weightSum="3"
-            android:id="@+id/l55"
-            >
-
-            <ImageButton
-                android:layout_width="wrap_content"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/power"
-                android:background="@color/white"
                 android:id="@+id/power"
-                android:layout_weight="0.60"
-                android:layout_marginBottom="4dp"
+                android:layout_below="@+id/civil"
+                android:text="@string/pe"
+                android:drawableLeft="@drawable/power"
                 />
-            <ImageButton
-                android:layout_width="wrap_content"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/ee"
-                android:background="@color/white"
                 android:id="@+id/ee"
-                android:layout_weight="0.50"
-                android:layout_marginBottom="4dp"
+                android:layout_below="@id/power"
+                android:text="@string/ee"
+                android:drawableLeft="@drawable/ee"
                 />
-            <ImageButton
-                android:layout_width="wrap_content"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/me"
-                android:background="@color/white"
                 android:id="@+id/me"
-                android:layout_weight="1"
-                android:layout_marginBottom="4dp"
+                android:layout_below="@+id/ee"
+                android:text="@string/me"
+                android:drawableLeft="@drawable/me"
                 />
-
-
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/l55"
-            android:weightSum="3"
-            android:id="@+id/l66"
-            >
-
-            <ImageButton
-                android:layout_width="wrap_content"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/ice"
-                android:background="@color/white"
                 android:id="@+id/ice"
-                android:layout_weight="1"
-                android:layout_marginBottom="4dp"
+                android:layout_below="@+id/me"
+                android:text="@string/ice"
+                android:drawableLeft="@drawable/ice"
                 />
-            <ImageButton
-                android:layout_width="wrap_content"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/mech"
-                android:background="@color/white"
-                android:id="@+id/mech"
-                android:layout_weight="1"
-                android:layout_marginBottom="4dp"
-                />
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/envo"
-                android:background="@color/white"
                 android:id="@+id/envo"
-                android:layout_weight="1"
-                android:layout_marginBottom="4dp"
+                android:layout_below="@+id/ice"
+                android:text="@string/ene"
+                android:drawableLeft="@drawable/envo"
                 />
-
-        </LinearLayout>
-
-
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/l77"
-            android:gravity="center"
-            android:layout_marginTop="13dp"
-            android:layout_below="@+id/l66"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true"
-            android:layout_marginRight="127dp"
-            android:layout_marginEnd="127dp">
-
-            <ImageButton
-                android:layout_width="119dp"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/tool"
-                android:src="@drawable/tool"
-                android:layout_gravity="center"
-                android:background="@color/white"
+                android:layout_below="@+id/envo"
+                android:text="@string/te"
+                android:drawableLeft="@drawable/tool"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/mech"
+                android:layout_below="@+id/tool"
+                android:text="@string/mech"
+                android:drawableLeft="@drawable/mech"
                 />
 
+        </RelativeLayout>
 
-        </LinearLayout>
+    </LinearLayout>
 
-
-    </RelativeLayout>
-</LinearLayout>
+</ScrollView>

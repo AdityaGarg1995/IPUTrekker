@@ -20,22 +20,8 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ada"
-            android:text="Algorithms Design &amp; Analysis"
-            android:layout_weight="1"
-            />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/se"
-            android:text="Software Engineering"
-            android:layout_weight="1"
-            />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/java"
-            android:text="Java Programming"
+            android:id="@+id/skills"
+            android:text="Communication Skills for Professionals"
             android:layout_weight="1"
             />
         <Button
@@ -48,6 +34,13 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/ada"
+            android:text="Algorithms Design &amp; Analysis"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:id="@+id/comm"
             android:text="Communication Systems"
             android:layout_weight="1"
@@ -55,8 +48,15 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/skills"
-            android:text="Communication Skills for Professionals"
+            android:id="@+id/java"
+            android:text="Java Programming"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/se"
+            android:text="Software Engineering"
             android:layout_weight="1"
             />
 
@@ -74,15 +74,15 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/adaLab"
-            android:text="Algorithms Design &amp; Analysis Lab"
+            android:id="@+id/skillsLab"
+            android:text="Communication Skills for Professionals Lab"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/seLab"
-            android:text="Software Engineering Lab"
+            android:id="@+id/adaLab"
+            android:text="Algorithms Design &amp; Analysis Lab"
             android:layout_weight="1"
             />
         <Button
@@ -102,8 +102,8 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/skillsLab"
-            android:text="Communication Skills for Professionals Lab"
+            android:id="@+id/seLab"
+            android:text="Software Engineering Lab"
             android:layout_weight="1"
             />
         <Button

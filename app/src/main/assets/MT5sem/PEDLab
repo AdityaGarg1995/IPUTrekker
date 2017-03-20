@@ -1,0 +1,18 @@
+Paper Code: ETMT-359 L T/P C
+Paper: Power Electronics And Drives Lab 0 2 1
+List of Experiments:
+1. To study and analyze V-I characteristics of SCR and TRIAC.
+2. To study the switching characteristics of MOSFET and IGBT.
+3. To study R and RC and UJT based firing circuits using SCR.
+4. To study single phase Semi-converter and Full converters feeding R and RL load.
+5. To study A.C phase control using SCR (half and full wave) using DIAC and TRIAC for dimmer
+application.
+6. To study single-phase cyclo-converter feeding R and RL loads.
+7. Load equalization by flywheel for intermittent duty loads.
+8. Comparison of various braking methods and their range of braking for induction motor.
+9. Open loop AC voltage Control of single phase capacitor run induction motor.
+10. Verification of linear relationship between duty cycle vs speed in open loop step down chopper
+controlled DC motor drive.
+11. Single phase thyristorised full converter fed closed loop speed control of DC motor drive.
+12. Closed loop speed control of 4 quadrant DC motor drive.
+NOTE: At least 8 Experiments out of the list must be done in the semester.

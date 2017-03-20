@@ -1,0 +1,80 @@
+Paper Code: ETEC-305
+Paper: Signals and Systems
+
+
+UNIT- I
+Continuous And Discrete Time Signals:
+  Definition of signal, Classification of Signals: Periodic and Aperiodic, Even and Odd, Energy and Power signals, Deterministic and Random signals.
+Singular Functions:
+  Unit impulse, unit step, unit ramp, complex and exponential, parabolic, Signum, Sinc etc.
+  Properties of unit impulse in continuous and discrete domain, properties of basic functions w.r.t. orthogonality.
+  Transformation in independent variable of signals: Time scaling, Time shifting, Amplitude scaling.
+  Representation of signals in terms of singular function and orthogonal functions.
+Systems:
+  Definition of system, types of systems: Linear and nonlinear, static and dynamic, causal and noncausal, time variant and invariant, invertible and non-invertible, stable and non-stable.
+  System described by differential equation and difference equation.
+LTI System:
+  Properties of LTI System, impulse response, convolution and its properties in continuous and discrete domain with proof.
+  Linear convolution in continuous and discrete domain using graphical method, using general formula and matrix method.
+[T1, T2]
+
+UNIT- II
+Fourier series:
+  Need and application of Fourier series.
+  Fourier series representation of continuous time and discrete time signals using exponential method and trigonometric method.
+  Magnitude and Phase spectrum of signals.
+Fourier Transform:
+  Properties of the Continuous time and discrete time Fourier Transform.
+  Magnitude and Phase representations of frequency response of LTI systems Analysis and characterization of LTI systems using Differential Equations and Difference equation.
+[T1,T2]
+
+UNIT- III
+Magnitude-Phase Representation of Frequency Response of LTI System:
+  Linear phase, concept of phase delay and group delay.
+  All pass system.
+Laplace Transform:
+  Properties of Laplace transform, concept of ROC and its properties.
+  Computation of impulse response & transfer function using Laplace transform.
+  Inverse-Laplace transforms. Computation of impulse response, total response (zero state and zero input response) & transfer function using Laplace transform.
+[T1, T2]
+
+UNIT- IV
+Sampling:
+  Sampling of low pass signals, ideal sampling, Aliasing effect, Nyquist rate, reconstruction of signal.
+  Sampling of discrete time signals.
+Z Transform:
+  Region of convergence – properties of ROC, Properties of Z-transform.
+  Inverse Z-transform using contour integration - Residue theorem, Power series expansion and partial fraction expansion.
+  Relationship between Z-transform, Fourier transform and Laplace transform.
+  Computation of impulse response, total response (Zero state and Zero input response) & Transfer function using Z-Transform.
+  Stability of discrete-time LTI System.
+[T1, T2]
+
+
+Text Books:
+[T1] Alan V. Oppenheim, Alan S. Willsky, S. Hamid Nawab
+      “Signals & Systems”, 2nd edition
+       Pearson Education, 1997
+[T2] Simon Haykin and Barry Van Veen
+      “Signals and Systems”
+       John Wiley, 1999
+
+Reference Books:
+[R1] M.J. Roberts
+      “Signals and Systems Analysis using Transform Method and MATLAB”
+       TMH, 2003
+[R2] Tarun Kumar Rawat
+      “Signals and Systems“
+       Oxford University Press, Incorporated, 2010
+[R3] A. Anand Kumar
+      “Signals and Systems”, 3rd edition
+       PHI
+[R4] Ramesh Babu and R. Anandanatrajan
+      ”Signals and system”, 4th edition
+       Sci Tech, 2013
+[R5] Moman.H. Hays
+      “Digital Signal Processing”
+       Schaum’s outlines, Tata McGraw-Hill, 2004
+[R6] John G. Proakis and Dimitris G. Manolakis
+      “Digital Signal Processing, Principles, Algorithms and Applications”, 3rd edition
+       PHI, 2000

@@ -1,0 +1,47 @@
+Paper Code: ETEE-303 L T/P C
+Paper: Power Electronics 3 1 4
+
+
+UNIT- I
+Introduction
+Characteristics and switching behaviour of Power Diode, SCR, UJT, TRIAC, DIAC, GTO, MOSFET, IGBT,
+MCT and power BJT, two-transistor analogy of SCR, firing circuits of SCR and TRIAC, SCR gate
+characteristics, SCR ratings. Protection of SCR against over current, over voltage, high dV/dt, high dI/dt, thermal
+protection, Snubber circuits, Methods of commutation, series and parallel operation of SCR, Driver circuits for
+BJT/MOSFET.
+[T1,T2]
+
+UNIT- II
+A.C. to D.C. Converter: Classification of rectifiers, phase controlled rectifiers, fully controlled and half
+controlled rectifiers and their performance parameters, three phase half wave, full wave and half controlled
+rectifiers and their performance parameters, effect of source impedance on the performance of single phase and
+three phase controlled rectifiers, single-phase and three phase dual converter.
+[T1, T2, T3]
+
+UNIT- III
+D.C. to D.C. Converter: Classification of choppers as type A, B, C, D and E, principle of operation, switching
+mode regulators: Buck, Boost, Buck-Boost, Cuk regulators.
+A.C. to A.C. Converter: AC voltage Controllers, Cyclo-converters: single phase to single phase, three phase to
+single phase, three phase to three phase Cyclo-converter circuit and their operation, Matrix converter.
+[T1, T2, T3]
+
+UNIT-IV
+D.C. to A.C. Converter: single phase single pulse inverter: Square wave, quasi square. Three phase single
+pulse inverters (120̊ and 180 ̊ conduction) Modulation Techniques and reduction of harmonics, PWM techniques,
+SPWM techniques, SVM, Carrier less modulation. , PWM Inverter, Bidirectional PWM converters, voltage
+source inverters and current source inverter, Multi level Inverter: cascaded and NPC Inverters.
+[T1, T2, T3]
+
+
+Text Books:
+[T1] M.H. Rashid, “Power Electronics: Circuits, Devices and Applications” Pearson Publications
+[T2] Daniel W. Hart, “Power Electronics “Tata McGraw-Hill
+[T3] H.C. Rai, “Power Electronics Devices, Circuits, Systems and Application”, Galgotia Publications, 3rd Edition
+
+References Books:
+[R1] Singh, Kanchandani, “Power Electronics”, Tata McGraw-Hill
+[R2] Ned Mohan, Tore M. Undeland and Robbins, “Power Electronics: Converters, Applications and Design”  Wiley India Publication
+[R3] V R Moorthi, “Power Electronics: Devices, Circuits and Industrial Applications”, Oxford Publication
+[R4] Kassakian, Schlecht, Verghese, “Principles of Power Electronics”, Pearson Publications
+[R5] M.S. Jamil Asghar, “Power Electronics” PHI Publication
+[R6] P. S. Bimbhra “Power Electronics”, Khanna Publishing

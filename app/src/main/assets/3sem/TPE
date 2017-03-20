@@ -1,0 +1,48 @@
+Paper Code: ETPE-205
+Paper: Thermodynamics for Power Engineers
+
+
+UNIT-I
+Fundamentals and Definitions System, Control Volume, properties, state change, and diagram, Dimensions and units.
+Work Mechanics and Thermodynamics, definitions, Displacement work at part of a system boundary, Engine Indicator, Displacement work in various quasi-static processes, shaft work, electrical work.
+Heat Temperature, thermal equilibrium, zeroth law of thermodynamics, sign convention for heat transfer.
+[T1][T2][R1]
+
+UNIT-II
+1st Law of Thermodynamics:
+  Statement, Application to non-cyclic process, Energy, modes of energy, Pure substance, Specific heats, 1st Law for Control Volumes, 2nd Law of Thermodynamics, Direct & reversed heat engines, Kelvin-Planck and Clausius Statements and their equality, reversible & irreversible processes, Carnot cycle, thermodynamic temperature scale.
+[T1][T2]
+
+UNIT-III
+Entropy:
+  Definition, calculation through Tds relations, T-S diagrams, entropy as a measure of irreversibility, Properties of pure substances-Use of steam Tables and Mollier Diagram.
+Ideal gas:
+  Properties of ideal gas and ideal gas mixtures with and without a condensable vapour-psychrometry.
+[T1][R2]
+
+UNIT-IV
+2nd Law Analysis of Engineering Processes:
+  Availability and irreversibility and their application in Thermal Engineering, Analysis of vapour power cycles, Carnot cycle; Simple Rankine Cycle, Cycle with superheating, reheating and regeneration.
+Analysis of cycles:
+  Analysis of Air standard, Carnot, Otto, diesel, dual and Joule cycles; Gas turbine cycles with heat exchange and regeneration; Stirling and Ericson cycles Natural Gas, CNG, LPG, their properties.
+[T1][R2]
+
+
+Text:
+[T1] Nag, P.K.
+      “Engineering Thermodynamics”
+        Tata McGraw Hill, 2nd edition, 1998
+[T2] Spalding, D.B. and Cole, E.H.
+      “Engineering Thermodynamics”
+        Edward Arnold, 1959
+[T3] Hawkins, G.A.
+      “Engineering Thermodynamics”
+        John Wiley and Sons, 1955
+
+References:
+[R1] Van Wylen, G.J. and Sonntag, R.E.
+      “Fundamentals of Classical Thermodynamics”, 4th edition
+        John Wiley and Sons, 1997
+[R2] Jones Dugan
+      Engineering Thermodynamics
+       Prentice Hall

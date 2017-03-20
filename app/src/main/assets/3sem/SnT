@@ -1,0 +1,50 @@
+Paper Code: ETIC-203 L T/P C
+Paper: Sensors and Transducers 3 1 4
+
+
+UNIT I [Introduction to Sensors]
+Definition and differences of sensors and transducers, Classification, static and dynamic characteristics, electrical characterization, mechanical and thermal characterization including bath-tub curve.
+Different Sensors:
+  Mechanical & Electromechanical: Potentiometer, Strain gauges, Inductive sensors—Ferromagnetic type, Transformer type, Electromagnetic, Capacitive sensors— parallel plate, variable permittivity, electrostatic, piezoelectric, Introduction to PZT family.
+[T1][T2]
+
+UNIT-II
+Thermal sensors:
+  Gas thermometric sensors, Dielectric constant, refractive index thermo-sensors, nuclear thermometers, resistance change type thermometric sensors, Thermoemf sensors.
+Magnetic sensors:
+  Basic working principles, Magnetostrictive, Hall effect, Eddy current type, SQUID sensors.
+Radiation sensors:
+  Photo-detectors, Photo-emissive, photomultiplier, scintillation detectors.
+[T1][T2]
+
+UNIT-III
+Electroanalytical sensors:
+  Electrochemical cell, SHE, Polarization, Reference electrode, Metal electrodes, Membrane electrodes, Electroceramics.
+Advancement in Sensor technology:
+  Introduction to smart sensors, Film sensors, Introduction to semiconductor IC technology and Micro Electro Mechanical System(MEMS ), Nanosensors.
+  Bio-Sensors.
+[T1][T2]
+
+UNIT-IV
+Different Transducers:
+  LVDT, RTD, Thermistor, Wire anemometer, piezoresistors, Variable diaphragm capacitance transducers, Angular movement transducers, seismic mass transducer, interferometer transducer.
+Feedback transducer system:
+  Inverse transducer, Self-balancing transducer, Servo-operated manometer, Feedback pneumatic load cell, integrating servo.
+[T1][T2]
+
+
+Text Books:
+[T1] D. Patranabis
+      “Sensors and Transducers”, 2nd edition
+       PHI Learning Pvt Ltd
+[T2] D.V.S. Murty
+      “Transducers and Instrumentation”
+       PHI Learning Pvt Ltd
+
+Reference Book:
+[R1] E.O. Doebelin, Dhanesh N. Manik
+      “Measurement Systems”, 6th Edition
+       Mcgraw Hill Edu
+[R2] John P. Bentely
+      “Principles of Measurement System”, 4th Edition
+       Pearson Prentice Hall

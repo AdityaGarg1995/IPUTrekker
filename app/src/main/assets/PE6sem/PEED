@@ -1,0 +1,43 @@
+POWER ELECTRONICS AND ELECTRIC DRIVES
+(For Electrical Specialization)
+
+Paper Code: ETPE-312 L T/P C
+Paper: Power Electronics and Electric Drives 3 1 4
+
+
+UNIT-I
+Power Electronics
+SCR and its characteristics: gate characteristics, SCR ratings, series and parallel connections of SCRs. Triac,
+GTO, IGBT characteristics and ratings. Unijunction Transistors. Triggering circuits and optocouplers.
+[T1, T2,]
+
+UNIT-II
+Linear commutated converters: single pulse, two pulse midpoint, three pulse mid-point and 3 phase six pulse
+converters. Effect of source inductance on converters. Freewheeling diode effect.
+D.C. Choppers – Principles of step down chopper, step up chopper and classification. Impulse commutated and
+resonant pulse choppers. Multiphase choppers. Application of choppers.
+[T1, T2,]
+
+UNIT-III
+Single phase and three phase bridge inverters. Commutation and trigger circuits for forced commutated thirstier
+inverters. Output voltage control. Harmonies in output voltage waveform harmonics attenuation by filters.
+Harmonic reduction by pulse width modulation. Working of current source inverters. Switched Mode Power
+Supplies.
+[T1, R2,]
+
+UNIT-IV
+Electric Drives
+Review of characteristics of A.C. and D.C. Motors, Phase controlled and chopper controlled drive of D.C. motor.
+Pulse width modulated (PWM) Induction motor drive (voltage source and current source inverters).
+Digital Control Drive, Stepper Motors, Electrical drives in steel, cement, Textile, paper mills, Machine tool drive
+and computerized numerical control (CNC).
+[T1, R1,]
+
+
+Text Books:
+[T1] P.S. Bhimbra, “Power Electronics”, Khanna Publisher.
+[T2] M.H. Rashid, “Power Electronics Circuits Devices and Applications”, Pearson Education
+
+References:
+[R1] G.K. Dubey, “Elements of Electrical Drives”,
+[R2] Ashfaq Ahmed, “Power Electronics for Technology”, Pearson Education

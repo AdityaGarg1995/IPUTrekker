@@ -6,7 +6,7 @@ UNIT- I
 Introduction, Applications areas, Components of Interactive Computer Graphics System.
 Overview of Input devices, Output devices, raster scan CRT displays, random scan CRT displays.
 DDA & Bresenham’s Line Drawing Algorithms, Bresenham’s & Mid Point Circle Drawing Algorithms.
-Homogeneous Coordinate System for 2D & 3D, Various 2D, 3D Transformations(Translation, Scaling, Rotation, Shear).
+Homogeneous Coordinate System for 2D & 3D, Various 2D, 3D Transformations (Translation, Scaling, Rotation, Shear).
 [T1,T2]
 
 UNIT- II
@@ -22,8 +22,10 @@ Authoring tools, Video and Animation: controlling animation, display and transmi
 [T1,T2]
 
 UNIT- IV
-Data Compression: storage space, coding requirements, Basic compression techniques: run length code, Huffman code, Lempel-Ziv
-JPEG: Image preparation, Lossy sequential DCT, expanded lossy DCT, Lossless mode, Hierarchical mode.
+Data Compression:
+  storage space, coding requirements, Basic compression techniques: run length code, Huffman code, Lempel-Ziv
+JPEG:
+  Image preparation, Lossy sequential DCT, expanded lossy DCT, Lossless mode, Hierarchical mode.
 MPEG, Media synchronization, Media Integration, Production Standards.
 [T1,T2]
 

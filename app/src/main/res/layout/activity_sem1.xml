@@ -36,7 +36,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/chem"
-            android:text="Chemistry (M)"
+            android:text="Applied Chemistry (M)"
             android:layout_weight="1"
             />
         <Button
@@ -50,7 +50,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/foc"
-            android:text="Fundametals of Computing"
+            android:text="Fundamentals of Computing"
             android:layout_weight="1"
             />
         <Button
@@ -63,7 +63,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/hvpe_i"
-            android:text="Human Values and Professional Ethics-I(NUES)"
+            android:text="Human Values &amp; Professional Ethics-I(NUES)"
             android:layout_weight="1"
             />
 
@@ -89,7 +89,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/chemLab"
-            android:text="Chemistry Lab"
+            android:text="Applied Chemistry Lab"
             android:layout_weight="1"
             />
         <Button

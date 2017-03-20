@@ -3,19 +3,40 @@
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_activity_settings">Settings</string>
 
-    <string name = "te"> Tool Engineering </string>
-    <string name = "it"> Information Technology </string>
-    <string name = "cse"> Computer Science Engineering </string>
-    <string name = "eee"> Electronics and Electrical Engineering </string>
-    <string name = "ece"> Electronics and Comm. Engineering </string>
-    <string name = "ee"> Electrical Engineering </string>
-    <string name="ce"> Civil Engineering</string>
-    <string name="ene"> Environmental Engineering</string>
-    <string name="mae"> Mechanical and Automation Engineering</string>
-    <string name="me"> Mechanical Engineering</string>
-    <string name="mech"> Mechatronics </string>
-    <string name="pe"> Power Engineering</string>
-    <string name="ice"> Instrumentation and Control Engineering </string>
+
+    <!--Strings for Streams-->
+    <string name = "te">   Tool \n Engineering                          </string>
+    <string name = "it">   Information \n Technology                    </string>
+    <string name = "cse">  Computer Science \n and Engineering          </string>
+    <string name = "eee">  Electronics and Electrical Engineering       </string>
+    <string name = "ece">  Electronics and Communication \n Engineering </string>
+    <string name = "ee">   Electrical \n Engineering                    </string>
+    <string name = "ce">   Civil \n Engineering                         </string>
+    <string name = "ene">  Environmental \n Engineering                 </string>
+    <string name = "mae">  Mechanical and Automation Engineering        </string>
+    <string name = "me">   Mechanical \n Engineering                    </string>
+    <string name = "mech"> Mechatronics                                 </string>
+    <string name = "pe">   Power \n Engineering                         </string>
+    <string name = "ice">  Instrumentation and Control \n Engineering   </string>
+
+
+<!--Strings for Colleges-->
+    <string name = "aiactr"> Ambedkar Institute of Advanced Communication \n Technologies and Research </string>
+    <string name = "amity">  Amity School \n of Education                                           </string>
+    <string name = "bpit">   Bhagwan Parshuram Institute \n of Technology                           </string>
+    <string name = "bvp">    Bharati Vidyapeeth College \n of Engineering                           </string>
+    <string name = "bp">     Ch. B.P. Government Engineering College                                </string>
+    <string name = "dite">   Delhi Institute \n of Tool Engineering                                 </string>
+    <string name = "dtc">    Delhi Technical \n Campus                                              </string>
+    <string name = "gbp">    Govind Ballabh Pant Engineering College                                </string>
+    <string name = "gtbit">  Guru Tegh Bahadur Institute of Technology                              </string>
+    <string name = "hmr">    HMR Institute of Technology and Management                             </string>
+    <string name = "jims">   Jagan Institute of Management Studies                                  </string>
+    <string name = "mait">   Maharaja Agrasen Institute of Technology                               </string>
+    <string name = "msit">   Maharaja Surajmal Institute of Technology                              </string>
+    <string name = "niit">   Northern India Engineering College                                     </string>
+    <string name = "npti">   National Power Training Institute                                      </string>
+
     <!-- Strings related to Settings -->
 
     <!-- Example General settings -->

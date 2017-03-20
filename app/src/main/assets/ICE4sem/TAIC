@@ -1,0 +1,41 @@
+Paper Code: ETIC-208 L T/P C
+Paper: Theory and Application of Integrated Circuits 3 1 4
+Objective: The objective of the paper is to facilitate the students with the knowledge of solid state device with
+theoretically infinite number of operating states or infinite discrete I/O states. And all the advantages of different
+transistor configuration is put into a single IC Op-amp.
+UNIT- I: Fundamentals of IC Fabrication and Circuit Configurations for Linear IC
+IC classification, fundamental of monolithic IC technology, epitaxial growth, masking and etching, diffusion of
+impurities. Realization of monolithic ICs and packaging. Differential Amplifier, Differential Amplifier
+Configurations, Bipolar differential Amplifier, AC and DC characteristics. Current mirror and BJT Current
+Source. Current source as Active load. Voltage Sources, voltage reference. Operational Amplifiers IC 741,
+DC and AC performance characteristics, Open and closed loop configurations.
+[T1, T2] [No. of Hrs. 11]
+UNIT- II: Applications of Operational Amplifiers
+Inverting and non inverting Amplifier, Scale Changer, Phase Shift Circuits, Voltage Follower, V-to-I and I-to-V
+converters, adder, subtractor, Instrumentation amplifier, Integrator, Differentiator, Logarithmic amplifier,
+Antilogarithmic amplifier, Comparators, Schmitt trigger, Precision rectifier, peak detector, clipper and clamper,
+Low-pass, high-pass and band-pass Butterworth filters.
+[T1, T2] [No. of Hrs. 11]
+UNIT- III: Analog Multiplier, PLL, A/D and D/A Convertor
+Analog Multiplier using Emitter Coupled Transistor Pair – Gilbert Multiplier cell – Variable transconductance
+technique, analog multiplier ICs and their applications, Operation of the basic PLL, Closed loop analysis,
+Voltage controlled oscillator, Analog and Digital Data Conversions, D/A converter – specifications – weighted
+resistor type, R-2R Ladder type, A/D Converters – specifications – Flash type – Successive Approximation
+type – Single Slope type – Dual Slope type – A/D Converter using Voltage-to-Time Conversion.
+[T1, T2] [No. of Hrs. 11]
+UNIT- IV : Waveform Generators and Special Function ICs
+Sine-wave generators, Multivibrators and Triangular wave generator, Saw-tooth wave generator, ICL8038
+function generator, Timer IC 555, IC Voltage regulators – Three terminal fixed and adjustable voltage
+regulators – IC 723 general purpose regulator – Monolithic switching regulator, Switched capacitor filter IC
+MF10, Frequency to Voltage and Voltage to Frequency converters, Audio Power amplifier, Video Amplifier,
+Opto-couplers.
+[T1, T2] [No. of Hrs. 11]
+Text Books:
+[T1] Sergio Franco, Design with operational amplifiers and analog integrated circuits, 3rd Edition, TMH,
+2007.
+[T2] D. Roy Choudhry, Shail Jain, Linear Integrated Circuits, New Age International Pvt. Ltd., 2000
+Reference Books:
+[R1] Ramakant A. Gayakwad, OP-AMP and Linear ICs, Prentice Hall/Pearson Education, 4th Edition, 2001.
+[R2] K Lal Kishore, Operational Amplifier and Linear Integrated Circuits, Pearson Education, 2006.
+[R3] S.Salivahanan & V.S. Kanchana Bhaskaran, Linear Integrated Circuits, TMH, 2008.
+[R4] J.Michael Jacob, Applications and Design with Analog Integrated Circuits, Prentice Hall of India, 1996.

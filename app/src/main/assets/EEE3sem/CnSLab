@@ -1,0 +1,30 @@
+Paper Code: ETEE-257
+Paper: Circuits and Systems Lab
+
+
+List of Experiments:
+
+
+1. Study the transient response of series RLC circuit for different types of waveforms on CRO and verify using MATLAB
+
+2. Study the time response of a simulated linear system and verify the unit step and square wave response of first order and second order, type 0,1 system
+
+3. Using MATLAB determine current in various resistors connected in network using mesh current & node voltage analysis
+
+4. To determine Z & Y parameters of the given 2-port network
+
+5. To determine ABCD parameters of the given 2-port network
+
+6. To verify Reciprocity Theorem for the given 2-port network
+
+7. To determine Hybrid parameters of the given 2-port network
+
+8. To design Cascade Connection and determine ABCD parameters of the given 2-port network
+
+9. To design Series-Series Connection and determine Z parameters of the given 2-port network
+
+10. To design Parallel-Parallel Connection and determine Y parameters of the given 2-port network
+
+11. To design Series-Parallel Connection and determine h parameters of the given 2-port network
+
+12. Study the frequency response of different filter circuits

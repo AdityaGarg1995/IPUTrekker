@@ -1,0 +1,40 @@
+Paper Code ETEE-428
+Paper: Intelligent and Smart Instrumentation
+
+
+UNIT-I
+Recent Trends in Sensor Technologies: Introduction; Film sensors (Thick film sensors, Thin film sensors);
+Semiconductor IC technology – standard methods; Microelectro-mechanical systems (Micro-machining, some
+application examples); Nano-sensors. Bulk Micromachining. Micromachining Surface Micromachining. Other
+Micromachining Techniques. (LIGA Process) Micromilling. Micromachined Materials, Digital transducers.
+[T1][T2]
+
+UNIT-II
+Sensors:- Primary sensors; Excitation; Amplification; Filters; Converters; Compensation (Nonlinearty: look up
+table method, polygon interpolation, polynomial interpolation, cubic spline interpolation, Approximation &
+regression; Noise & interference; Response time; Drift; Cross-sensitivity); Information Coding/ Processing;
+Data Communication; Standards for smart sensor interface.
+[T1][T2]
+
+UNIT-III
+VI and Data Acquisition: Introduction to virtual Instrumentation, VI programming using LabVIEW, Signal
+Conditioning, DAQ Hardware Configuration, DAQ Hardware, DAQ Software Architecture, DAQ Assistant,
+Channel and Task configuration, Selecting and Configuring a DAQ device, Serial interfacing - RS 232C, RS
+422, RS 423, RS 485.
+[T2]
+
+UNIT IV
+Instrumentation Systems:- Types of Instrumentation systems, Intelligent Instrumentation, Component of
+Intelligent Instrumentation System, Concept of real time system and its industrial application, realization of real
+time system using microcontroller and typical applications.
+[T2]
+
+
+Text Books:
+[T1] Mathivanan, “PC Based Instrumentation”,1st Ed., PHI
+[T2] D.Patranabis, “sensors and Transducers” 2nd Edition, PHI
+Reference Books:-
+[R1] J.Jerome, “Virtual Instrumentation using LabVIEW”, PHI
+[R2] P.Rai Choudhury, MEMS and MOEMS Technology and Application,PHI
+[R3] Barney, “ Intelligent Instrumentation, Microprocessor Applications in measurement and Control”, PHI
+[R4] M.Bhuyan, “Intelligent Instrumentation: Principles and Applications”, CRC Press

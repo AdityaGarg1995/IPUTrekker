@@ -1,0 +1,40 @@
+Paper Code: ETIC-212 L T/P C
+Paper: Communication Systems 3 1 4
+Objective: This is the first course which introduces the concepts of communication systems, channels and various
+analog modulation methods. Further, an insight into the behavior of noise is dealt.
+UNIT I
+Introduction: Overview of Communication system, Communication channels, Mathematical Models for
+Communication Channels
+Introduction of random Variables: Definition of random variables, PDF, CDF and its properties, joint PDF,
+CDF, Marginalized PDF, CDF, WSS wide stationery, strict sense stationery, non stationery signals, UDF, GDF,
+RDF, Binomial distribution, White process, Poisson process, Wiener process.
+[T1, T2][No. of Hrs. 11]
+UNIT II
+Analog Modulation: Modulation- Need for Modulation, Amplitude Modulation theory: DSB-SC, SSB, VSB.
+Modulators and Demodulators. Angle Modulation, Relation between FM and PM Wave. Generation of FM wave-
+Direct and Indirect Methods. Bandwidth of FM (NBFM, WBFM)
+Pulse Analog Modulation: Sampling-Natural and Flat top. reconstruction, TDM-Pulse Amplitude Modulation
+(TDM-PAM), Pulse Width Modulation (PWM), Pulse Position Modulation(PPM), Generation and Recovery.
+Pulse Digital Modulation: Pulse Code Modulation (PCM), Differential Pulse Code Modulation (DPCM), Delta
+Modulation (DM), ADPCM.
+[T1, T2][No. of Hrs. 11]
+UNIT III
+Digital Modulation and Transmission: Advantages of digital communication. Modulation schemes: ASK, PSK,
+FSK. Spectral Analysis. Comparison. Digital Signaling Formats-Line coding.
+Information and Coding Theory: Entropy, Information, Channel Capacity. Source Coding Theorem:
+Shannon Fano Coding, Huffman Coding.
+[T1, T2][No. of Hrs. 11]
+UNIT IV
+Fiber Optical System: Basic Optical Communication System. Optical fibers versus metallic cables, Light
+propagation through optical fibers. Acceptance angle and acceptance cone, Fiber configurations. Losses in optical
+fibers. Introduction to Lasers and light detectors. Applications: Military, Civil and Industrial applications.
+Advanced Communication Systems: Introduction to cellular radio telephones. Introduction to satellite
+Communication.
+[T1, T2][No. of Hrs. 11]
+Text Books:
+[T1] George Kennedy, “Electronics Communication System”, TMH 1993
+[T2] B.P. Lathi, “Analog& Digital Communication”, Oxford University Press 1999.
+Reference Books:
+[R1] Simon Haykin, “Introduction to Analog & Digital Communication”, Wiley, 2000
+[R2] Tannenbaum, “Computer networks”, Pearson, 5th Edition
+[R3] K. Sam Shanmugam, “Digital & Analog Communication system”, John Wiley & Sons 1998.

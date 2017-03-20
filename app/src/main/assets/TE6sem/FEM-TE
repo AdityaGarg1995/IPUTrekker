@@ -1,0 +1,36 @@
+Paper Code: ETTE-310 L T/P C
+Paper: Finite Element Methods 3 1 4
+Objectives: The objectives of the subject are to equip the students with the Finite Element Analysis
+fundamentals. The study of this subject is also enabling the students to formulate the design problems into FEA
+and introduce basic aspects of finite element technology.
+UNIT – I
+Basic of Finite Element Method, Variational calculus, Integral formulation, variational methods: Methods
+of weighted residuals, Approximate solution using variational method, Modified Galerkin method, Boundary
+conditions
+Basic Finite Element Concepts: Basic ideas in a finite element solution, General finite element solution
+procedure, Finite element equations using modified Galerkin method, Axis symmetric Problems
+[T1, T2][No. of Hrs. 11]
+UNIT II
+Discrete System:
+Axial spring element, Axial bars, Torsion bars, Application in Heat transfer and Solid Mechanic Problems,
+Plane truss problem, software application ANSYS etc
+Beam: Euler Beam element and its application.
+[T1, T2][No. of Hrs. 11]
+UNIT III
+Eigen value problems: Formulation and problems
+Single value problem in 2D: Boundary value problem, axis symmetric problems
+[T1, T2][No. of Hrs. 11]
+UNIT IV
+Numerical on 2D Solid mechanics
+Interpolation function (triangular, Quadrilateral, serendipity elements), numerical integration and modelling
+consideration.
+[T1, T2][No. of Hrs. 11]
+Text Books:
+[T1] J N Reddy “An Introduction to finite element method” Tata Mc Graw Hill 3rd edition
+[T2] S.S. Rao, “Finite Element Method In Engineering”, Pergaman Press
+Reference Books:
+[R1] O.C. ZienKiewicz, “The Finite Element Method”, Tata McGraw Hill
+[R2] Larry J. Segerlind, “Applied Finite-Element Analysis”, John Wiley and Sons
+[R3] Kenneth H. Huebner, “Finite Element Method for Engineers”, John Wiley and Sons
+[R4] Darell W. Pepper, J.C Heinrich “The Finite Element Method” CRC press
+[R5] V.Ramamurti “Finite Element Method in Machine Design”Norosa Publishing House.

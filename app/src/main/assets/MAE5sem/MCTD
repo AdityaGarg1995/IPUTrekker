@@ -1,0 +1,69 @@
+Paper Code: ETAT-303 L T/P C
+Paper: Metal Cutting & Tool Design 3 1 4
+
+
+UNIT - I
+Introduction:
+  Definition of feed, depth of cut and cutting speed. Concept of specific cutting energy in metal cutting and Numerical based on calculation of machining time on lathe, drilling machine, shaper, milling machine and grinding machines considering specific cutting energy of materials.
+Theory of Metal Cutting:
+  Orthogonal and oblique cutting, tool geometry (ASA & ISO), types of chips, Factors affecting the chip formation, Cutting forces in orthogonal cutting and their measurement, Merchant circle and derivation of relationships between the cutting forces, chip thickness ratio, shear angle, stress and strain in the chip, work done and power required in metal cutting and ‘size effect’, apparent mean shear strength of work material.
+[T1,T2]
+
+UNIT - II
+Ernst Merchant Theory:
+  Ernst Merchant Theory, its assumptions and modifications.
+  Relationship between cutting velocity, shear velocity and chip flow velocity.
+  Mechanism of friction at chip-tool interface.
+  Numericals based on metal-cutting.
+  Lee & Shafer Theory – slip line method, determination of shear angle by Mohrs circle.
+Heat Generation in Metal Cutting:
+  Heat generation and temperature distribution in metal cutting.
+  Calculation of temperature in primary and secondary deformation zones and their measuring methods.
+[T1,T2]
+
+UNIT - III
+Machinability:
+  Machinability and its criteria, forms of tool-wear in metal cutting, tool-life and its criteria, effect of different cutting parameters on tool-life.
+  Economics of machining and numericals.
+  Cutting fluids, their physical action and applications.
+Grinding:
+  Specifications of grinding wheel, Mechanics of grinding, effect of grinding conditions and type of grinding on wheel behaviour, equivalent diameter of grinding wheel.
+[T1,T2]
+
+UNIT - IV
+Cutting Tool Design:
+  General considerations, study of angle for single point cutting and drill.
+  Principles of different cutting tool materials and their important characteristics.
+  Geometry of a drill.
+  Basic principles of design of a single point and multiple point tools i.e broaches and twist drill.
+Jigs & Fixtures:
+  Important considerations in jigs and fixture design.
+  Main principles of designing of jigs & fixtures, elements of Jigs and fixtures.
+  Different devices and methods of locations.
+  Different types of clamps used in jigs & fixtures.
+[T1,T2]
+
+Text Books:
+[T1] B.L. Juneja, G.S. Sekhon, Nitin Seth
+      ”Fundamental of Metal Cutting and Machine Tools”, 2nd edition
+       New Age International
+[T2] P.H. Joshi
+      ”Jigs and Fixtures”, 2nd Edition
+       TMH
+[T3] G.K. Lal
+      “Introduction to Machining Science”
+       New age International
+
+Reference Books:
+[R1] Geoffrey Boothroyd
+      “Fundamentals of Metal Machining & Machine Tools”
+       TMH
+[R2] P.N. Rao
+      “Manufacturing Technology”
+       Tata McGraw Hill Publication Ltd
+[R3] B.J. Ranganath
+      “Metal Cutting & Tool Design”
+       Vikas Publishing House Pvt. Ltd
+[R4] A.B. Chattopadhyay
+      “Machining and Machine Tools”
+       Wiley India

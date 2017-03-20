@@ -1,0 +1,43 @@
+Paper Code: ETPE-306 L T/P C
+Paper: Power Plant Control and Instrumentation 3 1 4
+
+
+UNIT-I
+Transducers, Classification, Analog & Digital transducers, Selection of transducers, Strain gauges, Inductive &
+Capacitive transducers, Piezoelectric and Hall-effect transducers, Measurement of non-electrical quantities like
+temperature, pressure, liquid level, flow-rate, displacement, velocity, acceleration, noise level etc., Thermisters,
+Thermocouples, LVDT, Photo-diodes & Photo-transistors, Encoder type digital transducers, Signal conditioning
+and telemetry.
+[T1, T2]
+
+UNIT-II
+Basic concepts of smart sensors and application, Data Acquisition Systems (DAS), A/D and D/A converters.
+Concept and layout of Control and Instrumentation in Thermal Power Plant
+Measurement & Measuring instruments
+Pressure Measurement and measuring instruments, Temperature Measurement and measuring Instruments, Flow
+measurement and measuring instruments, Level Measurement and measuring instruments
+[T1, T2, R1]
+
+UNIT-III
+Practical demonstration on pressure, flow, level and temperature measurements, Protection and interlocks of
+Boiler, Turbine and their auxiliaries. Introduction to auto control, Auto control loops used in thermal power
+stations. Turbovisory instrumentation (Parameters limits, Basic concepts of measuring devices), Commissioning
+of control loops – Practical demonstration
+ATRS,Visit to control and instrumentation lab. and control / control stations in thermal power stations.
+[T1, R2]
+
+UNIT-IV
+Analytical Instrumentation for Boiler (Water, Steam, Flue Gas, H2 / O2 / CO2), Practical demonstration and
+practice on analytical instruments (Correct approach for sampling and testing)
+Introduction to DDC and DAS in Thermal Power Station, Introduction to new / latest technology in Control and
+Instrumentation in modern thermal power station.
+[R2]
+
+
+Text Books:
+[T1] “Control & Instrumentation”, NPTI Manuals Volumes I, II, III
+[T2] A.K.Sawhney, “Electrical & Electronic Measurements and Instrumentation”, Dhanpat Rai and Sons, 2003
+
+References Books:
+[R1] “Modern Power Station Practice”, Volume F, British Electricity International Ltd., Central Electricity Generating Board, Pergamon Press, Oxford, 1991
+[R2] “Control & Instrumentation”, Manufacturer’s Manuals

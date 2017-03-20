@@ -1,0 +1,38 @@
+Paper Code: ETEC-411 L T/P C
+Paper: Advance VLSI Design 3 0 3
+Objective:
+Objective: The objective of the paper is to study the advance VLSI design. The students are introducing to MOS
+technology, design rules and some applications.
+UNIT I
+Small signal & large signal models of MOS & BJT transistor, MOS & BJT transistor Amplifiers: single
+transistor Amplifiers stages: Common Emitter, Common base, Common Collector, Common Drain, Common
+Gate & Common Source Amplifiers, Frequency response of amplifiers.
+Multiple transistor amplifier stages: CC-CE, CC-CC, & Darlington configuration, Cascode configuration, Active
+Cascode, Differential amplifiers: Differential pair & DC transfer characteristics.
+[T1,T2][No. of Hours: 11]
+UNIT II
+Current Mirrors, Active Loads & References, current mirrors, simple current mirror, Cascode current mirrors
+Widlar current mirror, Wilson Current mirror, Active loads, Analysis of differential amplifier with active load,
+supply and temperature independent biasing techniques.
+[T1,T2][No. of Hours: 11]
+UNIT III
+Operational Amplifier: applications of operational Amplifier, theory and Design; Definition of Performance
+Characteristics; Design of two stage MOS Operational amplifier, two stage MOS operational amplifier with
+cascodes, MOS telescopic-cascode operational amplifiers, MOS folded-cascode operational amplifiers, Bipolar
+operational amplifiers, Frequency response & compensation.
+[T1,T2][No. of Hours: 11]
+UNIT IV
+Voltage controlled oscillator, Comparators, Source follower, Phase locked techniques; Phase Locked Loops
+(PLL), closed loop analysis of PLL. Digital-to-Analog (D/A) and Analog-to-Digital (A/D) Converters, OTA
+Amplifiers, Switched Capacitor Filters.
+[T1,T2][No. of Hours: 11]
+Text books:
+[T1] P. R. Gray, P. J. Hurrt, S. H. Lweic, RoG. Meyer, “Analysis and Design of Analog Integrated Circuits”
+John Wiley and Sons Inc. 2001.
+[T2] P. E. Allen, D. R. Holberg, “CMOS Analog Circuit Design” Oxford University Press 2002.
+Reference Books:
+[R1] B. Razavi, “Design of Analog CMOS Integrated Circuits”, TMH – 2002.
+[R2] R. J. Baker, H. W. Li and D. E. Boyce, “CMOS Circuit Design, Layout and Simulation”, PHI
+[R3] Ken Martin, “Digital Integrated Circuit Design”, Oxford University Press.
+[R4] Yaniiis Tsividis and Colin Mcandrew, “The MOS Transistor”, Oxford University Press, 2013
+[R5] Geiger, Allen, Strader “VLSI Design Techniques for Analog and Digital Circuits” McGraw Hill, 1990

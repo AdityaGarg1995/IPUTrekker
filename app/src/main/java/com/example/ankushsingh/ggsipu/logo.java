@@ -23,14 +23,20 @@ public class logo extends AppCompatActivity {
     public void setTask(String task){
 
         if(task.equals("GGSIPU: Official Website"))
-            webView.loadUrl(Urls.ipu);
+            try {
+                webView.loadUrl(Urls.ipu);
+            }catch (Exception e){e.printStackTrace();}
 
         else if(task.equals("Individual Result"))
-            webView.loadUrl(Urls.result);
+            try {
+                webView.loadUrl(Urls.result);
+            }catch (Exception e){e.printStackTrace();}
 
         else {
-            webView.loadUrl("");
-            Toast.makeText(getApplicationContext(), "Error: No Url to load", Toast.LENGTH_LONG).show();
+            try {
+                webView.loadUrl("");
+                Toast.makeText(getApplicationContext(), "Error: No Url to load", Toast.LENGTH_LONG).show();
+            }catch (Exception e){e.printStackTrace();}
         }
     }
 
@@ -55,7 +61,7 @@ public class logo extends AppCompatActivity {
 
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.activity_main_menu, menu);
+        getMenuInflater().inflate(R.menu.refresh_menu, menu);
 
         if(Build.VERSION.SDK_INT < 21)
             menu.getItem(0).setIcon(getResources().getDrawable(R.drawable.ic_sync_black_24dp));
@@ -69,7 +75,7 @@ public class logo extends AppCompatActivity {
         // Handle action bar item clicks here.
         // The action bar will automatically handle clicks on the Home/Up button, so long as you specify a parent activity in AndroidManifest.xml.
 
-        if(item.getItemId() == R.id.home){
+        if(item.getItemId() == R.id.refresh){
             webView.loadUrl(webView.getUrl());
             return true;
         }

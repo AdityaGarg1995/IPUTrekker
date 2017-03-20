@@ -1,0 +1,52 @@
+Paper Code: ETEE-212
+Paper: Control Systems
+
+
+UNIT I: Control Systems - Basics & Components
+Introduction:
+  basic terms, classifications & types of Control Systems, block diagrams & signal flow graphs.
+  Transfer function, determination of transfer function using block diagram reduction techniques and Mason’s gain formula.
+Control system components:
+  Electrical/Mechanical/Electronic/A.C./D.C. Servo Motors, Stepper Motors, Tacho Generators, Synchros, Magnetic Amplifiers, Servo Amplifiers.
+[T1,T2]
+
+UNIT II: Time–Domain Analysis
+Time domain performance specifications, transient response of 1st & 2nd order systems, steady state errors and static error constants in unity feedback control systems, response with P, PI and PID controllers, limitations of time domain analysis.
+[T1,T2]
+
+UNIT III: Frequency Domain Analysis
+Polar and inverse polar plots, frequency domain specifications and performance of LTI systems, Logarithmic plots(Bode plots), gain and phase margins, relative stability.
+Correlation with time domain performance closes loop frequency responses from open loop response.
+Limitations of frequency domain analysis, minimum/nonminimum phase systems.
+[T1,T2]
+
+UNIT IV : Stability & Compensation Techniques
+Concepts, absolute, asymptotic, conditional and marginal stability, Routh–Hurwitz and Nyquist stability criterion, Root locus technique and its application.
+Concepts of compensation, series/parallel/series-parallel/feedback compensation, Lag/Lead/Lag-Lead networks for compensation, compensation using P, PI, PID controllers.
+[T1,T2]
+
+
+Text Books:
+[T1] B.C. Kuo
+      “Automatic control system”, 7th edition
+       Prentice Hall of India, 2001
+[T2] Nagraath Gopal
+      “Control Systems Engineering - Principles and Design”
+       New Age Publishers
+
+Reference Books:
+[R1] Norman S. Nise
+      “Control systems engineering”
+       John Wiley & Sons (Asia) Singapore
+[R2] Raymond T. Stefani
+      Design of Feedback Control System
+       Oxford University Press
+[R3] K. Ogata
+      “Modern control engineering”
+       Pearson, 2002
+[R4] S.P. Eugene Xavier
+      “Modern control systems”
+       S. Chand & Company
+[R5] M. Gopal
+      “Control Systems-Principles and Design”, 4th Edition
+       TMH, 2012

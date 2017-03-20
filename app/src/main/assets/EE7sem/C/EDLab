@@ -1,0 +1,25 @@
+Paper Code: ETEE-451
+Paper: Electrical Drives Lab
+
+
+List of Experiments:
+
+1. Load equalization by flywheel for intermittent duty loads.
+
+2. Comparison of various braking methods and their range of braking for induction motor.
+
+3. Open loop AC voltage Control of single phase capacitor run induction motor.
+
+4. Verification of linear relationship between duty cycle vs speed in open loop step down chopper controlled DC motor drive.
+
+5. Single phase thyristorised full converter fed closed loop speed control of DC motor drive.
+
+6. Closed loop speed control of 4 quadrant DC motor drive.
+
+7. Closed Loop constant v/f speed control of Induction motor drive.
+
+8. Closed Loop speed control through static rotor resistance controlled slip ring Induction motor.
+
+9. Closed loop speed control of BLDC motor drive.
+
+10. Closed Loop speed control of SRM drive.

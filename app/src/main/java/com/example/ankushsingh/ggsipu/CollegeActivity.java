@@ -40,44 +40,86 @@ public class CollegeActivity extends AppCompatActivity implements View.OnClickLi
         findViewById(R.id.niit)  .setOnClickListener(this);
         findViewById(R.id.npti)  .setOnClickListener(this);
 
-
     }
 
 
     @Override
     public void onClick(View v) {
-
         switch(v.getId()){
 
-            case R.id.aiactr:  startActivity(new Intent(this,aiactr.class).putExtra("College", "AIACTR"));
+            case R.id.aiactr:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "AIACTR")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.amity:   startActivity(new Intent(this,aiactr.class).putExtra("College","Amity School of Education"));
+
+            case R.id.amity:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College","Amity School of Education")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.bpit:    startActivity(new Intent(this,aiactr.class).putExtra("College", "BPIT"));
+
+            case R.id.bpit:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "BPIT")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.bvp:     startActivity(new Intent(this,aiactr.class).putExtra("College", "BVPCOE"));
+
+            case R.id.bvp:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "BVPCOE")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.bp:      startActivity(new Intent(this,aiactr.class).putExtra("College", "Ch.BP Govt Engg College"));
+
+            case R.id.bp:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "Ch.BP Govt Engg College")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.dite:    startActivity(new Intent(this,aiactr.class).putExtra("College", "DITE"));
+
+            case R.id.dite:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "DITE")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.dtc:     startActivity(new Intent(this,aiactr.class).putExtra("College", "Delhi Technical Campus"));
+
+            case R.id.dtc:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "Delhi Technical Campus")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.gbp:     startActivity(new Intent(this,aiactr.class).putExtra("College", "GBPant College of Engg"));
+
+            case R.id.gbp:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "GBPant College of Engg")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.gtbit:   startActivity(new Intent(this,aiactr.class).putExtra("College", "GTBIT"));
+
+            case R.id.gtbit:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "GTBIT")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.hmr:     startActivity(new Intent(this,aiactr.class).putExtra("College", "HMRITM"));
+
+            case R.id.hmr:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "HMRITM")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.jims:    startActivity(new Intent(this,aiactr.class).putExtra("College", "JIMS"));
+
+            case R.id.jims:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "JIMS")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.mait:    startActivity(new Intent(this,aiactr.class).putExtra("College", "MAIT"));
+
+            case R.id.mait:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "MAIT")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.msit:    startActivity(new Intent(this,aiactr.class).putExtra("College", "MSIT"));
+
+            case R.id.msit:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "MSIT")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.niit:    startActivity(new Intent(this,aiactr.class).putExtra("College", "NIEC"));
+
+            case R.id.niit:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "NIEC")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.npti:    startActivity(new Intent(this,aiactr.class).putExtra("College", "NPTI"));
+
+            case R.id.npti:
+                try{ startActivity(new Intent(this,aiactr.class).putExtra("College", "NPTI")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
         }
 
@@ -86,7 +128,7 @@ public class CollegeActivity extends AppCompatActivity implements View.OnClickLi
 
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.activity_main2_menu, menu);
+        getMenuInflater().inflate(R.menu.menu_it3, menu);
         return true;
     }
 
@@ -104,8 +146,7 @@ public class CollegeActivity extends AppCompatActivity implements View.OnClickLi
 //            // Do nothing
 //            return true;
 
-
-        else if(item.getItemId() == R.id.streams){
+       else if(item.getItemId() == R.id.streams){
             startActivity(new Intent(CollegeActivity.this, StreamActivity.class));
             return true;
         }

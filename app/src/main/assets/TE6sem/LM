@@ -1,0 +1,43 @@
+Paper Code: ETTE-308 L T/P C
+Paper: Layered Manufacturing 3 1 4
+Objective: The objective of the paper is to introduce the students about the knowledge RP systems, types of
+machines, lamination of object manufacturing, rapid tooling, software for RP and other various process related
+to layered manufacturing.
+UNIT I
+Introduction: Need for the compression in product development, history of RP systems, survey of applications,
+growth of RP industry, classification of RP systems.
+Fused Deposition Modeling: Principle, process parameters, path generation, applications
+Selective Laser Sintering: Types of machines, principles of operation, process parameters, data preparation for
+SLS, applications.
+Stereolithography Systems: Principle, process parameters, process details, data preparation, data files and
+machine details, applications.
+[T1,T2] [No. of Hrs: 11]
+UNIT II
+Laminated Object Manufacturing: Principle of operation, LOM materials, process details, applications.
+Solid Ground Curing: Principle of operation, machine details, applications
+Laser Engineered Net Shaping (LENS): Net shaping development at Sandia National Lab.
+Concept Modelers: Principle, Thermo jet printer, Sander's model market, 3-D printer, Genisys Xs printer, JP
+system 5, object quadra system.
+[T1,T2] [No. of Hrs: 11]
+UNIT III
+Rapid Tooling: Indirect rapid tooling - silicone rubber tooling, aluminum filled epoxy tooling, spray metal
+tooling, cast Kirksite, 3D Keltool, etc., direct rapid tooling - direct AIM, quick cast process, copper polyamide,
+rapid tool, DMILS, prometal, sand casting tooling, laminate tooling, soft tooling Vs hard tooling.
+Software for RP: STL files, overview of solid view, magics, mimics, magics communicator, etc., internet
+based softwares, collaboration tools.
+[T1,T2] [No. of Hrs: 11]
+UNIT IV
+Rapid Manufacturing Process Optimization: Factors influencing accuracy, data preparation errors, part
+building errors, errors in finishing, influence of part build orientation.
+Allied Processes: Vacuum casting, surface digitizing, surface generation from point cloud, surface
+modification, data transfer to solid models.
+[T1,T2] [No. of Hrs: 11]
+Text Books:
+[T1] Pham D T and Dimov S S, "Rapid Manufacturing", Verlag, 2001.
+[T2] Paul F Jacobs, "Stereo lithography and other RP&M Technologies", SME, 1996.
+Reference Books:
+[R1] Terry Wohlers, "Wohlers Report 2001", Wohlers Associates, 2008.
+[R2] FDM Maxum User Guide.
+[R3] FDM 1650 User Guide.
+[R4] Sinterstation 2500 plus System User Guide.
+[R5] MK-Technology Gmbh. System User Guide.

@@ -1,0 +1,66 @@
+Paper Code: ETPE-207
+Paper: Strength of Materials & Theory of Machines
+
+
+UNIT-I
+Simple Stress & Strain:
+  Mechanical properties of solids, concept of stress and strain, normal and shear stresses, Hook’s law, principle of St. Venant, stress-strain diagrams, principle of superposition, stress and strain in bars subjected to tension and compression, elongation due to self weight, composite sections, thermal stresses, poisson’s ratio, relation between elastic constants.
+Torsion of circular shafts:
+  Torque and horse-power, angle of twist, shear stresses in hollow and solids shafts within elastic limit, derivation of torsion equation, assumptions, stepped and composite shafts, closed coil helical springs subjected to axial loads and couple.
+Thin walled vessels:
+  Thin cylinders subjected to internal pressure, circumferential and longitudinal stresses and strains, maximum shear stress, increase in diameter and volume of vessel, thin spherical shells subjected to internal pressure, thin cylinders with hemispherical ends, wire winding of thin cylinders.
+[T1][T2][R1& R2]
+
+UNIT-II
+Shearing force & bending moment in beams:
+  Types of loads and supports, various types of beams, inter relation between SF & BM diagrams, shearing force and bending moment diagrams for various types of loading and  supports, maximum bending moment and point of contraflexure.
+Theory of simple bending:
+  Stresses due to bending of initially straight beams, theory and assumptions, geometrical characteristics of sections, application of bending formula to simply supported beams of circular, rectangular and I sections, flitched beams.
+[T1][T2][R1& R2]
+
+UNIT-III
+Gears:
+  Types of gears, gear terminology, condition for correct gearing, cycloidal and involutes profiles of gear teeth, pressure angle, path of contact, arc of contact, interference, undercutting, minimum number of teeth, number of pairs of teeth in contact, helical, spiral, worm and worm gear, bevel gear.
+Gear trains:
+  Gear trains, simple, compound, reverted, and epicyclic, solution of gear trains, sun and planet gear, bevel epicyclic gear, compound epicyclic gear, pre-selective gear box, differential of automobile, torque in gear trains.
+[T3][R3][R4 & R5]
+
+UNIT-IV
+Governors:
+  Types of governors: watt, porter, proell, spring loaded centrifugal, intertia, sensitiveness, stability, isochronism’s, hunting, effort and power of governor, controlling force.
+Balancing:
+  Static and dynamic balancing of rotating parts, balancing of IC engines, balancing of multi-cylinder engine, V-engines and radial engines, balancing of machines.
+Cam, Belt & Rope Drive:
+  Basic Concepts, Introduction to Applications.
+[T3][R3][R4 &R5]
+
+Text Books:
+[T1] Strength of Materials
+      SS Rattan
+       TMH
+[T2] Strength of Materials
+      Ramamrutham
+       Dhanpat Rai Pubs
+[T3] Theory of Machines
+      SS Rattan
+       TMH
+
+Reference Books:
+[R1] Strength of Material
+      R K Bansal
+       Luxmi Punlications
+[R2] Strength of Materials
+      Sadhu Singh
+       Khana Pubs
+[R2] Engineering Mechanics of Solids
+      Popov
+       PHI
+[R3]Theory of Mechanics & Machines
+      Jagdish Lal
+       Metropolitan Book Co
+[R4] Mechanism
+      J S Beggs
+       TMH
+[R5] Theory of Mechanics
+      R K Bansal
+       Luxmi Publications

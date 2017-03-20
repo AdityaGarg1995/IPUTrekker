@@ -165,6 +165,15 @@
             android:textSize="15dp"
             android:textColor="@color/colorPrimary"
             />
+<!--Common to all-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sociology"
+            android:text="Sociology &amp; Elements of Indian History for Engineers"
+            android:layout_weight="1"
+            />
+<!--Remaining-->
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -205,13 +214,6 @@
             android:layout_height="wrap_content"
             android:id="@+id/sysAdmin"
             android:text="System &amp; Network Administration"
-            android:layout_weight="1"
-            />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/sociology"
-            android:text="Sociology &amp; Elements of Indian History for Engineers"
             android:layout_weight="1"
             />
 

@@ -26,11 +26,14 @@ public class IT8 extends AppCompatActivity implements View.OnClickListener {
         a.setTitle("IT: 8th Semester Subjects");
 //        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
 
+//        Common to all
+        findViewById(R.id.hvpe_ii).setOnClickListener(this);
+
+
         findViewById(R.id.adHoc).setOnClickListener(this);
         findViewById(R.id.adHocLab).setOnClickListener(this);
         findViewById(R.id.mc).setOnClickListener(this);
         findViewById(R.id.mcLab).setOnClickListener(this);
-        findViewById(R.id.hvpe_ii).setOnClickListener(this);
 
 
         findViewById(R.id.net).setOnClickListener(this);
@@ -53,8 +56,15 @@ public class IT8 extends AppCompatActivity implements View.OnClickListener {
 
     @Override
     public void onClick(View v) {
-
         switch (v.getId()){
+
+//            Common to all
+            case R.id.hvpe_ii: i = new Intent(this,Syllabus.class).putExtra("Subject","HVPE-II")
+                    .putExtra("Sem","8")
+                    .putExtra("SubjectName","Human Values & Professional Ethics-II");
+                break;
+
+
 
             case R.id.adHoc: i = new Intent(this,Syllabus.class).putExtra("Subject","AdHoc")
                                                                 .putExtra("Sem","8")
@@ -75,13 +85,6 @@ public class IT8 extends AppCompatActivity implements View.OnClickListener {
                                                                 .putExtra("Sem","8")
                                                                 .putExtra("SubjectName","Mobile Computing Lab");
                 break;
-
-            case R.id.hvpe_ii: i = new Intent(this,Syllabus.class).putExtra("Subject","HVPE-II")
-                                                                  .putExtra("Sem","8")
-                                                                  .putExtra("SubjectName","Human Values & Professional Ethics-II");
-                break;
-
-
 
             case R.id.net: i = new Intent(this,Syllabus.class).putExtra("Subject",".NET")
                     .putExtra("Sem","8")
@@ -147,12 +150,12 @@ public class IT8 extends AppCompatActivity implements View.OnClickListener {
                     .putExtra("Sem","8")
                     .putExtra("SubjectName","VLSI Design");
                 break;
-
-
         }
-
-        startActivity(i);
-
+        try {
+            if(i != null)
+               startActivity(i);
+        }
+        catch(Exception e){e.printStackTrace();}
     }
 
 

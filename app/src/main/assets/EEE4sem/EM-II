@@ -1,0 +1,52 @@
+Paper Code: ETEE-202
+Paper: Electrical Machines−II
+
+
+Unit I: Poly phase Induction Machines
+Constructional features, production of rotating magnetic field, working of 3-phase Induction motor, phasor diagram, equivalent circuit, power and torque relations, torque and slip relations, no load and blocked rotor tests and efficiency.
+speed control by rotor resistance, injected e.m.f, frequency variation and pole changing, DOL, Y-Δ and autotransformer starters, deep bar and double cage rotor motors, cogging and crawling, operation of Induction machine as generator and phasor diagram.
+[T1,T2]
+
+Unit II: Synchronous Alternators
+Constructional features, armature windings, E.M.F. equation, winding coefficients, harmonics in the induced E.M.F., armature reaction, O.C. and S.C. tests, voltage regulation-Synchronous impedance method, MMF Method, Potier’s triangle method parallel operation, operation on infinite bus, cooling.
+2-reaction theory, power expressions for cylindrical and salient pole machines, performance characteristics.
+[T1,T2]
+
+Unit III :Synchronous Motors
+Synchronous Motor – Principle of operation, starting methods, phasor diagram torque-angle characteristics, V-curves hunting and damping, synchronous condenser, introduction to single phase synchronous motors: Reluctance and Hysteresis motors.
+[T1,T2]
+
+Unit IV: Fractional Horse Power Motors
+Single Phase Induction Motor:
+  Double revolving field theory, equivalent circuit, no load and blocked rotor tests, starting methods, split phase Induction motor- capacitor start, two value capacitor motor.
+  Introduction and applications of single phase AC series motor, universal motor, AC servo motor, stepper motor, permanent magnet AC motors.
+[T1,T2]
+
+
+Text Books:
+[T1] A Fitzgeral, Charles Kingsley, Stephen Umans
+      “Electric Machinery”, 6th Edition
+       Tata McGraw Hill Education, 2002
+[T2] I J Nagrath, D P Kothari
+      “Electric Machines”, 3rd edition
+        McGraw-Hill Education, 2011
+
+Reference Books:
+[R1] The Performance and Design of Alternating Current Machines
+       M.G. Say
+        CBS Publishers, 2005
+[R2] Direct and Alternating Current Machinery, 2nd edition
+       Jack Rosenblatt
+        CBS Publishers, 2001
+[R3] Fractional and Sub fractional Horse-power Electric Motors
+       Cyril G. Veinott, Joseph E. Martin
+        McGraw Hill
+[R4] Problems in Electrical Engineering: Power engineering and electronics with answers Partly Solved in S.I. Units, 9th edition
+       Parker Smith
+        CBS Publishers, 2003
+[R5] Electrical Machines with MATLAB, 2nd edition
+       Turan Gӧnen
+         CRC Press, Taylor & Francis, 1998
+[R6] Samarjit Ghosh
+       “Electrical Machines”
+         Pearson

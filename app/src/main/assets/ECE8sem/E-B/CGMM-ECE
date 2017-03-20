@@ -1,0 +1,52 @@
+Paper Code: ETIC-428
+Paper: Computer Graphics & Multimedia
+
+
+UNIT- I
+Introduction, Applications areas, Components of Interactive Computer Graphics System.
+Overview of Input devices, Output devices, raster scan CRT displays, random scan CRT displays.
+DDA & Bresenham’s Line Drawing Algorithms, Bresenham’s & Mid Point Circle Drawing Algorithms.
+Homogeneous Coordinate System for 2D & 3D, Various 2D, 3D Transformations (Translation, Scaling, Rotation, Shear).
+[T1,T2]
+
+UNIT- II
+Clipping Algorithms, Sutherland-Cohen line Clipping Algorithm, Bezier Curves, B-Spline Curves.
+Parallel Projection, Perspective Projection, Illumination model for diffused reflection, Ambient light, Specular Reflection Model, Reflection Vector.
+[T1,T2]
+
+UNIT- III
+Shading Models, Flat shading, Gourard Shading, Phong Model.
+Visible surface detection, Back Face Detection, Depth Buffer(Z-Buffer, A-Buffer) Method.
+Overview of multimedia: Classification, basic concepts of sound/audio MIDI: devices, messages, software.
+Authoring tools, Video and Animation: controlling animation, display and transmission of animation.
+[T1,T2]
+
+UNIT- IV
+Data Compression:
+  storage space, coding requirements, Basic compression techniques: run length code, Huffman code, Lempel-Ziv
+JPEG:
+  Image preparation, Lossy sequential DCT, expanded lossy DCT, Lossless mode, Hierarchical mode.
+MPEG, Media synchronization, Media Integration, Production Standards.
+[T1,T2]
+
+
+Text Books:
+[T1] Donald Hearn and M.Pauline Baker
+      “Computer Graphics C version”, 2nd Edition
+       Pearson Education
+[T2] Ralf Steinmetz & Klara Nahrstedt
+      “Multimedia Computing Communication & Applications”
+       Pearson Education
+
+Reference Books:
+[R1] C, Foley, VanDam, Feiner and Hughes
+      “Computer Graphics Principles & practice”, 2nd Edition
+[R2] R. Plastock and G. Kalley, Schaum’s Series
+      “Theory and Problems of Computer Graphics”, 2nd edition
+       McGraw Hill
+[R3] Fred Halsall
+      “Multimedia Communications Applications, Networks, Protocols & Standards”
+       Pearson Education
+[R4] David F. Rogers
+      “Procedural elements for computer graphics”
+       McGraw Hill

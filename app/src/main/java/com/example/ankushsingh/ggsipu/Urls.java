@@ -69,8 +69,7 @@ public class Urls {
                                  meSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/" +
                                               "2Final%20B.Tech%20Syllabus%203rd%20Semester4,5,6,7,8/Final%20Syllabus-ME-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 mechSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/" +
-                                                "2Final%20B.Tech%20Syllabus%203rd%20Semester4,5,6,7,8/Final%20Syllabus-ME-3rd%20Semester4,5,6,7,8.pdf",
+                                 mechSyllabus = "http://dite.delhigovt.nic.in/pdf/b-tech-mech.pdf",
 
                                  powerSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                  "3rd%20Semester4,5,6,7,8/Final%20Syllabus-Power-3rd%20Semester4,5,6,7,8.pdf",
@@ -164,8 +163,6 @@ public class Urls {
                              ecomBook = "https://geomart25.files.wordpress.com/2014/05/dave-chaffey-e-business-and-e-commerce-management-strategies-4th-ed-qwerty80.pdf";
 
 
-
-
     public static final String civilBookList = "http://bookboon.com/en/civil-engineering-ebooks",
                                cseBookList = "http://gatecse.in/best-books-for-gate/",
                                eceBookList = "http://www.gatestudy.com/list-of-books-for-gate-ece",
@@ -177,8 +174,13 @@ public class Urls {
                                maeBookList = "http://www.engineersinstitute.com/gate_exam_reference_books_electrical_eee.php",
                                meBookList = "http://www.engineersinstitute.com/gate_exam_reference_books_mechanical_me.php",
                                mechBookList = "http://www.engineersinstitute.com/gate_exam_reference_books_mechanical_me.php",
-                               powerBooList = "http://engineeringstudymaterial.net/tag/power-plant-engineering-books/",
+                               powerBookList = "http://engineeringstudymaterial.net/tag/power-plant-engineering-books/",
                                toolBookList = "http://www.gatecounsellor.com/books/mechanical-engineering-me/machine-tool-design/";
+
+
+    public static final String se_sm = "http://www.icivilengineer.com/Structural_Engineering/Structure_Maintenance/",
+                               repair = "http://www.structural.net/Repair/repair_concrete.html",
+                               mgfc = "http://www.interpore.org/reference_material/mgfc-course/";
 
 
 

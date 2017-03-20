@@ -1,0 +1,39 @@
+Paper Code: ETEC-417 L T C
+Paper: RF Devices and Circuits 3 0 3
+Objectives: To study the various devices and circuits for microwave and RF circuit applications.
+UNIT-I
+Introduction of RF and Microwaves, RF behavior of Passive components (resistor, capacitor and inductor),
+Transmission line: lumped element circuit model, wave propagation on transmission line, lossless line two wire
+line, coaxial line, micro strip line, terminated lossless transmission line, short circuit and open circuit terminated
+transmission line.
+Quarter wave transformer (impedance, frequency response and multiple reflections).
+[T1, T2, R1][No. of Hrs. 11]
+UNIT-II
+Smith chart: basic smith chart operation, combined impedance – admittance Smith chart, computation of
+Impedance of Passive circuits using smith chart (from reflection coefficient to load impedance)
+RF network analysis : Scattering matrix, Generalized Scattering Parameters.
+Impedance matching and tuning: matching with lumped element(analytic and smith chart solution), single stub
+tuning, shunt stub and series stub tuning.
+[T1, T2, R1][No. of Hrs. 11]
+UNIT-III
+Power dividers: basic properties of dividers and couplers, TEE junction lossless power divider, waveguide
+directional coupler.
+RF Filter Design : Periodic structures, analysis of infinite periodic structure, terminated periodic structure, k-β
+diagram and wave velocities, filter design using insertion loss method, characterization of power loss ratio, low
+pass prototype filter for Butterworth and Chebyshev filters, impedance and frequency transformation(only for
+LPF).
+[T1, T2, R1][No. of Hrs. 10]
+UNIT-IV
+Microwave Bipolar Transistors: Physical structures, figure of merit of various geometry and power frequency
+limitation.
+RF Field effect Transistors: Construction and functionality of MISFET, MOSFET, MESFET and High electron
+mobility Transistors (MODFET).
+[T1, T3][No. of Hrs. 10]
+Text Books:
+[T1] S Y Liao, Microwave Devices and Circuits, Pearson Publications.
+[T2] R.E. Collin, “Foundation for Microwave Engineering”, Wiley Publications
+[T3] Davis, "Radio frequency circuit design", Wiley publication
+Reference Books
+[R1] Reinhold Ludwig and Gene Bogdanvo, “RF Circuit design Theory and applications”, Pearson
+Publications.
+[R2] D.M Pozar, “Microwave Engineering”, Wiley Publications.

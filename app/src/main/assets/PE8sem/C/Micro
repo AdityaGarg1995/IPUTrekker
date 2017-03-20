@@ -1,0 +1,49 @@
+Paper Code: ETPE-406
+Paper: Microprocessors and Microcontrollers
+
+
+UNIT- I
+Introduction to Microprocessor Systems:
+  Architecture and PIN diagram of 8085, Timing Diagram, memory organization, Addressing modes, Interrupts.
+  Assembly Language Programming.
+[T1]
+
+UNIT- II
+8086 Microprocessor:
+  8086 Architecture, difference between 8085 and 8086 architecture, generation of physical address, PIN diagram of 8086, Minimum Mode and Maximum mode, Bus cycle, Memory Organization, Memory Interfacing, Addressing Modes, Assembler Directives, Instruction set of 8086, Assembly Language Programming, Hardware and Software Interrupts.
+[T2]
+
+UNIT- III
+Interfacing of 8086 with 8255, 8254/ 8253, 8251, 8259:
+  Introduction, Generation of I/O Ports, Programmable Peripheral Interface(PPI)-Intel 8255, Sample-and-Hold Circuit and Multiplexer, Keyboard and Display Interface, Keyboard and Display Controller (8279), Programmable Interval timers (Intel 8253/8254), USART (8251), PIC (8259), DAC, ADC, LCD, Stepper Motor.
+[T1]
+
+UNIT-IV
+Overview of Microcontroller 8051:
+  Introduction to 8051 Micro-controller, Architecture, Memory organization, Special function registers, Port Operation, Memory Interfacing, I/O Interfacing, Programming 8051 resources, interrupts, Programmer’s model of 8051, Operand types, Operand addressing, Data transfer instructions, Arithmetic instructions, Logic instructions, Control transfer instructions, Timer & Counter Programming, Interrupt Programming.
+[T3]
+
+Text Books:
+[T1] Muhammad Ali Mazidi
+      “Microprocessors and Microcontrollers”
+       Pearson, 2006
+[T2] Douglas V Hall
+      “Microprocessors and Interfacing, Programming and Hardware”
+       Tata McGraw Hill, 2006
+[T3] Ramesh Gaonkar
+      “MicroProcessor Architecture, Programming and Applications with the 8085”
+       PHI
+
+References Books:
+[R1] Muhammad Ali Mazidi, Janice Gillispie Mazidi, Rolin D. McKinlay
+      “The 8051 Microcontroller and Embedded Systems”, 2nd Edition
+       Pearson Education, 2008
+[R2] Kenneth J. Ayala
+      “The 8086 Microprocessor: Programming & Interfacing The PC”
+       Delmar Publishers, 2007
+[R3] A.K. Ray, K.M. Bhurchandi
+      “Advanced Microprocessors and Peripherals”
+       Tata McGraw Hill, 2007
+[R4] Vaneet Singh, Gurmeet Singh
+      “Microprocessor and Interfacing”
+       Satya Prakashan, 2007

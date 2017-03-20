@@ -1,0 +1,44 @@
+Paper Code: ETPE-206 L T/P C
+Paper: Heat & Mass Transfer 3 1 4
+
+
+UNIT-I
+Introduction: Definition of Heat: Modes of Heat Transfer; Basic Laws of heat transfer; Electrical Analogy of
+heat conduction; Conduction through composite walls; Overall heat transfer coefficient.
+Conduction: The general conduction equation in Cartesian, coordinates; steady one dimensional heat conduction
+without internal heat generation; the plane slab; the cylindrical shell; the spherical shell; critical thickness of
+insulation. Fins of uniform cross-section; Governing equation; Temperature distribution and heat dissipation rate;
+Efficiency and effectiveness of fins.
+[T1] [T2][R1]
+
+UNIT-II
+Convection: Free and forced convection; Newton’s law of cooling; convective heat transfer Coefficient; Nusselt
+number; Dimensional analysis of free and forced convection; the concept of boundary layer; hydrodynamic and
+thermal boundary layer; Analysis of free convection; governing equations for velocity and temperature fields.
+Relation between fluid friction and heat transfer, Reynolds analogy, Dimensionless numbers; Reynolds, Prandtl,
+Nusselt, Grashoff and Stanton Numbers and their significance, Heat transfer with change of phase; Nusselt theory
+of laminar film condensation.
+[T1][R2]
+
+UNIT-III
+Heat Exchangers: Introduction; classification of heat exchangers; Logarithmic mean temperature Difference;
+Area calculation for parallel and counter flow heat exchangers; Effectiveness of heat exchangers; NTU method of
+heat exchanger design, Applications of heat exchangers.
+[T1][R2]
+
+UNIT-IV
+Radiation: Theories of thermal radiation; Absorption, reflection and transmission; Monochromatic and total
+emissive power; Black body concept; Planck’s distribution law; Stefan Boltzman law; Wien’s displacement law;
+Lambert’s cosine law; Kirchoff’s law;
+Diffusion in Fluids: Molecular and eddy diffusion, Diffusivity, Diffusion through liquids and gases.
+[T1][R2]
+
+
+Text Books:
+[T1] D.S. Kumar, Heat and Mass Transfer, Katson Publishing House, Ludhiana.
+[T2] R.K. Rajput, Heat and Mass Transfer, S Chand, 2007
+
+References Books:
+[R1] S.P. Sukhatme, A text book on heat transfer, University Press
+[R2] Holman, Heat Transfer, McGraw-Hill
+[R3] R. Yadav, Heat and Mass Transfer, Central Publishing House, Allahabad

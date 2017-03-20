@@ -1,0 +1,35 @@
+Paper Code: ETEE-259
+Paper: Scientific Computing Lab
+
+
+List of Experiments:
+
+
+1. Introduction to MATLAB: Command Window, Figure Window, MATLAB Workspace and Workspace Browser and Related Applications like Plot of any functions, Evaluations of any function, Creation of New Directory, use of Edit Window.
+
+2. Introduction of MATLAB Basics: Variable and Arrays, Sub-arrays, Displaying Data, Data Files, X-Y Plots, Debugging MATLAB Programmes and related applications like Formation of Matrices, Evaluation of expressions etc.
+
+3. Basics of Programme Design: Logic Operators, Branches, Solution of quadratic equation and advance plotting features and related applications like time response of electrical networks etc.
+
+4. MATLAB Loops and related applications: Calculations of RMS value, average value, Geometric mean, Harmonic mean.
+
+5. Data types and plot types: Representation of complex number in rectangular and polar coordinates, Mesh plot, Contour plot, Histogram, in 2-D and 3-D.
+
+6. Write the MATLAB program to calculate the sum of series
+
+7. Create square matrices and perform various mathematical operations.
+
+8. Write a program in M-file to determine the current in each resistor using the mesh current method. Any electric resistive network provided the values of voltage of resistances.
+
+9. Write the program to find out whether a given no is ‘odd’ or ‘even’ using ‘if’ else structure.
+
+10. Introduction to MATLAB SIMULINK environment and creating MAT Files. Draw simulink model to simulate any given function.
+
+11. Obtain the step response for given transfer function and save the result in MATLAB workspace.
+
+12. With the help of an example illustrate how the masked sub-systems are created.
+
+
+Books:
+T1 Stephen J. Chapman, “MATLAB (r) Programming for Engineers” Cengage Learning India 2013.
+T2 Kandarpa Kumar Sharma “MATLAB Demystified” Vikas Publishing House 2009.

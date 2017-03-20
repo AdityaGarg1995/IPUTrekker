@@ -1,0 +1,34 @@
+Paper Code: ETEL-402 L T/P C
+Paper: Power System Analysis & Stability 3 1 4
+Objective: The objective of the paper is to facilitate the student with detailed study of flow of power in the
+network, subsequent faults and the stability limits in the system.
+UNIT- I
+Load Flow Studies
+Type of buses, bus admittance method, load flow equation, GS method, NR method, Fast decoupled load flow.
+[T1], [T2],[T3][No. of hrs. 10]
+UNIT- II
+Fault Calculations
+Symmetrical Components, symmetrical faults, unsymmetrical faults, Sequence networks for synchronous
+Machines, Transformers and Transmission Line, Sequence impedance.
+[T1], [T2], [T3][No. of hrs. 10]
+UNIT- III
+Power System Stability
+Introduction, swing equation, steady state stability, equal area criteria, critical clearing angle, point by point
+method, factors affecting Steady State and Transient Stability and Methods of Improvements.
+[T1], [T2], [T3][No. of hrs. 10]
+UNIT-IV
+Optimal Power Flow
+Problem statement, solution of optimal power flow , gradient method , Newton method , Linear sensitivity
+analysis, LP methods- with real power variables only, LP method with ac power flow variable and detailed cost
+functions, security constraint optimal power flow
+[T1], [T2], [T3][No. of hrs. 10]
+Text Books:
+[T1] J. J. Grainger & W.D. Stevenson ,Power System Analysis, TMH Publication,2006.
+[T2] D.P. Kothari& I.J. Nagrath, Power System Engineering, TMH Publication, 2007.
+[T3] P.Kundur, Power system stability and control, TMH Publication.
+Reference Books:
+[R1] Computer- Aided Power System Analysis, George L. Kusic, PHI Publication.
+[R2] Hadi Saadat,Power System Analysis , PSA Publishing, 2010.
+[R3] D.P. Kothari, I Nagrath, Modern Power System Analysis, TMH Publication.
+[R4] L.P Singh, Advanced power system analysis and dynamics, New age International Ltd.
+[R5] C. L. Wadhwa, Electrical Power Systems, New age International Ltd.

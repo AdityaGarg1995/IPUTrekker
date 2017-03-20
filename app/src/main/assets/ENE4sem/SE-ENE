@@ -1,0 +1,44 @@
+Paper Code: ETEN-204 L T/P C
+Paper: Structural Engineering 3 1 4
+Objectives: (i) To identify determinate, indeterminate, stable and unstable structures, (ii) To determine forces
+and deflections in trusses, beams and frames, (iii) To construct influence lines and be able to use them, and (iv)
+To use computer tools to assist in classical structural analysis.
+UNIT I
+Columns and struts: Columns and struts of uniform section, crippling/buckling load, Euler theory and concept
+of equivalent length, Rankine’s formula and other empirical formulae, Secant formula. Combined direct and
+bending stresses: Middle third rule, core of a section, stresses due to wind, water and earth pressure in structures
+like retaining walls, dams, chimneys, walls etc.
+Thin cylinders: Thin cylinders subjected to internal fluid pressure, wire wound thin cylinders. Thin cylindrical
+shells, circumferential and hoop stresses, longitudinal stresses, Maximum shear stress.
+[T1,T2] [No. of Hours: 12]
+UNIT II
+Moving loads and Influence lines : Introduction to moving loads, concept of equivalent UDL, absolute
+maximum bending moment and shear force, concept of influence lines, influence lines for reaction, shear force,
+bending and deflection of determinate beams, Application of Muller Breslau Principle for determinate
+structures.
+Indeterminate structures: Indeterminacy, choice of unknowns, Castigliano’s second theorem and its
+applications.
+[T1,T2] [No. of Hours: 11]
+UNIT III
+Method of consistent deformation: Analysis of indeterminate beams and frames upto two degree of
+indeterminacy, settlement effects, analysis of pin jointed trusses, externally and internally redundant trusses,
+effects of settlement and prestrains.
+Slope deflection method: analysis of continuous beams, analysis of rigid frames, frames with sloping legs,
+gabled frames, frames without sway and with sway, settlement effects.
+Moment distribution method: Analysis of beams and frames.
+[T1,T2] [No. of Hours: 12]
+UNIT IV
+Arches : Theory of arches, Eddy’s theorem, Circular , parabolic and geometric arches, concept of radial shear
+force and axial thrust, analysis of three hinged and two hinged arches, Effect of yielding of supports, rib
+shortening and temperature changes, tied arches, ILD for 3 hinged arches.
+Curved Beams: plan and elevation, beams on elastic foundations
+[T1,T2] [No. of Hours: 10]
+Text Books:
+[T1] Structural Analysis,G.S. Pandit, CBS Publication.
+[T2] Fundamental of Structural Analysis, Sujit kumar Roy,S. Chand Publication.
+References Books:
+[R1] Statically Indeterminate Structures, C.K.Wang, Mc Graw Hill
+[R2] Basic Structural Analysis, C.S. Reddy, Tata McGraw Hill
+[R3] Structural Analysis, R.C. Hibbler, Pearson Publications
+[R4] Structures, Schodek, Pearson Education
+[R5] Comprehensive Structural Analysis, Vaidyanathan and P Perumal, Luxmi Publications

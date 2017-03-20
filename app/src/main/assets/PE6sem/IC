@@ -1,0 +1,54 @@
+I.C. ENGINES & GAS DYNAMICS
+(For Mechanical Specialization)
+
+Paper Code: ETPE-310 L T/P C
+Paper: I.C. Engines & Gas Dynamics 3 1 4
+
+
+UNIT-I
+Internal Combustion (I.C.) Engines I.C. Engine Cycles: Otto, Diesel and Dual cycles. Fuel air cycles
+volumetric, combustion and overall efficiency. Fundamental difference between SI and CI engines. Deviation of
+actual cycle from ideal cycle. Calculation of IHP & BHP. Numericals
+S.I. ENGINES – Principles of carburetion. Factors affecting carburetion, Air fuel ratio, working principle of
+simple carburetion, effect of nozzle tip and compressibility, jet size and depression at venture, choke,
+compensation, Introduction to multipoint fuel injection system, valve timing diagrams, Flame development and its
+propagation, ignition lag, effect of engine parameters, pre-ignition, combustion chamber, Battery and Coil ignition
+system, Magneto system, spark advancing, octane Number.
+[T1, T2,]
+
+UNIT-II
+C.I. Engines: Introduction, Injection System, Injection pump - Jwerk type and distributor type, Injection nozzle,
+direct and indirect injection. Valve timing diagram, stages of combustion in C.I. engines. Factors affecting delay
+period, knocking, comparison of knock is SI and CI engine Cetane number, aniline point, Diesel index,
+Alternative fuels.
+[T1, R1, R2]
+
+UNIT-III
+Cooling and Lubrication: Types of cooling system – liquid and air cooling system. Forced circulation system,
+pressure cooling system, Radiator, cooling fins, Baffles. Types of lubrication system; Mist, Wet sump lubrication
+system, oil additives.
+[T1, T2, R5]
+
+UNIT-IV
+Gas Dynamics - Isentropic Flow: Acoustic velocity, - Mach number, Mach line and Mach angle, Flow
+parameters, Stagnation temperature and pressure.
+Adiabatic Flow: Stagnation temperature change, Rayleigh line, Pressure ratio and temperature ratio, entropy
+consideration, Maximum heat transfer, Detonation and Deflagnation.
+Flow With Friction: The fanning equation, friction factor and friction parameter, Fanno line Fanno equation.
+Wave Phenomena: Classification of wave phenomena, Analysis of shock phenomena, weak waves, compression
+waves, oblique shocks, Normal shock waves, entropy considerations, Rayleigh pilot equation.
+[T3, T4, R3, R4]
+
+
+Text Books:
+[T1] V. Ganesan, “Internal Combustion Engines”, TMH
+[T2] Compbell & Jenninys, “Gas Dynamics”, MCGraw Hill
+[T3] Mathur & Sharma, “Internal Combustion Engines”, Dhanpat Rai Publications
+[T4] Rolty, “Introduction to Gas Dynamics”, Wiley
+[T5] Taylor & Taylor, “The I.C. Engines”, E.S. MIT Press
+
+References:
+[R1] A.R. Rogowskli, “Elements of I.C. Engines”, MCGraw Hill
+[R2] Maleegv, “I.C. Engines”, MCGraw Hill
+[R3] Liepmann & Rashko, “Element of Gas Dynamics”, Wiley
+[R4] Shaplo, “The Dynamics & Thermodynamics of Compressible fluid flow”, (Ronold press)

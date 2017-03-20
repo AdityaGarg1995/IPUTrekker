@@ -1,0 +1,45 @@
+Paper Code: ETEL-308 L T/P C
+Paper: Electrical Machines−III 3 1 4
+
+
+UNIT I:
+Induction Generator: Torque-speed characteristics of an Induction machine under generation mode, Line/grid
+Connected Induction Generator: Operation and Limitations, Self-Excited Induction Generator: Process of selfexcitation,
+conditions of self-excitation, critical capacitance curve, No load characteristics, load characteristics,
+frequency characteristics, Voltage characteristics improvement using additional terminal capacitors. Doubly fed
+Induction generator, Induction voltage regulator.
+[T1, T2]
+
+UNIT II:
+Stepper Motors: Principle of operation, characteristics and analysis of variable reluctance, permanent magnet
+and hybrid stepper motors, torque equation, drive circuits and switching diagrams, Open-Loop Control of
+Stepper Motor, Microprocessor-Based Control of Stepper Motor.
+Switched Reluctance Motors: Construction, principle of operation, torque production, modes of operation,
+drive circuits, microprocessor based control of SRM and sensor less control.
+[T1, T2]
+
+UNIT III:
+Permanent Magnet Machines: Construction, working principle, torque equation, equivalent circuit,
+performance characteristics and applications of permanent magnet brushed DC motors (PMBDC), PMBLDC
+Motors, permanent magnet synchronous motors, reluctance motors, synchronous reluctance motors. DC and AC
+tacho generators.
+[T1, T2]
+
+UNIT IV:
+Special Electrical Machines: Construction, principle of operation, characteristics and analysis of fractional
+horse power universal motor, hysteresis motor. Construction, principle of operation of Linear Induction Motors
+and applications,
+[T1, T2]
+
+
+Text Books:
+[T1] Electric Machinery, A Fitzgerald, Charles Kingsley, Stephen Umans, Tata McGraw Hill Education, 6th edition, 2002
+[T2] Special Electrical Machines by K Venkatratnam, Universities Press 2014
+
+Reference Books:
+[R1] Electric Machines Steady State, Transients, and Design with MATLAB, IonBoldea, Lucian Tutelea, CRC Press, Taylor & Francis, First edition, 2010.
+[R2] Dynamic Simulations of Electric Machinery: Using MATLAB/SIMULINK, Chee-Mun Ong, Prentice Hall, 1st edition, 1997
+[R3] Principles of Electrical Machines and Power Electronics, P.C. Sen, John Wiley, 2002.
+[R4] Special Electrical Machines, E.G. Janardanan, PHI, 2014.
+[R5] Generalized Theory of Electrical Machines, P.S. Bimbhra, Khanna Publishers.
+[R6] Special Electrical Machines by K Venkatratnam, Universities Press 2014

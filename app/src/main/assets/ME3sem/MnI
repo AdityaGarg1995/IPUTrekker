@@ -1,0 +1,56 @@
+Paper Code ETMT-205 L T/P C
+Paper: Measurements and Instrumentation 3 0 3
+
+
+UNIT-I
+Introduction to Measurement:
+Significance of measurement, Different methods of measurement, Classification of measuring instruments,
+Application of measurement systems, typical measurement schemes.
+Units and Standards:
+MKS, SI units of engineering parameters, Details of different standards-mass, length, time, frequency,
+temperature, EMF, ampere, sub standards and lab standards .
+Performance Characteristics:
+Definition of range, span, accuracy, precision, drift, sensitivity, reproducibility, repeatability, dead zone,
+resolution, hysteresis, threshold, zero error, noise, linearity, loading effect, static characteristics.
+[T1][T2]
+
+UNIT -II
+Testing & Calibration of measurement setup:
+Dynamic Characteristics:
+Dynamic response; Transient response; speed of response, fidelity, measuring lag etc, Linear approximation,
+Introduction to compensation techniques.
+Significance of testing and calibration, Calibration curve, Standards for calibration, Different calibration
+procedures-primary, secondary, direct, indirect, routine calibration, Calibration setup:pressure gauge, level etc.
+Calibration of Ammeter, Voltmeter and Wattmeter, Energy meter.
+[T1][T2]
+
+UNIT-III
+Sensors and Transducers: Transducer classification, Active and Passive Transducers, Potentiometric
+Transducers, Linear and non-linear potentiometer, Resistance/Bonded Type Strain Gauge.
+Displacement Measurement:Linear/ Angular displacement, Pneumatic/Electric/Optical/
+Ultrasonic/Magnetostrictive/Electronic Displacement Transducers, Proximity Sensors, Typical application
+schemes.
+[T1][T2]
+
+UNIT -IV
+Pressure Measurement:Pressure Units, Force Summing Devices, Secondary Transducers, Vaccum
+Measurement, Torque Measurement, Tachogenerators.
+Temperature Measurement:Electric Method, Change in Electrical Properties, Thermoelectricity,
+Thermocouples, Thermistors, Thermowells.
+Flow Measurement:Reynold Number, Head type flowmeters, Velocity measurement type flowmeters, Mass
+flow measurement type flow meters.
+Level Measurements: Importance, advantage and limitation of different instruments, visual level indicators,
+float type, Purge method of measuring level, Buoyancy method, Resistance and capcitance probes for level
+measurement, limit switches, level measurement in pressurized vessels, solid level measurement techniques,
+modern techniques for level measurements and their applications.
+[T1][T2]
+
+
+Text Books:
+[T1] K.L. Kishore,”Electronic Measurement and Instrumentation “Pearson
+[T2] A.K.Ghosh,”Introduction to Measurements and Instrumentation ”4th Edition, PHI
+
+Reference Books:
+[R1] B. C. Nakra., K. K. Chaudhry, “Instrumentation, Measurement and Analysis”, 4th Edition, TMH.
+[R2] W. D. Cooper, “Modern Electronics Instrumentation & Measurement Techniques”, PHI.
+[R3] John .P.Bentley, “Principles of Measurement Systems”, Pearson

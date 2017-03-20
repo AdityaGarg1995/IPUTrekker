@@ -28,7 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cd"
-            android:text="Compiler Design"
+            android:text="Compiler Design (M)"
             android:layout_weight="1"
             />
         <Button
@@ -49,7 +49,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/os"
-            android:text="Operating Systems"
+            android:text="Operating Systems (M)"
             android:layout_weight="1"
             />
         <Button

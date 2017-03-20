@@ -1,0 +1,52 @@
+Paper Code: ETEE-352 L T/P C
+Paper: Power System-II Lab 0 2 1
+
+
+List of Experiments:
+
+
+Exp-1. Study single line to ground fault as practical application in transmission lines. (Using Experimental setup)
+
+Exp-2. Study three phase fault as practical application in transmission lines. (Using Experimental setup)
+
+Exp-3. Determine the characteristics of the given differential relay and to apply the relay for the protection of a transformer against internal faults. (Using Experimental setup)
+
+Exp-4. Study instantaneous over current relay. (Using Experimental setup)
+       (1) Study the construction of relay.
+       (2) Study the operating and deoperating of relay.
+       (3) Study the current vs. time characteristics.
+
+Exp-5. Study over voltage relay static type and draw its characteristics. (Using Experimental setup)
+
+Exp-6. Study the characteristics of miniature-circuit breaker. (Using Experimental setup)
+
+Exp-7. Study the operating characteristics of HRC fuse. (Using Experimental setup)
+
+Exp-8. Obtain the characteristics of thermal bimetallic relay. (Using Experimental setup)
+
+Exp-9. Study the characteristics of IDMT Earth fault relay. (Using Experimental setup)
+
+
+
+LIST OF ADVANCE EXPERIMENTS
+
+
+Exp-1. Simulation based on Load flow analysis.
+
+Exp-2. Simulation based on Short circuit analysis.
+
+Exp-3. Simulation based on Transient stability study.
+
+Exp-4. Simulation based on Relay co-ordination.
+
+Exp-5. Simulation based on Voltage instability analysis.
+
+Exp-6. Simulation based on Harmonic analysis.
+
+Exp-7. Simulation based on Line and cable parameter.
+
+Exp-8. Simulation based on Long-term load forecast.
+
+Exp-9. Simulation based on Electromagnetic Transient Analysis.
+
+Exp-10. Simulation based on Network Reduction.

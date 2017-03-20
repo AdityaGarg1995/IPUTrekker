@@ -1,0 +1,35 @@
+Paper Code: ETIC-352 L T/P C
+Paper: Pneumatic and Hydraulic Instrumentation Lab 0 2 1
+
+
+List of Experiments:
+
+
+1. Operating single acting cylinder and double acting cylinder using 3/2 push button valve.
+
+2. Operating double acting cylinder using 5/2 pilot operated valve.
+
+3. Operating double acting hydraulic cylinder using hydraulic 4/3 and 4/2 valve.
+
+4. Operating single and double acting cylinder using special purpose valve – Time delay valve, Quick exhaust
+
+i) valve, Twin pressure valve, Check valve etc.
+
+5. Write a program for sequencing of two cylinders using pneumatic components only.
+
+6. Write a program for sequencing of two cylinders using electro pneumatic components.
+
+7. Sequencing of multiple double acting piston cylinder arrangement using electro-pneumatic components.
+
+8. PLC programming- Operate single acting cylinder and double acting cylinder using push button and direction
+   i) Control valve. Use push buttons in the AND, OR and Latching conditions.
+
+9. Write a PLC program for to and fro motion of single acting cylinder and double acting cylinder automatically.
+
+10. Write a PLC program for sequencing of three cylinders in following sequence
+    1. A+B+C-A+B+C+ A- B+C+ A+B+C+
+    2. A+ B-C- A+B+C- A+B+C+
+    3. A+B+C- A+B-C- A- B-CNOTE:-
+
+
+At least 8 Experiments out of the list must be done in the semester.

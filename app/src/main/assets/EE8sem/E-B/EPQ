@@ -1,0 +1,39 @@
+Paper Code: ETEE-432 L T/P C
+Paper: Electrical Power Quality 3 0 3
+Objective: The objective of the paper is to facilitate the student with the importance of Power Quality and
+methods to improve it that are required in the power industry.
+UNIT I
+Introduction: Power Quality (PQ), PQ problems , Sags, Swells, Transients, Harmonics, Interruptions, Flicker,
+Voltage fluctuations, Notch. PQ Issues, Assessing PQ: Remedies -Customer side of meter, Utility side of the
+meter. Power quality monitoring – Monitoring considerations, Historical Perspective of PQ Measuring
+Instruments, PQ measurement equipment, Assessment of PQ measurement data, Application of intelligent
+systems, PQ monitoring standards.
+[T1],[T2],[T3][No. of hrs. 10]
+UNIT II
+Voltage Sag Analysis: Voltage sag characteristics - Methodology for computation of voltage sag magnitude and
+occurrence — Accuracy of sag analysis — Duration & frequency of sags — Faults behind transformers — Effect
+of pre-fault voltage — Simple examples — Voltage dip problems, fast assessment methods for voltage sags in
+distribution systems.
+[T1],[T2],[T3][No. of hrs. 10]
+UNIT III
+PQ Consideration in Industrial Power Systems: Adjustable speed drive (ASD) systems and applications —
+Sources of power system harmonics — Mitigation of harmonics — Characterization of voltage sags experienced
+by three-phase ASD systems — Types of sags and phase angle jumps — Effects of momentary voltage dips on
+the operation of induction and synchronous motors.
+[T1],[T2],[T3][No. of hrs. 10]
+UNIT IV
+Harmonics: Harmonic distortion, Voltage versus current distortion, Harmonics versus Transients, Harmonic
+Indices, Harmonic sources from commercial loads, Harmonic sources from industrial loads, Locating Harmonic
+sources, System response characteristics, Effects of Harmonic distortion, Inter harmonics, Devices for
+controlling harmonic distortion.
+[T1],[T2],[T3][No. of hrs. 10]
+Text Books:
+[T1] Math H.J. Bollen, Understanding Power Quality Problems, IEEE Press, 1999.
+[T2] Roger C.Dugan, Mark F.McGranaghan, Surya Santoso, H.Wayne Beaty, Electrical Power Systems
+Quality, Second Edition, Tata McGraw-Hill Edition.
+[T3] C.Sankaran, Power Quality, CRC Press, 2002.
+References Books:
+[R1] N. G. Hingonani, Gyugi, Understanding FACTS concepts, Technology of flexible AC Transmission
+systems, IEEE Press, 1999
+[R2] T.J.E Milles – Reactive Power Control in electric systems, John Wiley & Sons 1982
+[R3] J. Arrillaga, D.A Bradely and P.S. Bodger, Power System Harmonics. New York: Wiley,1985

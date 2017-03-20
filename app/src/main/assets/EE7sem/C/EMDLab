@@ -1,0 +1,33 @@
+Paper Code: ETEL-455
+Paper: Electrical Machines Design Lab
+
+
+List of Experiments:
+To design the following parts of the electrical machines by using C++/MATLAB or any other related software.
+
+
+1. Design of Armature
+
+2. Design of Commutator
+
+3. Design of Armature winding
+
+4. Design of Magnetic Core of Transformer
+
+5. Design of rotor bars and slots of squirrel cage induction motor
+
+6. Design of rotor core of slip ring induction motor
+
+7. Design of salient pole rotor of synchronous machine
+
+8. Design of stator core and winding for synchronous machine
+
+9. Design of rotor for turbo alternators
+
+10. Design of damper winding
+
+
+Reference:
+[R1] Computer aided design of electrical machines
+      K.M. Vishnu Murthy
+       BS publications, Hyderabad, 2008

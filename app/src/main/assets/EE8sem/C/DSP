@@ -1,0 +1,58 @@
+Paper Code: ETEL-404
+Paper: Digital Signal Processing
+
+
+UNIT–I:
+Frequency Domain Sampling:
+  The Discrete Fourier Transform, Properties of the DFT, Linear filtering methods based of the DFT.
+Efficient computation of the DFT:
+  Principal Of FFT, Fast Fourier Transform Algorithms, Applications of FFT Algorithms, A linear filtering approach to computation of the DFT.
+  Application of DFT, Design of Notch filter
+[T2,T1]
+
+UNIT–II:
+Design & Structure of IIR filters from analog filters:
+  Impulse Invariance.
+  Bilinear transformation and its use in design of Butterworth and Chebyshev IIR Filters.
+  Frequency transformation in Digital Domain, Direct, Cascade, Parallel & transposed structure.
+Design & structure of FIR filters:
+  Symmetric and anti-symmetric FIR filters.
+  Design of Linear Phase FIR filters using windows, Frequency Sampling Method of FIR design, Direct, Cascade, Frequency Sampling, transposed structure.
+[T1,T2]
+
+UNIT–III:
+Implementation of Discrete Time Systems:
+  Lattice structures, Lattice and Lattice-Ladder Structures, Schur-Cohn stability Test for IIR filters.
+  Discrete Hilbert Transform.
+Linear predictive Coding:
+  Lattice filter design, Levension Darwin Technique, Schur Algorithm.
+[T1,T2]
+
+UNIT–IV:
+Quantization Errors in Digital Signal Processing:
+  Representation of numbers, Quantization of filter coefficients, Round-off Effects in digital filters.
+Multirate Digital Signal Processing:
+  Decimation, Interpolation, Sampling rate conversion by a rational factor.
+  Frequency domain characterization of Interpolator and Decimator.
+  Polyphase decomposition.
+[T1, T2]
+
+
+Text Books:
+[T1] Oppenheim & Schafer
+      Digital Signal Processing, latest edition
+       PHI
+[T2] Proakis and Manolakis
+      Digital Signal Processing
+       PHI Publication
+
+Reference Books:
+[R1] S.K. Mitra
+      Digital Signal Processing
+       TMH edition, 2006
+[R2] Johny. R. Johnson
+      Introduction to Digital Signal Processing
+       PHI-latest edition
+[R3] R.Babu
+      Digital Signal Processing
+       SciTech Publication

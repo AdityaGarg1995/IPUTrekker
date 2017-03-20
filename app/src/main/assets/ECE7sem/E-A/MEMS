@@ -1,0 +1,40 @@
+Paper Code: ETEC-409 L T/P C
+Paper: Introduction to MEMS 3 0 3
+Objective:
+Objective: The objective of the paper is to introduce the introductory ideas of micro electro mechanical switches,
+filters, phase shifters, antennas and their applications.
+UNIT- I:
+Introduction: Introduction and origin of MEMS, Micro fabrications for MEMS, Electromechanical transducers,
+Electrothermal actuators, Microsensing for MEMS, Materials for MEMS, fabrication techniques,
+Semiconductors, Electrical and chemical properties, Growth and deposition, Thin films for MEMS and their
+deposition techniques, Oxide film formation by thermal oxidation, Deposition of silicon dioxide and silicon
+nitride, Bulk micromachining for silicon-based MEMS, Isotropic and orientation-dependent wet etching, Dry
+etching, Silicon surface micromachining, scanning method.
+[T1,T2][No. of Hrs. 12]
+UNIT- II:
+RF MEMS elements: Switches, Mechanical switches, Electronic switches, Switches for RF and microwave
+applications, Micro relays; Bistable micro relays and micro actuators, MEMS inductors and capacitors, Modeling
+and design issues.
+[T1,T2][No. of Hrs. 10]
+UNIT- III:
+Micromachined RF filters: General considerations and modeling, Micromechanical filters, Electrostatic comb
+drive, Micromechanical filters using comb drives, Micromechanical filters using electrostatic coupled beam
+structures, Surface acoustic wave filters, Design of interdigital transducers, Single-phase unidirectional
+transducers, Bulk acoustic wave filters, Micromachined filters for millimeter wave frequencies.
+[T1,T2][No. of Hrs. 10]
+UNIT- IV:
+MEMS phase shifters transmission lines, components and Antenna: phase shifters and their limitations,
+Micromachined transmission lines, Losses in transmission lines, Overview of microstrip antenna, Integration and
+packaging for RF MEMS devices, Role of MEMS packages.
+[T1,T2][No. of Hrs. 10]
+Text books:
+[T1] Vijay K. Varadan K.J. Vinoy and K.A. Jose, “RF MEMS and Their Applications”, John Wiley USA
+[T2] Mohamed Gad-el-Hak, “MEMS Design and Fabrication Edited”, Taylor and Francis.
+Reference Books:
+[R1] Mohamed Gad-el-Hak, “MEMS Introduction and Fundamentals Edited”, Taylor and Francis
+[R2] Christian C. Enz and Andreas Kaiser, “MEMS-based Circuits and Systems for Wireless
+Communication”, Springer
+[R3] P Rai Choudhury, “MEMS and MOEMS Technology and applications” –PHI Learning Pvt Ltd, India
+[R4] Sergey Y.Yurish and Maria Teresa S.R. Gomes, “Smart Sensors and MEMS”, Kluwer Academic
+Publisher
+[R5] Mohamed Gad-el-Hak, Taylor and Francis MEMS Applications, The MEMS handbook .

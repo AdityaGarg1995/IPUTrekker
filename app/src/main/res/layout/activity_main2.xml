@@ -1,6 +1,8 @@
 <ScrollView android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:android="http://schemas.android.com/apk/res/android" >
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:actionBarNavMode="standard">
 
 <LinearLayout
     android:layout_width="match_parent"
@@ -10,7 +12,9 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        >
 
         <!--<android.support.v7.widget.CardView-->
             <!--android:layout_width="match_parent"-->
@@ -224,91 +228,124 @@
                 <!--android:layout_gravity="center"-->
                 <!--android:background="@color/white"-->
                 <!--/>-->
-
-
         <!--</LinearLayout>-->
 
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/it"
             android:text="@string/it"
             android:drawableLeft="@drawable/it"
+            android:background="@color/white"
             />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/cse"
             android:layout_below="@+id/it"
-            android:text="@string/cse"/>
+            android:text="@string/cse"
+            android:drawableLeft="@drawable/cse"
+            android:background="@color/white"
+            />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/ece"
             android:layout_below="@+id/cse"
-            android:text="@string/ece"/>
+            android:text="@string/ece"
+            android:drawableLeft="@drawable/ece"
+            android:background="@color/white"
+            />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/eee"
             android:layout_below="@+id/ece"
-            android:text="@string/eee"/>
+            android:text="@string/eee"
+            android:drawableLeft="@drawable/eee"
+            android:background="@color/white"
+            />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/mae"
             android:layout_below="@+id/eee"
-            android:text="@string/mae"/>
+            android:text="@string/mae"
+            android:drawableLeft="@drawable/mae"
+            android:background="@color/white"
+            />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/civil"
             android:layout_below="@id/mae"
-            android:text="@string/ce"/>
+            android:text="@string/ce"
+            android:drawableLeft="@drawable/civil"
+            android:background="@color/white"
+            />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/power"
             android:layout_below="@+id/civil"
-            android:text="@string/pe"/>
+            android:text="@string/pe"
+            android:drawableLeft="@drawable/power"
+            android:background="@color/white"
+            />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/ee"
             android:layout_below="@id/power"
-            android:text="@string/ee"/>
+            android:text="@string/ee"
+            android:drawableLeft="@drawable/ee"
+            android:background="@color/white"
+            />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/me"
             android:layout_below="@+id/ee"
-            android:text="@string/me"/>
+            android:text="@string/me"
+            android:drawableLeft="@drawable/me"
+            android:background="@color/white"
+            />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/ice"
             android:layout_below="@+id/me"
-            android:text="@string/ice"/>
+            android:text="@string/ice"
+            android:drawableLeft="@drawable/ice"
+            android:background="@color/white"
+            />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/envo"
             android:layout_below="@+id/ice"
             android:text="@string/ene"
+            android:drawableLeft="@drawable/envo"
+            android:background="@color/white"
             />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/tool"
             android:layout_below="@+id/envo"
             android:text="@string/te"
+            android:drawableLeft="@drawable/tool"
+            android:background="@color/white"
             />
         <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="90dp"
             android:id="@+id/mech"
             android:layout_below="@+id/tool"
-            android:text="@string/mech"/>
+            android:text="@string/mech"
+            android:drawableLeft="@drawable/mech"
+            android:background="@color/white"
+            />
 
     </RelativeLayout>
 

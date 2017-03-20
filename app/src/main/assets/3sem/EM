@@ -1,0 +1,54 @@
+Paper Code: ETPE-201
+Paper: Electrical Machines
+
+
+UNIT- I : Principles of Electromechanical Energy Conversion.
+DC machines:
+  construction, armature windings, induced EMF equation, torque production, magnetization curve.
+  Types of generators and motors, characteristics, commutation and interpoles, armature reaction, Speed control of dc motor and starting.
+PMDC machine:
+  Introduction and need of brushless motors.
+[T1, T2]
+
+UNIT- II: Transformers:
+  construction, ideal and practical transformer, equivalent circuits, voltage regulation, maximum efficiency criterion.
+  Open circuit and short circuit tests.
+  Phasor diagrams on no load, full load, lagging and leading power factor loads.
+  3-phase transformer.
+  Introduction to polyphase induction machines, production of rotating magnetic flux vector, principle of operation, importance of air gap, comparison with transformer, types of rotor.
+[T1, T2]
+
+UNIT- III: Induction motors:
+  Development of an equivalent circuit, estimation of parameters, no load and block rotor tests.
+  Torque slip characteristics, starting of induction motors methods, deep bar and double cage rotor, power relations, speed control of induction motors.
+  Single phase induction motor, double field revolving theory, starting methods of single phase induction motors, universal motor and introduction to switched reluctance motor.
+[T1, T2]
+
+UNIT- IV: Synchronous Machine:
+  construction, pitch factor and distribution factor, induced emf equation, equivalent circuits and phasor diagrams, power relations, OCC and SCC characteristics for voltage regulation of alternator, salient pole and cylindrical rotor machines and phasors.
+  Effect of excitation and V curves.
+  Power factor correction & parallel operation of synchronous generator.
+[T1, T2]
+
+
+Text books:
+[T1] I.J. Nagrath and D.P. Kothari
+      “Electrical Machines”, Fourth Edition
+       Tata Mc Graw Hill, 2010
+[T2] Bhag S. Guru, Huseyin R. Hiziroglu
+      “Electric Machinery and Transformers”, 3rd Edition
+       Oxford Pub
+
+Reference Books:
+[R1] “Electrical Machines”
+       M.V. Deshpande
+        PHI
+[R2] “Principles of Electric Machinery and Power Electronics”, Third Edition
+       PC Sen
+        Wiley and Sons
+[R3] “Electrical Machines”
+       Ashfaq Hussain
+        Dhanpat Rai
+[R4] “Electrical Machines”
+       Fitzgeral, A.E., C. Kingslay & Umans
+        McGraw Hill

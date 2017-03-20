@@ -1,0 +1,34 @@
+Paper Code: ETMT-355 L T/P C
+Paper: Digital Signal Processing Lab 0 2 1
+List of Experiments:
+Software Experiments:
+1. Generation of basic signals sine, cosine, ramp, step, impulse and exponential in continuous and
+discrete domains using user defined functions.
+2. Write a MATLAB program to find convolution (linear/circular) and correlation of two discrete
+signals.
+3. Perform linear convolution using circular convolution and vice versa.
+4. Write a MATLAB program to
+a. Find 8 point DFT, its magnitude and phase plot and inverse DFT.
+b. Find 16 point DFT, its magnitude and phase plot and inverse DFT.
+5. Perform the following properties of DFTa.
+Circular shift of a sequence.
+b. Circular fold of a sequence.
+6. Write a MATLAB Program to design FIR Low pass filter using
+a. Rectangular window
+b. Hanning window
+c. Hamming window
+d. Bartlett window
+7. Write a MATLAB program to
+a. Implement a Low pass / High pass / Band pass / Band stop IIR Filter using Butterworth
+Approximation.
+b. Implement a Low pass / High pass / Band pass / Band stop IIR Filter using Chebyshev
+Approximation.
+Hardware Experiments using Texas Instruments Kits-DSK 6713:
+8. Introduction to Code composer Studio.
+9. Write a program to generate a sine wave and see the output on CRO
+10. Write a Program to Generate ECHO to give audio file.
+11. Write a program to demonstrate Band Stop filter by FIR.
+Additional Experiments:
+12. Write a program to generate a cos wave and see the output on CRO
+13. Write a program to blink the LED
+14. Write a program to display a string on LCD

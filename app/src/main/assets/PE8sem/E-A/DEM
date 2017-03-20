@@ -1,0 +1,44 @@
+Paper Code: ETPE-410 L T/P C
+Paper: Design of Electrical Machines 2 1 3
+Objective: Providing sound knowledge about the principles of operation of various electrical machines, their
+constructional features, and their behavior and Design concepts of various components of each electrical
+machine so that machines after manufacturing operate at optimum efficiency and economy under various
+condition of operation.
+UNIT I
+General Concepts: Major considerations in Design of Electrical Machines Electrical Engineering Materials,
+Space factor, Choice of Specific Electrical and Magnetic loadings, Thermal considerations, Heat flow,
+Temperature rise, Rating of machines, Standard specifications.
+DC Machines : Output Equations, Main Dimensions, Magnetic circuit calculations, Carter’s Coefficient, Net
+length of Iron, Real & Apparent flux densities, Selection of number of poles, Design of Armature, Design of
+commutated and brushes, performance prediction using design values.
+[T1, T2][No. of Hrs. 10]
+UNIT II
+Transformers: Output Equations, Main Dimensions, KVA output for single and three phase transformers,
+Window space factor, Overall dimensions, Operating characteristics, Regulation, No load current, Temperature
+rise in Transformers, Design of Tank, Methods of cooling of Transformers.
+[T1, T2][No. of Hrs. 10]
+UNIT III
+Induction Motors: Output equation of Induction motor, Main dimensions, Length of air gap, Rules for selecting
+rotor slots of squirrel cage machines, Design of rotor bars & slots, Design of end rings, Design of wound rotor,
+Magnetic leakage calculations, leakage reactance of poly phase machines, Magnetizing current, Short circuit
+current, Circle diagram, Operating characteristics.
+[T1, T2][No. of Hrs. 10]
+UNIT IV
+Synchronous Machines: Output equations, choice of loadings, Design of salient pole machines, Short circuit
+ratio, shape of pole face, Armature design, Armature parameters, Estimation of air gap length, Design of rotor,
+Design of damper winding, Determination of full load field mmf, Design of field winding, Design of turbo
+alternators, Rotor design.
+[T1, T2][No. of Hrs. 10]
+Text Books:
+[T1] Electrical Machine Design the Design and Specification of Direct and Alternating Current Machinery,
+Alexander Gray, Nabu Press, First reprint edition, 2014
+[T2] Electric Machines Steady State, Transients, and Design with MATLAB, IonBoldea, Lucian Tutelea,
+CRC Press, Taylor & Francis, First edition, 2010.
+Reference
+[R1] Principles of Electrical Machine Designs with Computer Programmes, Sen, S.K., Oxford and IBH
+Publishing Co. Pvt. Ltd. New Delhi, 1987.
+[R2] Electrical Machine Design Data Book, A. Shanmugasundaram, G. Gangadharan, R. Palani, New Age
+International Pvt. Ltd., Reprint 2007.
+[R3] Design and Testing of Electrical Machines, M.V. Deshpande, PHI, 2013.
+[R4] Sawhney, A.K., ‘A Course in Electrical Machine Design’, Dhanpat Rai & Co., New Delhi, 6th Edition,
+2013.

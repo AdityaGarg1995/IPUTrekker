@@ -1,0 +1,58 @@
+Paper Code: ETCE-205
+Paper: Fluid Mechanics
+
+
+UNIT I
+Introduction:
+  Fluid properties, Ideal and real fluids, Concept of viscosity, surface tension and compressibility.
+  thermodynamic (isothermal, isobaric and adiabatic) properties.
+Fluid Statics:
+  Fluid pressure and its measurement, types of manometers, Total pressure and centre of pressure, Evaluation of pressure force on dams, lock gates, curved surfaces, pressure distribution in liquid subjected to constant horizontal/vertical acceleration, principles of equilibrium, buoyancy, centre of buoyancy, meta centre, stability conditions of floating and submerged bodies, Experimental and analytical method of determination of meta-centric height.
+[T1,T2]
+
+UNIT II
+Fluid Kinematics:
+  Variation of flow parameters in space and time, Lagrangian and Eularian concepts in fluid motion.
+Types of fluid flow:
+  Steady and unsteady, uniform and non uniform, rotational and irrotational, Laminar and turbulent, 1,2 & 3-d flow, streamline, pathline and streakline, Continuity equation in Cartesian and polar co-ordinates and its applications, Velocity potential and stream function, Cauchy-Riemann equation, flownet.
+Types of motion:
+  Linear translation, linear deformation, Angular deformation, Rotation, Vorticity, Free and forced vortex flow.
+[T1,T2]
+
+UNIT III
+Fluid Dynamics:
+  Reynolds’s, Navier-Stokes and Euler’s equations of motion, Derivation of Bernoulli’s equation from Euler’s equation and its limitations, Applications of Bernoulli’s equations-Orifice, Venturimeter, Mouth piece, Weir and notch, Pitot’s tube, Siphon, etc
+  Hydraulic gradient and total energy lines and their Engineering significance.
+  Momentum equation, Moment of momentum equation- Assumptions and limitations, applications, impact of jets and forces in bends.
+[T1,T2]
+
+UNIT IV
+Dimensional and Model Analysis:
+ Dimensional homogeneity, methods of dimensional analysis, Buckingham’s π theorem, selection of Repeating variables, Forces acting on moving fluid, Dimensionless numbers and their Engineering significance, Model analysis, Geometric, Kinematic and Dynamic similarity, Model testing of partially submerged bodies, scale ratios for distorted models.
+[T1,T2]
+
+
+Text Books:
+[T1] R.J. Garde
+      “Fluid Mechanics through Problems”
+       New Age Publications
+[T2] A.K. Jain
+      “Fluid Mechanics and Fluid Machines”
+       Khanna Publishers, New Delhi
+
+References:
+[R1] Victor Streeter
+      “Fluid Mechanics”, International Edition
+       Tata McGraw Hill Publications
+[R2] Hughes and Brighton
+      “Fluid Mechanics”
+       Tata McGraw Hill
+[R3] Shames
+      “Mechanics of Fluids”
+       Tata McGraw Hill
+[R4] Neville
+      “Fluid Mechanics”
+       Pearson Education
+[R5] A. James, Fay
+      “Introduction to Fluid Mechanics”
+       PHI Publications

@@ -1,0 +1,32 @@
+Paper Code: ETEE-260
+Paper: Control Systems Lab
+
+
+List of Experiments:
+
+
+1. Comparison of open loop & closed loop control in speed control of D.C. motor & to find the transfer function
+
+2. Study characteristics of positional error detector by angular displacement of two servo potentiometers
+   a. excited with dc
+   b. excited with ac
+
+3. Study synchro transmitter in terms of position v/s phase and voltage magnitude with respect to rotor voltage magnitude /phase
+
+4. Study remote position indicator systems using synchro transmitter/receiver
+
+5. Plot speed-torque curves for ac servomotor for different voltages
+
+6. Study ac motor position control system & to plot the dynamic response & calculate peak time, settling time, peak overshoot, damping frequency, steady state error etc
+
+7. Study the time response of simulated linear systems
+
+8. Study the performance of PID Controller
+
+9. Plot impulse response, unit step response, unit ramp response of any 2nd order transfer function on same graph using MATLAB
+
+10. Draw the magnetization(Volt Amps) characteristics of the saturable core reactor used in the magnetic amplifier circuits
+
+11. Plot root locus for any 2nd order system (with complex poles). For Mp=30%, find the value of K using MATLAB
+
+12. Design lead-lag compensator for the given process using Bode plots in MATLAB

@@ -15,9 +15,6 @@ public class ICE2 extends AppCompatActivity implements View.OnClickListener {
 
 //    Button[] buttons = new Button[8];
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 

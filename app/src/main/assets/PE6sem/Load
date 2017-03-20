@@ -1,0 +1,38 @@
+LOAD DISPATCH AND ELECTRICITY REGULATIONS
+Paper Code: ETPE-302 L T/P C
+Paper: Load Dispatch and Electricity Regulations 2 1 3
+
+
+UNIT-I
+Load Dispatch
+Overview of power systems communication infrastructure, RTUs, SCADA, PLCC, Communication Systems,
+Network Protocols. Transfer of Energy in Power Systems, VAR flows, Power System Control, Voltage Control
+Methods, Load Frequency control-Speed Governing Systems, AGC, frequency limits; Economic load dispatch
+neglecting losses, Optimum load dispatch including transmission losses.
+[T1,T2]
+
+UNIT-II
+Unit commitment-constraints, spinning reserve, solution methods-Priority list method; Energy management
+Systems. LDCs-NLDC, SLDC, RLDC etc. Hydrothermal coordination-LR/SR scheduling, models, scheduling
+problems, dynamic programming solution to scheduling problem.
+[T1,T2]
+
+UNIT-III
+Unit commitment, State Estimation- basics, PS state estimation, ML weighted LSE-concepts, examples
+Regulatory Issues: Electricity Act 2003-IEA-1910, Electricity Supply Act 1948, Regulatory Commission Act
+1998. Transition to Deregulation- Problems in conventional systems, Blackouts-Analysis Reasons for reforms.
+[T1,T2]
+
+UNIT-IV
+IEA 2003. Its impact on power Generation, Transmission and Distribution, transmission Open Access, wheeling,
+power banking concepts. ABT basics, Energy Conservation concepts and DSM basics.
+[R2]
+
+
+Text:
+[T1] C.L.Wadhwa, “Electrical Power Systems”, 3rd Edition, New Age International Publishers, 2000.
+[T2] Allen J.Wood; Bruce F.Wollenberg, “Power Generation, Operation and Control, 2nd edition; John Wiley & Sons, 1996. (Only the relevant sections declared in class)
+
+References Books:
+[R1] Power System Operation, Robert H. Miller, McGraw Hill Book Co. 1970 (Only the relevant sections declared in class)
+[R2] Indian Electricity Act 2003, Universal Law Publishers, 2003

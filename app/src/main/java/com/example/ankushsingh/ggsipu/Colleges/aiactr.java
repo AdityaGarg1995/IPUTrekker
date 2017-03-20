@@ -1,5 +1,7 @@
 package com.example.ankushsingh.ggsipu.Colleges;
 
+
+
 import android.app.Activity;
 import android.os.Build;
 import android.support.v7.app.ActionBar;
@@ -15,8 +17,6 @@ import android.webkit.WebViewClient;
 import com.example.ankushsingh.ggsipu.R;
 import com.example.ankushsingh.ggsipu.Urls;
 
-
-
 public class aiactr extends AppCompatActivity {
 
 
@@ -25,14 +25,11 @@ public class aiactr extends AppCompatActivity {
 
 
     private void setupActionBar() {
-
         ActionBar actionBar = getSupportActionBar();
         if (actionBar != null)
             // Show the Up button in the action bar.
             actionBar.setDisplayHomeAsUpEnabled(true);
-
     }
-
 
     private void WebViewSettings(WebView webView){
 
@@ -51,7 +48,6 @@ public class aiactr extends AppCompatActivity {
                 return true;
             }
         });
-
     }
 
 
@@ -67,7 +63,6 @@ public class aiactr extends AppCompatActivity {
             return true;
 
         }
-
         return super.onKeyDown(keyCode, event);
 
     }
@@ -83,6 +78,7 @@ public class aiactr extends AppCompatActivity {
 //                builder.setToolbarColor(Color.RED);
 //                customTabsIntent.launchUrl(this, Uri.parse(Urls.aiactr));
 //                webView.loadUrl("https://drive.google.com/file/d/0B0QBCOtMbl-vU1AzN2RJOWJod3M/view?usp=sharing");
+                webView.loadUrl(Urls.aiactr);
                 break;
 
             case "Amity School of Education": webView.loadUrl(Urls.amity);
@@ -128,9 +124,7 @@ public class aiactr extends AppCompatActivity {
                 break;
 
         }
-
         a.setTitle(college);
-
     }
 
 
@@ -152,7 +146,7 @@ public class aiactr extends AppCompatActivity {
 
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.activity_main_menu, menu);
+        getMenuInflater().inflate(R.menu.refresh_menu, menu);
 
         if(Build.VERSION.SDK_INT < 21)
             menu.getItem(0).setIcon(getResources().getDrawable(R.drawable.ic_sync_black_24dp));
@@ -162,16 +156,14 @@ public class aiactr extends AppCompatActivity {
 
     }
 
-
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here.
         // The action bar automatically handles clicks on the Home/Up button, specified a parent activity in AndroidManifest.xml.
-        if(item.getItemId() == R.id.home){
+        if(item.getItemId() == R.id.refresh){
             webView.loadUrl(webView.getUrl());
             return true;
         }
         return super.onOptionsItemSelected(item);
     }
-
 
 }

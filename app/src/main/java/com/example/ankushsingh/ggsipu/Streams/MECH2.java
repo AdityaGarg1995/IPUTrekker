@@ -13,11 +13,7 @@ import com.example.ankushsingh.ggsipu.R;
 public class MECH2 extends AppCompatActivity implements View.OnClickListener {
 
 //    Button[] buttons = new Button[6];
-
-
-
     String stream;
-
     Intent intent;
 
 
@@ -37,18 +33,14 @@ public class MECH2 extends AppCompatActivity implements View.OnClickListener {
 //            buttons[i].setOnClickListener(this);
 //
 //        stream = getIntent().getExtras().getString("Stream");
-//
-//
 //        final Activity a = this;
 //        a.setTitle(stream);
-
 
     }
 
 
     @Override
     public void onClick(View v) {
-
 
 //            String url = "";
 //            intent = new Intent(Intent.ACTION_VIEW);

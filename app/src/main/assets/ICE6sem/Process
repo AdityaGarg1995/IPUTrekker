@@ -1,0 +1,35 @@
+Paper Code: ETIC–304 L T/P C
+Paper: Process Control 3 1 4
+
+
+UNIT - I
+Design Aspects of a process control system:
+  Design Elements of a control system.
+  Control aspects of a complete chemical plant, Development of a Mathematical model, Modelling considerations for control purposes, Dynamic Behavior of First order system, second order system and higher –order systems, introduction to Feedback control, Dynamic Behaviour of feedback-controlled processes, stability Analysis of feedback systems
+[T1, T2]
+
+UNIT - II
+Design of Feedback controllers:
+  Design problems of controllers, Selection of type of feedback controller, time–Integral performance criterion, Process Reaction Curve and frequency response characteristic, Ziegler-Nichol Rule, effect of dead time, dead time compensator and inverse response compensator
+[T1, T2]
+
+UNIT - III
+Study of multiple loops controller:
+  Cascade Control System, Selective control system, Split Range Control, Feed forward and Ratio control, Adaptive and Inferential control systems.
+[T1, T2]
+
+UNIT – IV
+Interaction & De-coupling of control loop:
+  Interaction of control loops, relative gain array and selection of the loops.
+  Design of non-interaction control loop, Multivariable model, Predictive control, Simple and multivariable dynamic matrix control loop.
+[T1, T2]
+
+
+Text Books:
+[T1] B. Wayne Bequette, “Process Control Modeling Design and Simulation”, PHI, 2003
+[T2] G. Stephanopulous, “Chemical Process Control”, PHI, 1997.
+
+Reference Books:
+[R1] B.G Liptak, “Instrumentation Engineers Handbook”, BH Publication, 1999
+[R2] D.R. Coughanour, ”Process system and analysis and control”, TMH
+[R3] W.H. Ray, ”Advanced Process Control”, Tata McGraw Hill

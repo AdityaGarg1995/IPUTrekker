@@ -18,11 +18,11 @@
         android:title="Individual Result"
         app:showAsAction="never" />
     <!--<item-->
-        <!--android:id="@+id/nues"-->
+        <!--android:id="@+id/codes"-->
         <!--android:orderInCategory="100"-->
-        <!--android:title="NUES"-->
+        <!--android:title="College Codes"-->
         <!--app:showAsAction="never" />-->
-    <!--<item-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
         <!--android:id="@+id/codes"-->
         <!--android:orderInCategory="100"-->
         <!--android:title="Stream Codes"-->

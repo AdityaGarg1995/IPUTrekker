@@ -1,0 +1,52 @@
+Paper Code: ETME-209
+Paper: Electrical Machines
+
+
+UNIT – I
+D.C. Machines:
+  Constructional features, Principles of operation, EMF equation Voltage build up phenomenon in a D.C. shunt generator, characteristics of different types of generators.
+  Principle of operation of DC motor, back emf, speed and torque equation, various characteristics of different motors, starters and speed control of DC motors, applications of DC generators and motors.
+[T1, T2]
+
+UNIT – II
+A.C. Machines:
+  Constructional features, concept of revolving magnetic field, and principle of operation of Three phase induction motors, torque slip characteristics and power flow in induction motors, induction motor as a transformer, equivalent circuit, performance calculations, starting and speed control.
+[T1, T2]
+
+UNIT – III
+Three Phase synchronous Machine:
+  Constructional features EMF equation.
+  Armature reaction of synchronous generator, voltage regulation of generators, phasor diagrams and equivalent circuits of synchronous machine, computation of synchronous machine performance.
+  Starting methods and principle of operation of synchronous motors, synchronous condenser.
+[T1, T2]
+
+UNIT – IV
+Single phase induction motors:
+  double revolving field theory, different types of single phase induction motors, characteristics and typical applications.
+  Stepper motors, hysteresis motor, Servo motors, AC series motor and Universal motor and their applications to mechanical systems.
+[T1, T2]
+
+Text Books:
+[T1] Electric Machinery, 6th edition
+      A. Fitzgerald, Charles Kingsley, Stephen Umans
+       Tata McGraw Hill Education, 2002
+[T2] Electrical Machines
+      D.P. Kothari, I.J. Nagrath
+       Tata McGraw Hill Education, 2014
+
+Reference Books:
+[R1] Electrical and Electronic Technology, 10th edition
+      Hughes Edward, Ian Mckenzie Smith, JohnHiley
+       Pearson Eduction, 2010
+[R2] Electrical Engineering Fundamentals, 2nd edition
+      Vincent Del Toro
+       Prentice-Hall, 1989
+[R3] Introduction to Electrical Engineering
+      Mulukutla S. Sarma
+       Oxford University Press Inc., 2001
+[R4] Problems in Electrical Engineering: Power engineering and electronics with answers Partly Solved in S.I. Units, 9th edition
+      Parker Smith
+       CBS Publishers, 2003
+[R5] Basic Electrical Engineering
+      C.L. Wadhwa
+       New Age International, 2007

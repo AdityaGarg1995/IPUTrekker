@@ -1,0 +1,29 @@
+Paper Code: ETMT-358 L T/P C
+Paper: Microprocessors and Microcontrollers Lab 0 2 1
+
+
+List of Experiments:
+
+
+1. Write a program to add and subtract two 16-bit numbers with/ without carry using 8086.
+
+2. Write a program to multiply two 8 bit numbers by repetitive addition method using 8086.
+
+3. Write a Program to generate Fibonacci series.
+
+4. Write a Program to generate Factorial of a number.
+
+5. Write a Program to read 16 bit Data from a port and display the same in another port.
+
+6. Write a Program to generate a square wave using 8254.
+
+7. Write a Program to generate a square wave of 10 kHz using Timer 1 in mode 1(using 8051).
+
+8. Write a Program to transfer data from external ROM to internal (using 8051).
+
+9. Design a Minor project using 8086 Micro processor (Ex: Traffic light controller/temperature controller etc)
+
+10. Design a Minor project using 8051 Micro controller
+
+
+NOTE: - At least 8 Experiments out of the list must be done in the semester.

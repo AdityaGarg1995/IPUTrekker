@@ -1,0 +1,60 @@
+POWER SYSTEM PROTECTION AND SWITCHGEAR
+Paper Code: ETPE-403 L T/P C
+Paper: Power System Protection and Switchgear 3 1 4
+
+
+UNIT-I
+PROTECTION
+Protection System: Importance of protective relaying in power systems; Fundamental requirements of a good
+protection scheme; Zones of protection, Primary and Back–up Relaying.
+Protective Relays : Terms used in protective relaying; Classifications of Relays - Constructional / Functional;
+Electromagnetic Relays – attracted armature, induction disc, induction cup types relays; Overcurrent and Earth
+fault relays, Directional, Differential, Distance Relays etc.; Principles & Characteristics of relays; Operation,
+setting, testing and applications, maintenance requirements of relays; Translay relay; Negative Sequence relays;
+Universal Relay Torque Equation; Electronic relays; Static relays; Digital relays; Microprocessor and PC based
+relaying; Current & Future trends.
+[T1][T2][T3][T5]
+
+UNIT-II
+SWITCHGEAR
+Circuit Interruption: Fuses - Types of fuses, Terms (Fusing factor, Breaking capacity etc.), Fuse selection,
+HRC fuses and their applications; Arcing phenomena, Essential properties of arc, Initiation and Maintenance of an
+arc, Arc voltage, Arc interruption theories, Recovery and Restriking voltages, Rate of Rise of Restriking Voltage
+(RRRV), Resistance Switching, Inductive current chopping, Capacitive current breaking.
+[T3][T4][R2 &R4]
+
+UNIT-III
+Circuit Breakers: AC and DC circuit breaking, Types of Circuit Breakers - ACB, OCB, ABCB, SF6CB, VCB;
+Static Circuit Breakers; Comparative merits and demerits of different types of CBs, Rating of Circuit Breakers,
+Testing and Selection of Circuit Breakers, Autoreclosing.
+POWER PLANT PROTECTION
+Protection Schemes: Schemes for protection of transmission line; Merz-Price circulating current scheme,
+Percentage differential relay, Restricted earth fault protection, Negative Sequence protection, Translay scheme,
+Carrier relaying scheme, Pilot relaying scheme, Static and other relays used in transmission line protection.
+[T1][T2][R1 &R3]
+
+UNIT-IV
+Generator Protection: Neutral earthing, stator and rotor earth faults, sustained external faults, instability,
+protective systems.
+Transformer Protection: Various transformer protections, protective systems for Generator Transformers (GTs),
+Unit Auxiliary Transformers (UATs) and Station Transformers (STs).
+Motor Protection: Faults and Protection systems.
+Busbar Protection: Continuity of supply, Discrimination, Circulating current systems, special features relating to
+different voltage systems.
+Feeder Protection: Continuity of supply discrimination, outline of protection systems – Pilot wire, carrier
+current, distance protection, PLCC – Telemetry Communication.
+[T2][T5][R5]
+
+
+Text Books:
+[T1] The Electricity Council, “Power System Protection”, Vol.1, 2 & 3, Peter Peregrinus Ltd., 1990.
+[T2] M. V. Despande, “Switchgear and Protection”
+[T3] B. Ram and D. N. Vishwakarma, “Power System Protection & Switchgear”, TMH
+[T4] T. S. M. Rao, “Power System Protection: Static Relays with Microprocessor Applications”, TMH.
+[T5] “Modern Power Station Practice”, Vol. D & K, British Electricity International Ltd., Central Electricity Generating Board, Pergamon Press, Oxford, 1991.
+Reference Books:
+[R1] Van, A. R., & Warrington, C., “Protective Relays : Their Theory and Practice“, Vol. 1 & 2, Chapman and Hall, 1969.
+[R2] Sunil S. Rao, “Switchgear and Protection”, Khanna Publishers.
+[R3] Paithankar, Y. G., “Transmission Network Protection : Theory and Practice”, Marcel Dekker, Inc., 1998.
+[R4] B. Ravindranath and M. Chander, “Power System Protection and Switchgear”, Wiley Eastern Ltd.
+[R5] L. P. Singh, “Digital Protection”, New Age International.

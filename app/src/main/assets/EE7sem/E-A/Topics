@@ -1,0 +1,44 @@
+SELECTED TOPICS IN EE
+Paper Code: ETEL-421 L T/P C
+Paper: Selected Topics in EE 3 0 3
+Objective: The objective of this paper is to introduce the student about induction Generator, Harmonics in
+Electrical Machine, Solar photovoltaic system and other related functions
+UNIT I
+Induction Generator: Torque-speed characteristics of an induction machine under generation mode, Line/grid
+Connected Induction Generator : Operation and limitations, Self Excited Induction Generator (SEIG) : Process of
+self excitation, conditions of self excitation, critical capacitance curve, no load characteristics (terminal
+capacitance vs induced voltage at constant speed), load characteristics (terminal voltage vs load current at fixed
+terminal capacitance & constant speed), frequency characteristics (frequency of generated voltage vs resistive
+load current) and voltage characteristic improvement using additional capacitor (capacitance vs resistive load
+current keeping terminal voltage and speed constant).
+[T1, R3] [No. of Hrs. 10]
+UNIT II
+Harmonics in Electrical Machines: Harmonics in 3-phase transformers, Space distribution of magnetic field
+produced by direct current in stator field coils of a D.C. machine, Space distribution of magnetic field produced
+by current in armature windings of a D.C. machine, Effect of armature MMF on main field of a D.C. machine,
+Space distribution of magnetic field produced by 3-phase distributed stator winding of a 3-phase induction
+machine, Space harmonics and their effects in a 3-phase induction machine, Operation of 3-phase induction
+motor on unbalanced supply.
+[T1, R4] [No. of Hrs. 10]
+UNIT III
+Solar Photovoltaic System: Introduction, Standards, SPV Water Pumping System, SPV Cell for
+Communication Equipment and other application of SPV, PV Hybrid System, Grid Interactive Solar PV System,
+Solar Photovoltaic in India, Roof top Solar Plant, Introduction of JNNSM, Possibilities and Limitations of Solar
+Energy in India.
+[T2, R1, R2] [No. of Hrs. 10]
+UNIT IV
+Electrical Energy Conservation: Modern compact fluorescent lamps, energy audit methods of saving electricity
+in drives, lighting, air conditioning, pumps and distributions systems metering, KW, KWh and KVAR meters,
+Standby power generation: DG sets, UPS, online Inverters and their maintenance.
+[T2, R5, R6] [No. of Hrs. 10]
+Text Books:
+[T1] Chapman – “Electrical Machine Fundamentals”, McGraw Hill.
+[T2] D.P. Kothari – “Renewable Energy Sources and Emerging Technologies”, PHI, Second Edition.
+References:
+[R1] Tiwari and Ghosal, “Renewable Energy Resources: Basic Principle & Application”, Narosa Publication
+[R2] John Twidell, “Renewable Energy Sources”, Taylor and Francis
+[R3] A Fitzgerald, Charles Kingsley, Stephen Umans, Electric Machinery, Tata McGraw Hill Education, 6th
+Edition, 2002
+[R4] K. Venkataratnam, “Special Electrical Machines”, Oxford University Press, Hydearbad, 2008
+[R5] W.C. Turner, Energy Management Handbook, 2e, Fairmont press, 1993.
+[R6] UNESCAP – Guide Book on Promotion of Sustainable Energy Consumption.

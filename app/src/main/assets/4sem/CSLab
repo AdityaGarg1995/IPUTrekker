@@ -30,3 +30,6 @@ List of Experiments:
 11. Plot root locus for any 2nd order system (with complex poles). For Mp=30%, find the value of K using MATLAB
 
 12. Design lead-lag compensator for the given process using Bode plots in MATLAB
+
+
+NOTE:- At least 8 Experiments out of the list must be done in the semester.

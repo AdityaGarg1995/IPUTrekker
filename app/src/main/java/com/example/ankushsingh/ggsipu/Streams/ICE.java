@@ -8,7 +8,6 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.example.ankushsingh.ggsipu.R;
-import com.example.ankushsingh.ggsipu.StreamNames;
 import com.example.ankushsingh.ggsipu.Urls;
 
 
@@ -16,9 +15,9 @@ import com.example.ankushsingh.ggsipu.Urls;
 public class ICE extends AppCompatActivity implements View.OnClickListener {
 
 //    Button button1,button2,button3,button4;
-    Intent intent;
-
-    public static final String url2 = "http://freebooks.pupilgarage.com/FreeBookDownload?category=control_instrumentation";
+//    Intent intent;
+//
+//    public static final String url2 = "http://freebooks.pupilgarage.com/FreeBookDownload?category=control_instrumentation";
 
 
     @Override
@@ -27,36 +26,30 @@ public class ICE extends AppCompatActivity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_it);
 
-        findViewById(R.id.it2).setOnClickListener(this);
-        findViewById(R.id.it3).setOnClickListener(this);
-        findViewById(R.id.it6).setOnClickListener(this);
-        findViewById(R.id.it7).setOnClickListener(this);
-
-
-        final Activity a = this;
-        a.setTitle("Instrumentation and Control");
-
-
+//        findViewById(R.id.it2).setOnClickListener(this);
+//        findViewById(R.id.it3).setOnClickListener(this);
+//        findViewById(R.id.it6).setOnClickListener(this);
+//        findViewById(R.id.it7).setOnClickListener(this);
+//
+//        final Activity a = this;
+//        a.setTitle("Instrumentation and Control");
     }
 
 
     @Override
     public void onClick(View v) {
-
-        switch(v.getId()){
-            case R.id.it2: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.iceSyllabus));
-                break;
-            case R.id.it3: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
-                break;
-            case R.id.it7: intent = new Intent(this,RESULT.class).putExtra("Stream","ICE");
-                break;
-            case R.id.it6: intent = new Intent(this,IT2.class).putExtra("StreamName","ICE");
-                break;
-        }
-
-        if(intent != null)
-            startActivity(intent);
-
+//        switch(v.getId()){
+//            case R.id.it2: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.iceSyllabus));
+//                break;
+//            case R.id.it3: intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url2));
+//                break;
+//            case R.id.it7: intent = new Intent(this,ZChooseSemForSyll.class).putExtra("Stream","ICE");
+//                break;
+//            case R.id.it6: intent = new Intent(this,IT2.class).putExtra("StreamName","ICE");
+//                break;
+//        }
+//        if(intent != null)
+//            startActivity(intent);
     }
 
 }

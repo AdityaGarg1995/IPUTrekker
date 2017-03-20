@@ -1,0 +1,26 @@
+Paper Code: ETTE-351 L T/P C
+Paper: CNC Machining & Programming Lab 0 2 1
+List of Experiments:
+1. Study of Graziano CNC lathe- programming codes – programs for simple components using linear
+interpolation, circular interpolation; study of tools & zero offsets.
+2. Study of Duplo-standard CNC lathe – programming codes- programs for simple components using
+linear interpolation, circular interpolation ; study of tools & zero offsets.
+3. Create a part program for component using canned cycles on Graziano or Duplo-standard CNC lathe
+for internal drill, boring & simulate in the software.
+4. Create a part program for component using cycles of thread cutting and grooving operation on
+Graziano or Duplostandard CNC lathe & simulate in the software.
+5. Absolute programming – Incremental programming – mixed programming for component on
+Graziano or Duplostandard CNC lathe & simulate in the software.
+6. Create a part program for step turning & simulate in the software using G90 cycle of FANUC control.
+7. Create a part program for multiple turning operations & simulate in the software using stock removal
+cycle and finishing cycle G71, G70 of FANUC control.
+8. Study of RAMBAUDI copy milling VMC with FAGOR control – programming codes.
+9. Study of NOVAR CNC milling machine with Heidenhain control–programming method.
+10. Study of MCM horizontal machining center – programming codes – programs for simple profiles
+using linear interpolation, circular interpolation – simulation – Absolute & Incremental programming
+– machining.
+11. Create a part program on MCM HMC for mirroring, Scaling, Rotation & simulate in software using
+sub-program & main program.
+12. Create a part program on MCM HMC using Parametric programming method for engraving a profile
+on the top of a surface.
+NOTE:- At least 8 Experiments out of the list must be done in the semester.

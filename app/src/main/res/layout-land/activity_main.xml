@@ -1,342 +1,482 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="fill_parent" android:layout_height="fill_parent">
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:actionBarNavMode="tabs">
 
-    <RelativeLayout
+    <RelativeLayout android:layout_height="match_parent"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:background="@color/white"
         >
+        <!--<RelativeLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--&gt;-->
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/l11"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textSize="35dp"-->
+        <!--android:text="Select Your College"-->
+        <!--android:gravity="center"-->
+        <!--android:textColor="@color/white"-->
+        <!--android:layout_marginTop="@dimen/activity_horizontal_margin"-->
+        <!--/>-->
+        <!--</android.support.v7.widget.CardView>&ndash;&gt;-->
 
-        <android.support.v7.widget.CardView
+
+        <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/l2"-->
+        <!--android:layout_below="@+id/l11">-->
+        <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="getting started"-->
+        <!--android:textSize="30dp"-->
+        <!--android:textColor="@color/white" /> </LinearLayout>-->
+
+
+        <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:weightSum="3"-->
+        <!--android:id="@+id/r1"-->
+        <!--android:layout_below="@+id/l2"-->
+        <!--android:orientation="horizontal"-->
+        <!--&gt;-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:src="@drawable/aiactr"-->
+        <!--android:background="@color/white"-->
+        <!--android:id="@+id/aiactr"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/amity"-->
+        <!--android:id="@+id/amity"-->
+        <!--android:background="@color/white"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/bpit"-->
+        <!--android:background="@color/white"-->
+        <!--android:id="@+id/bpit"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--</LinearLayout>-->
+
+
+        <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:weightSum="3"-->
+        <!--android:id="@+id/r2"-->
+        <!--android:layout_below="@+id/r1"-->
+        <!--android:orientation="horizontal"-->
+        <!--&gt;-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/bvp"-->
+        <!--android:background="@color/white"-->
+        <!--android:id="@+id/bvp"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/bp"-->
+        <!--android:background="@color/white"-->
+        <!--android:id="@+id/bp"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:textAlignment="center"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/dite"-->
+        <!--android:background="@color/white"-->
+        <!--android:id="@+id/dite"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--</LinearLayout>-->
+
+        <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:weightSum="3"-->
+        <!--android:id="@+id/r3"-->
+        <!--android:layout_below="@+id/r2"-->
+        <!--android:orientation="horizontal"-->
+        <!--&gt;-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/dtc"-->
+        <!--android:background="@color/white"-->
+        <!--android:id="@+id/dtc"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/gbp"-->
+        <!--android:id="@+id/gbp"-->
+        <!--android:background="@color/white"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/gtbit"-->
+        <!--android:id="@+id/gtbit"-->
+        <!--android:background="@color/white"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--</LinearLayout>-->
+
+
+        <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:weightSum="3"-->
+        <!--android:id="@+id/r4"-->
+        <!--android:layout_below="@+id/r3"-->
+        <!--android:orientation="horizontal"-->
+        <!--&gt;-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/hmr"-->
+        <!--android:id="@+id/hmr"-->
+        <!--android:background="@color/white"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/jims"-->
+        <!--android:id="@+id/jims"-->
+        <!--android:background="@color/white"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/mait"-->
+        <!--android:id="@+id/mait"-->
+        <!--android:background="@color/white"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--</LinearLayout>-->
+
+
+        <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:weightSum="3"-->
+        <!--android:id="@+id/r5"-->
+        <!--android:layout_below="@+id/r4"-->
+        <!--android:orientation="horizontal"-->
+        <!--&gt;-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/msit"-->
+        <!--android:background="@color/white"-->
+        <!--android:id="@+id/msit"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/niit"-->
+        <!--android:id="@+id/niit"-->
+        <!--android:background="@color/white"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:elevation="4dp"-->
+        <!--&gt;-->
+        <!--<ImageButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/npti"-->
+        <!--android:id="@+id/npti"-->
+        <!--android:background="@color/white"-->
+        <!--android:layout_gravity="center"-->
+        <!--/> </android.support.v7.widget.CardView>-->
+
+        <!--</LinearLayout>-->
+        <!--</RelativeLayout>-->
+
+        <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/l11"
-            android:elevation="4dp"
-            >
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textSize="35dp"
-                android:text="Select Your College"
-                android:gravity="center"
-                android:textColor="@color/black"
-                android:layout_marginTop="@dimen/activity_horizontal_margin"
-                /> </android.support.v7.widget.CardView>
-
-
-        <LinearLayout
+            android:layout_height="90dp"
+            android:id="@+id/aiactr"
+            android:text="@string/aiactr"
+            android:drawableLeft="@drawable/aiactr"
+            android:background="@color/white"
+            />
+        <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/l2"
-            android:layout_below="@+id/l11">
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="getting started"
-                android:textSize="30dp"
-                android:textColor="@color/white" /> </LinearLayout>
-
-
-        <LinearLayout
+            android:layout_height="90dp"
+            android:id="@+id/amity"
+            android:text="@string/amity"
+            android:drawableLeft="@drawable/amity"
+            android:background="@color/white"
+            android:layout_below="@+id/aiactr"
+            />
+        <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:weightSum="3"
-            android:id="@+id/r1"
-            android:layout_below="@+id/l2"
-            android:orientation="horizontal"
-            >
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:src="@drawable/aiactr"
-                android:background="@color/white"
-                android:id="@+id/aiactr"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:src="@drawable/amity"
-                android:id="@+id/amity"
-                android:background="@color/white"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:src="@drawable/bpit"
-                android:background="@color/white"
-                android:id="@+id/bpit"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-        </LinearLayout>
-
-
-        <LinearLayout
+            android:layout_height="90dp"
+            android:id="@+id/bpit"
+            android:text="@string/bpit"
+            android:drawableLeft="@drawable/bpit"
+            android:background="@color/white"
+            android:layout_below="@+id/amity"
+            />
+        <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:weightSum="3"
-            android:id="@+id/r2"
-            android:layout_below="@+id/r1"
-            android:orientation="horizontal"
-            >
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:src="@drawable/bvp"
-                android:background="@color/white"
-                android:id="@+id/bvp"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:src="@drawable/bp"
-                android:background="@color/white"
-                android:id="@+id/bp"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:textAlignment="center"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:src="@drawable/dite"
-                android:background="@color/white"
-                android:id="@+id/dite"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            </LinearLayout>
-
-        <LinearLayout
+            android:layout_height="90dp"
+            android:id="@+id/bvp"
+            android:text="@string/bvp"
+            android:drawableLeft="@drawable/bvp"
+            android:background="@color/white"
+            android:layout_below="@+id/bpit"
+            />
+        <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:weightSum="3"
-            android:id="@+id/r3"
-            android:layout_below="@+id/r2"
-            android:orientation="horizontal"
-            >
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:src="@drawable/dtc"
-                android:background="@color/white"
-                android:id="@+id/dtc"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:src="@drawable/gbp"
-                android:id="@+id/gbp"
-                android:background="@color/white"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:src="@drawable/gtbit"
-                android:id="@+id/gtbit"
-                android:background="@color/white"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-        </LinearLayout>
-
-
-        <LinearLayout
+            android:layout_height="90dp"
+            android:id="@+id/bp"
+            android:text="@string/bp"
+            android:drawableLeft="@drawable/bp"
+            android:background="@color/white"
+            android:layout_below="@+id/bvp"
+            />
+        <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:weightSum="3"
-            android:id="@+id/r4"
-            android:layout_below="@+id/r3"
-            android:orientation="horizontal"
-            >
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:src="@drawable/hmr"
-                android:id="@+id/hmr"
-                android:background="@color/white"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:src="@drawable/jims"
-                android:id="@+id/jims"
-                android:background="@color/white"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:src="@drawable/mait"
-                android:id="@+id/mait"
-                android:background="@color/white"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-        </LinearLayout>
-
-
-        <LinearLayout
+            android:layout_height="90dp"
+            android:id="@+id/dite"
+            android:text="@string/dite"
+            android:drawableLeft="@drawable/dite"
+            android:background="@color/white"
+            android:layout_below="@id/bp"
+            />
+        <Button
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:weightSum="3"
-            android:id="@+id/r5"
-            android:layout_below="@+id/r4"
-            android:orientation="horizontal"
-            >
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:src="@drawable/msit"
-                android:background="@color/white"
-                android:id="@+id/msit"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:src="@drawable/niit"
-                android:id="@+id/niit"
-                android:background="@color/white"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:elevation="4dp"
-                >
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:src="@drawable/npti"
-                android:id="@+id/npti"
-                android:background="@color/white"
-                android:layout_gravity="center"
-                /> </android.support.v7.widget.CardView>
-
-        </LinearLayout>
-
-
+            android:layout_height="90dp"
+            android:id="@+id/dtc"
+            android:text="@string/dtc"
+            android:drawableLeft="@drawable/dtc"
+            android:background="@color/white"
+            android:layout_below="@+id/dite"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/gbp"
+            android:layout_below="@id/dtc"
+            android:text="@string/gbp"
+            android:drawableLeft="@drawable/gbp"
+            android:background="@color/white"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/gtbit"
+            android:text="@string/gtbit"
+            android:drawableLeft="@drawable/gtbit"
+            android:background="@color/white"
+            android:layout_below="@+id/gbp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/hmr"
+            android:text="@string/hmr"
+            android:drawableLeft="@drawable/hmr"
+            android:background="@color/white"
+            android:layout_below="@+id/gtbit"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/jims"
+            android:text="@string/jims"
+            android:drawableLeft="@drawable/jims"
+            android:background="@color/white"
+            android:layout_below="@+id/hmr"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/mait"
+            android:text="@string/mait"
+            android:drawableLeft="@drawable/mait"
+            android:background="@color/white"
+            android:layout_below="@+id/jims"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/msit"
+            android:text="@string/msit"
+            android:drawableLeft="@drawable/msit"
+            android:background="@color/white"
+            android:layout_below="@+id/mait"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/niit"
+            android:text="@string/niit"
+            android:drawableLeft="@drawable/niit"
+            android:background="@color/white"
+            android:layout_below="@+id/msit"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/npti"
+            android:text="@string/npti"
+            android:drawableLeft="@drawable/npti"
+            android:background="@color/white"
+            android:layout_below="@+id/niit"
+            />
 
     </RelativeLayout>
-    </ScrollView>
 
+</ScrollView>

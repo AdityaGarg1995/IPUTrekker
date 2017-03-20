@@ -1,0 +1,58 @@
+Paper Code : ETEE-208 L T/P C
+Paper: Electrical & Electronic Measuring Instruments 3 1 4
+
+
+UNIT I [Power and Energy Measurement]
+Instrument transformers:
+  CT and PT, Ratio and phase angle errors.
+Measurement of Power:
+  Single phase & 3-phase dynamometer wattmeter, LPF and UPF, expression for deflecting and control torques, Extension of range of wattmeter using instrument transformers.
+  Type of P.F. Meters, dynamometer and moving iron type, Single phase & 3-phase meters.
+  Frequency meters, Resonance type and Weston type, synchoroscopes.
+Measurement of Energy:
+  single phase & 3-phase induction type energy meter, driving and braking torques, errors and compensations , testing by phantom loading, trivector meter, maximum demand meters.
+[T1 T2]
+
+UNIT II [Potentiometers and Bridges]
+Principle of operation and types of DC/AC potentiometers, application of DC/AC potentiometers.
+Bridges for measuring low, medium and high resistance, Carey Foster’s bridge, Kelvin’s double bridge, Megohm bridge, Megger.
+A.C. Bridges:
+  Measurement of inductance and capacitance, Maxwell’s bridge, Hay’s bridge, Anaderson’s bridge, Owen’s bridge, Heaviside Bridge and its modifications, Desauty bridge.
+  Wien’s bridge, Schering Bridge.
+[T1 T2]
+
+UNIT III
+[Display Devices and Recorders]
+Introduction of various display devices, LCD, LED and plasma display, resolution, sensitivity and accuracy specifications, CRO & its applications, triggered CRO, sampling oscilloscope.
+Recorders:
+  requirement of recording data, selection of recorder for a particular application, analog, graphic, strip chart, galvanometeric, circular chart, XY, digital recorders, single point and multipoint recorders.
+Printers:
+  Types of Printers, Drum type printer, dot matrix type printer ,Ink-jet and Laser jet printers.
+[T1 T2]
+
+UNIT IV
+[Electronic Measuring Instruments]
+Electronic Voltmeter:
+  Solid state voltmeter, RMS and average reading voltmeters, rectifier type voltmeter, vector voltmeter, A.C. voltage measurements. Current measurement using electronic instruments, multi range ammeter, Measurement of Power at Audio and Radio Frequencies, Diode Sensor based instruments, Analog and Digital Multimeters.
+  Digital Measurement of time, frequency, phase, pH, capacitance, Counters.
+Function Generator:
+  Sine, Square and Triangular wave generator.
+[T1 T2]
+
+
+Text Book:
+[T1] E.W. Gloding and F.C. Widdis
+      Electrical Measurements and measuring Instruments, fifth Edition
+       Wheeler Publishing
+[T2] A.K. Shawney - Electrical & Electronic Measurement & Instruments, Dhanpat Rai & Sons Publications, 2000
+
+Reference Books:
+[R1] Buckingham and Price
+      Electrical Measurements
+       Prentice – Hall Harris - Electrical Measurements
+[R2] Reissland, M. U.
+      Electrical Measurements: Fundamentals, Concepts, Applications
+       New age International (P) Limited, Publishers
+[R3] W.D. Cooper
+      “Modern Electronics Instrumentation & Measurement Technique”
+        PHI, 1998

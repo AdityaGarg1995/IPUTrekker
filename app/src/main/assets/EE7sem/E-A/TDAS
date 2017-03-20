@@ -1,0 +1,45 @@
+Paper Code : ETEE-411 L T/P C
+Paper: Telemetry & Data Acquisition System 3 0 3
+Objective: Telemetry is the study of data communication between a numbers of locations. Data Acquisition
+system deals with acquiring the data from different sources, processing the data so that it can be made
+compatible to be used with the controlling systems. So, the study of this subject is very useful for the students who
+are to work in automation industries.
+UNIT – I
+Telemetry Concepts
+Introduction: Methods of data transmission, general telemetry system, types of telemetry systems, voltage,
+current, position, landline, radio frequency telemetry systems.
+Sampling fundamentals: Introduction to sampling theorem and sampling process, convolution, computing
+minimum sampling rate, Aliasing Errors.
+Digital Modulation Techniques: AM, FM, Review of PCM, DPCM, DM code converters, PSK, QPSK, FSK,
+Probability of error, Phase ambiguity Resolution and differential encoding, Error detection, Error correction,
+Error correcting codes.
+[T1 T2][No. of Hrs. 12]
+UNIT – II
+Data Communication Systems
+Data Transmission system: Methods of binary data transmission, data formats, Block schematic, Sensors,
+Signal conditioners, Multiplexing – high level and low level, ADC – Range and Resolution, Word Format,
+Frame format, Frame of Synchronizer codes, RF links, X24, RS422, RS423, RS232C interfaces, Multi terminal
+configuration, Multiplier & concentrator, Data Modems, Data transmission over telephone lines, power line
+carrier communication.
+Data reception systems: Bit Synchronizers, Frame Synchronizers, Sub frame Synchronizers, PLL, Display
+System.
+[T1 T2][No. of Hrs. 10]
+UNIT – III
+Remote Control: Communication Based Processing Control Systems, Pipelines, Operational security system
+components, Pipeline control, Power system control, Programmable controllers for factory automation.
+Command: Tone Command system, Tone Digital Command system, ON/OFF command and Data commands.
+Aerospace Telemetry: Signal Formation and Conversion, Multiplexing Techniques in Telecontrol installations,
+Reliability in Telecontrol installations. Optoelectronics/Fiber cable based scheme.
+[T1 T2][No. of Hrs. 10]
+UNIT – IV
+Data Acquisition System (DAS)
+Introduction, Analog and digital data acquisition system, Importance of DAS, building blocks of DAS, sample
+and hold circuits, A/D, D/A, multiplexer . Microprocessor based DAS.
+[T1 T2][No. of Hrs. 10]
+Text Books:
+[T1] Patranabis, “Telemetry Principles”, TMH.
+[T2] H. Rosemary Taylor, “Data Acquisition for Sensor Systems”, Chapman & Hall
+Reference Books:
+[R1] William Schweber, “Data Communication,” TMH Edition-1999
+[R2] Frank Cardon, Russell Jedlicka and Robert Henry, “Telemetry Systems Engineering” Artech House,
+Boston, London

@@ -1,0 +1,45 @@
+Paper Code: ETEE-211 L T C
+Paper: Electrical Machines-I 3 1 4
+Objective: Providing sound knowledge about the principles of operation of various electrical machines, their
+constructional features, and their behavior and characteristics under various condition of operation.
+UNIT I
+Principles of EMEC: Energy in Electro-Magnetic Systems, Flow of Energy in Electro-Mechanical Devices,
+Energy and co-energy in Magnetic field, Singly and doubly excited systems, Electromagnetic and Reluctance
+Torque.
+DC Generators: Constructional features, Armature winding details, lap & wave connections, EMF equation,
+separately excited, shunt, series and compound connected D.C. generators process of voltage build up in shunt
+generators, Characteristics and applications of separately/self-excited generators.
+[T1, T2][No. of Hrs. 11]
+UNIT II
+DC Generators (Contd.): Armature Reaction, Demagnetizing and Cross-magnetizing armature MMF, Interpoles
+and compensating windings, commutation process and its improvement.
+D.C. Motors: Speed and Torque Equation of D.C. motors, Characteristics of D.C. series, shunt and compound
+motors and their applications, Starting and speed control of D.C. motors, Braking of D.C. motors, Efficiency and
+testing of D.C. Machines, Introduction of D.C. servo motor and permanent magnet / brushless D.C. motors.
+[T1, T2][No. of Hrs. 11]
+UNIT III
+Single phase Transformers: Transformer construction and practical considerations. Equivalent circuit(Exact and
+approximate), per unit values, Phasor diagram, Transformer testing : open circuit test, Short Circuit test,
+Sumpner’s test, Efficiency and voltage regulation, All day efficiency.
+[T1, T2][No. of Hrs.11]
+UNIT IV
+3 phase Transformers: Three-phase Bank of Single-phase Transformers, Parallel operations of 1-phase and 3-
+phase transformers, load division between transformers in parallel. Three winding transformers, Zigzag
+connections, vector grouping with clock convention, tertiary winding, tap changing, phase conversions-3phase to
+2 phase and 3phase to 6 phase.
+Special Purpose Transformers: Auto-transformers. Welding, Traction, Instruments and pulse Transformers.
+[T1, T2][No. of Hrs.11]
+TEXT BOOKS:
+[T1] Electric Machinery, A Fitzgerald, Charles Kingsley, Stephen Umans, Tata McGraw Hill Education, 6th
+Edition, 2002.
+[T2] Electrical Machines with MATLAB, Turan Gnen, CRC Press,Taylor&Francis, 2nd edition, 1998.
+REFERENCE BOOKS:
+[R1] The Performance and Design of Alternating Current Machines, M.G. Say, CBS Publishers, 2005
+[R2] Electro-Mechanical Energy Conversion with Dynamics of Machines, Rakosh Das Begamudre, Wiley-
+Blackwell, 1988.
+[R3 Performance and Design of Direct Current Machines: AE Clayton and NN Hancock, CBS
+Publishers, 2014
+[R4] Oblems in Electrical Engineering: Power engineering and electronics with answers Partly Solved in
+I. Units: Parker Smith , CBS Publishers, 9th edition, 2003
+[R5] Electric Machines, I J Nagrath D P Kothari, Mc Graw-Hill Education, 3rd edition, 2011
+[R6] Samarjit Ghosh, “Electrical Machines”, Pearson

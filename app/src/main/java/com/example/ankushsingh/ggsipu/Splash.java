@@ -18,8 +18,6 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 public class Splash extends AppCompatActivity {
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -41,7 +39,9 @@ public class Splash extends AppCompatActivity {
             public void onAnimationEnd(Animation animation) {
                 iv.startAnimation(an2);
                 finish();
-                startActivity(new Intent(Splash.this,HomeActivity.class));
+                try {
+                    startActivity(new Intent(Splash.this, HomeActivity.class));
+                }catch (Exception e){e.printStackTrace();}
             }
 
             @Override

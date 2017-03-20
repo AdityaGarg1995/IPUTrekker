@@ -1,0 +1,41 @@
+Paper Code: ETMA-252 L T/P C
+Paper: Numerical Analysis and Statistical Techniques Lab 0 2 1
+
+
+List of Experiments:-
+
+1. Solution of algebraic and transcendental equation.
+
+2. Algebra of matrices: Addition, multiplication, transpose etc.
+
+3. Inverse of a system of linear equations using Gauss-Jordan method.
+
+4. Numerical Integration.
+
+5. Solution of ordinary differential equations using Runge-Kutta Method.
+
+6. Solution of Initial value problem.
+
+7. Calculation of eigen values and eigen vectors of a matrix.
+
+8. Plotting of Unit step function and square wave function.
+
+
+It is expected that atleast 12 experiments be performed, including the above specified 8 experiments which are
+compulsory. The remaining experiments may be developed by faculty and students based on applications of
+Mathematics in Real Life problem.
+
+
+Text Books:
+[T1] B.S. Grewal., “Numerical Methods in Engg. And Science”, Khanna Publications
+[T2] P. Dechaumphai & N. Wansophark, “Numerical Methods in Engg.: Theories with Matlab, Fortran, C & Pascal Programs”, Narosa Publications
+
+Reference Books:
+[R1] P.B. Patil & U.P. Verma, “Numerical Computational Methods”, Narosa Publications
+[R2] John C. Polking & David Arnold, “Ordinary Differential Equations using MATLAB”, Pearson Publications
+[R3] Rudra Pratap, “Getting Started With MatLab” Oxford University Press
+[R4] Byrom Gottfried, “Programming With C” Shaum’s Outline
+[R5] Santosh Kumar, “Computer based Numerical & Statistical Techniques”, S. Chand Publications.
+
+
+NOTE:- At least 8 Experiments out of the list must be done in the semester.

@@ -1,0 +1,94 @@
+ELECTRICAL AND ELECTRONIC MEASUREMENTS AND INSTRUMENTATION
+(For Electrical Specialization)
+
+Paper Code: ETPE-313 L T/P C
+Paper: Electrical & Electronic Measurements and Instrumentation 3 1 4
+
+
+UNIT-I
+Electrical Measurements
+Measurements and Instruments:
+  Measurements – Significance, Methods, Types; Instruments – Types, Classification; Functions of Instruments and Measurement Systems; Generalized Measurement System;Application of Measurement Systems.
+Performance Characteristics of Instruments:
+  Drift, Error, Reproducibility, Repeatability, Noise, Uncertainty, Accuracy, Precision, Resolution, Threshold, Sensitivity, Efficiency, Linearity, Dead Time, Dead Band, Friction,  Backlash, Hysteresis, Zero stability, Overshoot, Loading effect.
+Errors in Measurement:
+  True value, Types of Error, Error Analysis.
+[T2,T3][R1,R2]
+
+UNIT-II
+Units and Standards:
+  Absolute Units; SI Units – Base Units, Supplementary Units, Derived Units; Standards and their classification (International, Primary, Secondary and Working Standards).
+  Review of Measurement of Resistance, Inductance and Capacitance: Methods of measurement of low, medium and high resistances, Kelvin’s double bridge, Wheatstone bridge, Meggers & Ohmmeters, Insulation resistance measurement, Earth resistance measurements, AC bridges for inductance and capacitance measurements, Mutual Inductance measurement, Shielding and Earthing.
+Review of Measurement of Current and Voltage:
+  Permanent Magnet Moving Coil(PMMC) and Moving Iron(MI) instruments, Electrodynamometer Type & Electrostatic Type Instruments, Measurement of DC / AC voltage and current, Extension of Range, Errors (Both on AC/DC), Multimeter.
+Instrument Transformers:
+  Current and Potential Transformers, Need & Functions, Construction, Theory, Ratio & Phase Angle Errors and their minimization, Design considerations, Testing of instrument transformers by absolute and comparison methods.
+[T1,T2][R1,R2][No. of Hrs. 12]
+
+UNIT-III
+Measurement of Power and Energy:
+  Power in DC & AC Circuits.
+  Types of Watt meters.
+  Construction, Operating principle, Torque equation, Shape of scale, Errors, Advantages & Disadvantages of Electrodynamometer type and Induction type Watt meters.
+  Measurement of Power using Instrument Transformers.
+  Measurement of Power in three phase circuits, Three Phase Watt meters, Measurement of Reactive Power.
+  Classification of Energy Meters.
+  Single Phase Induction Type Energy Meter – Construction, Theory & Operation, Errors, Adjustments & Compensation.
+  Three Phase Energy Meters.
+  Maximum Demand Indicator.
+  KVAH & KVARH Metering.
+  Measurement of KVA.
+  Tri-vector Meter.
+  Testing of Energy meters.
+  Meters used for special purposes.
+Measurement of Phase, Frequency & Speed:
+  Phase (or Power Factor) Meters - Electrodynamometer and Moving Iron types.
+  Frequency Meters –- Mechanical Resonance type, Electrical Resonance type, Weston type frequency meters.
+  Phase Sequence Indicator.
+  Synchroscopes.
+  Tachogenerator, Tachometer, Photo-electric meter, Stroboscope.
+[T2,T3][R4,R5]
+
+UNIT-IV
+Electronic Measurements:
+  Electronic Voltmeter, Multimeter, Wattmeter & Energy meter.
+  Time, Frequency and Phase Angle measurements.
+  CRO & Special purpose Oscilloscopes.
+  Q-meters.
+  Potentiometric Recorders.
+  Spectrum Analyzer, Wave Analyzer.
+  Harmonic Analyzer.
+  Power Analyzer.
+  Distortion Meter.
+  Digital Voltmeter, Multimeter, Frequency Counter, and Storage oscilloscope.
+  Display Devices - Nixie Tubes, LED, LCD.
+Instrumentation:
+  Transducers, Classification & Selection of transducers, Thermocouples, Thermisters, LVDT, Strain gauges, Piezoelectric crystal, Use of Transducers in measurement of non-electrical quantities like temperature, pressure, liquid level, flow-rate, displacement, acceleration, noise level etc., Data Acquisition Systems (DAS), A/D and D/A converters.
+[T1,T2,T3][R2]
+
+
+Text Books:
+[T1] Helfrick and Cooper
+      “Modern Electronic Instrumentation and Measurement Techniques”, PHI, Reprint 1988
+[T2] A.K. Sawhney
+      “Electrical & Electronic Measurements and Instrumentation”
+       Dhanpat Rai and Sons, 2003
+[T3] Umesh Sinha
+      “Electrical & Electronic Measurement and Instrumentation”
+       Satya Prakashan, New Delhi
+
+References Books:
+[R1] Jones, B.E.
+      “Instrumentation Measurement and Feedback”
+       Tata McGraw-Hill, 1986
+[R2] Golding,E.W.
+      “Electrical Measurements and Measuring Instruments”, 3rd Edn
+       Sir Issac Pitman & Sons, 1960
+[R3] Buckingham, H. and Price, E.N.
+      “Principles of Electrical Measurements”, 1961
+[R4] Stout
+      “Basic Electrical Measurements”
+       Prentice Hall
+[R5] E.O. Doebin
+      “Measuring Systems”
+       McGraw Hill

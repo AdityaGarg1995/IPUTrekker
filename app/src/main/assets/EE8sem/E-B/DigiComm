@@ -1,0 +1,44 @@
+Paper Code: ETEC-430
+Paper: Digital Communication
+
+
+UNIT-I - Introduction to Digital Communication
+Line coding:
+  NRZ, RZ, Manchester encoding, differential Manchester encoding, AMI coding, high density bipolar code, binary with n-zero substitution codes.
+  Review of Sampling theorem, uniform and non-uniform quantization, companding, μ-Law and A-Law compressors, Concept and Analysis of PCM, DPCM, DM and ADM modulators and demodulators, M-ary waveforms, S/N ratio for all modulation, probability of error for PCM in AWGN Channel and other modulation techniques, Duo Binary pulse.
+[T1,R2]
+
+UNIT-II - Random Signal Theory
+Probability, Concept of Random variable (Stationary, Non stationary, WSS, SSS), Random process, CDF, PDF, Joint CDF, Joint PDF, marginal PDF, Mean, Moments, Central Moment Auto-correlation & Cross-correlation, covariance functions, ergodicity, power spectral density, Gaussian distribution, Uniform distribution, Rayleigh distribution, Binomial distribution, Poission distribution, Weiner distribution, Wiener-Khinchin theorem, Central limit theorem.
+[T1,T2,R2]
+
+UNIT-III - Designing of Receiver
+Analysis of digital receiver, Prediction Filter, Design and Property of Matched filter, Correlator Receiver, Orthogonal Signal, Gram-Schmidt Orthogonalization Procedure, Maximum likelihood receiver, Coherent receiver design, Inter Symbol Interference, Eye Pattern.
+[T1,T2,R1,R2]
+
+UNIT-IV - Digital modulation schemes
+Coherent Binary Schemes:
+  ASK, FSK, PSK, QPSK, MSK, G-MSK.
+Coherent M-ary Schemes, Incoherent Schemes(DPSK and DEPSK), Calculation of average probability of error for different modulation schemes, Power spectra of digitally modulated signals, Performance comparison of different digital modulation schemes.
+Review of 2 Latest Research Paper.
+[T1,T2,R2]
+
+
+Text Books:
+[T1] Simon Haykin
+      “Communication Systems”, 4th Edition
+       John Wiley & Sons Inc
+[T2] Taub Schilling
+      “Principles of Communication Systems”, 2nd Edition
+       TMH
+
+Reference Books:
+[R1] George Kennedy
+      “Communication System”, 4th Edition
+       TMH
+[R2] B.P. Lathi
+      “Modern Digital and Analog Communication System”, 3rd Edition
+       Oxford University Press
+[R3] Digital Communications
+      John G.Proakis
+       McGraw Hill

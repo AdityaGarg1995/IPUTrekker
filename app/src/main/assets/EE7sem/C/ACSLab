@@ -1,0 +1,26 @@
+Paper Code: ETEE-453
+Paper: Advanced Control Systems Lab
+
+
+List of Experiments:
+
+
+1. Study of open loop and closed loop time/ frequency responses of first/second order LTI system
+
+2. Conversion of transfer functions to state model of LTI system and vice versa
+
+3. Determine State Space Model of a given system and determine its controllability and observability.
+
+4. Analysis of Zero order hold and first order hold circuits.
+
+5. Conversion of transfer functions to state model of discrete time system.
+
+6. To determine state transition matrix of a given system.
+
+7. Study of saturation and dead zone non-linearity using describing function technique of a relay control system.
+
+8. To draw phase trajectory of a given non-linear system.
+
+9. Experiments based on PLC applications e.g. Lift control models, pick and place module etc.
+
+10. Study of operation of a stepper motor interface with microprocessor.

@@ -1,0 +1,35 @@
+Paper Code: ETEE-409 L T/P C
+Paper: Power Distribution System 3 0 3
+Objective: The objective of the paper is to enable the Electrical Engineering students to have knowledge of
+Power Distribution System, an important aspect of overall Electricity Supply System.
+UNIT- I
+Introduction to sub-transmission and distribution system; classification of loads – residential, commercial,
+agricultural, industrial and their characteristics; distribution system planning – short-term, mid-term, long-term,
+load modeling and characteristics; definition of demand factor, utilization factor, load factor, plant factor,
+diversity factor, loss factor; computer applications to distribution system automation; tariff.
+[T1,T2][No. of hrs. 10]
+UNIT- II
+Distribution feeders, transformers and sub-stations; primary feeders – voltage level, radial and loop types,
+uniformly distributed and non-uniformly distributed load; design considerations for secondary system – voltage
+level, location of substation, rating, service area with primary feeders, optimal location; existing system
+improvement.
+[T1,T2][No. of hrs. 10]
+UNIT- III
+System analysis – voltage drop and power loss calculation; methods of solution for radial networks, three-phase
+balanced primary lines, non-three-phase primary lines; loss reduction, voltage regulation, voltage control and
+improvement, issues in quality of service – voltage sag, swell and flicker; application of capacitors to
+distribution system – effect of series and shunt capacitors, power factor correction, economic justification for
+capacitor with cost-benefit analysis aiming at most economic power factor, optimum location of capacitor.
+[T1,T2][No. of hrs. 12]
+UNIT-IV
+Distribution sub-station bus schemes, description and comparison of switching schemes; types of common faults
+and procedure for system fault calculation; protection – objectives, over current protection devices – fuses,
+automatic circuit re-closers, automatic line sectionalizing, coordination of protective devices – fuse to fuse, fuse
+to circuit breaker, re-closer to circuit breaker.
+[T1,T2][No. of hrs. 10]
+Text:
+[T1] Turan Gonen, “Electric Power Distribution System Engineering”, McGraw Hill
+[T2] Dale R. Patrick,” Electrical Distribution System”, 2nd Edition, CRC Press
+References:
+[R1] James A. Momoh, “Electric Power Distribution Automation, Protection and Control”, CRC Press
+[R2] A. S. Pabla, “Electric Power Distribution”, Tata McGraw Hill

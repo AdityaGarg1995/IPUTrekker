@@ -1,0 +1,99 @@
+Paper Code: ETME-203
+Paper: Thermal Science
+
+
+UNIT – I
+Basic concepts:
+  Introduction to the Basic definitions of Engineering Thermodynamics.
+Thermodynamic systems:
+  Closed, Open and Isolated systems.
+  Microscopic and Macroscopic view.
+  Intensive and Extensive properties.
+  Zeroth law of Thermodynamics.
+  Phase, State, Process, Cycle.
+  Point functions & Path functions.
+  Gas Laws & Equation of State.
+  Work and Heat.
+First Law of Thermodynamics:
+ Introduction to First Law of Thermodynamics, Internal energy.
+ Non flow processes, p-v diagrams.
+ Concept of Flow work, Enthalpy.
+ Analysis of steady flow and unsteady flow processes & their applications.
+ Throttling process.
+Second Law of Thermodynamics:
+  Limitations of 1st law & necessity of 2nd Law of Thermodynamics, Kelvin Planck statement and Claussius statement, Reversible and Irreversible processes.
+  Carnot cycle, Reversed Carnot cycle.
+  Carnot’s Theorem, Clausius inequality.
+  Entropy, Change in Entropy during various processes & representations on t-s diagrams, Entropy principle, Entropy Generation.
+[T1, T2, T3, R1, R2, R3]
+
+UNIT – II
+Availability & Irreversibility:
+  High grade & low grade energy.
+  Available and unavailable energy.
+  Dead state.
+  Loss of available energy due to Heat transfer through a Finite temperature difference.
+  Availability.
+  Reversible work & Irreversibility.
+  Availability in non flow systems and steady flow systems.
+  2nd law efficiency.
+Thermodynamic Property Relations:
+  Maxwell Relations.
+  Clapeyron Equation.
+Properties of a Pure Substance:
+  Phase equilibrium of a pure substance on t-v diagram.
+  Normal boiling point of a Pure substance.
+  Saturation states.
+  Compressed liquid.
+  p-v & p-t diagram of a pure substance.
+  Saturated steam, Dry & saturated steam, Superheated steam.
+  Use of Steam tables & Mollier diagram.
+  Different processes of vapour on p-v and t-s diagrams.
+  Measurement of Dryness fraction.
+[T1, T2, T3, R1, R2, R3]
+
+UNIT - III:
+Vapour Power Cycles:
+  Carnot cycle.
+  Simple Rankine cycle.
+  Effect of various parameters on the efficiency of Rankine cycle.
+  Reheat and Regenerative cycles.
+[T1, T2, T3, R1, R2, R3]
+
+UNIT – IV
+Gas Power Cycles:
+ Carnot cycle, Otto cycle, Diesel cycle, Dual cycle, Stirling cycle, and Ericsson cycle.
+Gas Turbines:
+  Brayton cycle, Thermal refinements.
+  Performance of Gas turbines, Combined cycle.
+  Principles of Jet Propulsion.
+  Turbojet and Turbo-prop engines, Rocket engines.
+[T1, T2, T3, R1, R2, R3]
+
+Text Books:
+[T1] P.K. Nag
+      “Engineering Thermodynamics”, 5th edition
+       McGraw Hill
+[T2] Y.A. Cengel & M.A. Boles
+      “Thermodynamics- An Engineering Approach ”, 7th edition
+       TMH
+[T3] Gordon Rosers & Yon Mahew
+      Engineering Thermodynamics”
+       Pearson
+
+Reference books:
+[R1] M.J. Moran & H.N. Shapiro
+      “Fundamentals of Thermal Engineering”
+        John Wiley & sons
+[R2] C.P. Arora
+      “Thermodynamics”
+       McGraw Hill
+[R3] S.L. Somasundaram
+      “Engineering Thermodynamics”
+       New Age International Publishers
+[R4] R.K. Rajput
+      “Engineering Thermodynamics”
+       Lakshmi Publications
+[R5] Shiv Kumar
+      “Fundamentals of Thermal Engineering”
+       Ane Books Pvt Ltd

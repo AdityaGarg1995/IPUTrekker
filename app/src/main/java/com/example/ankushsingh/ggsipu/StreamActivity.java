@@ -6,29 +6,15 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.ImageButton;
 
 
-import com.example.ankushsingh.ggsipu.Streams.CIVIL;
-import com.example.ankushsingh.ggsipu.Streams.CSE;
-import com.example.ankushsingh.ggsipu.Streams.ECE;
-import com.example.ankushsingh.ggsipu.Streams.EE;
-import com.example.ankushsingh.ggsipu.Streams.EEE;
-import com.example.ankushsingh.ggsipu.Streams.ENVO;
-import com.example.ankushsingh.ggsipu.Streams.ICE;
 import com.example.ankushsingh.ggsipu.Streams.IT;
-import com.example.ankushsingh.ggsipu.Streams.MAE;
-import com.example.ankushsingh.ggsipu.Streams.ME;
-import com.example.ankushsingh.ggsipu.Streams.MECH;
-import com.example.ankushsingh.ggsipu.Streams.POWER;
-import com.example.ankushsingh.ggsipu.Streams.TOOL;
-import com.example.ankushsingh.ggsipu.Streams.TOOL2;
+import com.example.ankushsingh.ggsipu.Streams.ZCodes;
 
 
 public class StreamActivity extends AppCompatActivity implements View.OnClickListener {
 
 //    ImageButton[] b = new ImageButton[13];
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,7 +36,6 @@ public class StreamActivity extends AppCompatActivity implements View.OnClickLis
         findViewById(R.id.envo) .setOnClickListener(this);
         findViewById(R.id.tool) .setOnClickListener(this);
 
-
     }
 
 
@@ -58,48 +43,83 @@ public class StreamActivity extends AppCompatActivity implements View.OnClickLis
     public void onClick(View v) {
 
         switch(v.getId()){
-            case R.id.cse:   startActivity(new Intent(this, CSE.class));
+            case R.id.cse:
+                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","CSE")); }
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.ece:   startActivity(new Intent(this, ECE.class));
+
+            case R.id.ece:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","ECE"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.it:    startActivity(new Intent(this, IT.class));
+
+            case R.id.it:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","IT"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.mae:   startActivity(new Intent(this, MAE.class));
+
+            case R.id.mae:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","MAE"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.eee:   startActivity(new Intent(this, EEE.class));
+
+            case R.id.eee:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","EEE"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.civil: startActivity(new Intent(this, CIVIL.class));
+
+            case R.id.civil:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","CE"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.power: startActivity(new Intent(this, POWER.class));
+
+            case R.id.power:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","PE"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.ee:    startActivity(new Intent(this, EE.class));
+
+            case R.id.ee:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","EE"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.me:    startActivity(new Intent(this, ME.class));
+
+            case R.id.me:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","ME"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.ice:   startActivity(new Intent(this, ICE.class));
+
+            case R.id.ice:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","ICE"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.mech:  startActivity(new Intent(this, MECH.class));
+
+            case R.id.mech:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","MT"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.envo:  startActivity(new Intent(this, ENVO.class));
+
+            case R.id.envo:
+                try{startActivity(new Intent(this, IT.class).putExtra("StreamCode","ENE"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
-            case R.id.tool:  startActivity(new Intent(this, TOOL.class));
+
+            case R.id.tool:
+                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","TE"));}
+                catch (Exception e){e.printStackTrace();}
                 break;
         }
-
     }
 
 
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.activity_main2_menu, menu);
+        getMenuInflater().inflate(R.menu.activity_streams_menu, menu);
         return true;
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here.
         // The action bar will automatically handle clicks on the Home/Up button, so long as you specify a parent activity in AndroidManifest.xml.
-
-
         switch (item.getItemId()) {
             case R.id.home:
                 startActivity(new Intent(StreamActivity.this, HomeActivity.class));
@@ -109,20 +129,16 @@ public class StreamActivity extends AppCompatActivity implements View.OnClickLis
                 startActivity(new Intent(StreamActivity.this, CollegeActivity.class));
                 return true;
 
-//        else if(item.getItemId() == R.id.streams)
-//            // Do nothing
-//            return true;
-
             case R.id.result:
                 startActivity(new Intent(StreamActivity.this, logo.class).putExtra("Task", StreamNames.task2));
                 return true;
 
             case R.id.ncc:
-                startActivity(new Intent(StreamActivity.this, TOOL2.class).putExtra("Task", "NCC"));
+                startActivity(new Intent(StreamActivity.this, ZCodes.class).putExtra("Task", "NCC"));
                 return true;
 
             case R.id.codes:
-                startActivity(new Intent(StreamActivity.this, TOOL2.class).putExtra("Task", "Codes"));
+                startActivity(new Intent(StreamActivity.this, ZCodes.class).putExtra("Task", "Codes"));
                 return true;
 
         }

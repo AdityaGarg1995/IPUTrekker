@@ -1,0 +1,41 @@
+Paper Code: ETEE-413 L T/P C
+Paper: PLC & SCADA Systems 3 0 3
+Objective: The objective of this paper is to introduce the students about the knowledge of programmable logic
+controller, principles of PLC and functions and SCADA and its elements and functions.
+UNIT-I
+Programmable Logic Controller (PLC) Basics: Introduction, Parts of PLC, Principles of operation, PLC size
+and applications, PLC Advantages and Disadvantages, PLC Manufacturers, PLC hardware components, I/O
+section, Analog I/O modules, Digital I/O modules, CPU- Processor memory module, Programming devices,
+Devices which can be connected to I/O modules, Relay, Contactor, SPST, Push Buttons, NO/NC Concept
+[T1,T2] [No of Hrs 10]
+UNIT-II
+Programming of Programmable Logic Controller: General PLC Programming Procedures, Contacts and
+Coils, Program SCAN, Programming Languages, Ladder Programming, Relay Instructions, Instruction
+Addressing, Concept of Latching, Branch Instructions, Contact and Coil I/O Programming Examples, Relation of
+Digital Gate Logic to Contact/Coil Logic.
+[T1,T2] [No of Hrs 12]
+UNIT-III
+Programmable Logic controller Functions: Timer Instructions: ON DELAY Timer and OFF DELAY timer,
+Counter Instructions: UP/DOWN Counters, Timer and Counter Applications, Program Control Instructions:
+Master Control Reset, Jump and Subroutine,
+Math Instructions- ADD, SUB. Data Handling: Data Move, Data Compare, Data Selection, Electro-pneumatic
+Sequential Circuits and Applications.
+[T1,T2] [No of Hrs 12]
+UNIT-IV
+SCADA: Definition of SCADA, Applicable Processes, Elements of SCADA System, A Limited Two-Way
+System. Real Time Systems: Communication Access and Master-Slave determining scan interval. Introduction to
+Remote Control, Communications-A/D Conversion, Long Distance Communication, Communication System
+components in brief- Protocol, Modems, Synchronous/Asynchronous telephone cable/radio, Half Duplex, Full
+Duplex System, Brief introduction to RTU and MTU, Applications-Automatic Control, Advisory Applications.
+[R1] [No of Hrs 10]
+Text Books:
+[T1] Frank D. Petruzella “Programmable Logic Controllers”, McGraw-Hill Book Company.
+[T2] John w. Webb and Ronald A. Reis, “Programmable Logic Controllers”, PHI
+Reference Books:
+[R1] Stuart A.Boyer “Supervisors Control and Data Acquisition”, ISA
+[R2] William I. Fletcher “An Engineering Approach to Digital Design”, PHI.
+[R3] Simpson, Colin “Programmable Logic Controllers”, Englewood Cliffs NJ PHI.
+[R4] Gray Dunning, “Introduction to Programmable Logic Controllers”, Delmar Thompson Learning
+[R5] Stenerson, John “Fundamentals Logic Controllers Sensors, & Communications”, Englewood Cliffs, NJ,
+1993. Prentice Hall.
+[R6] Programmable Logic Controllers, W.Bolton, Elsevier
