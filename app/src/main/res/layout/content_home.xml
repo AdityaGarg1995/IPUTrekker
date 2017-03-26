@@ -27,9 +27,10 @@
             android:id="@+id/university"
             android:text="The University"
             android:textSize="30dp"
-            android:layout_marginTop="@dimen/activity_horizontal_margin"
-            android:background="@color/white"
-            android:layout_weight="0.5"/>
+            android:layout_marginTop="8dp"
+            android:background="@color/buttercup"
+            android:layout_weight="0.5"
+           />
 
        <Button
             android:layout_width="match_parent"
@@ -37,7 +38,8 @@
             android:id="@+id/colleges"
             android:text="The Colleges"
             android:textSize="30dp"
-            android:background="@color/white"
+            android:layout_marginTop="4dp"
+            android:background="@color/buttercup"
             android:layout_weight="0.5"
             />
 
@@ -46,8 +48,9 @@
            android:layout_height="wrap_content"
            android:id="@+id/streams"
            android:text="The Streams"
+           android:layout_marginTop="4dp"
            android:textSize="30dp"
-           android:background="@color/white"
+           android:background="@color/buttercup"
            android:layout_weight="0.5"
            />
 
@@ -56,8 +59,9 @@
            android:layout_height="wrap_content"
            android:id="@+id/result"
            android:text="Result"
+           android:layout_marginTop="4dp"
            android:textSize="30dp"
-           android:background="@color/white"
+           android:background="@color/buttercup"
            android:layout_weight="0.5"
            />
 

@@ -44,54 +44,49 @@ public class SEM5_PE extends AppCompatActivity implements View.OnClickListener{
 
         final Activity a = this;
         a.setTitle("PE: 5th Semester Subjects");
-
     }
 
 
     @Override
     public void onClick(View v) {
-
         intent = new Intent(this, Syllabus.class);
-
         switch(v.getId()){
             case R.id.skills:
-                intent.putExtra("Subject", "Skills").putExtra("Sem", "5");
+                intent.putExtra("Subject", "Skills").putExtra("Sem", "5").putExtra("Book", Urls.skillsBook);
                 break;
             case R.id.skillsLab:
-                intent.putExtra("Subject", "Skills").putExtra("Sem", "5");
+                intent.putExtra("Subject", "Skills").putExtra("Sem", "5").putExtra("Book", Urls.skillsBook);
                 break;
             case R.id.im:
-                intent.putExtra("Subject", "IM").putExtra("Sem", "5");
+                intent.putExtra("Subject", "IM").putExtra("Sem", "5").putExtra("Book", Urls.imBook);
                 break;
-
 
             case R.id.sta:
-                intent.putExtra("Subject", "STA").putExtra("Sem", "PE5");
+                intent.putExtra("Subject", "STA").putExtra("Sem", "PE5").putExtra("Book", "");
                 break;
             case R.id.sga:
-                intent.putExtra("Subject", "SGA").putExtra("Sem", "PE5");
+                intent.putExtra("Subject", "SGA").putExtra("Sem", "PE5").putExtra("Book", "");
                 break;
             case R.id.ega:
-                intent.putExtra("Subject", "EGA").putExtra("Sem", "PE5");
+                intent.putExtra("Subject", "EGA").putExtra("Sem", "PE5").putExtra("Book", "");
                 break;
             case R.id.rac:
-                intent.putExtra("Subject", "RAC").putExtra("Sem", "PE5");
+                intent.putExtra("Subject", "RAC").putExtra("Sem", "PE5").putExtra("Book", "");
                 break;
             case R.id.eemi:
-                intent.putExtra("Subject", "EEMI").putExtra("Sem", "PE5");
+                intent.putExtra("Subject", "EEMI").putExtra("Sem", "PE5").putExtra("Book", "");
                 break;
 
             case R.id.tppLab:
-                intent.putExtra("Subject", "TPPLab").putExtra("Sem", "PE5");
+                intent.putExtra("Subject", "TPPLab").putExtra("Sem", "PE5").putExtra("Book", "");
                 break;
             case R.id.racLab:
-                intent.putExtra("Subject", "RACLab").putExtra("Sem", "PE5");
+                intent.putExtra("Subject", "RACLab").putExtra("Sem", "PE5").putExtra("Book", "");
                 break;
             case R.id.eemiLab:
-                intent.putExtra("Subject", "EEMILab").putExtra("Sem", "PE5");
+                intent.putExtra("Subject", "EEMILab").putExtra("Sem", "PE5").putExtra("Book", "");
                 break;
         }
-
         try {
             intent.putExtra("SubjectName", ((Button)v).getText().toString());
             if (intent != null)

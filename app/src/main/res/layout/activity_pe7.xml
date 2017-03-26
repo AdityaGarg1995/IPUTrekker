@@ -1,0 +1,228 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/l2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Compulsory Subjects"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textColor="@color/colorAccent"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Theory Subjects"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_marginTop="2dp"
+            />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ppo"
+            android:text="Power Plant Operation"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rer"
+            android:text="Renewable Energy Resources"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pppe"
+            android:text="Power Plant Performance &amp; Efficiency"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/psps"
+            android:text="Power System Protection &amp; Switchgear"
+            android:layout_weight="1"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Practical Subjects"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:textSize="20dp"
+            android:layout_marginTop="2dp"
+            android:textAlignment="center"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sga_ojt"
+            android:text="Rotational On-Job Training (Maintenance – Steam Generator &amp; Its Auxiliaries)"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sta_ojt"
+            android:text="Rotational On-Job Training (Maintenance – Steam Turbine &amp; Its Auxiliaries)"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pp_ojt"
+            android:text="Rotational On-Job Training (Maintenance – Power Plant Electrical Machines &amp; Systems)"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pspsLab"
+            android:text="Power System Protection &amp; Switchgear Lab"
+            android:layout_weight="1"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Elective Subjects"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textColor="@color/colorAccent"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="(Lab is based on elected subjects - one from each group)"
+            android:textAlignment="center"
+            android:textSize="12dp"
+            android:textColor="@color/red"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Group-A"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimary"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tom"
+            android:text="Theory of Machine"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ppm"
+            android:text="Power Plant Maintenance (Plant Maintenance Planning &amp; Cost control)"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bpp"
+            android:text="Balance of Power Plant"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pmcm"
+            android:text="Preventive Maintenance &amp; Condition Monitoring"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ncmp"
+            android:text="Non-conventional manufacturing processes"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dbms"
+            android:text="Database Management Systems"
+            android:layout_weight="1"
+            />
+
+        <!--Group-B-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Group-B"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimary"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mie"
+            android:text="Manufacturing &amp; Industrial Engineering"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/commEng"
+            android:text="Communication Engineering"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ita"
+            android:text="Information Technology &amp; its Applications"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fem"
+            android:text="Finite Element Methods"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rotor"
+            android:text="Rotor Dynamics"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mis"
+            android:text="Management Information System &amp; ERP"
+            android:layout_weight="1"
+            />
+        <!--Common to all-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sociology"
+            android:text="@string/sociology"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

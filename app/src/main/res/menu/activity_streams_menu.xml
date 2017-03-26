@@ -3,21 +3,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/home"
-        android:orderInCategory="100"
-        android:title="Home"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/colleges"
-        android:orderInCategory="100"
-        android:title="Colleges"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/result"
-        android:orderInCategory="100"
-        android:title="Individual Result"
-        app:showAsAction="never" />
-    <item
         android:id="@+id/ncc"
         android:orderInCategory="100"
         android:title="NCC"
@@ -25,13 +10,13 @@
     <item
         android:id="@+id/codes"
         android:orderInCategory="100"
-        android:title="Stream Codes 1"
+        android:title="Stream Codes"
         app:showAsAction="never" />
-    <item
-        android:id="@+id/codes2"
-        android:orderInCategory="100"
-        android:title="Stream Codes 2"
-        app:showAsAction="never" />
+    <!--<item-->
+        <!--android:id="@+id/codes2"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="Stream Codes 2"-->
+        <!--app:showAsAction="never" />-->
 
 
 </menu>

@@ -1,0 +1,39 @@
+Paper Code: ETPE-428 L T/P C
+Paper: High Voltage AC and DC Technology 3 0 3
+
+
+
+UNIT-I
+Fundamental design aspects of EHV AC transmission lines and their power carrying capabilities.
+EHV AC Transmission lines analysis – nominal and equivalent circuits.
+Problems related with long lines.
+Reactive Power Management of Power System.
+Reactive power problems associated it EHV systems.
+Reactive power devices – their operation and control, Series compensation of EHV AC system, different equipment and scheme details.
+[T1, T2]
+
+UNIT-II
+Fundamental aspects of HVDC systems and their comparison with EHV AC Systems.
+Different types of HVDC of HVDC Schemes and their fundamental details.
+HVDC Equipment and their rating, construction and characteristics.
+[T1, T2]
+
+UNIT-III
+Power Converter circuits associated with HVDC systems, Design aspects of 12- pulse converters.
+Simple design problems of HVDC Systems.
+Power flow control in HVDC systems – different controllers and their operational characteristics.
+[T1, R1]
+
+UNIT-IV
+Harmonic Filters – HVDC current and voltage filters.
+Different types of filters.
+Simple design problems of single tuned harmonic current filters, Fundamental aspects of HVDC circuit breaking.
+[T1, T2]
+
+
+Text Books:
+[T1] EHV AC & HVDC Transmission Engineering & practice – By S. Rao
+[T2] EHV AC Transmission - By Begamudre, New Age Publications
+
+References Books:
+[R1] HVDC Power Transmission Systems – By K.R. Paadiyar (New Publishers)

@@ -39,10 +39,10 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         // Handle action bar item clicks here.
         // The action bar will automatically handle clicks on the Home/Up button, so long as you specify a parent activity in AndroidManifest.xml.
 
-        if(item.getItemId() == R.id.exit){
-            System.exit(0);
-            return true;
-        }
+//        if(item.getItemId() == R.id.exit){
+//            System.exit(0);
+//            return true;
+//        }
         return super.onOptionsItemSelected(item);
 
     }

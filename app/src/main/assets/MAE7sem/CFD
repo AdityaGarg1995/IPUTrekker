@@ -1,0 +1,35 @@
+Paper Code: ETME-411 L T/P C
+Paper: Computational Fluid Dynamics 3 0 3
+Objective: To learn about the applications of Heat Conduction, Convection Heat Transfer and governing
+differential equations and finite difference method and applications of computational Fluid Dynamics with
+computer graphics in CFD.
+UNIT - I
+Governing Differential Equations and Finite Difference Method- Classification of PDEs, Initial and
+Boundary conditions, Initial and Boundary value problems, Finite difference method Central, Forward,
+Backward difference for a uniform grid, Central difference expressions for a
+non-uniform grid, Numerical error, Accuracy of solution, Grid independence test.
+[T1, T2, R1, R2] [No. of Hrs. 11]
+UNIT – II
+Conduction Heat Transfer- Applications of Heat conduction- Steady and Unsteady conductions, One
+dimensional steady state problems, Two dimensional steady state problems, Three dimensional steady state
+problems, Transient one dimensional problems,
+Convection Heat Transfer- Introduction- Steady one dimensional Convection, Diffusion, Unsteady one.
+Dimensional Convection – Diffusion – Unsteady two dimensional, Convection, Diffusion.
+[T1, T2, R1, R2][No. of Hrs. 11]
+UNIT – III
+Incompressible Fluid Flow, Introduction- Governing equations, Difficulties in solving, Navier- Stokes
+equation, Stream function, Vorticity method, In viscid flow (steady) Determination of pressure for viscous flow.
+[T1, T2, R1, R2][No. of Hrs. 11]
+UNIT – IV
+Applications of Computational Fluid Dynamics, Computer graphics in CFD, Future of CFD, Enhancing the
+design process, understanding, Applications, Automobile, Engine, Industrial, Civil, Environmental.
+[T1, T2, R1, R2][No. of Hrs. 11]
+Text Books:
+[T1] Muralidhar, K., and Sundararajan, T., “Computational Fluid flow and Heat Transfer", Narosa
+Publishing House,
+[T2] Ghoshdasdidar, P.S., “Computer simulation of flow and heat transfer", Tata McGraw – Hill, New Delhi
+Reference Books:
+[R1] Anderson, D. A., Tannehill, J. L, and Pletcher, R.H., “Computational fluid mechanics and Heat
+Transfer", Hemisphere Publishing Corporation,
+[R2] John David Anderson, "Computational Fluid Dynamics: The Basics with Applications", McGraw Hill,
+New York

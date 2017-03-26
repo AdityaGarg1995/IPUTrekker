@@ -1,0 +1,38 @@
+Paper Code: ETTE-425 L T/P C
+Paper: Material Management 3 0 3
+Objective: To introduce the students about the knowledge of material, inventory management and planning.
+UNIT-I
+Introduction: Scope, objectives and phases in materials management,
+Procurement: Purchase procedure, tender, earnest money, security deposit, purchase order, vendor rating.
+Receipt: Invoice, cash memo, inspection.
+Storage: Methods of storage. Selective control techniques of inventory - ABC & VED analysis.
+Inventory Theory: Objectives of keeping inventory, structure of inventory problems and their analysis,
+relevant cost.
+[T1, T2][No. of Hours 12]
+UNIT-II
+Static inventory problems under risk: General characteristics, Christmas tree problem, total cost matrix, cost
+of risk, opportunity cost matrix, mathematical formulation of discrete and continuous cases.
+Dynamic inventory problems under certainty: General characteristics, optimal lot size models with constant
+demand and infinite delivery rate with and without back ordering, quantity discounts.
+[T1, T2][No. of Hours 12]
+UNIT-III
+Dynamic inventory problems under risk: general characteristics, basic kinds of inventory control systems –
+demand probability distribution – approximate methods to find optimal P & Q systems of inventory, optimal
+selling policy with fluctuating prices.
+[T1, T2][No. of Hours 12]
+UNIT-IV
+Material requirement planning: master production schedule, bill of materials, inventory stock, files, MRP
+process, logic and computational procedure using simple example, lot sizing in MRP.
+[T1, T2][No. of Hours 10]
+Text Books:
+[T1] Gopalakrishnan & Sundarresen, “Material Management: An integrated approach”, Prentice Hall of
+India.
+[T2] A. Deb, “Material Management”, Academic Publishers, Calcutta, India.
+Reference Books:
+[R1] Starr & Miller, “Inventory Control – theory and Practice”, Prentice Hall of India
+[R2] G. Monk, “Operations Management”, McGraw Hill, India
+[R3] Kanishka Bedi, “Production & Operations Management”, Oxford university Press.
+[R4] Materials Management – Text & cases” by A. K. Chitale & R. C. Gupta, Prentice- Hall of India
+Private Limited.
+[R5] J. R. Tony Arnold, Stephen N. Chapman, Lioyd M. Clive, “Introduction to Materials Management”,
+Prentice Hall/ Pearson

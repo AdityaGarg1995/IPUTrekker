@@ -1,41 +1,55 @@
 Paper Code: ETEC-204 L T/P C
 Paper: Analog Electronics – II 3 1 4
-Objective:- The objective of teaching this subject is to give students in depth knowledge of design and analysis of
-analog IC (OP-AMP, OTA), The internal details of OP-AMP and measurement of its parameters is elaborated.
-The linear and nonlinear applications, useful for practical circuits, are detailed. Some important and widely used
-ICs such as 555 timer IC,PLL & VCO, Voltage Regulator IC etc., are also included.
+
+
 Unit – I
-Introduction to Op-Amp: Differential amplifier using BJT, Block diagram of op-amp, pin diagram of 741 IC,
-characteristics of ideal Op-Amp, equivalent circuit of Op-Amp, ideal voltage transfer curve, Op-Amp ac and dc
-parameters. Building blocks of Analog ICs: Differential amplifier using single and two op-amp, virtual ground,
-circuit for improving CMRR, Wilson & Widlar Current mirrors, Active loads, Level shifters and output stages,
-instrumentation amplifier using Op-Aamp.
-[T1,T2][No. of Hours: 11]
+Introduction to Op-Amp:
+  Differential amplifier using BJT, Block diagram of op-amp, pin diagram of 741 IC, characteristics of ideal Op-Amp, equivalent circuit of Op-Amp, ideal voltage transfer curve, Op-Amp ac and dc parameters.
+Building blocks of Analog ICs:
+  Differential amplifier using single and two op-amp, virtual ground, circuit for improving CMRR, Wilson & Widlar Current mirrors, Active loads, Level shifters and output stages,  instrumentation amplifier using Op-Aamp.
+[T1,T2]
+
 Unit – II
-Linear & Non Linear Wave shaping: , Inverting and non-inverting amplifiers, voltage follower, difference amp,
-adders, Voltage to current with floating & grounded load, current to voltage converter, practical integrator &
-differentiator, Clipping & Clamping circuits, Comparators, log/antilog circuits using Op-Amps, precision
-rectifiers(half & full wave),peak detector, Inverting & non inverting Schmitt trigger circuit.
-Waveform generations: Sine wave generator (Phase shift, Wein bridge, Hartley & Colpitts), Barkhausen criteria
-of oscillations, conditions for oscillation, cystal oscillator.
-[T1,T2][No. of Hours: 11]
+Linear & Non Linear Wave shaping:
+  Inverting and non-inverting amplifiers, voltage follower, difference amp, adders, Voltage to current with floating & grounded load, current to voltage converter, practical integrator & differentiator, Clipping & Clamping circuits, Comparators, log/antilog circuits using Op-Amps, precision rectifiers(half & full wave), peak detector, Inverting & non inverting Schmitt trigger circuit.
+Waveform generations:
+  Sine wave generator (Phase shift, Wein bridge, Hartley & Colpitts), Barkhausen criteria of oscillations, conditions for oscillation, cystal oscillator.
+[T1,T2]
+
 Unit – III
-Waveform generators: Square and triangular waveform generators (determine period and frequency), saw tooth
-wave generator, Astable multi-vibrator, Monostable and Bistable Multivibrator.
-Active RC Filters: Idealistic & Realistic response of filters (LPF, BPF, HPF, BRF), Butter worth & Chebyshev
-approximation filter functions All pass, Notch Filter.
-[T1,T2][No. of Hours: 11]
+Waveform generators:
+  Square and triangular waveform generators (determine period and frequency), saw tooth wave generator, Astable multi-vibrator, Monostable and Bistable Multivibrator.
+Active RC Filters:
+  Idealistic & Realistic response of filters (LPF, BPF, HPF, BRF), Butter worth & Chebyshev approximation filter functions All pass, Notch Filter.
+[T1,T2]
+
 Unit – IV
-Introduction to 555 Timer IC: Functional and block diagram of 555 timer, Application of 555 timer as astable
-and monostable multivibrator. Operational transconductance amplifier (OTA)-C filters.OTA integrator &
-differentiator, Introduction to current conveyer. Applications of IC Analog Multiplier: IC phase locked loops, IC
-voltage regulators, IC VCO.
-[T1,T2][No. of Hours: 11]
+Introduction to 555 Timer IC:
+  Functional and block diagram of 555 timer, Application of 555 timer as astable and monostable multivibrator.
+  Operational transconductance amplifier (OTA)-C filters.OTA integrator & differentiator, Introduction to current conveyer.
+Applications of IC Analog Multiplier:
+  IC phase locked loops, IC voltage regulators, IC VCO.
+[T1,T2]
+
+
 Text Books:
-[T1] S Salivahanan, V S Kanchana Bhaaskaran, “Linear Integrated Circuits” TMH.
-[T2] Op - Amps And Linear Integrated Circuits, Ramakant A Gayakwad,PHI.
+[T1] S. Salivahanan, V.S. Kanchana Bhaaskaran
+      “Linear Integrated Circuits”
+       TMH
+[T2] Ramakant A. Gayakwad
+      Op - Amps And Linear Integrated Circuits
+       PHI
+
 Reference Books:
-[R1] D. Roy Choudhary, Shail B Jain, “Linear Integrated Circuits” New Age Publisher, 1999.
-[R2] M.Rashid , “Microelectronic Circuit”, Cengage Learning Publication.
-[R3] Sedra & Smith, “Micro Electronic Circuits” Oxford University Press, 2000
-[R4] David A Bell, “Operational Amplifiers and Linear IC’s”, PHI.
+[R1] D. Roy Choudhary, Shail B. Jain
+      “Linear Integrated Circuits”
+       New Age Publisher, 1999
+[R2] M. Rashid
+      “Microelectronic Circuit”
+       Cengage Learning Publication
+[R3] Sedra & Smith
+      “Micro Electronic Circuits”
+      Oxford University Press, 200
+[R4] David A. Bell
+      “Operational Amplifiers and Linear IC’s”
+       PHI

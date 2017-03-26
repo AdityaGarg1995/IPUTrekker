@@ -1,0 +1,39 @@
+Paper Code: ETTE-417 L T/P C
+Paper: Low Cost Automation 3 0 3
+Objective: This paper introduces the knowledge of automation in industry using hydraulic, pneumatic and
+programmable logic controllers.
+UNIT I
+Basic Concepts of Automation: Introduction, Types of automation, Degree of automation, Technical,
+Economic and human factors in automation, Automatic handling of parts, using relays, positioned limit
+switches, etc., hard automation of dedicated system of handling using in line transfer, rotary transfer by Geneva
+mechanism, electro-hydraulic or pneumatic systems, Low cost automation.
+[T1, T2][No. of Hrs. 11]
+UNIT II
+Technologies: Mechanical, Electrical, Hydraulic, Pneumatic, Electronic, Hybrid systems, Comparative
+evaluation. Basics of pneumatics system, Compressed air generation Basics of hydraulic systems, Source of
+Hydraulic power, Pump classification, Electrical and Electronic control – sensors and transducers.
+[T1, T2][No. of Hrs. 10]
+UNIT III
+Hydraulic and Pneumatic Circuits : Hydraulic and Pneumatic symbols, Hydraulic actuators, Design of
+hydraulic circuits, Meter in circuits, Meter out circuits, Accumulator circuits, Regenerative circuits, ,Pneumatic
+actuators and valves, Design of Pneumatic Circuits, Speed control of double acting cylinder, Multiple actuator
+circuits, Electro pneumatic multiple actuator circuits , Illustrative examples of the above types of systems as
+well as hybrid systems used for automation of working cycles of machines, Material Handling, Inspection and
+Assembly etc.
+[T1, T2][No. of Hrs. 12]
+UNIT IV
+Programmable Logic Controllers : Introduction, Components of PLC, Programming of PLC- Ladder diagram
+based, Low level based on Boolean expression, functional blocks, high level language, PLC - Timer, PLCCounter,
+PLC Memory element, Designing for automation, Areas of application of PLC, Cost-benefit analysis.
+[T1, T2][No. of Hrs. 10]
+Text Books:
+[T1] Groover, Mikell P, “Automation, Production Systems and Computer Integrated Manufacturing”,
+Prentice Hall, 1987.
+[T2] Soundararajan V., “Introduction to Hydraulic and Pneumatic”, Prentice Hall of India, 2007.
+Reference Books:
+[R1] Johnson, David G., “Programmable Controllers for Factory Automation”, Marcel Dekker, New York,
+1987.
+[R2] Boothroyd, G. and Poli, C., “Automatic Assembly”, Marcel Dekkar, New York, 1982.
+[R3] Sapiro, Steve Smith, Robert J., “Handbook of Design Automation”, Prentice Hall, 1986.
+[R4] Fawcett J.R., “Pneumatic Circuits and Low Cost Automation”, Trad & Technica Press, England, 1968.
+[R5] Pneumatics Control, Joji P, Wiley India Publication

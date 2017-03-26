@@ -1,0 +1,61 @@
+Paper Code: ETIT-412 L T/P C
+Paper: Bio Informatics 3 0 3
+
+
+UNIT- I
+Introduction:
+  Biological data in digital symbol sequences, genomes, proteins and proteomes, biological sequences, molecular function and structure.
+Biological Databases:
+  Sequence databases, mapping databases, information retrieval, genomic databases.
+Machine Learning Foundations:
+  The probabilistic framework and examples.
+[T1], [T2]
+
+UNIT- II
+Machine Learning Algorithms:
+  Introduction, dynamic programming, gradient descent, EM/GEM algorithms, Markov-Chain Monte Carlo methods, simulated annealing, evolutionary and genetic algorithms, learning algorithms.
+Neural Network:
+  Theory and Applications.
+Hidden Markov Models:
+  Theory and applications
+[T1]
+
+UNIT- III
+Probabilistic graphical models in bioinformatics:
+  Markov Models and DNA symmetries, gene finders, hybrid models and neural network parameterization of graphical models, single model case, bidirectional recurrent neural networks for protein secondary structure prediction.
+Probabilistic models of evolution:
+  phylogenetic trees.
+[T1]
+
+UNIT-IV
+Stochastic grammars and linguistics:
+  Introduction, formal grammars, Chomsky hierarchy, applications of grammars, learning algorithms, applications of SCFGs.
+Microarrays and gene expression:
+  Introduction, Probabilistic modelling of array data, clustering, gene regulation.
+[T1]
+
+
+Text Books:
+[T1] P. Baldi , S. Brunak
+      ”Bioinformatics : The machine learning approach” 2nd Edition
+       MIT Press
+[T2] A.D. Baxevanis, B.F.F. Quellette
+      “Bioinformatics: A Practical guide to the analysis of genes and proteins” 3rd Edition
+       Wiley-Interscience
+
+References Books:
+[R1] TK Attwood & DJ Parry-Smith
+      ”Introduction to Bioinformatics”
+       Pearson Education
+[R2] Edward Keedwell and Ajit Narayanan
+      “Intelligent Bioinformatics”
+       John Wiley & Sons, Ltd
+[R3] A Tramontano
+      “Introduction to Bioinformatics”
+       Chapman & Hall/CRC
+[R4] D. Roy
+      “Bioinformatics”
+       Narosa Publishing House
+[R5] David Mount
+      “Bioinformatics: sequence and genome analysis”
+       Cold spring harbour Lab

@@ -1,0 +1,35 @@
+Paper Code: ETAT-453 L T/P C
+Paper: Mechatronics Lab 0 2 1
+
+
+List of Experiments:
+
+
+1. Study of DC valves and actuators and develop pneumatic circuits to sequence A+A-,A+B+A-B-;
+
+2. Develop Electro –pneumatic sequencing circuits in sequence - A+A-, A+B+A-B-;
+
+3. Develop pneumatic circuits to sequence A+A- B+B-, A+B+C+A-B-C-; A+B+B-A-;
+
+4. Develop Electro –pneumatic sequencing circuits in sequence - A+A-B+B-; A+B+B-A-;
+
+5. Study a simulation software for simulating ladder diagram for a PLC and make AND/OR/NAND/ NOR / XOR logic.
+
+6. Simulate ladder diagram on a PLC software for using flags, latch(s), timer(s), counter(s), registers.
+
+7. Wire an industrial PLC and program it for AND/ OR/ NAND / XOR logic.
+
+8. Wire and industrial PLC and program for using flags, latch(s), timer(s),counter(s),Integers.
+
+9. Program a 8051 / 8052 microcontroller to use input and output ports;
+
+10. Program a 8051 / 8052 microcontroller to run a stepper motor;
+
+11. Program a 8051 / 8052 microcontroller to use a dc motor;
+
+12. Program a 8051 / 8052 microcontroller to use a servo motor;
+
+13. Introduction to SCADA and HMI programming
+
+
+NOTE:- At least 8 Experiments from the syllabus must be done in the semester.

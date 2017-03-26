@@ -19,10 +19,8 @@ import com.example.ankushsingh.ggsipu.Urls;
 
 public class aiactr extends AppCompatActivity {
 
-
     WebView webView;
     Activity a = this;
-
 
     private void setupActionBar() {
         ActionBar actionBar = getSupportActionBar();
@@ -70,61 +68,80 @@ public class aiactr extends AppCompatActivity {
 
     private void setCollege(String college){
 
+        String url = "";
         switch (college){
 
-            case "AIACTR" : webView.loadUrl(Urls.aiactr);
+            case "AIACTR" :
+                url = Urls.aiactr;
 //                CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
 //                CustomTabsIntent customTabsIntent = builder.build();
 //                builder.setToolbarColor(Color.RED);
 //                customTabsIntent.launchUrl(this, Uri.parse(Urls.aiactr));
 //                webView.loadUrl("https://drive.google.com/file/d/0B0QBCOtMbl-vU1AzN2RJOWJod3M/view?usp=sharing");
-                webView.loadUrl(Urls.aiactr);
+//                webView.loadUrl(Urls.aiactr);
                 break;
 
-            case "Amity School of Education": webView.loadUrl(Urls.amity);
+            case "Amity School of Education":
+                url = Urls.amity;
                 break;
 
-            case "BVPCOE": webView.loadUrl(Urls.bvp);
+            case "BVPCOE":
+                url = Urls.bvp;
                 break;
 
-            case "Ch.BP Govt Engg College": webView.loadUrl(Urls.bp);
+            case "Ch.BP Govt Engg College":
+                url = Urls.bp;
                 break;
 
-            case "BPIT": webView.loadUrl(Urls.bpit);
+            case "BPIT":
+                url = Urls.bpit;
                 break;
 
-            case "DITE": webView.loadUrl(Urls.dite);
+            case "DITE":
+                url = Urls.dite;
                 break;
 
-            case "Delhi Technical Campus": webView.loadUrl(Urls.dtc);
+            case "Delhi Technical Campus":
+                url = Urls.dtc;
                 break;
 
-            case "GTBIT": webView.loadUrl(Urls.gtbit);
+            case "GTBIT":
+                url = Urls.gtbit;
                 break;
 
-            case "HMRITM": webView.loadUrl(Urls.hmr);
+            case "HMRITM":
+                url = Urls.hmr;
                 break;
 
-            case "GBPant College of Engg": webView.loadUrl(Urls.gbp);
+            case "GBPant College of Engg":
+                url = Urls.gbp;
                 break;
 
-            case "JIMS": webView.loadUrl(Urls.jims);
+            case "JIMS":
+                url = Urls.jims;
                 break;
 
-            case "MAIT": webView.loadUrl(Urls.mait);
+            case "MAIT":
+                url = Urls.mait;
                 break;
 
-            case "MSIT": webView.loadUrl(Urls.msit);
+            case "MSIT":
+                url = Urls.msit;
                 break;
 
-            case "NIEC": webView.loadUrl(Urls.niec);
+            case "NIEC":
+                url = Urls.niec;
                 break;
 
-            case "NPTI": webView.loadUrl(Urls.npti);
+            case "NPTI":
+                url = Urls.npti;
                 break;
-
         }
-        a.setTitle(college);
+        try{
+            webView.loadUrl(url);
+            a.setTitle(college);
+        }
+        catch (Exception e){e.printStackTrace();}
     }
 
 
@@ -160,7 +177,9 @@ public class aiactr extends AppCompatActivity {
         // Handle action bar item clicks here.
         // The action bar automatically handles clicks on the Home/Up button, specified a parent activity in AndroidManifest.xml.
         if(item.getItemId() == R.id.refresh){
-            webView.loadUrl(webView.getUrl());
+            try{
+                webView.loadUrl(webView.getUrl());
+            }catch (Exception e){e.printStackTrace();}
             return true;
         }
         return super.onOptionsItemSelected(item);

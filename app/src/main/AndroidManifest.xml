@@ -27,137 +27,103 @@
 
         <activity
             android:name=".Colleges.amity"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.bp"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.bpit"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.dite"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.dtc"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.bvp"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.gbp"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.gtbit"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.hmr"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.jims"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.mait"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.msit"
-            android:parentActivityName=".CollegeActivity" />
+            />
         <activity
             android:name=".Colleges.niit"
-            android:parentActivityName=".CollegeActivity" />
+            />
+
 
         <activity
             android:name=".logo"
             android:parentActivityName=".HomeActivity" />
 
-        <activity
-            android:name=".Streams.CSE"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.ECE"
-            android:parentActivityName=".StreamActivity" />
+
+
         <activity
             android:name=".Streams.IT"
             android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.EE"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.EEE"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.MAE"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.CIVIL"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.SEM5_PE"
-            android:parentActivityName=".Streams.ZChooseSemForSyll" />
-        <activity
-            android:name=".Streams.TOOL"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.ME"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.ICE"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.MECH"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.ENVO"
-            android:parentActivityName=".StreamActivity" />
-        <activity
-            android:name=".Streams.IT2"
-            android:parentActivityName=".Streams.IT" />
-        <activity
-            android:name=".Streams.EE2"
-            android:parentActivityName=".Streams.EE" />
-        <activity
-            android:name=".Streams.EEE2"
-            android:parentActivityName=".Streams.EEE" />
-        <activity
-            android:name=".Streams.MAE2"
-            android:parentActivityName=".Streams.MAE" />
-        <activity
-            android:name=".Streams.SEM6_PE"
-            android:parentActivityName=".Streams.ZChooseSemForSyll" />
-        <activity
-            android:name=".Streams.ME2"
-            android:parentActivityName=".Streams.ME" />
-        <activity
-            android:name=".Streams.ICE2"
-            android:parentActivityName=".Streams.ICE" />
-        <activity
-            android:name=".Streams.MECH2"
-            android:parentActivityName=".Streams.MECH" />
-        <activity
-            android:name=".Streams.ENVO2"
-            android:parentActivityName=".Streams.ENVO" />
+
 
         <activity
-            android:name=".Streams.SEM1Syllabus"
-            android:parentActivityName=".Streams.CIVIL" />
+            android:name=".Streams.IT2"
+            android:parentActivityName=".Streams.IT2"
+            />
         <activity
-            android:name=".Streams.SEM2Syllabus"
-            android:parentActivityName=".Streams.CSE" />
+            android:name=".Streams.EE2"
+            android:parentActivityName=".Streams.EE2"
+            />
+
+
         <activity
-            android:name=".Streams.SEM6_CEnENE"
-            android:parentActivityName=".Streams.SEM6_CEnENE" />
+            android:name=".Streams.SEM8_ENE"
+            android:parentActivityName=".Streams.SEM8_ENE" />
+
+        <activity
+            android:name=".Streams.TOOL" />
+        <activity
+            android:name=".Streams.ME" />
+        <activity
+            android:name=".Streams.MECH" />
+
+        <activity
+            android:name=".Streams.MAE2"/>
+
+        <activity
+            android:name=".Streams.ME2"
+            android:parentActivityName=".Streams.ME2" />
+
+        <activity
+            android:name=".Streams.SEM7_ENE"/>
+        <activity
+            android:name=".Streams.MECH2" />
+
 
         <activity
             android:name=".Streams.ZCodes"
-            android:parentActivityName=".Streams.TOOL" />
+            android:parentActivityName=".StreamActivity"
+            />
         <activity
             android:name=".Streams.ZChooseSemForSyll"
-            android:parentActivityName=".Streams.IT" />
+            android:parentActivityName=".Streams.ZChooseSemForSyll"
+            />
 
 
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-
 
         <activity android:name=".Splash" />
 
@@ -170,26 +136,89 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
-
             </intent-filter>
 
         </activity>
 
+<!--Syllabus-->
+        <activity
+            android:name=".Syllabus"
+            android:parentActivityName=".Syllabus"/>
 
-        <activity android:name=".Syllabus" />
-
-
+<!--Semester-wise Syllabus-->
         <activity
             android:name=".Streams.IT3"
-            android:label="@string/title_activity_it3"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName=".Streams.IT3"/>
+            <activity
+            android:name=".Streams.IT4"
+            android:parentActivityName=".Streams.IT4"/>
+        <activity
+            android:name=".Streams.IT5"
+            android:parentActivityName=".Streams.IT5"/>
+        <activity
+            android:name=".Streams.IT6"
+            android:parentActivityName=".Streams.IT6"/>
 
-        <activity android:name=".Streams.IT4" />
-        <activity android:name=".Streams.IT5" />
-        <activity android:name=".Streams.IT6" />
-        <activity android:name=".Streams.IT7" />
-        <activity android:name=".Streams.IT8" />
+        <activity
+            android:name=".Streams.IT7"
+            android:parentActivityName=".Streams.IT7"/>
+        <activity
+            android:name=".Streams.IT8"
+            android:parentActivityName=".Streams.IT8"/>
+
+        <activity
+            android:name=".Streams.SEM1Syllabus"
+            android:parentActivityName=".Streams.SEM1Syllabus" />
+        <activity
+            android:name=".Streams.SEM2Syllabus"
+            android:parentActivityName=".Streams.SEM2Syllabus" />
+
+        <activity
+            android:name=".Streams.SEM6_CEnENE"
+            android:parentActivityName=".Streams.SEM6_CEnENE" />
+
+        <activity
+            android:name=".Streams.SEM5_PE"
+            android:parentActivityName=".Streams.SEM5_PE" />
+        <activity
+            android:name=".Streams.SEM6_PE"
+            android:parentActivityName=".Streams.SEM6_PE" />
+
+        <activity
+            android:name=".Streams.SEM7_CSE"
+            android:parentActivityName=".Streams.IT7" />
+        <activity
+            android:name=".Streams.SEM8_CSE"
+            android:parentActivityName=".Streams.IT8" />
+
+        <activity
+            android:name=".Streams.SEM7_ECE"
+            android:parentActivityName=".Streams.SEM7_ECE"/>
+        <activity
+            android:name=".Streams.SEM8_ECE"
+            android:parentActivityName=".Streams.SEM8_CSE" />
+
+        <activity
+            android:name=".Streams.SEM7_EEEnEE"
+            android:parentActivityName=".Streams.SEM7_EEEnEE" />
+        <activity
+            android:name=".Streams.SEM8_EEEnEE"
+            android:parentActivityName=".Streams.SEM8_EEEnEE"/>
+
+        <activity
+            android:name=".Streams.SEM7_PE"
+            android:parentActivityName=".Streams.SEM7_PE"/>
+
+        <activity
+            android:name=".Streams.SEM7_CE"
+            android:parentActivityName=".Streams.SEM7_CE"/>
+
+        <activity
+            android:name=".Streams.SEM8_CE"
+            android:parentActivityName=".Streams.SEM8_CE"/>
+
         <activity android:name=".BookList" />
+
     </application>
 
 </manifest>

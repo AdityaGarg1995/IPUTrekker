@@ -1,0 +1,39 @@
+Paper Code: ETEE-431 L T/P C
+Paper: Power Line Carrier Communication 3 0 3
+
+
+UNIT- I
+Channel Characterization:
+  Introduction, channel modelling fundamentals, model for outdoor channel, models for indoor channels, noise and disturbances ,measuring techniques, PLC channel emulation tools.
+Coupling:
+  Introduction, filtering basics, transformer and capacitor coupler design, impedance adaptation concepts.
+[T1,T2]
+
+UNIT- II
+Digital Transmission Techniques:
+  Introduction, Architecture of PLC system, Narrowband and broadband PLC systems, Modulation and coding for narrow band and broad band PLC systems, Error Handling.
+[T1,T2]
+
+UNIT- III
+PLC Networks:
+  Introduction, Organisation and structure of PLC networks, Media Access Control layer, Multiple Access Schemes, Protocols for PLC, Traffic control, Supporting Energy Management Systems, Quality of service(QOS), International standards on PLC networking Technology.
+[T1,T2]
+
+UNIT-IV
+Systems and Implementations:
+  PLC smart grid systems, PLC broadband Access systems, Multimedia PLC systems, DC-PLC systems, PLC in emerging countries
+[T1,T2]
+
+
+Text:
+[T1] Hendrik C. Ferreira, Lutz Lampe John Newbury, Theo G.Swart
+      ”PLC: theory and Applications for narrow band and broad band communication over power lines”
+       Wiley and Sons
+[T2] Halid Hrasnica, Abdelfatteh Haidine, Ralf Lehnert
+      ”Broad Band Power line Communications: Network Design”
+       Wiley and sons
+
+References:
+[R1] Gilbert Held
+      ”Understanding Broadband over Power line”
+      Auerbach Publications

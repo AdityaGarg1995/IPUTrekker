@@ -51,45 +51,45 @@ public class SEM6_PE extends AppCompatActivity implements View.OnClickListener{
 
         switch (v.getId()){
             case R.id.load:
-                intent.putExtra("Subject", "Load");
+                intent.putExtra("Subject", "Load").putExtra("Book", "");
                 break;
             case R.id.ppc:
-                intent.putExtra("Subject", "PPC");
+                intent.putExtra("Subject", "PPC").putExtra("Book", "");
                 break;
             case R.id.ppci:
-                intent.putExtra("Subject", "PPCI");
+                intent.putExtra("Subject", "PPCI").putExtra("Book", "");
                 break;
             case R.id.pstd:
-                intent.putExtra("Subject", "PSTD");
+                intent.putExtra("Subject", "PSTD").putExtra("Book", "");
                 break;
 
             case R.id.ic:
-                intent.putExtra("Subject", "IC");
+                intent.putExtra("Subject", "IC").putExtra("Book", "");
                 break;
             case R.id.peed:
-                intent.putExtra("Subject", "PEED");
+                intent.putExtra("Subject", "PEED").putExtra("Book", "");
                 break;
             case R.id.md:
-                intent.putExtra("Subject", "MD");
+                intent.putExtra("Subject", "MD").putExtra("Book", "");
                 break;
             case R.id.emft: ;
-                intent.putExtra("Subject", "EMFT");
+                intent.putExtra("Subject", "EMFT").putExtra("Book", "");
                 break;
 
             case R.id.sta_ojt:
-                intent.putExtra("Subject", "STA-OJT");
+                intent.putExtra("Subject", "STA-OJT").putExtra("Book", "NA");
                 break;
             case R.id.sga_ojt:
-                intent.putExtra("Subject", "SGA-OJT");
+                intent.putExtra("Subject", "SGA-OJT").putExtra("Book", "NA");
                 break;
             case R.id.pp_ojt:
-                intent.putExtra("Subject", "PP-OJT");
+                intent.putExtra("Subject", "PP-OJT").putExtra("Book", "NA");
                 break;
             case R.id.icLab:
-                intent.putExtra("Subject", "ICLab");
+                intent.putExtra("Subject", "ICLab").putExtra("Book", "");
                 break;
             case R.id.peedLab: ;
-                intent.putExtra("Subject", "PEEDLab");
+                intent.putExtra("Subject", "PEEDLab").putExtra("Book", "");
                 break;
         }
 

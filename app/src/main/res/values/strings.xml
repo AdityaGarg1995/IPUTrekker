@@ -8,12 +8,12 @@
     <string name = "te">   Tool \n Engineering                          </string>
     <string name = "it">   Information \n Technology                    </string>
     <string name = "cse">  Computer Science \n and Engineering          </string>
-    <string name = "eee">  Electronics and Electrical Engineering       </string>
+    <string name = "eee">  Electronics and Electrical \n Engineering    </string>
     <string name = "ece">  Electronics and Communication \n Engineering </string>
     <string name = "ee">   Electrical \n Engineering                    </string>
     <string name = "ce">   Civil \n Engineering                         </string>
     <string name = "ene">  Environmental \n Engineering                 </string>
-    <string name = "mae">  Mechanical and Automation Engineering        </string>
+    <string name = "mae">  Mechanical and Automation \n Engineering     </string>
     <string name = "me">   Mechanical \n Engineering                    </string>
     <string name = "mech"> Mechatronics                                 </string>
     <string name = "pe">   Power \n Engineering                         </string>
@@ -22,21 +22,25 @@
 
 <!--Strings for Colleges-->
     <string name = "aiactr"> Ambedkar Institute of Advanced Communication \n Technologies and Research </string>
-    <string name = "amity">  Amity School \n of Education                                           </string>
-    <string name = "bpit">   Bhagwan Parshuram Institute \n of Technology                           </string>
-    <string name = "bvp">    Bharati Vidyapeeth College \n of Engineering                           </string>
-    <string name = "bp">     Ch. B.P. Government Engineering College                                </string>
-    <string name = "dite">   Delhi Institute \n of Tool Engineering                                 </string>
-    <string name = "dtc">    Delhi Technical \n Campus                                              </string>
-    <string name = "gbp">    Govind Ballabh Pant Engineering College                                </string>
-    <string name = "gtbit">  Guru Tegh Bahadur Institute of Technology                              </string>
-    <string name = "hmr">    HMR Institute of Technology and Management                             </string>
-    <string name = "jims">   Jagan Institute of Management Studies                                  </string>
-    <string name = "mait">   Maharaja Agrasen Institute of Technology                               </string>
-    <string name = "msit">   Maharaja Surajmal Institute of Technology                              </string>
-    <string name = "niit">   Northern India Engineering College                                     </string>
-    <string name = "npti">   National Power Training Institute                                      </string>
+    <string name = "amity">  Amity School of Education                                                 </string>
+    <string name = "bpit">   Bhagwan Parshuram Institute  of Technology                                </string>
+    <string name = "bvp">    Bharati Vidyapeeth College of Engineering                                 </string>
+    <string name = "bp">     Ch. B.P. Government Engineering College                                   </string>
+    <string name = "dite">   Delhi Institute of Tool Engineering                                       </string>
+    <string name = "dtc">    Delhi Technical Campus                                                    </string>
+    <string name = "gbp">    Govind Ballabh Pant Engineering College                                   </string>
+    <string name = "gtbit">  Guru Tegh Bahadur Institute of Technology                                 </string>
+    <string name = "hmr">    HMR Institute of Technology and Management                                </string>
+    <string name = "jims">   Jagan Institute of Management Studies                                     </string>
+    <string name = "mait">   Maharaja Agrasen Institute of Technology                                  </string>
+    <string name = "msit">   Maharaja Surajmal Institute of Technology                                 </string>
+    <string name = "niit">   Northern India Engineering College                                        </string>
+    <string name = "npti">   National Power Training Institute                                         </string>
 
+
+    <!--Strings for some subjects-->
+    <string name = "hvpe_ii"> Human Values &amp; Professional Ethics-II </string>
+    <string name = "sociology"> Sociology &amp; Elements of Indian History for Engineers </string>
     <!-- Strings related to Settings -->
 
     <!-- Example General settings -->

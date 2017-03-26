@@ -56,7 +56,6 @@ public class SEM6_CEnENE extends AppCompatActivity implements View.OnClickListen
         a.setTitle(stream + ": 6th Semester Subjects");
 
         setSubject();
-
     }
 
 
@@ -88,86 +87,93 @@ public class SEM6_CEnENE extends AppCompatActivity implements View.OnClickListen
 
     @Override
     public void onClick(View v) {
-
+        intent = new Intent(this, Syllabus.class);
         switch (v.getId()) {
-
 //           Theory
-            case R.id.te_i: intent = new Intent(this, Syllabus.class).putExtra("Subject", "TE-I");
+            case R.id.te_i: intent.putExtra("Subject", "TE-I").putExtra("Book", "");
                 break;
-            case R.id.asd: intent = new Intent(this, Syllabus.class).putExtra("Subject", "ASD");
+            case R.id.asd: intent.putExtra("Subject", "ASD").putExtra("Book", "");
                 break;
             case R.id.gis:
-                if(stream.equals("CE"))
-                   intent = new Intent(this, Syllabus.class).putExtra("Subject", "GIS");
-                else if (stream.equals("ENE"))
-                   intent = new Intent(this, Syllabus.class).putExtra("Subject", "PSWM");
+                switch (stream) {
+                    case "CE": intent.putExtra("Subject", "GIS").putExtra("Book", "");
+                        break;
+                    case "ENE": intent.putExtra("Subject", "PSWM").putExtra("Book", "");
+                        break;
+                }
                 break;
             case R.id.qsce:
-                if (stream.equals("CE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "QSCE");
-                else if (stream.equals("ENE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "IWM");
+                switch (stream) {
+                    case "CE": intent.putExtra("Subject", "QSCE").putExtra("Book", "");
+                        break;
+                    case "ENE": intent.putExtra("Subject", "IWM").putExtra("Book", "");
+                        break;
+                }
                 break;
             case R.id.hydraulics:
-                if (stream.equals("CE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "Hydraulics-II");
-                else if (stream.equals("ENE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "Eco");
+                switch (stream) {
+                    case "CE": intent.putExtra("Subject", "Hydraulics-II").putExtra("Book", "");
+                        break;
+                    case "ENE": intent.putExtra("Subject", "Eco").putExtra("Book", "");
+                        break;
+                }
                 break;
-
 
 //           Electives
-            case R.id.eso: intent = new Intent(this, Syllabus.class).putExtra("Subject", "ESO");
+            case R.id.eso: intent.putExtra("Subject", "ESO").putExtra("Book", "");
                 break;
-            case R.id.orm: intent = new Intent(this, Syllabus.class).putExtra("Subject", "ORM");
+            case R.id.orm: intent.putExtra("Subject", "ORM").putExtra("Book", "");
                 break;
-            case R.id.dd: intent = new Intent(this, Syllabus.class).putExtra("Subject", "DD");
+            case R.id.dd: intent.putExtra("Subject", "DD").putExtra("Book", "");
                 break;
-
 
 //           Practicals
-            case R.id.asdLab: intent = new Intent(this, Syllabus.class).putExtra("Subject", "ASDLab");
+            case R.id.asdLab: intent.putExtra("Subject", "ASDLab").putExtra("Book", "");
                 break;
             case R.id.gisLab:
-                if(stream.equals("CE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "GISLab");
-                else if (stream.equals("ENE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "PSWMLab");
+                switch (stream) {
+                    case "CE": intent.putExtra("Subject", "GISLab").putExtra("Book", "");
+                        break;
+                    case "ENE":intent.putExtra("Subject", "PSWMLab").putExtra("Book", "");
+                        break;
+                }
                 break;
             case R.id.teLab_i:
-                if(stream.equals("CE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "TELab-I");
-                else if (stream.equals("ENE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "ETSLab");
+                switch (stream) {
+                    case "CE": intent.putExtra("Subject", "TELab-I").putExtra("Book", "");
+                        break;
+                    case "ENE": intent.putExtra("Subject", "ETSLab").putExtra("Book", "");
+                        break;
+                }
                 break;
             case R.id.seminar:
-                if(stream.equals("CE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "Seminar");
-                else if (stream.equals("ENE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "Seminar-ENE");
+                switch (stream) {
+                    case "CE": intent.putExtra("Subject", "Seminar").putExtra("Book", "NA");
+                        break;
+                    case "ENE": intent.putExtra("Subject", "Seminar-ENE").putExtra("Book", "NA");
+                        break;
+                }
                 break;
             case R.id.camp:
-                if(stream.equals("CE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "Camp-CE");
-                else if (stream.equals("ENE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "Camp-ENE");
+                switch (stream) {
+                    case "CE":
+                        intent.putExtra("Subject", "Camp-CE").putExtra("Book", "NA");
+                        break;
+                    case "ENE":
+                        intent.putExtra("Subject", "Camp-ENE").putExtra("Book", "NA");
+                        break;
+                }
                 break;
             case R.id.lab1:
                 if (stream.equals("ENE"))
-                    intent = new Intent(this, Syllabus.class).putExtra("Subject", "EcoLab");
+                    intent.putExtra("Subject", "EcoLab").putExtra("Book", "");
                 break;
-
         }
-
         try {
             intent.putExtra("Sem", "CE6").putExtra("SubjectName", ((Button) v).getText().toString());
             if ((intent != null))
                 startActivity(intent);
-        }
-        catch (Exception e){e.printStackTrace();}
-
+        } catch (Exception e){e.printStackTrace();}
     }
-
-
 }
 

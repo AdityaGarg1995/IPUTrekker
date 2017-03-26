@@ -1,0 +1,47 @@
+Paper Code: ETTE-405 L T/P C
+Paper: Computer Aided Graphics & Product Design 3 1 4
+
+
+UNIT-I
+Introduction to CAD: Design process, Fundamentals of CAD: Role of computers in design.
+Computer Graphics: Raster scans graphics, Coordinate system, Database structure for graphic modeling
+Transformation of geometry: Translation, Rotation, Reflection, Scaling, Homogenous representation,
+Projection: Orthographic projection, Isometric Projection.
+[T1]
+
+UNIT-II
+Geometric Modeling: Requirement of Geometric Modelling, Geometric models, Geometric Construction
+Methods, Wireframe modeling, Curves representation, Curve fitting,
+Synthetic Curves: Cubic splines, Bezier curve.
+Surfacing: Surface of revolution, ruled surface.
+Solid Representation concepts: B-Rep, CSG.
+CAD Standards: Standardization in graphics, Exchange of modeling data- IGES, Standard for the exchange of
+product model data (STEP), Drawing Exchange Format, DMIS
+[T1]
+
+UNIT-III
+Introduction Product Design: Definition, Design by Evolution, Design by Innovation, Essential factors of
+Product Design, Morphology of Design, Role of Allowance, Primary design phases and flow charting, Process
+capability and Tolerance in detailed design and assembly, Product strategies, Product characteristics, Designer
+and his role, Basic design considerations, Types of Models designed by designers.
+[T2]
+
+UNIT-IV
+Computer & Design: Product cycle & CAD/CAM, Role of computer in design process.
+Modern approaches to Product Design: Concurrent Design, Quality function deployment.
+New Product Development: New product development, Model utilized in various phases, Managing product
+life cycle, Diffusion models: Models of first purchase.
+[T1,T2]
+
+
+Text Book:
+[T1]: P.N. Rao, “CAD/CAM Principles and Applications”, Tata McGraw Hill, 2003
+[T2] A.K Chitale and R.C.Gupta, “Product Design and Manufacturing”, Prentice-Hall of India Pvt. Ltd; 3rd edition (March 30, 2005)
+
+Reference Books:
+[R1] Rogers, D. F. and Adams, A., “Mathematical Elements for Computer Graphics”, McGraw-
+Hill Inc., NY, 1989.
+[R2] Groover and Zimmer, “CAD / CAM : Computer Aided Design & Manufacturing”, Prentice
+Hall, 1984.
+[R3] Karl.T.Ulrich, Steven D.Eppinger, Anita Goyal “Product Design and Development” Tata
+McGrawHill , 2009

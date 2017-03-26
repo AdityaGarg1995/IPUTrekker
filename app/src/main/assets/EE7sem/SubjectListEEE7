@@ -14,22 +14,22 @@ ELECTIVE- SELECT ANY TWO (ONE FROM EACH GROUP) $
 
 GROUP-A
 
-ETEE 419 Renewable Energy Resources 3 0 3
-ETEE 409 Power Distribution System 3 0 3
-ETEE 411 Telemetry and Data Acquisition Systems 3 0 3
-ETEE 413 PLC and SCADA Systems 3 0 3
-ETAT 403 Mechatronics 3 0 3
-ETEE 417 High Voltage Engineering 3 0 3
+ETEE 419 Renewable Energy Resources 3 0 3                 (EE)
+ETEE 409 Power Distribution System 3 0 3                  (EE)
+ETEE 411 Telemetry and Data Acquisition Systems 3 0 3     (EE)
+ETEE 413 PLC and SCADA Systems 3 0 3                      (EE)
+ETAT 403 Mechatronics 3 0 3                               (EE)
+ETEE 417 High Voltage Engineering 3 0 3                   (EE)
 ETEE 421 Selected topics in EEE** 3 0 3
 
 GROUP-B
 
-ETEC-403 Optoelectronics and Optical Communication 3 0 3
-ETCS 425 Database Management Systems 3 0 3
-ETIC 403 Biomedical Instrumentation 3 0 3
-ETEC 427 Digital System Design 3 0 3
-ETEE 431 Power line Carrier Communication 3 0 3
-ETEL 405 Electrical Machines Design 3 1 4
+ETEC-403 Optoelectronics and Optical Communication 3 0 3  (EE)
+ETCS 425 Database Management Systems 3 0 3                (EE, CE)
+ETIC 403 Biomedical Instrumentation 3 0 3                 (EE, ECE)
+ETEC 427 Digital System Design 3 0 3                      (EE)
+ETEE 431 Power line Carrier Communication 3 0 3           (EE)
+ETEL 405 Electrical Machines Design 3 1 4                 (EE Compulsory)
 ETHS 419 Sociology and Elements of Indian History for Engineers 3 0 3
 
 

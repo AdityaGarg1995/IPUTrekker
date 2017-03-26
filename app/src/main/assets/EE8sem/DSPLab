@@ -1,0 +1,52 @@
+Paper Code: ETEL-454
+Paper: Digital Signal Processing Lab
+
+
+List of Experiments:
+
+
+Software Experiments:
+
+1. Generation of basic signals sine, cosine, ramp, step, impulse and exponential in continuous and discrete domains using user defined functions.
+
+2. MATLAB program to find convolution (linear/circular) and correlation of 2 discrete signals.
+
+3. Perform linear convolution using circular convolution and vice versa.
+
+4. MATLAB program to
+   i. Find 8 point DFT, its magnitude and phase plot and inverse DFT.
+   ii. Find 16 point DFT, its magnitude and phase plot and inverse DFT.
+
+5. Perform the following properties of DFTi.
+   i. Circular shift of a sequence.
+   ii. Circular fold of a sequence.
+
+6. MATLAB Program to design FIR Low pass filter using
+   i. Rectangular window
+   ii. Hanning window
+   iii. Hamming window
+   iv. Bartlett window
+
+7. Write a MATLAB program to
+   i. Implement a Low pass/High pass/Band pass/Band stop IIR Filter using Butterworth Approximation.
+   ii. Implement a Low pass/High pass/Band pass/Band stop IIR Filter using Chebyshev Approximation.
+
+
+Hardware Experiments using Texas Instruments Kits-DSK 6713:
+
+8. Introduction to Code composer Studio.
+
+9. Program to generate a sine wave and see the output on CRO
+
+10. Program to Generate ECHO to give audio file.
+
+11. Program to demonstrate Band Stop filter by FIR.
+
+
+Additional Experiments:
+
+12. Program to generate a cos wave and see the output on CRO
+
+13. Program to blink the LED
+
+14. Program to display a string on LCD.

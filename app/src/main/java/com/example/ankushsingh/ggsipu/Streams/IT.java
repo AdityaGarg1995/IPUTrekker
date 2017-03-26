@@ -38,11 +38,11 @@ public class IT extends AppCompatActivity implements View.OnClickListener{
 
         streamCode = getIntent().getStringExtra("StreamCode");
 
-        setUrls(streamCode);
+        setUrls();
 
     }
 
-    public void setUrls(String streamCode){
+    public void setUrls(){
 
         switch (streamCode){
 
@@ -135,7 +135,11 @@ public class IT extends AppCompatActivity implements View.OnClickListener{
                 break;
             case R.id.it7: intent = new Intent(this, ZChooseSemForSyll.class).putExtra("Stream", streamCode);
                 break;
-            case R.id.it6: intent = new Intent(this,IT2.class).putExtra("StreamName", streamCode);
+            case R.id.it6:
+                if(streamCode.equals("EE") || streamCode.equals("ME") || streamCode.equals("MT"))
+                    intent = new Intent(this,EE2.class).putExtra("StreamName", streamCode);
+                else
+                    intent = new Intent(this,IT2.class).putExtra("StreamName", streamCode);
                 break;
         }
         try {

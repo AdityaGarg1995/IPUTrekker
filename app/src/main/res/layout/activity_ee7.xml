@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/l2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Compulsory Subjects"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textColor="@color/colorAccent"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Theory Subjects"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_marginTop="2dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ed"
+            android:text="Electrical Drives"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/acs"
+            android:text="Advanced Control Systems"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/emd"
+            android:text="Electrical Machines Design"
+            android:layout_weight="1"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Practical Subjects"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:textSize="20dp"
+            android:layout_marginTop="2dp"
+            android:textAlignment="center"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/edLab"
+            android:text="Electrical Drives Lab"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/acsLab"
+            android:text="Advanced Control Systems Lab"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/emdLab"
+            android:text="Electrical Machines Design Lab"
+            android:layout_weight="1"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Elective Subjects"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textColor="@color/colorAccent"
+            />
+        <!--Embedded, Opto, cloud, ddb, semantics, st, dsp  Group A-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="(Lab is based on elected subjects - one from each group)"
+            android:textAlignment="center"
+            android:textSize="12dp"
+            android:textColor="@color/red"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Group-A"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimary"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rer"
+            android:text="Renewable Energy Resources"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pds"
+            android:text="Power Distribution System"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tdas"
+            android:text="Telemetry &amp; Data Acquisition Systems"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/scada"
+            android:text="PLC &amp; SCADA Systems"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mecha"
+            android:text="Mechatronics"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/hve"
+            android:text="High Voltage Engineering"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/topics"
+            android:text="Selected Topics in EE"
+            android:layout_weight="1"
+            />
+
+        <!--Graphs, grid, adb, .net, j2ee, sociology, sysadmin-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Group-B"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimary"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/opto"
+            android:text="Optoelectronics &amp; Optical Communication"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dbms"
+            android:text="Database Management System"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bmi"
+            android:text="Biomedical Instrumentation"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dsd"
+            android:text="Digital System Design"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/plcc"
+            android:text="Power line Carrier Communication"
+            android:layout_weight="1"
+            />
+        <!--Common to all-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sociology"
+            android:text="Sociology &amp; Elements of Indian History for Engineers"
+            android:layout_weight="1"
+            />
+        <!---->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/eb"
+            android:text=""
+            android:layout_weight="1"
+            android:visibility="invisible"
+            />
+
+    </LinearLayout>
+
+
+
+</ScrollView>

@@ -1,8 +1,6 @@
 package com.example.ankushsingh.ggsipu;
 
-/**
- * Created by Aditya Garg on 31-08-2016.
- */
+
 
 public class Urls {
 
@@ -19,8 +17,7 @@ public class Urls {
     // usict
     public static final String usict = "http://ipu.ac.in/usict/";
 
-
-    // Colleges
+//........................................ Colleges.........................................................................//
     public static final String aiactr = "http://aiactr.ac.in/",
                                amity = "http://www.amity.edu/aset/",
                                dite = "http://dite.delhigovt.nic.in/index.asp",
@@ -38,7 +35,7 @@ public class Urls {
                                npti = "http://www.nptidelhi.net/";
 
 
-//    Syllabus urls
+//.............................................Syllabus....................................................................//
     public static final String civilSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                  "3rd%20Semester4,5,6,7,8/1Final%20Syllabus-CIVIL-3rd%20Semester4,5,6,7,8.pdf",
 
@@ -75,17 +72,14 @@ public class Urls {
                                                  "3rd%20Semester4,5,6,7,8/Final%20Syllabus-Power-3rd%20Semester4,5,6,7,8.pdf",
 
                                  toolSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
-                                                "3rd%20Semester4,5,6,7,8/Final%20Syllabus-Tool-3rd%20Semester4,5,6,7,8.pdf",
+                                                "3rd%20Semester4,5,6,7,8/Final%20Syllabus-Tool-3rd%20Semester4,5,6,7,8.pdf";
 
-
-    // IT Book
-    cSharpBook = "http://sd.blackball.lv/library/Pro_CSharp_5.0_and_the_.NET_4.5_Framework_6th_edition.pdf";
-
-
+// ..................................................Books.................................................................//
+// IT Books................................................................................................................//
 
 //    3rd Semester
 //    ETMA 201  Applied Mathematics – III
-    public static final String am_iiiBook = "https://www-elec.inaoep.mx/~jmram/Kreyzig-ECS-DIF1.pdf",
+    public static final String amBook = "https://www-elec.inaoep.mx/~jmram/Kreyzig-ECS-DIF1.pdf",
 //    ETCS 203 Foundation of Computer Science
 //    Not found
 //    ETEC 205 Switching Theory and Logic Design
@@ -101,7 +95,6 @@ public class Urls {
 
 //    4th Semester
 //    ETMA 202 Applied Mathematics – IV
-                              am_ivBook = "https://www-elec.inaoep.mx/~jmram/Kreyzig-ECS-DIF1.pdf",
 //    ETCS 204 Computer Organization and Architecture
                               coaBook = "http://read.pudn.com/downloads165/ebook/756501/ComputerSystemArchitecture.pdf",
 //    ETCS 206 Theory of Computation
@@ -112,7 +105,7 @@ public class Urls {
 //    ETCS 210 Object Oriented Programming
                               oopsBook = "http://tocs.ulb.tu-darmstadt.de/179841076.pdf",
 //    ETEE 212 Control Systems
-//    Not found
+                              controlBook = "h\uDBC0\uDC82p://portal.tpu.ru:7777/SHARED/s/SMIKE/Uchebnaya/Tab5/Modern_Control_Engineering.pdf",
 
 //    5th Semester
 //    ETCS 301 Algorithms Design and Analysis
@@ -124,9 +117,11 @@ public class Urls {
 //    ETCS-307 Java Programming
                               javaBook = "http://iiti.ac.in/people/~tanimad/JavaTheCompleteReference.pdf",
 //    ETMS 311 Industrial Management
-                              imBook = "http://dl4a.org/uploads/pdf/Ebook%20for%20PRODUCTION%20AND%20OPERATIONS%20MANAGEMENT.pdf",
+                              imBook = "http://dl4a.org/uploads/pdf/Ebook" +
+                                       "%20for%20PRODUCTION%20AND%20OPERATIONS%20MANAGEMENT.pdf",
 //    ETIT-309 Communication Systems
 //    ETHS 301 Communication Skills for Professionals
+                              skillsBook = "h\uDBC0\uDC82p://orientblackswan.com/downloads/elt_2014.pdf",
 
 
 //    6th Semester
@@ -137,7 +132,8 @@ public class Urls {
                              osBook = "https://it325blog.files.wordpress.com/2012/09/operating-system-concepts-7-th-edition.pdf",
 //
 //    ETEC 310 Data Communication and Networks
-                             dcnBook = "https://docs.google.com/file/d/0B78A_rsP6RDSY0NXLWFva20zQzQ/edit?pli=1",
+                             dcnBook = "https://montcs.bloomu.edu/Readings/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edi",
+                                        //"https://docs.google.com/file/d/0B78A_rsP6RDSY0NXLWFva20zQzQ/edit?pli=1",
 //    ETCS 308 Web Engineering
 //    ETCS 310 Artificial Intelligence
 //    ETEE-310 Microprocessor and Microcontroller
@@ -150,8 +146,12 @@ public class Urls {
                              cryptoBook = "http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/Stallings/Stallings_Cryptography_and_Network_Security.pdf",
 //    ETEC-405 Wireless Communication
                              wcBook = "http://ece.ut.ac.ir/Classpages/F86/ECE637/FILES/material/rappaport%2025-66.pdf",
+//    C# & .NET
+                             cSharpBook = "http://sd.blackball.lv/library/Pro_CSharp_5.0_and_the_.NET_4.5_Framework_6th_edition.pdf",
 
+                             sociologyBook = "http://doco.co/5Q4",
 
+                             softwareTestingBook = "http://www.softwaretestinggenius.com/download/EMFST.pdf",
 //    8th Semester
 //    ETIT 402 Mobile Computing
                              mcBook = "https://sgar91.files.wordpress.com/2011/10/mobile_communications_schiller_2e.pdf",
@@ -160,9 +160,71 @@ public class Urls {
 //    ETHS 402 Human Values and Professional Ethics-II
                              hvpe_iiBook = "http://www.imd.inder.cu/adjuntos/article/524/Professional%20Ethics%20and%20Human%20Values.pdf",
 //    E- Business and E- commerce Management by Dave Chaffey
-                             ecomBook = "https://geomart25.files.wordpress.com/2014/05/dave-chaffey-e-business-and-e-commerce-management-strategies-4th-ed-qwerty80.pdf";
+                             ecomBook = "https://geomart25.files.wordpress.com/2014/05/dave-chaffey-e-business-and-e-commerce-management-strategies-4th-ed-qwerty80.pdf",
 
 
+//    MAE books............................................................................................................//
+//     3rd semester
+                            fluidMechanicsBook = "https://drive.google.com/file/d/0B9_2yANiGJ12aWJrSGJZVjlxbHM/view",
+
+                            thermalScienceBook = "https://entegila.files.wordpress.com/2012/06/thermodynamics-an-engineering-approach-5th-edi",
+
+                            strengthOfMaterialBook = "http://www.engineering108.com/Data/Engineering/Mechanical/SM/Strength_Of_Materials_parts_IandII-Timoshenko.pdf",
+
+                            productionTechnologyBook = "http://www.engr.mun.ca/~hinch/9211/PARTS.pdf",
+
+                            msmBook = "https://abmpk.files.wordpress.com/2014/02/book_mare",
+
+                            electricalMachineBook = "http://prof.usb.ve/jaller/Fitzgerald.pdf",
+//    4th semester
+                            fluidSystemsBook = "https://drive.google.com/file/d/0B-IbNSAhk4D2UlpGQnRneFI3Smc/view?usp=sharing",
+
+                            theoryOfMachinesBook = "https://docs.google.com/file/d/0B5dLUIZfysmqMXBhakRyODhublU/edit",
+
+                            manufacturingMachinesBook = "http://fmcet.in/MECH/ME6402_uw.pdf",
+
+                            mniBook = "http://research.iaun.ac.ir/pd/imanianold/pdfs/HomeWork_8460.pdf",
+//    5th semester
+                            managementBook = "http://jntuh.ac.in/new/bulle",
+
+                            mctdBook = "exactdownload.com/download.php?filename...Creese,%201999)%20-%20Book.pdf",
+
+                            hticeBook = "www.scilab.in/textbook_companion/generate_book/1373",
+
+                            metrologyBook = "https://sites.google.com/site/f4ry6brug/.../Mechanical-Measurements-6th-.pdf",
+
+//    6th semester
+                            machineDesignBook = "https://drive.google.com/file/d/0B7X9XpFonUR5NVNDMm9sZVg0VjQ/view",
+
+                            automobileEngineeringBook = "krishikosh.egranth.ac.in/bitstream/1/2037407/1/12451.pdf",
+
+                            operationResearchBook = "http://kuwarangal.net/web/course/206_OR.pdf",
+//    7th sem
+                            amsmBook = "https://abmpk.files.wordpress.com/2014/02/book_maretial-science-callister.pdf",
+
+                            advancedControlEngBook = "http://portal.tpu.ru:7777/SHARED/s/SMIKE/Uchebnaya/Tab5/Modern_Control_Engineering.pdf",
+
+//..........................................................................................................................//
+//MT books
+//      4th sem
+                            kinematicsBook = "https://ssmengg.edu.in/weos/weos/upload/EStudyMaterial/Mechanical/4thSem/theoryofmachine/4_1293_515...theory%20of%20machine.pdf",
+
+                            snsBook = "https://drive.google.com/file/d/1mpcvRvRIB-pL3J7ONo3pS05l4uFvLQX57WoKUg5j29m6IacmzaU_CdSTnMSV/view",
+
+                            hydraulicsNPneumaticsBook = "http://engineering.nyu.edu/mechatronics/Control_Lab/Criag/Craig_RPI/SenAc",
+
+                            machineElementDesignBook = "https://drive.google.com/file/d/0B7X9XpFonUR5NVNDMm9sZVg0VjQ/view",
+
+                            mqcBook = "www.pssurvival.com/ps/Weather/Handbook_Of_Meteorology_1921.pdf",
+
+//    .......................................................................................................................//
+//    1st Semester
+                            ap_iBook = "http://phy240.ahepl.org/Concepts_of_Modern_Physics_by_Beiser.pdf",
+
+                            chemBook = "http://ronispc.chem.mcgill.ca/ronis/chem223/course_pac.pdf",
+
+                            mpBook = "https://futureingscientist.files.wordpress.com/2014/01/fundamentals-of-modern-manufacturing-4th-edition-by-mikell-p-groover.pdf";
+//............................................BookList.....................................................................//
     public static final String civilBookList = "http://bookboon.com/en/civil-engineering-ebooks",
                                cseBookList = "http://gatecse.in/best-books-for-gate/",
                                eceBookList = "http://www.gatestudy.com/list-of-books-for-gate-ece",
@@ -176,7 +238,7 @@ public class Urls {
                                mechBookList = "http://www.engineersinstitute.com/gate_exam_reference_books_mechanical_me.php",
                                powerBookList = "http://engineeringstudymaterial.net/tag/power-plant-engineering-books/",
                                toolBookList = "http://www.gatecounsellor.com/books/mechanical-engineering-me/machine-tool-design/";
-
+//..........................................................................................................................//
 
     public static final String se_sm = "http://www.icivilengineer.com/Structural_Engineering/Structure_Maintenance/",
                                repair = "http://www.structural.net/Repair/repair_concrete.html",

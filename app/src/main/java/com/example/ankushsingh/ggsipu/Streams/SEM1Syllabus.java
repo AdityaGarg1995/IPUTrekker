@@ -2,7 +2,6 @@ package com.example.ankushsingh.ggsipu.Streams;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -10,10 +9,11 @@ import android.widget.Button;
 
 import com.example.ankushsingh.ggsipu.R;
 import com.example.ankushsingh.ggsipu.Syllabus;
+import com.example.ankushsingh.ggsipu.Urls;
 
 public class SEM1Syllabus extends AppCompatActivity implements View.OnClickListener {
 
-//    Button button1,button2,button3,button4,button5,button6,button7,button8;
+    Button button[] = new Button[13];
 
 
    Activity a = this;
@@ -40,55 +40,64 @@ public class SEM1Syllabus extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.mpLab).setOnClickListener(this);
 
         a.setTitle("1st Semester Subjects");
-
-
     }
 
     @Override
     public void onClick(View v) {
-
+        i = new Intent(this, Syllabus.class);
         switch (v.getId()){
 
             case R.id.am_i:
-               i = new Intent(this, Syllabus.class).putExtra("Subject", "AM-I");
+               i.putExtra("Subject", "AM-I").putExtra("Book", Urls.amBook);
                 break;
+
             case R.id.ap_i:
-                i = new Intent(this, Syllabus.class).putExtra("Subject", "AP-I");
+                i.putExtra("Subject", "AP-I").putExtra("Book", Urls.ap_iBook);
                 break;
             case R.id.ap_iLab:
-                i = new Intent(this, Syllabus.class).putExtra("Subject", "APLab-I");
+                i.putExtra("Subject", "APLab-I").putExtra("Book", Urls.ap_iBook);
                 break;
+
             case R.id.chem:
-                i = new Intent(this, Syllabus.class).putExtra("Subject", "Chem");
+                i.putExtra("Subject", "Chem").putExtra("Book", Urls.chemBook);
                 break;
             case R.id.chemLab:
-                i = new Intent(this, Syllabus.class).putExtra("Subject", "ChemLab");
+                i.putExtra("Subject", "ChemLab").putExtra("Book", Urls.chemBook);
                 break;
+
             case R.id.egLab:
-                i = new Intent(this, Syllabus.class).putExtra("Subject", "EGLab");
+                i.putExtra("Subject", "EGLab").putExtra("Book", "http://bit.ly/2biUxCC");
                 break;
+
             case R.id.et:
-                i = new Intent(this, Syllabus.class).putExtra("Subject", "ET");
+                i.putExtra("Subject", "ET").putExtra("Book", "");
                 break;
             case R.id.etLab:
-                i = new Intent(this, Syllabus.class).putExtra("Subject", "ETLab");
+                i.putExtra("Subject", "ETLab").putExtra("Book", "");
                 break;
-            case R.id.foc: i = new Intent(this, Syllabus.class).putExtra("Subject", "FoC");
+
+            case R.id.foc:
+                i.putExtra("Subject", "FoC").putExtra("Book", "http://www.openoffice.org/why/");
                 break;
-            case R.id.focLab: i = new Intent(this, Syllabus.class).putExtra("Subject", "FoCLab");
+            case R.id.focLab:
+                i.putExtra("Subject", "FoCLab").putExtra("Book", "http://projects.gnome.org/dia/");
                 break;
-            case R.id.hvpe_i: i = new Intent(this, Syllabus.class).putExtra("Subject", "HVPE");
+
+            case R.id.hvpe_i:
+                i.putExtra("Subject", "HVPE").putExtra("Book", "http.//www.universalhumanvalues.info");
                 break;
-            case R.id.mp: i = new Intent(this, Syllabus.class).putExtra("Subject", "MP");
+
+            case R.id.mp:
+                i.putExtra("Subject", "MP").putExtra("Book", Urls.mpBook);
                 break;
-            case R.id.mpLab: i = new Intent(this, Syllabus.class).putExtra("Subject", "MPLab");
+            case R.id.mpLab:
+                i.putExtra("Subject", "MPLab").putExtra("Book", Urls.mpBook);
                 break;
         }
         try {
             i.putExtra("Sem", "1").putExtra("SubjectName", ((Button)v).getText().toString());
-            startActivity(i);
+            if (i !=null)
+               startActivity(i);
         }catch (Exception e){e.printStackTrace();}
-
     }
-
 }

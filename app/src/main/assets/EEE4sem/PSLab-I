@@ -1,34 +1,50 @@
 Paper Code: ETEE-256 L T/P C
 Paper: Power System-I Lab 0 2 1
+
+
 LIST OF EXPERIMENTS
+
+
 1. Study of constructional features, applications, power rating of LT and HT cables
+
 2. Measurement of Inductance, Capacitance, Resistance and Insulation Resistance of multi-core cables.
+
 3. Study of different types of distribution systems by physical inspection of these systems.
+
 4. Study and calculation of ABCD parameters for a Transmission Line.
+
 5. Study of Ferranti Effect for Transmission Line.
-6. Study of different types of insulators with rating. Enumerate the different application of the different
-types of insulators, with their properties.
+
+6. Study of different types of insulators with rating. Enumerate the different application of the different types of insulators, with their properties.
+
 7. Calculate the resistance of earth using earth electrodes and Megger.
+
 8. Calculate the dielectric strength of the transformer oil.
-9. Enumerate the different applications involved in the power generating station. Write a report on visit of
-Thermal/Hydro/Nuclear power station.
+
+9. Enumerate the different applications involved in the power generating station. Write a report on visit of Thermal/Hydro/Nuclear power station.
+
 10. Estimation and Costing of over head lines/distribution lines of specified voltage level and length.
+
 11. Estimation and Costing of service mains for single face, three face domestic/industrial consumers.
+
 12. Estimation and Costing of pole mounted sub-station /indoor outdoor sub-station.
+
 13. To locate fault in a cable by Murray loop test.
+
+
 SIMULATIONS:
-1. MATLAB Simulation of Transmission Line for Short Transmission Line for calculation of various
-parameters.
-2. Explain why the guard ring is required for string insulators. Using MATLAB simulink calculate the
-potential distribution across different units of string insulator, with and without guard ring and also
-calculate the string efficiency.
-3. MATLAB Simulation of Transmission Line for Medium Transmission Line for calculation of various
-parameters.
-4. MATLAB Simulation of Transmission Line for Long Transmission Line for calculation of various
-parameters.
-5. Study the typical application software for power system (ETAP), which not only handles large power
-system SLD, also handle fault analysis, load flow analysis, stability analysis etc.
-6. Study of single line diagram of typical power system and enumerate the different components involved in
-the power system viz. Alternator Transformer, Busbar etc. and also write their application.
-7. Write a programme in C/C++ to draw a single line diagram of a typical power system, keeping in view
-the number of generating units, Buses, lines etc with their rating.
+
+
+1. MATLAB Simulation of Transmission Line for Short Transmission Line for calculation of various parameters.
+
+2. Explain why the guard ring is required for string insulators. Using MATLAB simulink calculate the potential distribution across different units of string insulator, with and without guard ring and also calculate the string efficiency.
+
+3. MATLAB Simulation of Transmission Line for Medium Transmission Line for calculation of various parameters.
+
+4. MATLAB Simulation of Transmission Line for Long Transmission Line for calculation of various parameters.
+
+5. Study the typical application software for power system (ETAP), which not only handles large power system SLD, also handle fault analysis, load flow analysis, stability analysis etc.
+
+6. Study of single line diagram of typical power system and enumerate the different components involved in the power system viz. Alternator Transformer, Busbar etc. and also write their application.
+
+7. Write a programme in C/C++ to draw a single line diagram of a typical power system, keeping in view the number of generating units, Buses, lines etc with their rating.

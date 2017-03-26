@@ -3,7 +3,27 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
     <color name="white">#ffffff</color>
-    <color name="red">#fa0505</color>
     <color name="black">#000000</color>
+
+
+    <color name="red">#fa0505</color>
+    <color name="cinnabar"> #e74c3c</color>
+    <color name="flamingo"> #ef4836</color>
+    <color name="ecstasy"> #f9690e</color>
+    <color name="jaffa"> #f27935</color>
+
+
+    <color name="buttercup"> #f39c12</color>
+    <color name="lightning_yellow"> #f5ab35</color>
+
+
+    <color name = "silver"> #bfbfbf</color>
+    <color name = "cararra"> #f2f1ef</color>
+    <color name = "edward"> #abb7b7</color>
+    <color name = "iron"> #dadfe1</color>
+    <color name = "cascade"> #95a5a6</color>
+
 </resources>

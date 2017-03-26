@@ -1,0 +1,242 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/l2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Compulsory Subjects"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textColor="@color/colorAccent"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Theory Subjects"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_marginTop="2dp"
+            />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mc"
+            android:text="Mobile Computing"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ml"
+            android:text="Machine Learning"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/hvpe_ii"
+            android:text="@string/hvpe_ii"
+            android:layout_weight="1"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Practical Subjects"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:textSize="20dp"
+            android:layout_marginTop="2dp"
+            android:textAlignment="center"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mcLab"
+            android:text="Mobile Computing Lab"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mlLab"
+            android:text="Machine Learning Lab"
+            android:layout_weight="1"
+            />
+        <!--<Button-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/wcLab"-->
+            <!--android:text="Wireless Communication Lab"-->
+            <!--android:layout_weight="1"-->
+            <!--/>-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Elective Subjects"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textColor="@color/colorAccent"
+            />
+        <!--Embedded, Opto, cloud, ddb, semantics, st, dsp  Group A-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="(Lab is based on elected subjects - one from each group)"
+            android:textAlignment="center"
+            android:textSize="12dp"
+            android:textColor="@color/red"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Group-A"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimary"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dip"
+            android:text="Digital Image Processing"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/micro"
+            android:text="Microelectronics"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/adHoc"
+            android:text="Ad Hoc &amp; Sensor Networks"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sc"
+            android:text="Soft Computing"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/vlsi"
+            android:text="VLSI Design"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ds"
+            android:text="Distributed Systems"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/oose"
+            android:text="Object Oriented Software Engineering"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cv"
+            android:text="Computer Vision"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spm"
+            android:text="Software Project Management"
+            />
+        <!--Graphs, grid, adb, .net, j2ee, sociology, sysadmin-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Group-B"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimary"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/hci"
+            android:text="Human Computer Interaction"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itc"
+            android:text="Information Theory &amp; Coding"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/wibd"
+            android:text="Web Intelligence &amp; Big Data"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/soa"
+            android:text="Service Oriented Architecture"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ms"
+            android:text="Multiagent Systems"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ppl"
+            android:text="Principles of Programming Languages"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tn"
+            android:text="Telecommunication Networks"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/trends"
+            android:text="Selected Topics of Recent Trends in Computer Science and Engineering"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

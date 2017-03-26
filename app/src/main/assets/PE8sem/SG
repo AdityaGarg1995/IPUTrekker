@@ -1,0 +1,44 @@
+Paper Code: ETPE-414 L T/P C
+Paper: Smart Grid 2 1 3
+
+
+UNIT I
+Introduction to Smart Grid: Evolution of Electric Grid, Concept of Smart Grid, Definitions, Need of Smart
+Grid, Functions of Smart Grid, Opportunities & Barriers of Smart Grid, Difference between conventional & smart
+grid, Concept of Resilient & Self Healing Grid, Present development & International policies in Smart Grid.
+Smart Grid Technologies: Part 1: Introduction to Smart Meters, Real Time Prizing, Smart Appliances,
+Automatic Meter Reading(AMR), Outage Management System(OMS), Plug in Hybrid Electric Vehicles(PHEV),
+Vehicle to Grid, Smart Sensors, Home & Building Automation, Phase Shifting Transformers.
+[T1, T2]
+
+UNIT II
+Smart Grid Technologies: Part 2: Smart Substations, Substation Automation, Feeder Automation. Geographic
+Information System(GIS), Intelligent Electronic Devices(IED) & their application for monitoring & protection,
+Smart storage like Battery, SMES, Pumped Hydro, Compressed Air Energy Storage, Wide Area Measurement
+System(WAMS), Phase Measurement Unit(PMU).
+Microgrids and Distributed Energy Resources: Concept of microgrid, need & applications of microgrid,
+formation of microgrid, Issues of interconnection, protection & control of microgrid. Variable speed wind
+generators, microturbines, Captive power plants, Integration of renewable energy sources.
+[T1, T2]
+
+UNIT III
+Power Quality Management in Smart Grid: Power Quality & EMC in Smart Grid, Power Quality issues of
+Grid connected Renewable Energy Sources, Power Quality Conditioners for Smart Grid, Web based Power
+Quality monitoring, Power Quality Audit.
+[T1, T2]
+
+UNIT IV
+Information and Communication Technology for Smart Grid: Advanced Metering Infrastructure (AMI),
+Home Area Network (HAN), Neighborhood Area Network (NAN), Wide Area Network (WAN). Bluetooth,
+ZigBee, GPS, Wi-Fi, Wi-Max based communication, Wireless Mesh Network, Basics of CLOUD Computing &
+Cyber Security for Smart Grid. Broadband over Power line (BPL). IP based protocols.
+[T1,T2]
+
+Text Books:
+[T1] Ali Keyhani, Mohammad N. Marwali, Min Dai “Integration of Green and Renewable Energy in Electric Power Systems”, Wiley
+[T2] Clark W. Gellings, “The Smart Grid: Enabling Energy Efficiency and Demand Response”, CRC Press
+
+Reference Books:
+[R1] Janaka Ekanayake, Nick Jenkins, Kithsiri Liyanage, Jianzhong Wu, Akihiko Yokoyama, “Smart Grid:
+Technology and Applications”, Wiley
+[R2] Jean Claude Sabonnadière, Nouredine Hadjsaïd, “Smart Grids”, Wiley Blackwell

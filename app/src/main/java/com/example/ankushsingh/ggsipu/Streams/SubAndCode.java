@@ -6,13 +6,11 @@ package com.example.ankushsingh.ggsipu.Streams;
 
 public class SubAndCode {
 
-    String tsub[], tcode[], psub[], pcode[];
+    String tsub[], psub[];
 
-    public SubAndCode(String tsub[], String tcode[], String psub[], String pcode[]){
+    public SubAndCode(String tsub[], String psub[]){
         this.tsub = tsub;
-        this.tcode = tcode;
         this.psub = psub;
-        this.pcode = pcode;
     }
 
 }

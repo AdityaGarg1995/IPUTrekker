@@ -1,0 +1,20 @@
+Paper Code: ETTE-457(ELECTIVE) L T/P C
+Paper: Operations Research Lab 0 2 1
+List of Experiments:
+1. To study the working of TORA software package.
+2. To solve the given Linear Programming Problem by simplex method manually and TORA software
+package.
+3. To solve the given Transportation Problem manually and TORA software package.
+4. To solve the given Problem of CPM and PERT by manually and TORA software package.
+5. To solve the given Queuing Theory Problem manually and TORA software package.
+6. Make a program in C++ for the Formulation of Linear Programming Problem.
+7. Make a program in C++ to make the 1st Simplex Table for the given Linear Programming Problem.
+8. Make a program in C++ for the conversion of Primal into Dual form of Linear Programming Problem.
+9. Make a program in C++ to find the basic feasible solution of the given Transportation Problem using
+North West Corner Rules or by least cost method.
+10. Make a program in C++ to find the optimal solution of the given Assignment Problem.
+11. Make a program in C++ to solve the given Queuing Theory Problem of model 1.
+12. Make a program in C++ to solve the given n job 2-machine sequencing problem.
+13. Make a program in C++ to give the critical path for the given network problem.
+14. Make a program in C++ to find the Saddle Point of the given game programming problem.
+NOTE:- At least 8 Experiments out of the list must be done in the semester.

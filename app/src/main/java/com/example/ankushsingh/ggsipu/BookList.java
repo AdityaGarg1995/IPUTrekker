@@ -15,12 +15,12 @@ public class BookList extends AppCompatActivity implements View.OnClickListener 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cse7n8);
+        setContentView(R.layout.activity_cse7);
 
 //        ListView mListView = (ListView) findViewById(R.id.listView);
 
 //        //3rd sem
-//        a.add(Urls.am_iiiBook);
+//        a.add(Urls.amBook);
 //        a.add(Urls.stldBook);
 //        a.add(Urls.dsBook);
 //        buttons[0] = (Button) findViewById(R.id.c1);
@@ -92,7 +92,7 @@ public class BookList extends AppCompatActivity implements View.OnClickListener 
     @Override
     public void onClick(View v) {
 //        switch(v.getId()){
-//            case R.id.c1: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.am_iiiBook)));
+//            case R.id.c1: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.amBook)));
 //                break;
 //            case R.id.c2: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.stldBook)));
 //                break;
@@ -130,19 +130,19 @@ public class BookList extends AppCompatActivity implements View.OnClickListener 
 //                break;
 //
 //
-//            case R.id.c16: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.am_iiiBook)));
+//            case R.id.c16: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.amBook)));
 //                break;
-//            case R.id.c17: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.am_iiiBook)));
+//            case R.id.c17: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.amBook)));
 //                break;
-//            case R.id.c18: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.am_iiiBook)));
+//            case R.id.c18: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.amBook)));
 //                break;
 //
 //
-//            case R.id.c19: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.am_iiiBook)));
+//            case R.id.c19: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.amBook)));
 //                break;
-//            case R.id.c20: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.am_iiiBook)));
+//            case R.id.c20: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.amBook)));
 //                break;
-//            case R.id.c21: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.am_iiiBook)));
+//            case R.id.c21: startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(Urls.amBook)));
 //                break;
 //
 //        }

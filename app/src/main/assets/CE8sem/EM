@@ -1,0 +1,41 @@
+Paper Code: ETEN-406 L T/P C
+Paper: Environmental Modeling 3 0 3
+Objective: The overall aims of the course are for students to acquire:
+1. The appropriate level of advanced theoretical knowledge required to interpret and analyse
+contemporary and past environmental data for modeling.
+2. The modelling skills required to investigate the interrelationships between environmental variables,
+and to predict their responses to changing internal and external conditions.
+UNIT – I
+Environmental systems-an introduction, An overview of mathematical models applied to various environmental
+issues, Concept, Need, Scope and objectives of environmental modelling, Role of mathematical models in
+environmental quality management, Model classification – Brief review of different types of models,
+Mathematical (Deterministic), Numerical, Stochastic and Physical Models.
+Different stages involved in model building, Calibration and verification of model, Limitations in modelling.
+[T1, T2][No. of Hrs. 11]
+UNIT – II
+Transport phenomenon, Diffusion, Dispersion, Advection, Adsorption, Conservative and non conservative
+pollutants.
+Surface water quality modelling – River and streams, Estuaries and lakes.
+[T1, T2][No. of Hrs. 11]
+UNIT – III
+Governing Equations for flow and transport of pollutants, Simplified models for sub-surface plume movements.
+Case studies using appropriate software for flow and transport of pollutants.
+[T2][No. of Hrs. 12]
+UNIT – IV
+Dissolved oxygen models – DO sag model, BOD model, Streeter Phelps equation for point and distributed
+sources.
+Eutrophication models for lakes and flowing water; Use of QUAL2K and Water Quality Analysis Simulation
+Program (WASP). Application of appropriate model for wastewater disposal in river, lake and estuary,
+application of Air pollution plume model.
+[T1, T2][No. of Hrs. 11]
+
+
+Text Books:
+[T1] Chapra S.C., “Surface water quality modelling”, McGraw Hill., New York.
+[T2] Ramaswami A. “Integrated Environmental Modelling”, John Wiley, New York.
+
+Reference Books:
+[R1] Rumynin B.G., “Subsurface Solute Transport Model”, Springer, Netherlands.
+[R2] Schnoor J., “Environmental Modelling”, John Wiley, New York.
+[R3] Jacobson M.Z., “Fundamentals of Atmospheric Modelling”, Cambridge University Press, New York.
+[R4] Schnelle K.B. and Dey P.R., “Atmospheric Dispersion Modelling Compliance (1999) Guide”, McGraw-Hill, New York.

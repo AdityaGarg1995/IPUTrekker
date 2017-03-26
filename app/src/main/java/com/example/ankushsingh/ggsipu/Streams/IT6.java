@@ -10,14 +10,13 @@ import android.widget.Toast;
 
 import com.example.ankushsingh.ggsipu.R;
 import com.example.ankushsingh.ggsipu.Syllabus;
+import com.example.ankushsingh.ggsipu.Urls;
 
 public class IT6 extends AppCompatActivity implements View.OnClickListener {
-
 
     Intent i;
     Activity a = this;
     String stream;
-
 
     Button ai, cd, dcn, dcnLab, micro, microLab, os, osLab, web, webLab, lab1,
            button[] = new Button[12];
@@ -27,12 +26,9 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_it6);
 
-
         stream = getIntent().getStringExtra("Stream");
-
         a.setTitle(stream + ": 6th Semester Subjects");
-//        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
-
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
 
         dcn      = button[0] = (Button) findViewById(R.id.dcn);
         dcnLab   = button[1] = (Button) findViewById(R.id.dcnLab);
@@ -52,14 +48,11 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
             button[i].setOnClickListener(this);
 
         setSubject(stream);
-
     }
 
 
     public void setSubject(String stream){
-
         switch (stream){
-
             case "IT":
                 dcn.setText(dcn.getText() + " (M)");
                 break;
@@ -70,7 +63,6 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 break;
 
             case "EEE":
-
                 dcn.setText("Power System–II (M)");
                 dcnLab.setText("Power System–II Lab");
 
@@ -82,11 +74,9 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
 
                 ai.setText("VLSI Design");
                 cd.setText("Power Station Practice (M)");
-
                 break;
 
             case "ECE":
-
                 dcn.setText(dcn.getText() + " (M)");
 
                 web.setText("Digital Signal Processing (M)");
@@ -98,11 +88,9 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 ai.setText("Antenna & Wave Propagation");
 
                 cd.setText("Information Theory & Coding");
-
                 break;
 
             case "EE":
-
                 micro.setText(micro.getText() + " (M)");
 
                 dcn.setText("Power System-II (M)");
@@ -117,7 +105,6 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 ai.setText("EHV AC & HVDC Transmissions");
 
                 cd.setText("Power Station Practice");
-
                 break;
 
             case "MT":
@@ -135,7 +122,6 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 ai.setText("Management of Manufacturing System");
 
                 cd.setText("Manufacturing Technology");
-
                 break;
 
             case "ICE":
@@ -153,7 +139,6 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
 
                 lab1.setVisibility(View.VISIBLE);
                 lab1.setText("Pneumatic & Hydraulic Instrumentation Lab (M)");
-
                 break;
 
             case "MAE":
@@ -171,7 +156,6 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 osLab.setText("Machine Design Lab");
 
                 micro.setText(micro.getText() + " (M)");
-
                 break;
 
             case "ME":
@@ -223,37 +207,46 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
 
     @Override
     public void onClick(View v) {
+        i = new Intent(this, Syllabus.class);
         switch (v.getId()) {
-
             case R.id.ai:
                 switch (stream) {
                     case "IT":
                     case "CSE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "AI").putExtra("Sem", "6");
+                        i.putExtra("Subject", "AI").putExtra("Sem", "6")
+                                .putExtra("Book", "");
                         break;
                     case "ECE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "AWP") .putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "AWP") .putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "EE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "ACDC").putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "ACDC").putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MMS-MT").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "MMS-MT").putExtra("Sem", "MT6")
+                                .putExtra("Book", Urls.managementBook);
                         break;
                     case "EEE":
-                        i = new Intent(this,Syllabus.class).putExtra("Subject", "VLSI-ECE").putExtra("Sem","ECE6");
+                        i.putExtra("Subject", "VLSI-ECE").putExtra("Sem","ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "ICE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Analytical").putExtra("Sem", "ICE6");
+                        i.putExtra("Subject", "Analytical").putExtra("Sem", "ICE6")
+                                .putExtra("Book", "");
                         break;
                     case "MAE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "OR").putExtra("Sem", "MAE6");
+                        i.putExtra("Subject", "OR").putExtra("Sem", "MAE6")
+                                .putExtra("Book", Urls.operationResearchBook);
                         break;
                     case "ME":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "OB-ME").putExtra("Sem", "ME6");
+                        i.putExtra("Subject", "OB-ME").putExtra("Sem", "ME6")
+                                .putExtra("Book", "");
                         break;
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "LM").putExtra("Sem", "TE6");
+                        i.putExtra("Subject", "LM").putExtra("Sem", "TE6")
+                                .putExtra("Book", "");
                         break;
                 }
                 break;
@@ -262,27 +255,34 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 switch (stream) {
                     case "IT":
                     case "CSE":
-                    i = new Intent(this, Syllabus.class).putExtra("Subject", "CD").putExtra("Sem", "6");
+                        i.putExtra("Subject", "CD").putExtra("Sem", "6")
+                                .putExtra("Book", Urls.cdBook);
                         break;
                     case "ECE":
-                        i = new Intent(this,Syllabus.class).putExtra("Subject","InfoTheory-ECE").putExtra("Sem","ECE6");
+                        i.putExtra("Subject","InfoTheory-ECE").putExtra("Sem","ECE6")
+                                .putExtra("Book", "http://coltech.vnu.edu.vn/~thainp/books/Wiley_-_2006_-_Elements_of_Information_Theory_2nd_Ed.pdf");
                         break;
                     case "EEE":
                     case "EE":
-                        i = new Intent(this,Syllabus.class).putExtra("Subject","PSP").putExtra("Sem","ECE6");
+                        i.putExtra("Subject","PSP").putExtra("Sem","ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Manufacturing-MT").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "Manufacturing-MT").putExtra("Sem", "MT6")
+                                .putExtra("Book", "");
                         break;
                     case "ICE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "PHI").putExtra("Sem", "ICE6");
+                        i.putExtra("Subject", "PHI").putExtra("Sem", "ICE6")
+                                .putExtra("Book", "");
                         break;
                     case "MAE":
                     case "ME":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "RAC-MAE").putExtra("Sem", "MAE6");
+                        i.putExtra("Subject", "RAC-MAE").putExtra("Sem", "MAE6")
+                                .putExtra("Book", "");
                         break;
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "TQM-TE").putExtra("Sem", "TE6");
+                        i.putExtra("Subject", "TQM-TE").putExtra("Sem", "TE6")
+                                .putExtra("Book", "");
                         break;
                 }
                 break;
@@ -294,27 +294,32 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                     case "ECE":
                     case "MAE":
                     case "ICE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "DCN").putExtra("Sem", "6");
+                        i.putExtra("Subject", "DCN").putExtra("Sem", "6")
+                                .putExtra("Book", Urls.dcnBook);
                         break;
                     case "CSE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "CN").putExtra("Sem", "6");
+                        i.putExtra("Subject", "CN").putExtra("Sem", "6")
+                                .putExtra("Book", "");
                         break;
                     case "EEE":
                     case "EE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "PS-II").putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "PS-II").putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Auto").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "Auto").putExtra("Sem", "MT6")
+                                .putExtra("Book", "");
                         break;
                     case "ME":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Metrology").putExtra("Sem", "ME6");
+                        i.putExtra("Subject", "Metrology").putExtra("Sem", "ME6")
+                                .putExtra("Book", Urls.metrologyBook);
                         break;
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "PTD1").putExtra("Sem", "TE6");
+                        i.putExtra("Subject", "PTD1").putExtra("Sem", "TE6")
+                                .putExtra("Book", "");
                         break;
                 }
                 break;
-
 
             case R.id.dcnLab:
                 switch (stream) {
@@ -322,23 +327,29 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                     case "ECE":
                     case "MAE":
                     case "ICE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "DCNLab").putExtra("Sem", "6");
+                        i.putExtra("Subject", "DCNLab").putExtra("Sem", "6")
+                                .putExtra("Book", Urls.dcnBook);
                         break;
                     case "CSE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "CNLab").putExtra("Sem", "6");
+                        i.putExtra("Subject", "CNLab").putExtra("Sem", "6")
+                                .putExtra("Book", "");
                         break;
                     case "EE":
                     case "EEE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "PELab-II").putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "PELab-II").putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "AutoLab").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "AutoLab").putExtra("Sem", "MT6")
+                                .putExtra("Book", "");
                         break;
                     case "ME":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MetrologyLab").putExtra("Sem", "ME6");
+                        i.putExtra("Subject", "MetrologyLab").putExtra("Sem", "ME6")
+                                .putExtra("Book", Urls.metrologyBook);
                         break;
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "PTDLab1").putExtra("Sem", "TE6");
+                        i.putExtra("Subject", "PTDLab1").putExtra("Sem", "TE6")
+                                .putExtra("Book", "");
                         break;
                 }
                 break;
@@ -350,17 +361,21 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                     case "EEE":
                     case "MAE":
                     case "EE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Micro").putExtra("Sem", "6");
+                        i.putExtra("Subject", "Micro").putExtra("Sem", "6")
+                                .putExtra("Book", Urls.microBook);
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Micro-MT").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "Micro-MT").putExtra("Sem", "MT6")
+                                .putExtra("Book", Urls.microBook);
                         break;
                     case "ICE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Process").putExtra("Sem", "ICE6");
+                        i.putExtra("Subject", "Process").putExtra("Sem", "ICE6")
+                                .putExtra("Book", "");
                         break;
                     case "ME":
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MCTD-ME").putExtra("Sem", "ME6");
+                        i.putExtra("Subject", "MCTD-ME").putExtra("Sem", "ME6")
+                                .putExtra("Book", Urls.mctdBook);
                         break;
                 }
                 break;
@@ -372,17 +387,21 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                     case "EEE":
                     case "EE":
                     case "MAE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MicroLab").putExtra("Sem", "6");
+                        i.putExtra("Subject", "MicroLab").putExtra("Sem", "6")
+                                .putExtra("Book", Urls.microBook);
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MicroLab-MT").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "MicroLab-MT").putExtra("Sem", "MT6")
+                                .putExtra("Book", Urls.microBook);
                         break;
                     case "ICE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "ProcessLab").putExtra("Sem", "ICE6");
+                        i.putExtra("Subject", "ProcessLab").putExtra("Sem", "ICE6")
+                                .putExtra("Book", "");
                         break;
                     case "ME":
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MCTDLab-ME").putExtra("Sem", "ME6");
+                        i.putExtra("Subject", "MCTDLab-ME").putExtra("Sem", "ME6")
+                                .putExtra("Book", Urls.mctdBook);
                         break;
                 }
                 break;
@@ -391,29 +410,37 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 switch (stream) {
                     case "IT":
                     case "CSE":
-                         i = new Intent(this, Syllabus.class).putExtra("Subject", "OS").putExtra("Sem", "6");
+                        i.putExtra("Subject", "OS").putExtra("Sem", "6")
+                                 .putExtra("Book", Urls.osBook);
                          break;
                     case "EE":
                     case "EEE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Energy").putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "Energy").putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "ECE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "VLSI-ECE").putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "VLSI-ECE").putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "PLC-MT").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "PLC-MT").putExtra("Sem", "MT6")
+                                .putExtra("Book", "");
                         break;
                     case "ICE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MCS").putExtra("Sem", "ICE6");
+                        i.putExtra("Subject", "MCS").putExtra("Sem", "ICE6")
+                                .putExtra("Book", "");
                         break;
                     case "MAE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MD-MAE").putExtra("Sem", "MAE6");
+                        i.putExtra("Subject", "MD-MAE").putExtra("Sem", "MAE6")
+                                .putExtra("Book", Urls.machineDesignBook);
                         break;
                     case "ME":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MD-II").putExtra("Sem", "ME6");
+                        i.putExtra("Subject", "MD-II").putExtra("Sem", "ME6")
+                                .putExtra("Book", "");
                         break;
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Mould1").putExtra("Sem", "TE6");
+                        i.putExtra("Subject", "Mould1").putExtra("Sem", "TE6")
+                                .putExtra("Book", "");
                         break;
                 }
                 break;
@@ -422,29 +449,37 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 switch (stream) {
                     case "IT":
                     case "CSE":
-                         i = new Intent(this, Syllabus.class).putExtra("Subject", "OSLab").putExtra("Sem", "6");
-                         break;
+                        i.putExtra("Subject", "OSLab").putExtra("Sem", "6")
+                                 .putExtra("Book", Urls.osBook);
+                        break;
                     case "EEE":
                     case "EE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "EnergyLab").putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "EnergyLab").putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "ECE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "VLSILab-ECE").putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "VLSILab-ECE").putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "PLCLab-MT").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "PLCLab-MT").putExtra("Sem", "MT6")
+                                .putExtra("Book", "");
                         break;
                     case "ICE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MCSLab").putExtra("Sem", "ICE6");
+                        i.putExtra("Subject", "MCSLab").putExtra("Sem", "ICE6")
+                                .putExtra("Book", "");
                         break;
                     case "MAE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MDLab-MAE").putExtra("Sem", "MAE6");
+                        i.putExtra("Subject", "MDLab-MAE").putExtra("Sem", "MAE6")
+                                .putExtra("Book", Urls.machineDesignBook);
                         break;
                     case "ME":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MDLab-II").putExtra("Sem", "ME6");
+                        i.putExtra("Subject", "MDLab-II").putExtra("Sem", "ME6")
+                                .putExtra("Book", "");
                         break;
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "MouldLab1").putExtra("Sem", "TE6");
+                        i.putExtra("Subject", "MouldLab1").putExtra("Sem", "TE6")
+                                .putExtra("Book", "");
                         break;
                 }
                 break;
@@ -453,27 +488,34 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 switch (stream) {
                     case "IT":
                     case "CSE":
-                         i = new Intent(this, Syllabus.class).putExtra("Subject", "Web").putExtra("Sem", "6");
+                         i.putExtra("Subject", "Web").putExtra("Sem", "6")
+                                 .putExtra("Book", "");
                          break;
                     case "ECE":
                     case "EEE":
                     case "ICE":
-                         i = new Intent(this,Syllabus.class).putExtra("Subject","DSP-ECE").putExtra("Sem","ECE6");
+                         i.putExtra("Subject","DSP-ECE").putExtra("Sem","ECE6")
+                                 .putExtra("Book", "");
                          break;
                     case "EE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "EM-III").putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "EM-III").putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "CIM").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "CIM").putExtra("Sem", "MT6")
+                                .putExtra("Book", "");
                         break;
                     case "MAE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "Automobile").putExtra("Sem", "MAE6");
+                        i.putExtra("Subject", "Automobile").putExtra("Sem", "MAE6")
+                                .putExtra("Book", Urls.automobileEngineeringBook);
                         break;
                     case "ME":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "FS-ME").putExtra("Sem", "ME6");
+                        i.putExtra("Subject", "FS-ME").putExtra("Sem", "ME6")
+                                .putExtra("Book", Urls.fluidSystemsBook);
                         break;
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "FEM-TE").putExtra("Sem", "TE6");
+                        i.putExtra("Subject", "FEM-TE").putExtra("Sem", "TE6")
+                                .putExtra("Book", "");
                         break;
                 }
                 break;
@@ -482,27 +524,34 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 switch (stream) {
                     case "IT":
                     case "CSE":
-                         i = new Intent(this, Syllabus.class).putExtra("Subject", "WebLab").putExtra("Sem", "6");
-                         break;
+                        i.putExtra("Subject", "WebLab").putExtra("Sem", "6")
+                                 .putExtra("Book", "");
+                        break;
                     case "EEE":
                     case "ECE":
                     case "ICE":
-                         i = new Intent(this,Syllabus.class).putExtra("Subject","DSPLab-ECE").putExtra("Sem","ECE6");
-                         break;
+                        i.putExtra("Subject","DSPLab-ECE").putExtra("Sem","ECE6")
+                                 .putExtra("Book", "");
+                        break;
                     case "EE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "EMLab-III").putExtra("Sem", "ECE6");
+                        i.putExtra("Subject", "EMLab-III").putExtra("Sem", "ECE6")
+                                .putExtra("Book", "");
                         break;
                     case "MT":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "CIMLab").putExtra("Sem", "MT6");
+                        i.putExtra("Subject", "CIMLab").putExtra("Sem", "MT6")
+                                .putExtra("Book", "");
                         break;
                     case "MAE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "AutomobileLab").putExtra("Sem", "MAE6");
+                        i.putExtra("Subject", "AutomobileLab").putExtra("Sem", "MAE6")
+                                .putExtra("Book", Urls.automobileEngineeringBook);
                         break;
                     case "ME":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "FSLab-ME").putExtra("Sem", "ME6");
+                        i.putExtra("Subject", "FSLab-ME").putExtra("Sem", "ME6")
+                                .putExtra("Book", Urls.fluidSystemsBook);
                         break;
                     case "TE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "FEMLab-TE").putExtra("Sem", "TE6");
+                        i.putExtra("Subject", "FEMLab-TE").putExtra("Sem", "TE6")
+                                .putExtra("Book", "");
                         break;
                 }
                 break;
@@ -510,21 +559,21 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
             case R.id.lab1:
                 switch (stream) {
                     case "ICE":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "PHILab").putExtra("Sem", "ICE6");
+                        i.putExtra("Subject", "PHILab").putExtra("Sem", "ICE6")
+                                .putExtra("Book", "");
                         break;
                     case "MAE":
                     case "ME":
-                        i = new Intent(this, Syllabus.class).putExtra("Subject", "RACLab-MAE").putExtra("Sem", "MAE6");
+                        i.putExtra("Subject", "RACLab-MAE").putExtra("Sem", "MAE6")
+                                .putExtra("Book", "");
                         break;
                 }
                 break;
         }
-
         try {
             i.putExtra("SubjectName", ((Button)v).getText().toString());
             if (i != null)
                 startActivity(i);
-        }
-        catch (Exception e){e.printStackTrace();}
+        } catch (Exception e){e.printStackTrace();}
     }
 }

@@ -31,21 +31,21 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/acn"
+            android:id="@+id/b1"
             android:text="Advanced Computer Networks"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/crypto"
+            android:id="@+id/b2"
             android:text="Cryptography &amp; Network Security"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/wc"
+            android:id="@+id/b3"
             android:text="Wireless Communication"
             android:layout_weight="1"
             />
@@ -64,21 +64,21 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/acnLab"
+            android:id="@+id/b4"
             android:text="Advanced Computer Networks Lab"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/cryptoLab"
+            android:id="@+id/b5"
             android:text="Cryptography &amp; Network Security Lab"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/wcLab"
+            android:id="@+id/b6"
             android:text="Wireless Communication Lab"
             android:layout_weight="1"
             />
@@ -111,48 +111,48 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/cloud"
+            android:id="@+id/b7"
             android:text="Cloud Computing"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ddb"
+            android:id="@+id/b8"
             android:text="Distributed Databases"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/dsp"
+            android:id="@+id/b9"
             android:text="Digital Signal Processing"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/embed"
+            android:id="@+id/b10"
             android:text="Embedded Systems"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/opto"
+            android:id="@+id/b11"
             android:text="Optoelectronics &amp; Optical Comm"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/semantic"
+            android:id="@+id/b12"
             android:text="Semantic Web Technologies"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/st"
+            android:id="@+id/b13"
             android:text="Software Testing"
             android:layout_weight="1"
             />
@@ -169,50 +169,50 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/sociology"
-            android:text="Sociology &amp; Elements of Indian History for Engineers"
+            android:id="@+id/b14"
+            android:text="@string/sociology"
             android:layout_weight="1"
             />
 <!--Remaining-->
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/adba"
+            android:id="@+id/b15"
             android:text="Advanced Database Administration"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/cSharp"
+            android:id="@+id/b16"
             android:text=".NET &amp; C# Programming"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/grid"
+            android:id="@+id/b17"
             android:text="Grid Computing"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/j2ee"
+            android:id="@+id/b18"
             android:text="Enterprise Computing in Java"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/graphs"
+            android:id="@+id/b19"
             android:text="Probabilistic Graphical Models"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/sysAdmin"
+            android:id="@+id/b20"
             android:text="System &amp; Network Administration"
             android:layout_weight="1"
             />

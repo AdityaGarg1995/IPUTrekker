@@ -1,0 +1,25 @@
+Paper Code: ETME-407 L T/P C
+Paper: Optimization Techniques 3 0 3
+Objectives: The objective of this course is to teach the students about the linear programming PERT and CPM
+and other numerical methods to solve various engineering problems.
+UNIT- I
+Linear Programming: Mathematical Preliminaries, Formulation of the problem and solution by Graphical
+Method, The Simplex Method, The Big M Method.
+[T1][No. of Hrs: 10]
+UNIT- II:
+Linear Programming: Dual problem formulation and solution, Primal and Dual Simplex Method.
+[T1][No. of Hrs: 10]
+UNIT-III:
+Transportation problems & solutions, Assignment problems and its solutions by Hungarian Method.
+[T1][No. of Hrs: 10]
+UNIT- IV:
+PERT and CPM, Arrow network, Time estimates, Earliest expected time, Latest allowable occurrence time,
+Calculation of CPM network, Floats for activities, Critical path.
+[T1][No. of Hrs: 10]
+Text Books:
+[T1] Kanti Swarup, P.K. Gupta and Man Mohan: Operations Research, Sultan Chand and Sons.
+References Books:
+[R1] G. Hadley, “Linear Programming”, Narosa Publications.
+[R2] Taha H. A. “Operation Research An Introduction” Mc Milan Publishing Company, NY.
+[R3] Miller and Lieberman G. J., “Introductions of Operational Resource” Holden Day, NY.
+[R4] Kambo N. S., “Mathematical Programming Techniques”, McGraw Hill.

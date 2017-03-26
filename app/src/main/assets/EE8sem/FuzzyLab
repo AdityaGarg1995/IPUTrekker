@@ -1,0 +1,99 @@
+Paper Code: ETEE-452 L T/P C
+Paper: Neuro & Fuzzy System Lab 0 2 1
+
+
+List of Experiments:
+
+
+1. Design a neural network using neural network toolbox, which identify the given data set.
+P= [0 1 2 3 4 5 6 7 8 9 10]; (Given input data)
+T= [0 1 2 3 4 3 2 1 2 3 4]; (Given output data)
+
+2. Write a program to implement AND function using perception networks with bipolar inputs and outputs.
+
+3. Write a program to implement AND function using ADALINE with bipolar inputs and outputs.
+
+4. Implement a Back Propagation network for a given input pattern by a suitable MATLAB program. Perform 3 epochs of operation.
+
+5. Write a program to construct and test auto-associative network for input vector using HEBB/Outer Product Rule.
+
+6. Write a program to construct and test hetero associative network for binary inputs and targets using HEBB/Outer Product Rule
+
+7. Consider the following fuzzy sets
+  
+  
+= + + +
+5
+0.3
+4
+0.6
+3
+0.4
+2
+1
+A
+  
+  
+= + + +
+5
+0.5
+4
+0.6
+3
+0.2
+2
+0.3
+B
+Calculate , , , ,
+_ _
+AÈ B AÇ B A B by using a MATLAB program.
+
+8. Find the fuzzy relation using fuzzy max-min method for the following
+Using MATLAB program
+  
+
+
+  
+
+
+1 0.8 0.6
+0.3 0.5 0.7
+0.2 0.3 0.4
+S=
+  
+
+
+0.3
+0.4
+0.1
+  
+
+
+0.7
+0.2
+1
+
+9. Using MATLAB programming to draw triangular and Gaussian membership function. Given x=0 to
+
+10 with increment of 0.1. Triangular membership function is defined between [5 6 7] and Gaussian membership is defined between 2 and 4.
+
+10. Using MATLAB program find the crisp lambda cut set relation for lambda=0.6.
+The fuzzy matrix is given by:
+R=
+   
+
+
+   
+
+
+0.1 0.5 1 0.9
+0 0.6 1 0.5
+1 0.7 0.4 0.2
+0.1 0.6 0.8 1
+
+11. Write a Matlab program/GATOOL for maximizing/minimizing a function.
+
+12. Design a Controller using Fuzzy /Neural Network/ANFIS Editor.
+
+
+NOTE:- At least 8 Experiments out of the list must be done in the semester

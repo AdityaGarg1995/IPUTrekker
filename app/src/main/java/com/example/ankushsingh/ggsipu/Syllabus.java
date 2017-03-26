@@ -13,7 +13,6 @@ import android.widget.Toast;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.net.URL;
 
 
 public class Syllabus extends AppCompatActivity implements View.OnClickListener {
@@ -22,7 +21,7 @@ public class Syllabus extends AppCompatActivity implements View.OnClickListener 
     TextView txtContent;
     Button book;
     Activity a = this;
-    String url = "";
+    String url = "", subject, sem, subjectName;
 
 
     @Override
@@ -35,13 +34,14 @@ public class Syllabus extends AppCompatActivity implements View.OnClickListener 
         book = (Button) findViewById(R.id.book);
         book.setOnClickListener(this);
 
-        String subject = getIntent().getExtras().getString("Subject"),
-               sem = getIntent().getStringExtra("Sem"),
-               subjectName = getIntent().getStringExtra("SubjectName");
+        subject     = getIntent().getExtras().getString("Subject");
+        sem         = getIntent().getStringExtra("Sem");
+        subjectName = getIntent().getStringExtra("SubjectName");
+        url         = getIntent().getStringExtra("Book");
 
         a.setTitle(subjectName);
 
-        getSubject(subject);
+//        getSubject(subject);
 
         AssetManager am = getAssets();
 //        try {
@@ -71,16 +71,19 @@ public class Syllabus extends AppCompatActivity implements View.OnClickListener 
 //            IT/CSE 3rd sem
             case "NAST":
             case "NASTLab":
-            case "AM-III": url = Urls.am_iiiBook;
+            case "AM-I":
+            case "AM-II":
+            case "AM-III":
+                url = Urls.amBook;
                 break;
-//            case "STLD":
-//            case "STLDLab": url = Urls.stldBook;
-//                break;
+            case "STLD":
+            case "STLDLab": url = Urls.stldBook;
+                break;
             case "DS":
             case "DSLab": url = Urls.dsBook;
                 break;
 //           IT 7th sem
-            case "CSharp":  url = Urls.cSharpBook;
+            case "CSharp": url = Urls.cSharpBook;
                 break;
             case "ACN":
             case "ACNLab": url = Urls.acnBook;
@@ -124,9 +127,6 @@ public class Syllabus extends AppCompatActivity implements View.OnClickListener 
                 break;
 
 //          IT/CSE 4th sem
-            case "AM-IV":
-            case "AMLab": url = Urls.am_ivBook;
-                break;
             case "COA":
             case "COALab": url = Urls.coaBook;
                 break;
@@ -188,12 +188,11 @@ public class Syllabus extends AppCompatActivity implements View.OnClickListener 
                     startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url)));
 
                 else if (url.equals("NA"))
-                    Toast.makeText(getApplicationContext(), "Not Applicable", Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), "Not applicable for this subject", Toast.LENGTH_LONG).show();
                 else if (url.equals(""))
-                    Toast.makeText(getApplicationContext(), "To be updated soon", Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), "To be updated soon", Toast.LENGTH_SHORT).show();
             }
         }
         catch(Exception e){e.printStackTrace();}
     }
-
 }

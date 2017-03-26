@@ -1,0 +1,39 @@
+Paper Code: ETEE-406 L T/P C
+Paper: Power System Operation & Control 3 0 3
+
+
+UNIT- I
+AUTOMATIC GENERATION CONTROL:
+Introduction: Load frequency control (single area case), load frequency (Two Area Case) control, load
+frequency control with GRC, Speed Governor Dead Band and its effects.
+[T1], [T2]
+
+UNIT- II
+ECONOMIC LOAD DESPATCH:
+Introduction, System constraint, Economic Dispatch Neglecting losses, Optimum load dispatch including
+transmission losses, Exact Transmission loss formula, Automatic load dispatching.
+[T1], [T2]
+
+UNIT- III
+RESTRUCTURING OF POWER SYSTEM:
+Introduction: Reason for restructuring or deregulation of power industry, Understanding the restructuring
+process, introduction to issues involved in deregulation, reasons and objectives of deregulation of various power
+system across the world, Transmission Congestion management.
+[T3]
+
+UNIT-IV
+REACTIVE POWER AND VOLTAGE CONTROL:
+Bases of reactive power control, Excitation System, Modeling. Generation and Absorption of Reactive Power,
+Relation between voltage, power and reactive power at node, methods of voltage control.
+[T1][T2][T4][No. of hrs. 10]
+
+Text Books:
+[T1] I.J. Nagrath & D.P. Kothari, Power System Engineering, Mc Graw Hill, 2007
+[T2] S. Sivanagaraju, Power System Operation and Control, Pearson Education India, 2009
+[T3] Loi Lei Lai “Power System Restructuring and deregulation: Trading Performance & Information Technology, John Wiley & Sons
+[T4] Chakravarti & Halder, Power System Analysis: Operation & control Prentice Hall of India
+
+Reference Books:
+[R1] P.Kundur, Power System Control and Stability, Mc Graw Hill
+[R2] Power System Stability Volume-I: E.W. Kimbark, John Wiley & Sons
+[R3] Dr. K. Uma Rao, Power System: Operation and Control, Wiley-India

@@ -47,7 +47,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/hvpe_ii"
-            android:text="Human Values &amp; Professional Ethics-II"
+            android:text="@string/hvpe_ii"
             android:layout_weight="1"
             />
 

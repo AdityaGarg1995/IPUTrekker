@@ -9,10 +9,11 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.ankushsingh.ggsipu.R;
+import com.example.ankushsingh.ggsipu.StreamNames;
+import com.example.ankushsingh.ggsipu.Urls;
 
 
 public class EE2 extends AppCompatActivity implements View.OnClickListener{
-
 
     String eeResult[] = {
             "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/110_EE_1stSEM.pdf",
@@ -23,7 +24,6 @@ public class EE2 extends AppCompatActivity implements View.OnClickListener{
             "http://164.100.158.135/ExamResults/2016/310716/PDF6/110_EE_6_SEM.pdf"
     };
 
-
     String mechResult[] = {
             "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/112_MET_1stSEM.pdf",
             "http://164.100.158.135/ExamResults/2016/310716/PDF2/112_MET_2_SEM.pdf",
@@ -32,7 +32,6 @@ public class EE2 extends AppCompatActivity implements View.OnClickListener{
             "http://ipu.ac.in/exam/ExamResults/2016/300316/112_MET_5th%20Sem.pdf",
             "http://164.100.158.135/ExamResults/2016/310716/PDF6/112_MET_6_SEM.pdf"
     };
-
 
     String meResult[] = {
             "http://ipu.ac.in/public/ExamResults/2016/230316/Dec2015/1st%20Semester/111_ME_1stSEM.pdf",
@@ -43,55 +42,55 @@ public class EE2 extends AppCompatActivity implements View.OnClickListener{
             "http://164.100.158.135/ExamResults/2016/310716/PDF6/111_ME_6_SEM.pdf"
     };
 
+    Activity a = this;
 
-    String stream;
+    String stream, urlSyllabus, urlBook;
 
+    public void setUrls(){
+        switch (stream){
+            case "EE":
+                urlSyllabus = Urls.eeSyllabus;
+                urlBook = Urls.eeBookList;
+                a.setTitle(StreamNames.ee);
+                break;
+
+            case "MT":
+                urlSyllabus = Urls.mechSyllabus;
+                urlBook = Urls.mechBookList;
+                a.setTitle(StreamNames.mech);
+                break;
+
+            case "ME":
+                urlSyllabus = Urls.meSyllabus;
+                urlBook = Urls.meBookList;
+                a.setTitle(StreamNames.me);
+                break;
+        }
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_ee2);
+        setContentView(R.layout.activity_it2);
 
-//        Button button1,button2,button3,button4,button5,button6;
+        findViewById(R.id.c1).setOnClickListener(this);
+        findViewById(R.id.c2).setOnClickListener(this);
+        findViewById(R.id.c3).setOnClickListener(this);
+        findViewById(R.id.c4).setOnClickListener(this);
+        findViewById(R.id.c5).setOnClickListener(this);
+        findViewById(R.id.c6).setOnClickListener(this);
 
-//        button1 = (Button)findViewById(R.id.ee11);
-//        button2 = (Button)findViewById(R.id.ee12);
-//        button3 = (Button)findViewById(R.id.ee13);
-//        button4 = (Button)findViewById(R.id.ee14);
-//        button5 = (Button)findViewById(R.id.ee15);
-//        button6 = (Button)findViewById(R.id.ee16);
-
-
-//        button1.setOnClickListener(this);
-//        button2.setOnClickListener(this);
-//        button3.setOnClickListener(this);
-//        button4.setOnClickListener(this);
-//        button5.setOnClickListener(this);
-//        button6.setOnClickListener(this);
-
-
-        findViewById(R.id.ee11).setOnClickListener(this);
-        findViewById(R.id.ee12).setOnClickListener(this);
-        findViewById(R.id.ee13).setOnClickListener(this);
-        findViewById(R.id.ee14).setOnClickListener(this);
-        findViewById(R.id.ee15).setOnClickListener(this);
-        findViewById(R.id.ee16).setOnClickListener(this);
-
+        findViewById(R.id.c7).setVisibility(View.INVISIBLE);
+        findViewById(R.id.c8).setVisibility(View.INVISIBLE);
 
         stream = getIntent().getStringExtra("StreamName");
-
-        final Activity a = this;
-        a.setTitle("EE: Semester-wise Result");
-
-
-
-
+        setUrls();
+        a.setTitle(stream + ": Semester-wise Result");
     }
 
 
     public String[] resultUrls(String stream){
-
         String result[] = {};
         switch(stream){
             case "EE": result = eeResult;
@@ -107,31 +106,28 @@ public class EE2 extends AppCompatActivity implements View.OnClickListener{
 
     @Override
     public void onClick(View v) {
-
         String url = "", result[] = resultUrls(stream);
 
         Intent intent = new Intent(Intent.ACTION_VIEW);
-
         switch (v.getId()){
-            case R.id.ee11: url = result[0];
+            case R.id.c1: url = result[0];
                 break;
-            case R.id.ee12: url = result[1];
+            case R.id.c2: url = result[1];
                 break;
-            case R.id.ee13: url = result[2];
+            case R.id.c3: url = result[2];
                 break;
-            case R.id.ee14: url = result[3];
+            case R.id.c4: url = result[3];
                 break;
-            case R.id.ee15: url = result[4];
+            case R.id.c5: url = result[4];
                 break;
-            case R.id.ee16: url = result[5];
+            case R.id.c6: url = result[5];
                 break;
         }
-
-        if(!url.equals("") && (intent != null)){
-            intent.setData(Uri.parse(url));
-            startActivity(intent);
-        }
-
+        try {
+            if (!url.equals("") && (intent != null)) {
+                intent.setData(Uri.parse(url));
+                startActivity(intent);
+            }
+        } catch (Exception e){ e.printStackTrace(); }
     }
-
 }

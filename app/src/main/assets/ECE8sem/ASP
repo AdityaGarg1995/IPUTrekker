@@ -1,0 +1,50 @@
+Paper Code: ETEC-424 L T/P C
+Paper: Adaptive Signal Processing 3 0 3
+
+
+UNIT- I
+Introduction to Adaptive Systems:- Definitions, Characteristics, Applications, Example of an Adaptive
+System..
+Introduction to Adaptive Filters: - Adaptive filter structures:- issues and examples, Applications of adaptive
+filters: Channel equalization, active noise control, Echo cancellation, beam forming
+Discrete time Stochastic Processes:- Review of Probability and random variables, discrete time random
+processes, Autocorrelation and covariance structures of discrete time random processes, Yule Walker Equation
+Power spectral density - properties. Eigen-analysis of autocorrelation matrices.
+[T1, R1]
+
+UNIT- II
+Development of Adaptive Filter Theory & Searching the Performance surface: Introduction to Filtering -
+Smoothing and Prediction , Linear Optimum Filtering:- Problem statement, Principle of Orthogonality -
+Minimum Mean Square Error, Wiener- Hopf equations, Error Performance - Minimum Mean Square Error.
+Searching the Performance Surface – Methods & Ideas of Gradient Search methods - Gradient Searching
+Algorithm & its Solution - Stability & Rate of convergence - Learning Curves.
+Steepest Descent Algorithms: Gradient Search by Newton’s Method, Method of Steepest Descent, Comparison
+of Learning Curve.
+[T1, T2, R1]
+
+UNIT- III
+LMS Algorithm & Applications: Overview - LMS Adaptation algorithms, Stability & Performance analysis of
+LMS Algorithms - LMS Gradient & Stochastic Algorithms - Convergence of LMS algorithm.
+Applications: Noise cancellation – Cancellation of Echoes in long distance telephone circuits, Adaptive Beam
+forming, Adaptive Channel Equalization
+Variants of the LMS Algorithm: - The sign-LMS and the normalized LMS algorithm Block LMS Algorithm.
+[T1, T2]
+
+UNIT- IV
+General Least Squares Solution: Least squares solution of general adaptive system; QR algorithm solution.
+Recursive Least Squares (RLS) algorithm: RLS formulation; forgetting factors; practical implementations;
+QR based RLS; numerical stability and integrity issues, Kalman filter & Standard Kalman Filter , Filtering
+Examples using Kalman filtering,
+Adaptive Lattice Filters: Gradient lattice, RLS lattice.
+[T1, T2]
+
+
+Text Books:
+[T1] Adaptive Filter Theory - Simon Haykin, 4th Ed., 2002, Pearson Asia.
+[T2] Adaptive Filter – Ali H. Sayeed, Wiley-Blackwell, 2008
+
+Reference Books:
+[R1] Adaptive Signal Processing - Bernard Widrow, Samuel D.Strearns, 2005, PE.
+[R2] Optimum signal processing: An introduction - Sophocles. J. Orfamadis, 2nd Ed.,1988, McGraw-Hill,
+[R3] Adaptive signal processing-Theory and Applications - S.Thomas Alexander, 1986, Springer –Verlag.
+[R4] Adaptive Filters – Theory and Applications - B. Farhang-Boroujeny, John Wiley and Sons, 1999.

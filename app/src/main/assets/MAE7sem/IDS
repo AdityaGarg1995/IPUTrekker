@@ -1,0 +1,31 @@
+Paper Code: ETCS-411 L T/P C
+Paper: Introduction to Data Science 3 0 3
+Objective: To introduce the students about the knowledge and overview of R or Octave statistical package, data
+transformation and merging, data visualization and illustration of techniques through R or Octave.
+UNIT- I
+Overview of R or Octave statistical package, Data Pre-processing, Data Scales, Similarity and Dissimilarity
+measures, sampling and quantization of data, filtering, Data transformation and merging, Data visualization,
+PCA, Correlation, Chi-Square test. Illustration of These techniques through R, or Octave.
+[T1][R2][No. of hrs. 10]
+UNIT- II
+Regression Analysis, linear, generalized, regularized regression, Cross-validation, Training and Testing data set,
+Overview of nonlinear regression, Overview of Ridge regression, Latent variables, Structure Equation modelling.
+Illustration of These techniques through R, or Octave.
+[T1][R1][R2] [No. of hrs. 10]
+UNIT- III
+Forecasting, time series data analysis, Stationarity, Seasonality, recurrent models, autoregressive models.
+Illustration of These techniques through R, or Octave.
+[T1][T2][R1][R2][No. of hrs. 10]
+UNIT- IV
+Classification, Linear discriminant analysis, overview of support vector machine, Decision trees, Clustering,
+Clustering techniques. Illustration of These techniques through R, or Octave.
+[T1][T2][R1][R2][No. of hrs. 10]
+Text Books:
+[T1] Runkler, Thomas A. Data Analytics: Models and Algorithms for Intelligent Data Analysis, Springer,
+2012.
+[T2] Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. The elements of statistical learning. Vol. 1.
+New York: Springer Series in Statistics, 2001.
+References Books:
+[R1] Zuur, Alain, Elena N. Ieno, and Erik Meesters. A Beginner's Guide to R. Springer, 2009.
+[R2] Hansen, Jesper Schmidt. GNU Octave: Beginner's Guide: Become a Proficient Octave, User by
+Learning this High-level Scientific Numerical Tool from the Ground Up. Packt Publishing Ltd, 2011.
