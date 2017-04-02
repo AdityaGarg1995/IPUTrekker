@@ -1,0 +1,45 @@
+Paper Code: ETMT-407 L T/P C
+Paper: I.C. Engines 3 0 3
+
+
+UNIT-I
+Introduction:
+  Basic Engine components and Nomenclature, Classification of Engines, The working principle of Engines, Comparison of 2-Stroke and 4-Stroke Engines.
+  CI and SI Engines, Ideal and Actual Working Cycles and their analysis, Valve timing Diagram.
+Fuels:
+  Fossil fuels, Chemical structure of Petroleum, Properties of SI and CI Engine Fuels, Fuel Ratings; Octane Number, Cetane Number.
+[T1, R1, R2]
+
+UNIT-II
+Carburetors & Fuel Injection:
+  Air Fuel Mixture Requirements, Construction and Working of Simple Carburetor, Calculation of Air-Fuel Ratio, Parts of Carburetor.
+  Requirement of Injection Systems, Classification of Injection Systems, Fuel Feed pump, Injection Pumps, Working principles of Governors, Nozzles and Fuel Injector, Injection in SI and CI Engines.
+[T1, R1, R2]
+
+UNIT-III
+Combustion and Ignition Systems in SI and CI Engines:
+  Normal and Abnormal Combustion in SI and CI Engines, Stages of Combustion, Detonation and Knocking.
+Performance parameters for IC Engines:
+  Engine Power, Engine Efficiencies, Performance Characteristics, Variables Effecting Performance Characteristics, Methods of Improving Engine Performance, Heat Balance.
+[T1, T2, R1]
+
+UNIT-IV
+Modern Automotive Engines:
+  Changes in Fuel injection Methods in S.I. and C.I. engines, Common Rail Direct Injection System, Gasoline Direct Injection, Variable Valve Technology, A brief review of Design changes to achieve high efficiency.
+[T1, T2, R1, R2]
+
+Text Books:
+[T1] Ganesan V.
+      “Internal Combustion Engines”
+       Tata McGraw-Hill
+[T2] K.K. Ramalingam
+      “Internal Combustion Engines” 2nd Ed
+       SCITECH Publications
+
+Reference Books:
+[R1] John B. Heywood
+      ”Internal Combustion Engine Fundamentals”
+       Tata McGraw-Hill
+[R2] E.T. Vincent
+      “Theory & Design of Gas Turbine and Jet Engine”
+       McGraw Hill

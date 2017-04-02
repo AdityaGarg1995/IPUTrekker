@@ -29,12 +29,11 @@
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginBottom="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:fontFamily="sans-serif-smallcaps"
+            android:fontFamily="sans-serif"
             android:id="@+id/txtContent"
             android:textIsSelectable="true"
             android:linksClickable="true"
-            >
-        </TextView>
-
-
+            android:autoLink="all"
+            android:textColorLink="@color/colorPrimary"
+            />
     </LinearLayout></ScrollView>

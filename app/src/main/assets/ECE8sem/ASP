@@ -4,7 +4,7 @@ Paper: Adaptive Signal Processing 3 0 3
 
 UNIT- I
 Introduction to Adaptive Systems:- Definitions, Characteristics, Applications, Example of an Adaptive
-System..
+System.
 Introduction to Adaptive Filters: - Adaptive filter structures:- issues and examples, Applications of adaptive
 filters: Channel equalization, active noise control, Echo cancellation, beam forming
 Discrete time Stochastic Processes:- Review of Probability and random variables, discrete time random
@@ -40,11 +40,11 @@ Adaptive Lattice Filters: Gradient lattice, RLS lattice.
 
 
 Text Books:
-[T1] Adaptive Filter Theory - Simon Haykin, 4th Ed., 2002, Pearson Asia.
+[T1] Adaptive Filter Theory - Simon Haykin, 4th Ed, 2002, Pearson Asia
 [T2] Adaptive Filter – Ali H. Sayeed, Wiley-Blackwell, 2008
 
 Reference Books:
-[R1] Adaptive Signal Processing - Bernard Widrow, Samuel D.Strearns, 2005, PE.
-[R2] Optimum signal processing: An introduction - Sophocles. J. Orfamadis, 2nd Ed.,1988, McGraw-Hill,
-[R3] Adaptive signal processing-Theory and Applications - S.Thomas Alexander, 1986, Springer –Verlag.
-[R4] Adaptive Filters – Theory and Applications - B. Farhang-Boroujeny, John Wiley and Sons, 1999.
+[R1] Adaptive Signal Processing - Bernard Widrow, Samuel D. Strearns, 2005, PE
+[R2] Optimum signal processing: An introduction - Sophocles. J. Orfamadis, 2nd Ed,1988, McGraw-Hill
+[R3] Adaptive signal processing-Theory and Applications - S.Thomas Alexander, 1986, Springer–Verlag
+[R4] Adaptive Filters – Theory and Applications - B. Farhang-Boroujeny, John Wiley and Sons, 1999

@@ -1,0 +1,46 @@
+Paper Code: ETME-415 L T/P C
+Paper: Geometric Modelling and Product Design 3 0 3
+Objectives: To expose students through practice-based learning to the principles and ideas related to design for
+the purpose of concept development, presentation and technical documentation.
+UNIT-I
+Data base: Design database concept, objectives, data structures, creation of data files in application programs
+and relational database management system.
+Geometric modelling(Wire frame): Requirement of Geometric Modeling, Geometric, Role of Geometry in
+CAD/CAM and 3-D Graphics, Types of mathematical representation of curves, wire frame models, wire frame
+entities, parametric representation of synthetic curves, hermite cubic splines, Bezier curves, B-spline rational
+curves, curve manipulation, various software modules, e.g., OS, Graphic and application module.
+[T1][No. of Hrs. 11]
+UNIT II
+Surface modelling: Mathematical representation of surfaces, Surface model, Surface entities, surface
+representation, parametric representation of surfaces, plane surface, rule surface, surface of revolution, Tabulated
+cylinder
+Parametric representation of synthetic surfaces: Hermite Bi-cubic surface, Bezier surface, B-spline surface,
+COONS surface, Surface manipulation- Displaying, Segmentation, Trimming, Intersection, Transformations (2D
+and 3D).
+[T1][No. of Hrs. 11]
+UNIT III (T1)
+Solid Modeling: Solid representation, solid entities ,Set Theory, half spaces, Boolean Operations, Boundary
+representation (B-rep) Modeling, Constructive solid geometry(CSG), Sweep Representations, Spatial Occupancy
+Enumeration, Mechanical Tolerances, Finite element modelling and analysis and Mechanical Assembly, solid
+manipulation, CAD/CAM.
+Geometric Property Formulation: Curve Length, Surface Area, Volume Calculation, Mass Calculation,
+Centroid Calculation.
+[T1][No. of Hrs. 11]
+UNIT IV
+Introduction Product Design:
+Definition, Design by Evolution, Design by Innovation, Essential factors of Product Design, Morphology of
+Design, Role of Allowance, Primary design phases and flow charting, Process capability and Tolerance in
+detailed design and assembly, Product strategies, Product characteristics, Designer and his role, Basic design
+considerations, Types of Models designed by designers
+Standards of Product Design
+International standard for product data exchanges (IGES, STEP, ACIS, DFX); Definition of fundamental
+geometric entities, and design/manufacturing features; Application of STEP tools.
+[T1, T2][No. of Hrs. 11]
+Text Books:
+[T1] Ibrahim Zeid, “CAD/CAM Theory and Practice”, Tata McGraw-Hill Publishing Company Limited, 6th
+Edition 1998.
+[T2] A.K Chitale and R.C.Gupta, “Product Design and Manufacturing”, Prentice-Hall of India (P).Ltd; 3rd
+edition
+Reference Books:
+[R1] P.N. Rao, “CAD/CAM Principles and Applications”, Tata McGraw Hill, 2003
+[R2] Ibrahim Zeid, “Mastering CAD/CAM”, Tata McGraw-Hill Publishing Company Limited.

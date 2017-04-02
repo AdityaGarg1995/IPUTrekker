@@ -1,0 +1,43 @@
+Paper Code: ETMT-429 L T/P C
+Paper: Decision Science 3 0 3
+
+
+UNIT- I
+Descriptive Statistics, Presentation of Data, Measures of Central Tendency and Variation, Probability-Concepts, Theorems, Bayes’ Rule, Linear Programming, Formulation, Graphical and Simplex Method.
+[T1][R1]
+
+UNIT- II
+Decision Sciences & Role of quantitative techniques, Steps in decision making.
+Decision making under uncertainty, including optimism criterion, pessimism criterion, Laplace criterion, optimism criterion, Hurwicz criterion and Regret criterion.
+Decision making under risk, Multistage decision making, Multi criteria decision making.
+Posterior probabilities and Bayesian Analysis.
+[T1][T2]
+
+UNIT- III
+Game Theory:
+  Two person zero-sum games, concept of dominance, Pure & Mixed Strategy. Arithmetic, Algebraic, Matrix Algebra method.
+  Solution by Dominance, Subgame and Linear programming method.
+  Queuing Theory, Basic structure, Terminology, Classification, Birth and Death Process.
+  Queuing Models upto 2 service stations.
+[T1][R1]
+
+UNIT-IV
+Transportation Problems, Initial Basic Feasible Solution, Test for Optimality.
+Assignment problems.
+Network Analysis - PERT and CPM.
+Network Models, Concept, Drawing network, identifying critical path, Calculating EST, LST, EFT, LFT, Slack & probability of project completion (CPM & PERT), Crashing of Network.
+[T1][R3]
+
+
+Text Books:
+[T1] Ken Black (2009)
+      Business Statistics: For Contemporary Decision Making, 5th edition
+       Wiley-India
+[T2] Barry Render, RM Stair, ME Hanna and TN Badri (2009)
+      Quantitative Analysis for Management, 10th edition
+       Pearson Prentice Hall
+
+References Book:
+[R1] H.A. Taha
+      Operations Research, 6th Edition
+       Prentice-Hall India, 2004

@@ -1,0 +1,47 @@
+Paper Code: ETMT-426 L T/P C
+Paper: Reliability and Maintenance Management 3 0 3
+
+
+UNIT I
+Reliability fundamentals:
+  Reliability Mathematics.
+  Failure distributions.
+  Causes of failures and their treatment.
+  Reliability apportionment and prediction.
+  Reliability data books.
+  Data Recording and Corrective Action System (DRACAS).
+[T1, T2]
+
+UNIT II
+Reliability analysis and modelling methods:
+  Fault tree analysis, Failure Mode Effects and Criticality Analysis (FMECA), Reliability block diagram, Reliability Growth Models – IBM and Duane Reliability Growth Modelling, Reliability testing.
+  Monte Carlo Reliability Simulation.
+  Weibull Analysis.
+[T1, T2]
+
+UNIT III
+Maintenance Techniques and Tools:
+  Maintenance as an essential element for asset management.
+  Reliability Centred Maintenance as a means for maintenance decision.
+  Topics on conditioned based maintenance.
+[T1, T2]
+
+UNIT IV
+Management for business performance:
+  Computerized Maintenance Management System – from planning to implementation.
+  Alternative spare sourcing.
+  Maintenance outsourcing management.
+[T1, T2]
+
+Text Books:
+[T1] J. Mouray
+      “Reliability Centred Maintenance”, 2nd Edition
+       Industrial Press, 1997
+[T2] C.E. Ebeling
+      “An Introduction to Reliability and Maintainability Engineering”
+       TMH
+
+Reference Books:
+[R1] P.D.T. O'Connor
+      Practical Reliability Engineering
+       Wiley, 2006

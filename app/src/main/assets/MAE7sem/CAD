@@ -1,7 +1,7 @@
 Paper Code: ETAT-401 L T/P C
 Paper: Computer Aided Design 3 1 4
-Objective: The objective of the paper is to introduce the students about the knowledge of CAD and CAD systems
-evaluation, 3D transformation, Curves and other geometric mapping and formulation.
+
+
 UNIT- I
 CAD: CAD Hardware: Types of Systems, CAD Systems Evaluation Criteria, Input Devices, Output Devices;
 CAD Software: Standards, Basic Definitions – Data Structure, Database, DBMS, Database Coordinate System,
@@ -13,28 +13,32 @@ problems.
 Three Dimensional Transformations: Point representations, Transformation Matrices, Scaling, Translation,
 Rotation, Reflection.
 Projections: Orthographic, Isometric, Perspective, Point at Infinity & Vanishing Point.
-[T1][T2][No. of Hrs: 11]
+[T1][T2]
+
 UNIT-II
 Curves: Representation of Space Curves, Cubic Spline, Normalized Cubic Splines, Bezier Curves, B-spline
 Curves, Numerical problems.
 Surface Generation: Plane Surfaces, Ruled Surfaces, Surface of Revolution, Sweep Surface, Bezier Surface,
 Cubic Surface Patch, B-Spline Surface, Composite Surface, Numerical problem.
-[T1][T2][No. of Hrs: 11]
+[T1][T2]
+
 UNIT- III
 Solid Modeling: Set Theory, Boolean Operations, B-rep Modeling, CSG, Sweep Representations, Spatial
 Occupancy Enumeration Numerical problems.
 Geometric Property Formulation: Curve Length, Surface Area, Volume Calculation, Mass Calculation,
 Centroid Calculation, Numerical problems.
-[T1][T2][No. of Hrs: 10]
+[T1][T2]
+
 UNIT-IV
 CAD/CAM Data Exchange: Introduction, IGES, PDS, Finite Element Methods: General Method for FEM, Finite
 Element Analysis, Numerical problems
-[T1][T2][No. of Hrs: 10]
+[T1][T2]
+
+
 Text Books:
-[T1] Ibrahim Zeid, “CAD/CAM Theory and Practice”, Tata McGraw-Hill Publishing Company Limited. 2nd
-Edition.
-[T2] David F. Rogers and J. Alan Adams, “Mathematical Elements for Computer Graphics, Prentice Hall
-India”, Tata McGraw-Hill.
+[T1] Ibrahim Zeid, “CAD/CAM Theory and Practice”, Tata McGraw-Hill Publishing Company Limited. 2nd Edition.
+[T2] David F. Rogers and J. Alan Adams, “Mathematical Elements for Computer Graphics, Prentice Hall India”, Tata McGraw-Hill.
+
 Reference Book:
 [R1] Foley et. al., “Computer Graphics Principles & practice”, Addison Wesley,1999.
 [R2] Ibrahim Zeid, “Mastering CAD/CAM”, Tata McGraw-Hill Publishing Company Limited.

@@ -1,0 +1,24 @@
+Paper Code: ETMT-454 L T/P C
+Paper: Embedded Systems Lab 0 2 1
+
+
+List of Experiments:
+
+1. Introduction to microcontroller and interfacing modules.
+
+2. To interface the seven segment display with microcontroller 8051
+
+3. To create a series of moving lights using PIC on LEDs.
+
+4. To interface the stepper motor with microcontroller.
+
+5. To display character ‘A’ on 8*8 LED Matrix.
+
+6. Write an ALP to add 16 bits using ARM 7 Processor
+
+7. Write an ALP for multiplying two 32 bit numbers using ARM Processor
+
+8. Write an ALP to multiply two matrices using ARM processor
+
+
+NOTE:- At least 8 Experiments out of the list must be done in the semester.

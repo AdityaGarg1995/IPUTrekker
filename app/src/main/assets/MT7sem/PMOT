@@ -1,0 +1,45 @@
+Paper Code: ETMT-415 L T C
+Paper: Process Modelling & Optimization Techniques 3 0 3
+
+
+UNIT - I
+Process modelling, SISO and MIMO processes, Coupled processes, Study of Biochemical reactors, CSTR, Steam drum level, surge vessel level control, Batch reactor and Biomedical systems.
+[T1, T2]
+
+UNIT - II
+Introduction to Control and optimization of Boiler, Cooling Tower, Distillation column, Reactors, Heat exchangers, condenser and evaporator.
+[T1, T2]
+
+UNIT - III
+Overview of optimisation techniques, Cost functions, supervised and unsupervised methods, Linear Optimisation–Least squares method, Recursive Least square, subset selection.
+[T1, T2]
+
+UNIT - IV
+Nonlinear Local optimisation- Direct search algorithms, general gradient based algorithms, constrained nonlinear optimisation.
+Nonlinear Global optimisation – Simulated annealing, Genetic algorithms, Ant colony optimisation, Process Modelling using soft computing methods.
+[T1, T2]
+
+
+Text Books:
+[T1] Oliver Nelles
+      “Process Nonlinear System Identification”
+       Springer
+[T2] Stephanopoulos G.
+      “Chemical Process Control: An Introduction to Theory and Practice”
+       PHI
+
+Reference Books:
+[R1] Bela G. Liptak
+      ‘Process Control- Instrument Engineers Handbook'
+       Chilton Book Co
+[R2] Regina M Murphy
+      ‘Introduction to Chemical Processes’
+       McGraw Hill Education
+[R3] John E. Hewson
+      “Process Instrumentation Manifolds”
+       Instrumentation society of America
+[R4] W.L. Luben
+      “Process Modeling & Simulation Control for Chemical Engineers”, McGraw Hill. 1995
+[R5] B. Wayne Bequette
+      “Process Control-Modelling, Design and Simulation”
+       PHI

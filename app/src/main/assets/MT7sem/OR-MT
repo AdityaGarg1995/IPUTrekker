@@ -1,0 +1,71 @@
+Paper Code: ETMT-427 L T/P C
+Paper: Operations Research 3 0 3
+
+
+UNIT-I
+Linear Programming:
+  Formulation of LP Problem. Graphical method, Simplex method for maximization and minimization LP Problems.
+  Duality in Simplex Problems,
+Queuing Theory:
+  Introduction to probability concept for queuing problems.
+  Basic structure, Terminology, Classification, Birth and Death Process.
+  Queuing Models.
+[T1]
+
+UNIT-II
+Transportation Models:
+  MODI method for optimality check, North West Corner Method, Least-cost Method and Vogel’s Approximation Method (VAM) for solving balanced and unbalanced transportation problems.
+  Problems of degeneracy and maximization.
+Assignment Models:
+  Assignment model for maximization & minimization problems.
+  Traveling Salesman Problems, Industrial Problems.
+[T2]
+
+UNIT-III
+Sequencing Theory:
+  Processing of n-jobs through m-machines with each job having same processing order.
+  Processing of 2 jobs through m-machines with each job having different processing order.
+Decision Theory:
+  Decision making under uncertainty and under risk, Multistage decision making, Multi criteria decision making.
+[T1]
+
+UNIT - IV
+Network Models:
+  Introduction to PERT and CPM.
+  Fundamental concept of Network models and construction of network diagrams.
+  Activity time estimates.
+  Critical path and project time duration.
+  Probability of completing the project on or before specified time.
+  Concept of Float and slack.
+Game Theory:
+  Two person zero-sum games.
+  Minimax and Maximin principle.
+  Arithmetic, Algebraic, Matrix Algebra method.
+  Solution by Dominance, Subgame, Graphical method, linear programming method.
+[T2]
+
+
+Text Books:
+[T1] Hira and Gupta
+      “Operation Research”
+       S. Chand Publications
+[T2] H.A. Taha
+      “Operations Research”, 6th Edition
+       Prentice-Hall India, 2004
+
+Reference Books:
+[R1] S. Kalavathy
+      “Operations Research”, 4th Edition
+       Vikas Publication, 2013
+[R2] N.D. Vohra
+      “Operations Research”
+       Tata McGraw Hill, 2004
+[R3] Richard Bronson, Govindasami Naadimuthu
+      “Operations Research”
+       Tata McGraw Hill, 2004
+[R4] A.P. Verma
+      “Operations Research”
+       S.K. Kataria & Sons, 2004
+[R5] J.K. Sharma
+      “Operation Research”
+       Macmillan India Ltd, 2005

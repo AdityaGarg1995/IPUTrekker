@@ -9,7 +9,7 @@
     android:background="@color/white"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:gravity="center"
-    tools:context="com.example.ankushsingh.ggsipu.Splash">
+    tools:context="com.example.ipu_trekker.ggsipu.Splash">
 
     <ImageView
         android:layout_width="match_parent"

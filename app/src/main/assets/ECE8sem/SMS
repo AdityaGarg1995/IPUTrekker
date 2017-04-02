@@ -1,0 +1,40 @@
+Paper Code: ETIC-408 L T/P C
+Paper: System Modelling & Simulation 3 0 3
+Objective: The objective of the paper is to facilitate the students with the knowledge how something will behave
+without actually testing it in real life. To ensure that the results of simulation are applicable to the real world,
+students must understand the assumptions, conceptualizations, and implementation constraints of this emerging
+field.
+UNIT - I
+System Concept and System Models: Concept of system, stochastic activities, Continuous and discrete systems,
+system modelling, principles of modelling, types of models- static physical, dynamic physical, static
+mathematical, dynamic mathematical.
+Introduction to Simulation: Need for simulation, steps of simulation models, types of simulation, discrete event
+simulation- Monte- Carlo simulation, estimation of demand of product & determination of the value of π. Cobweb
+models, Progress of a simulation study.
+[T1, T2][No. of Hrs. 11]
+UNIT -II
+Continuous system simulation: continuous system models, differential equations, analog & hybrid computers, analog
+methods, digital analog simulator, hybrid simulation, feedback systems & real time simulations
+System Dynamics: Exponential growth & decay models, logistic curves , generalization of growth models, system
+dynamics diagrams, multi segment models, representation of time delays, feedback in soci-economic systems.
+[T1, T2][No. of Hrs. 11]
+UNIT - III
+Methods of Random Number Generation & their tests: Introduction, Mid Square Method, Multiplicative
+Congruential Method, Combined Multiple Recursive Generator, Testing Randomness of Random Numbers: Chi-
+Square Method, Kolmogorov-Simirnov Test, Bartels Ratio Test, Run test, run up& down test.
+Probability Distribution and Random Variates: Introduction, Probability Distribution, Uniform Distribution,
+Exponential Distribution, Poisson distribution, Normal Distribution, Gamma Distribution, Erlang Distribution.
+[T1, T2][No. of Hrs. 11]
+UNIT - IV
+Queueing Theory: Introduction, Terminologies, Empirical Queuing Models: (M/M/1) queues, finite capacity
+queues, multiple servers, (M/M/c) queues. Simulation with high level languages.
+Discrete system simulation: discrete events, representation of time, generation of arrival pattern, simulation of
+telephone system, simulation programming tasks.
+[T1, T2][No. of Hrs. 11]
+Text Books:
+[T1] Geoffrey Gordon, “System Simulation”, PHI, 2nd Edition.
+[T2] R. Panneerselvam, P. Senthilkumar, “System Simulation, Modelling and Languages”, PHI.
+Reference Books:
+[R1] Frank L. Severance, “System Modelling and Simulation”, Wiley, 2001.
+[R2] J. Banks, J.S.Carson, B. Nelson, “Discrete Event system simulation”, (2E) Prentice Hall, 1996.
+[R3] Jerry Banks and John Carson, “Discrete Event System Simulation”, Fourth Edition, PHI, 2005.

@@ -1,0 +1,46 @@
+Paper Code: ETIC-417 L T/P C
+Paper: Selected Topics in ICE 3 0 3
+
+
+UNIT I
+Power Plant Instrumentation:
+  Types of power plants, thermal/hydro/nuclear/non-conventional.
+  Overall scheme from generation to power station terminals, number and types of various parameters monitored.
+  Signal Pick up, transmission, communication to control room.
+[T1]
+
+UNIT II
+Control Room:
+  Lay out and details, parameter monitoring in display and recording, log sheets.
+  Inhouse parameter monitoring and recording, Generation parameter monitoring and recording.
+  Control of critical parameters, P and I diagrams of important loops.
+[T1]
+
+UNIT III
+Vibrations and Industrial Noise Control:
+  Introduction to Vibration, Classifiction of Vibrations and Vibrating systems, Elementary Parts of Vibrating Systems, Undamped and Damped Vibrations of single degree of freedom Systems, Vibration Measuring Instruments and Support Excitation, Noise, DB Scale, Industrial Noise Control, Typical Applications.
+[T2]
+
+UNIT IV
+Non Destructive Testing:
+  Basic philosophy and importance of NDT techniques, critical parameters/status/malfunctioning/identification.
+  Applications of various techniques and case studies in respect of various industrial products.
+[T1][T2]
+
+
+Text Books:
+[T1] K. Krishnaswamy, M.P. Bala
+      “Power Plant Instrumentation”
+       PHI
+[T2] L.G. Lasithan
+      “Mechanical Vibrations and Industrial noise control”
+       PHI
+
+Reference Books:-
+[R1] P.K. Nag
+      “Power Plant Engineering”
+       Tata McGraw Hill, New Delhi
+[R2] C.D. Johnson
+      “Instrumentation and Control”
+       Wiley
+[R3] Journals and Publications on NDT

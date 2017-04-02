@@ -1,0 +1,31 @@
+Paper Code: ETIC–406 L T/P C
+Paper: Virtual Instrumentation 3 0 3
+Objective: Virtual Instrumentation gives students a concept for the design and integration of customized
+applications for Instrumentation, automation and control systems in real time.
+UNIT - I
+Introduction to LabVIEW: Definition and architecture of virtual instrumentation system, salient features and
+application area of virtual instrumentation, Detail of Software environment, loops, structures and tunnels, arrays,
+clusters, plotting data
+[T1, T2] [No. of Hours: 11]
+UNIT - II
+Data Flow Programming Techniques: Graphical programming in data flow, comparison with conventional
+programming, popular data flow and VI software packages. Building a VI front panel and block diagram, sub VI,
+for and while loops, case and sequence structure, formula nodes, local and global variables, string and file I/O,
+array and clusters, charts and graphs, attributes nodes
+[T1, T2] [No. of Hours: 11]
+UNIT - III
+Instrument Control: GPIB communication, hardware and software architecture and specifications, instrument
+I/O assistant, VISA, Instrument Drivers, Serial Port communications.
+Data Acquisition: Transducers, signal conditioning, DAQ hardware configuration, DAQ
+hardware, Analogy I/O, Counters, Digital I/O, DAQ assistant, selecting and configuring a data acquisition device.
+[T1, T2] [No. of Hours: 11]
+UNIT – IV
+IMAQ Vision: Vision basics, image processing and analysis, particle analysis, machine vision, machine vision
+hardware and software, building a complete machine vision system.
+[T1, T2] [No. of Hours: 11]
+Text Books:
+[T1] Jerome Jovitha, “Virtual Instrumentation Using LabVIEW”, PHI
+[T2] Sanjay Gupta, Joseph John, “Virtual Instrumentation Using LabVIEW”, TMH
+Reference Books:
+[R1] Gary Johnson, “LabVIEW Graphical Programming”, Second Edition, TMH
+[R2] Ronald W Larsen, “LabVIEW for Engineers”, Prentice Hall Ltd.

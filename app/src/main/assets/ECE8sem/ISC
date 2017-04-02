@@ -1,0 +1,39 @@
+Paper Code: ETIC–404 L T/P C
+Paper: Intelligent Systems and Control 3 1 4
+Objective: To give students concept of intelligent control with fuzzy logic and mmethodologies developed in the
+field of soft-computing which can lead to accommodation of more complex processes, improved performance
+and considerable time savings and cost reductions.
+UNIT - I
+Basic concepts of Fuzzy logic: Fuzzy sets, operations of Fuzzy sets, properties of Fuzzy sets, Fuzzy relations,
+composition of Fuzzy relation, cylindrical extension, projection, Different implications of Fuzzy If-Then rules,
+Fundamental issues in Control Engineering, Mamdani architecture for Fuzzy Control, The Sugeno Takagi
+architecture, FKBC Design Parameter: The FKBC architecture, choice of variable and contents of rules,
+knowledge representation in KBC and derivation of rules, choice of membership functions, choice of scaling
+factors, choice of fuzzification procedures, choice of defuzzification procedures, comparison and evaluation of
+defuzzification methods.
+[T1, T2] [No. of Hours: 11]
+UNIT - II
+Nonlinear and Adaptive Fuzzy Control: The FKBC as a Non-Linear Transfer Element, Types of FKBC such
+as PID-like FKBC, sliding Mode FKBC, Performance Evaluation, Approaches to Design such as membership
+function tuning using gradient descent, membership function tuning using performance criteria, the selforganizing
+controller, model based controller Stability of Fuzzy Control Systems: State space Approach,
+Stability & Robustness indices, Input-output stability, The Circle criterion, The Conicity criterion.
+[T1, T2] [No. of Hours: 11]
+UNIT - III
+Neuro fuzzy Systems: Neural networks and Fuzzy Logic, Supervised neural Network Learning of Fuzzy Models,
+Reinforcement based learning of Fuzzy models, Using Neural Networks to partition the input space, Neuro fuzzy
+Modelling.
+[T1, T2] [No. of Hours: 11]
+UNIT – IV
+Genetic Algorithms and Fuzzy Logic: An Overview, GA in problem solving, Implementation of GA, Design
+issues in GA, GA based Fuzzy Model Identification
+[T1, T2] [No. of Hours: 11]
+Text Books:
+[T1] John Yen, Reza Langari,” Fuzzy Logic Intelligence, Control and Information” Pearson
+[T2] T.J. Ross,” Fuzzy Logic & Control Applications” Tata McGraw Hill
+Reference Books:
+[R1] Fakhreddine O. Karray, Clarence De Silva,” Soft Computing and Intelligent Systems Design Theory
+Tools and Applications” Pearson
+[R2] T. Tarano, Asai & M. Sugeno,” Fuzzy System Theory & Application”, Academic Press
+[R3] D. Driankov. H.Hellendoom & M. Reinfrank ,“An Introduction to Fuzzy Control” by Narosa Pub.
+House, New Delhi

@@ -1,0 +1,43 @@
+Paper Code: ETIC–405 L T/P C
+Paper: Artificial Neural Networks 3 1 4
+
+
+UNIT - I
+Introduction:
+  Neural networks characteristics, History of development in neural networks principles, Artificial neural terminology, Model of a neuron, Topology, Neural Networks: biological concepts, neuron model, transfer functions, feed forward, feedback, supervised and unsupervised models, Learning methods- Hebbs, delta, backpropagation and competitive learning.
+[T1, T2]
+
+UNIT - II
+Learning Methods & Neural Network Models:
+  Fundamental Concepts and Models, Learning Process, Learning Rules, Single Layer Perceptron Classifier, Multilayer Feedforward Network, Single-Layer Feedback Networks, types of learning, Supervised, Unsupervised, Re-inforcement learning, Knowledge, representation and acquisition.
+  Basic Hop field model, Competitive learning, K-means clustering algorithm, Kohonen‘s feature maps.
+[T1, T2]
+
+UNIT - III
+Artificial Neural Networks:
+  Autoassociative Memory, Performance Analysis of Recurrent Autoassociative Memory, Bidirectional Autoassociative Memory, Associative Memory of Spatio-temporal Patterns Radial basis function neural networks, Basic earning laws in RBF nets, Recurrent back propagation.
+ Introduction to counter propagation networks, CMAC network and ART networks.
+ Matching and Self-Organizing Networks Hamming Net and MAXNET, Unsupervised Learning of Clusters, Counter propagation Network, Feature Mapping, Self-Organizing Feature Maps, Cluster Discovery Network.
+[T1, T2]
+
+UNIT – IV
+Applications of neural networks:
+  Applications such as pattern recognition, Pattern mapping, Associative memories, Optimization, Speech and decision-making, VLSI implementation of neural networks.
+[T1, T2]
+
+
+Text Books:
+[T1] B. Yegnanarayana
+      “Artificial Neural Networks”
+       PHI
+[T2] J.M. Zurada
+      “Introduction to artificial neural systems”
+       Jaico Publishing House
+
+Reference Books:
+[R1] S. Rajasekaran, G.A. Vijaylakshmi Pai
+      “Neural Network, Fuzzy Logic & Genetic Algorithms Synthesis & Application”, 1st edition
+       PHI, 2009
+[R2] Simon Haykin
+      “Neural Networks”, 3rd edition
+       PHI, 2010

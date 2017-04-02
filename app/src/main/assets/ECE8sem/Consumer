@@ -1,11 +1,7 @@
 Paper Code: ETEC-408 L T/P C
 Paper: Consumer Electronics 3 0 3
-Objective: The objective of teaching this subject is to give students in depth knowledge of various electronic
-audio and video devices and systems. Further this subject will introduce the students with working principles,
-block diagram, main features of consumer electronics gadgets/goods/devices like audio-systems, CD systems,
-TV, VCR and other items like fax machine washing machine, microwave ovens, digital camera & iPODS etc,.
-which in-turn will develop in them capabilities of assembling, fault diagnosis and rectification in a systematic
-way.
+
+
 UNIT I
 Audio System: Microphones, Construction, Working principles and applications of microphone:
 Carbon, Moving coil, velocity, crystal, condenser type, Cordless microphone, Dynamic & wireless microphone.
@@ -14,7 +10,8 @@ Sound recording on magnetic tape its principles, block diagram and tape transpor
 Rumble distortion. Relationship between gap width, tape speed and frequency. Optical recording and
 reproduction system, Blue ray technology,
 VCD & DVD system, HI- Fi system, condition for good acoustic features, stereo amplifiers
-[T1, T2][No. of Hours: 11]
+[T1, T2]
+
 UNIT II
 Television: Monochrome TV Communication: Elements of TV communication system; Scanning – its need for
 picture transmission; Need synchronizing and blanking pulses; Progressive scanning, interlaced scanning, ell
@@ -26,14 +23,16 @@ Block diagram of a TV receiver: function of each block and wave form at the inpu
 Frequency range of various VHF bands and channels used in India, Major specification of the CCIR B standard.
 Typical circuits of scanning and EHT stages of TV receiver, keyed AGC,SAW filter; trap circuit, Identification
 of faulty stage by analyzing the symptoms and basic idea of a few important faults and there remedies.
-[T1, T2][No. of Hours: 12]
+[T1, T2]
+
 UNIT III
 Color TV: Primary colors, trisimulus values, trichromitc coefficients, concepts of additive and subtracting
 mixing of colours, concepts of luminance, Hue and saturation, Compatibility of colour TV system with
 monochrome system. Block diagram of colour TV camera, Construction and working principles of Trinitron,
 delta gun and PIL types of colour picture tubes. Concepts of degaussing, purity, beam shifting; burst signal and
 its need, chrominance signal; analysis of G-Y signal is not transmitted, Block diagram of PAL TV receiver.
-[T1,T2] [No. of Hours: 11]
+[T1,T2]
+
 UNIT IV
 Comparison of digital TV LCD, LED, HDTV, Plasma TV &Three dimension TV.
 Cable Television: Block diagram and principle of working of STB and DTH, Study of FAX machine,group-3

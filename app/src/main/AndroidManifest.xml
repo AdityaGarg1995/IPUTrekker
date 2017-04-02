@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ankushsingh.ggsipu">
+    package="com.example.ipu_trekker.ggsipu">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,112 +12,112 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name=".CollegeActivity"
+            android:name="com.example.ipu_trekker.ggsipu.CollegeActivity"
             android:label="Colleges"
-            android:parentActivityName=".HomeActivity" />
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.HomeActivity" />
 
         <activity
-            android:name=".StreamActivity"
+            android:name="com.example.ipu_trekker.ggsipu.StreamActivity"
             android:label="Streams"
-            android:parentActivityName=".HomeActivity" />
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.HomeActivity" />
 
         <activity
-            android:name=".Colleges.aiactr"
-            android:parentActivityName=".CollegeActivity" />
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.aiactr"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.CollegeActivity" />
 
         <activity
-            android:name=".Colleges.amity"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.amity"
             />
         <activity
-            android:name=".Colleges.bp"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.bp"
             />
         <activity
-            android:name=".Colleges.bpit"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.bpit"
             />
         <activity
-            android:name=".Colleges.dite"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.dite"
             />
         <activity
-            android:name=".Colleges.dtc"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.dtc"
             />
         <activity
-            android:name=".Colleges.bvp"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.bvp"
             />
         <activity
-            android:name=".Colleges.gbp"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.gbp"
             />
         <activity
-            android:name=".Colleges.gtbit"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.gtbit"
             />
         <activity
-            android:name=".Colleges.hmr"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.hmr"
             />
         <activity
-            android:name=".Colleges.jims"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.jims"
             />
         <activity
-            android:name=".Colleges.mait"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.mait"
             />
         <activity
-            android:name=".Colleges.msit"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.msit"
             />
         <activity
-            android:name=".Colleges.niit"
-            />
-
-
-        <activity
-            android:name=".logo"
-            android:parentActivityName=".HomeActivity" />
-
-
-
-        <activity
-            android:name=".Streams.IT"
-            android:parentActivityName=".StreamActivity" />
-
-
-        <activity
-            android:name=".Streams.IT2"
-            android:parentActivityName=".Streams.IT2"
-            />
-        <activity
-            android:name=".Streams.EE2"
-            android:parentActivityName=".Streams.EE2"
+            android:name="com.example.ipu_trekker.ggsipu.Colleges.niit"
             />
 
 
         <activity
-            android:name=".Streams.SEM8_ENE"
-            android:parentActivityName=".Streams.SEM8_ENE" />
+            android:name="com.example.ipu_trekker.ggsipu.logo"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.HomeActivity" />
 
-        <activity
-            android:name=".Streams.TOOL" />
-        <activity
-            android:name=".Streams.ME" />
-        <activity
-            android:name=".Streams.MECH" />
-
-        <activity
-            android:name=".Streams.MAE2"/>
-
-        <activity
-            android:name=".Streams.ME2"
-            android:parentActivityName=".Streams.ME2" />
-
-        <activity
-            android:name=".Streams.SEM7_ENE"/>
-        <activity
-            android:name=".Streams.MECH2" />
 
 
         <activity
-            android:name=".Streams.ZCodes"
-            android:parentActivityName=".StreamActivity"
+            android:name="com.example.ipu_trekker.ggsipu.Streams.IT"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.StreamActivity" />
+
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.IT2"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.IT2"
             />
         <activity
-            android:name=".Streams.ZChooseSemForSyll"
-            android:parentActivityName=".Streams.ZChooseSemForSyll"
+            android:name="com.example.ipu_trekker.ggsipu.Streams.EE2"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.EE2"
+            />
+
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_ENE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM8_ENE" />
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.TOOL" />
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.ME" />
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.MECH" />
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.MAE2"/>
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.ME2"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.ME2" />
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_ENE"/>
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.MECH2" />
+
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.ZCodes"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.StreamActivity"
+            />
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.ZChooseSemForSyllabus"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.ZChooseSemForSyllabus"
             />
 
 
@@ -125,11 +125,11 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name=".Splash" />
+        <activity android:name="com.example.ipu_trekker.ggsipu.Splash" />
 
 
         <activity
-            android:name=".HomeActivity"
+            android:name="com.example.ipu_trekker.ggsipu.HomeActivity"
             android:label="IPU Trekker"
             android:theme="@style/AppTheme.NoActionBar">
 
@@ -142,82 +142,82 @@
 
 <!--Syllabus-->
         <activity
-            android:name=".Syllabus"
-            android:parentActivityName=".Syllabus"/>
+            android:name="com.example.ipu_trekker.ggsipu.Syllabus"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Syllabus"/>
 
 <!--Semester-wise Syllabus-->
         <activity
-            android:name=".Streams.IT3"
-            android:parentActivityName=".Streams.IT3"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.IT3"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.IT3"/>
             <activity
-            android:name=".Streams.IT4"
-            android:parentActivityName=".Streams.IT4"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.IT4"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.IT4"/>
         <activity
-            android:name=".Streams.IT5"
-            android:parentActivityName=".Streams.IT5"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.IT5"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.IT5"/>
         <activity
-            android:name=".Streams.IT6"
-            android:parentActivityName=".Streams.IT6"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.IT6"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.IT6"/>
 
         <activity
-            android:name=".Streams.IT7"
-            android:parentActivityName=".Streams.IT7"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.IT7"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.IT7"/>
         <activity
-            android:name=".Streams.IT8"
-            android:parentActivityName=".Streams.IT8"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.IT8"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.IT8"/>
 
         <activity
-            android:name=".Streams.SEM1Syllabus"
-            android:parentActivityName=".Streams.SEM1Syllabus" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM1Syllabus"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM1Syllabus" />
         <activity
-            android:name=".Streams.SEM2Syllabus"
-            android:parentActivityName=".Streams.SEM2Syllabus" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM2Syllabus"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM2Syllabus" />
 
         <activity
-            android:name=".Streams.SEM6_CEnENE"
-            android:parentActivityName=".Streams.SEM6_CEnENE" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM6_CEnENE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM6_CEnENE" />
 
         <activity
-            android:name=".Streams.SEM5_PE"
-            android:parentActivityName=".Streams.SEM5_PE" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM5_PE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM5_PE" />
         <activity
-            android:name=".Streams.SEM6_PE"
-            android:parentActivityName=".Streams.SEM6_PE" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM6_PE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM6_PE" />
 
         <activity
-            android:name=".Streams.SEM7_CSE"
-            android:parentActivityName=".Streams.IT7" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_CSE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.IT7" />
         <activity
-            android:name=".Streams.SEM8_CSE"
-            android:parentActivityName=".Streams.IT8" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_CSE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.IT8" />
 
         <activity
-            android:name=".Streams.SEM7_ECE"
-            android:parentActivityName=".Streams.SEM7_ECE"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_ECE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM7_ECE"/>
         <activity
-            android:name=".Streams.SEM8_ECE"
-            android:parentActivityName=".Streams.SEM8_CSE" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_ECE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM8_CSE" />
 
         <activity
-            android:name=".Streams.SEM7_EEEnEE"
-            android:parentActivityName=".Streams.SEM7_EEEnEE" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_EEEnEE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM7_EEEnEE" />
         <activity
-            android:name=".Streams.SEM8_EEEnEE"
-            android:parentActivityName=".Streams.SEM8_EEEnEE"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_EEEnEE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM8_EEEnEE"/>
 
         <activity
-            android:name=".Streams.SEM7_PE"
-            android:parentActivityName=".Streams.SEM7_PE"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_PE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM7_PE"/>
 
         <activity
-            android:name=".Streams.SEM7_CE"
-            android:parentActivityName=".Streams.SEM7_CE"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_CE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM7_CE"/>
 
         <activity
-            android:name=".Streams.SEM8_CE"
-            android:parentActivityName=".Streams.SEM8_CE"/>
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_CE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM8_CE"/>
 
-        <activity android:name=".BookList" />
+        <activity android:name="com.example.ipu_trekker.ggsipu.BookList" />
 
     </application>
 

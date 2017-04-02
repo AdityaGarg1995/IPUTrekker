@@ -1,0 +1,53 @@
+Paper Code: ETME-402 L T/P C
+Paper: Engineering System Modeling and Simulation 3 0 3
+
+
+UNIT - I
+Basic System models:
+  Mathematical models, Mechanical system building blocks, Electrical system building block, fluid system building block, thermal system building block.
+System Models:
+  Engineering systems, Rotational translational systems, Electro-mechanical systems, linearity, Hydraulic Mechanical systems.
+Dynamic Response of Systems:
+  Modelling dynamic systems, Terminology, First order systems, Second order systems, performance measure of 2nd order systems, system identification.
+System Transfer Functions:
+  The transfer function, 1st & 2nd order systems, systems in series, systems with feedback loops, effect of pole location on transient response.
+[T1]
+
+UNIT – II
+Mechanical Event Simulation (Finite Element modelling and Analysis):
+Introduction, General procedure of finite element method, finite element analysis, iso-parametric evaluation of
+element matrices, finite element modelling, mesh generation, design and engineering applications. Introduction
+to Pro E software - Mechanica & dynamic simulation module.
+[T2]
+
+UNIT – III
+System Simulation:
+  Introduction, Review of probability and statistics, Managing the event calendar in a discrete event simulation model, Modelling input data.
+[T3]
+
+UNIT – IV
+Generation of random numbers and variates, generic features and introduction to Arena Software, Real world applications of simulation, Discrete continuous simulation, verification and validation of simulation models.
+[T3]
+
+
+Text Book:
+[T1] W. Bolton
+      “Mechatronics – Electronic control systems in Mechanical & Electrical Engineering”
+       Pearson Education Ltd
+[T2] Ibrahim Zeid
+      “CAD/CAM Theory and Practice”
+       Tata McGraw-Hill Publishing Company Limited
+[T3] Sankar Sengupta
+      System Simulation and modelling
+       Pearson
+
+Reference Books:
+[R1] Deo, Narsingh, Millican Charles E.
+      ”System Simulation With Digital Computer”
+       PHI
+[R2] Gordon, Geoffrey
+      System Simulation
+       PHI
+[R3] P. Radhakrishnan, S. Subramanyan, V. Raju
+      CAD/CAM/CIM
+       New Age International Publishers

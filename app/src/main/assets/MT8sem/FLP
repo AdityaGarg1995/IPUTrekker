@@ -1,0 +1,37 @@
+Paper Code: ETMT-410 L T/P C
+Paper title: Facility & Layout Planning 3 0 3
+
+
+UNIT-I
+Plant location:
+  Concept and factors influencing plant location, theories of industrial locations, theory of maximum profit location, interdependence theory of location, linear programming technique, location analogue model, theory of least-cost location, Weber’s theory of location, theory of location by Predohl.
+Plant Layout:
+  Introduction, objective of plant Layout, types merits and demerits, process layout, product layout, combination layout, fixed position layout, principles of plant layout, symptoms of plant layout, advantages of plant layout, Construction of Layout Plans, Muther's Systematic Layout Planning (SLP) Procedure.
+[T1]
+
+UNIT-II
+Material Handling:
+  Scope of material handling, definition of material handling, material handling principles,designing material handling systems, Material Handling Equipment & Classifications Factors Affecting the Selection of Materials Handling Equipment Basic Layout Types, Nadler's Ideal Systems Approach, iminer's Basic Steps.
+[T1]
+
+UNIT-III
+Computer Programme:
+  Introduction to Computer Programme, CRAFT (Computerized Relative Allocation of Facilities Technique), ALDEP (Automated Layout Design Program), CORELAP (Computerized Relationship Layout Planning), COFAD (Computerized Facilities and Design), PLANET (Plant Layout Evaluation Technique).
+Space determination and area allocation:
+  Determination of space requirement, office facility planning, plant maintenance area allocation.
+[T1, T2]
+
+UNIT-IV
+Quantitative approaches to facilities planning:
+  Facility Location Models, Rectilinear Facility Location Problem, Single Facility Location Models, location Allocation Problems, Special Facility Layout Models, Quadratic Assignment Problem, Warehouse Layout Models, Conventional storage models, Block Stacking, Safety Stock, Automated Storage and Retrieval Systems, Fixed-Path Material Handling Models, Towline or Trolley Conveyors.
+[T1]
+
+Text Books:
+[T1] Chandershekhar Hiregoudar, Raghavendra Reddy
+      “Facility Planning & Layout Design, an industrial perspective”
+       Technical publications Pune
+
+Reference Books:
+[R1] Tompkins, White, Bozer, Tanchoco
+      “Facilities Planning”, 4th edition
+       John Wiley & Sons

@@ -1,0 +1,40 @@
+Paper Code: ETIC-413 L T/P C
+Paper: Instrumentation Diagnostics 3 0 3
+
+
+UNIT - I
+Introduction to fault model & fault simulation.
+Fault location & Board level testing, Test generation for combinational circuits.
+D - Algorithm & its improvement.
+[T1, T2]
+
+UNIT - II
+Introduction Maintenance Concepts, Maintenance Strategies- Corrective, Preventive and predictive maintenance.
+[T1, T2]
+
+UNIT - III
+Condition Monitoring Techniques & Signature Analysis Applications - Vibration Monitoring, Oil Analysis, Temperature and current Monitoring, Performance Monitoring and Non-destructive Techniques.
+Maintenance Planning, Maintenance Documentation.
+[T1, T2]
+
+UNIT - IV
+Training and Safety Aspects in Maintenance, Filtration and Contamination Control, Introduction to residual life assessment studies.
+Some Case Studies.
+[T1, T2]
+
+
+Text Books:
+[T1] B.C. Nakra, K.K. Chaudhry
+      “Instrumentation Measurement & Analysis”
+       PHI, 2003
+[T2] R.A. Colacott
+      “Mechanical Fault Diagnosis and Condition Monitoring”
+       John Wiley & Sons, 1997
+
+Reference Books:
+[R1] Handbook of condition monitoring
+      B.K.N. Rao
+       Elsevier
+[R2] Liptak, B. G. (E.d.)
+      “Instrument Engineers Handbook”, Vol. I to III
+       Chilton Book Co

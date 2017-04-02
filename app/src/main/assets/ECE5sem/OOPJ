@@ -3,45 +3,50 @@ Paper: Object Oriented Programming using JAVA 3 0 3
 
 
 UNIT I
-Java fundamentals: Features of Java, OOPs concepts, Java virtual machine, Reflection byte codes, Byte code
-interpretation, Data types, variable, arrays, expressions, operators, and control structures.
-Introducing java classes: Abstract classes, Static classes, Inner classes, Packages, Wrapper classes, Interfaces,
-This, Super, Access control objects and methods: defining a class, adding variables and methods, creating
-objects, constructors, class inheritance.
-Arrays and String: Creating an array, one and two dimensional arrays, string array and methods, Classes: String
-and String Buffer classes.
+Java fundamentals:
+  Features of Java, OOPs concepts, Java virtual machine, Reflection byte codes, Byte code interpretation, Data types, variable, arrays, expressions, operators, and control structures.
+Introducing java classes:
+  Abstract classes, Static classes, Inner classes, Packages, Wrapper classes, Interfaces, This, Super, Access control objects and methods: defining a class, adding variables and methods, creating objects, constructors, class inheritance.
+Arrays and String:
+  Creating an array, one and two dimensional arrays, string array and methods, Classes: String and String Buffer classes.
 [T1, T2, T3]
 
 UNIT II
-Exception handling: Exception as objects, Exception hierarchy, uncaught exceptions, built in exception, creating
-your own exceptions, Try, final, Throw, throws
-IO package: Input streams, Output streams, Object serialization, Deserialization, Sample programs on IO files,
-Filter and pipe streams
-Multi threading: Thread Life cycle, Multi threading advantages and issues, Simple thread program, Java thread
-model: priorities, synchronization, messaging, thread classes, Run able interface, and inter thread
-Communication, suspending, resuming and stopping threads.
+Exception handling:
+  Exception as objects, Exception hierarchy, uncaught exceptions, built in exception, creating your own exceptions, Try, final, Throw, throws.
+IO package:
+  Input streams, Output streams, Object serialization, Deserialization, Sample programs on IO files, Filter and pipe streams
+Multi threading:
+  Thread Life cycle, Multi threading advantages and issues, Simple thread program, Java thread model: priorities, synchronization, messaging, thread classes, Run able interface, and inter thread Communication, suspending, resuming and stopping threads.
 [T1,T2,T3]
 
 UNIT III
-GUI: Introduction to AWT programming, Layout and component managers and menus, handling Image,
-animation, sound and video.
-Event handling: Different Mechanism, the Delegation Event Model, Event Classes, Event Listener Interfaces.
-Applet class: Applet life-cycle, passing parameters embedding in HTML, Swing components – JApplet, JButton,
-JFrame, etc., Sample swing programs, servlets.
+GUI:
+  Introduction to AWT programming, Layout and component managers and menus, handling Image, animation, sound and video.
+Event handling:
+  Different Mechanism, the Delegation Event Model, Event Classes, Event Listener Interfaces.
+Applet class:
+  Applet life-cycle, passing parameters embedding in HTML, Swing components – JApplet, JButton, JFrame, etc, Sample swing programs, servlets.
 [T1,T2,T3]
 
 UNIT IV
-Networking: Basics, networking classes and interfaces, using java.net package, doing TCP/IP and Data-gram
-Programming.
-Database Connectivity: JDBC architecture, connectivity and working with connection interface, Working with
-statements, Creating and executing SQL statements, working with Result Set.
+Networking:
+  Basics, networking classes and interfaces, using java.net package, doing TCP/IP and Data-gram Programming.
+Database Connectivity:
+  JDBC architecture, connectivity and working with connection interface, Working with statements, Creating and executing SQL statements, working with Result Set.
 [T1,T2,T3]
 
 
 Text Books:
-[T1] Patrick Naughton and Herbertz Schildt, “Java-2 The Complete Reference”, 1999, TMH
-[T2] Rick Dranell, “HTML 4 unleashed”, Techmedia Publication, 2004.
-[T3] Shelley Powers, “Dynamic Web Publishing”, 2nd Ed., Techmedia, 1998.
+[T1] Patrick Naughton and Herbertz Schildt
+      “Java-2 The Complete Reference”
+       TMH, 1999
+[T2] Rick Dranell
+      “HTML 4 unleashed”
+       Techmedia Publication, 2004
+[T3] Shelley Powers
+      “Dynamic Web Publishing”, 2nd Ed
+       Techmedia, 1998
 
 Reference Books:
 [R1] E. Balaguruswamy, “Programming with Java: A Primer”, TMH, 1998.

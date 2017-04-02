@@ -1,0 +1,48 @@
+Paper Code: ETIC–401 L T/P C
+Paper: Digital Control Systems 3 1 4
+
+
+UNIT - I
+Introduction to Discrete Time Control Systems:
+   Introduction, Digital control systems, Quantizing and Quantization error, Data Acquisition, conversion and Distribution systems, The Sampling Process introduction, Mathematical Analysis of the Sampling Process, Mathematical Description of the Ideal Sampling Process-The Ideal Sampler, Construction of Sampled Signals, Data Reconstruction by Polynomial Extrapolation, The Zero Order Hold, The First Order Hold Z-Transforms, Transform of Elementary function, Important properties and theorems of the Z transform, The Inverse ZTransformation, z transform method for solving Difference Equations, The Limitations of the Z-Transform Method, Modified z transform, Theorem of the Modified Z-Transforms.
+[T1, T2]
+
+UNIT - II
+Z plane Analysis of Discrete-Time control systems:
+  Introduction, Impulse sampling and Data Hold, Signal Flow Graph and Matrix Representation of Sampled Data
+System:
+  Block Diagram Analysis and Transfer Functions of Closed Loop Sampled Data Systems, Signal Flow Graphs of Sampled Data Systems, The pulse transfer function.
+[T1, T2]
+
+UNIT - III
+Design of Discrete –Time control system by Conventional Methods:
+  System characteristic equation, Time response, Mapping S-plane into Z-plane, Steady state accuracy, Stability Techniques, Bi-linear transformation, Routh Hurwitz Criterion, Jury stability test, Root locus, Nyquist criterion, Bode diagram, interpretation of frequency response, Closed loop frequency response, State-Space Representations of Discrete-time system, Solving Discrete-time State –space Equations, Pulse Transfer function, Discretization of continuous- time state–space equations.
+[T1, T2]
+
+UNIT – IV
+Digital Controller Design:
+  Introduction to controller design, Control system specification, Compensation, phase lag compensator, phase lead compensator, phase lead design procedure, lag lead compensator, PID controllers, Analysis and design of Digital Control Systems using root locus and transform techniques.
+[T1, T2]
+
+
+Text Books:
+[T1] K. Ogata
+      “Discrete Time Control System”
+       Prentice Hall International
+[T2] B.C. Kuo
+      “Digital Control Systems”
+       Oxford, 2007
+
+Reference Books:
+[R1] Charles L. Phillips & H. Troy Nagle
+      “Digital Control system Analysis and Design”
+       Prentice Hall International Pub
+[R2] V.I. George, C.P. Kurian
+      “Digital Control Systems”
+       Cenage Learning 2012
+[R3] Kavita Singh, Rashmi Vashisth
+      “Digital Control Systems”
+       Galgotia Publications, 2013
+[R4] M. Gopal
+      “Digital Control & Sate Variable Methods”
+       TMH

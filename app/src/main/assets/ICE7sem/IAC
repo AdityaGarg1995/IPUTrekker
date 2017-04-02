@@ -1,0 +1,44 @@
+Paper Code: ETIC-407 L T/P C
+Paper: Industrial Automation and Control 3 0 3
+
+
+UNIT - 1
+Introduction and Architecture of Industrial Automation & Control Systems; Control strategies: Feed-forward and Ratio Control, Predictive Control, Control of Systems with Inverse Response, Special Control Structures: Cascade, Override and Split Range Control.
+[T1, T2]
+
+UNIT - II
+PLC:
+  Introduction to Sequence/Logic Control and Programmable Logic Controllers; Software Environment and Programming of PLCs, Formal Modelling of Sequence Control Specifications and Structured RLL Programming, Programming of PLCs— Sequential Function Charts; The PLC Hardware Environment.
+[T2]
+
+UNIT - III
+Introduction to Computer Numerically Controlled (CNC) Machines; Interpolation, Control and Drive, Control Valves, Electric, Pneumatic and Hydraulic Actuators, Analog and Digital I/O system, Signal conditioning components; DAQ, Data acquisition software overview; DAQ cards and their applications.
+[T1, T2]
+
+UNIT - IV
+Higher Levels of Automation Systems:
+  Supervisory Control; Distributed Digital Control Systems (DCS), Direct digital control (DDC), SCADA— Introduction; field data interface devices, communication network and other details, System Architecture— monolithic, distributed, networked, SCADA protocols in short; Significance; application of SCADA in industry; installation of SCADA Systems; security and weakness of SCADA Systems.
+[T2]
+
+
+Text Books:
+[T1] S. Gupta, J.P. Gupta
+      “PC interface For Data Acquiring & Process Control”, 2nd Ed
+       Instrument Society of America 1994
+[T2] John W. Web, Ronald A. Reis
+      “Programmable Logic Controllers”, 5th Edition
+       PHI
+
+Reference Books:
+[R1] Liptak, B.G. (E.d.)
+      “Instrument Engineers Handbook”, Vol. I to III
+       Chilton Book Co
+[R2] Bhatkar, Marshal
+      “Distributed Computer control & Industrial Automation”
+       Dekker Publication
+[R3] Frank D. Petruzella
+      “Programmable Logic Controllers”, 3rd Edition
+       McGraw Hill
+[R4] Gary John Son
+      “Labview Graphical Programming”, II Edition
+       McGraw Hill, 1977
