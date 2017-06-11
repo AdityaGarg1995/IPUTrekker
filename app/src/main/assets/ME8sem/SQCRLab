@@ -1,0 +1,27 @@
+Paper Code: ETME-454 L T/P C
+Paper: Statistical Quality Control and Reliability Lab 0 2 1
+List of Experiments:
+1. To verify the various statistical relationships from the results of observations of 200 drawings from the
+Shewhart’s Normal Bowl containing 998 chips and to fit a normal curve by making a histogram from
+the individual observations. Take a subgroup of 5. The given statistical relationships are:
+′ = σ′ = X s n σ′ = /d2 σ′ = / c2 σ′ = σσ / c5
+2. To plot and determine the given unknown distribution from the results of observations of 180 drawings
+from the given bowl containing 778 chips. Take a sample size of 4.
+3. To determine the process capability of the manual sheet metal cutting process by cutting 80 rectangular
+pieces (length = 30 mm & breadth = 25 mm) from 28 gauge G. I. sheet. Take a subgroup size of 5.
+4. To plot p and np charts from the observations of 20 samples of 100 each drawn from the population of
+3000 balls containing 5% defective balls.
+5. To plot the , R & σ control charts from the observations of 120 drawings from the Shewhart Normal
+Bowl containing 998 chips having population parameters as ′ = 30 and σ′ = 9.954, Take a subgroup
+size of 5.
+6. To state and prove the Central Limit Theorem. Take 180 observations from the Shewhart’s Normal
+Bowl and take a sample size of 4.
+7. To design a 2% A.O.Q.L single sampling plan by inspecting a population of 3000 balls submitted in 10
+lots of 300 balls each with a process average as 0.3% to 3.0% in steps of 0.3%.
+8. To plot control chart for c from the observations of 24 sample items drawn from population of 110
+items.
+9. To design a sequential sampling plan in which the producer's risk of rejecting the lots containing 5%
+defectives is 4% and the consumer's risk of accepting the lots containing 30% defectives is 20%. Use
+the designed sampling plan to inspect a population having process average 6% to 30% in steps of 6%.
+The maximum number of pieces to be inspected is 24.
+NOTE:- At least 8 Experiments out of the list must be done in the semester.

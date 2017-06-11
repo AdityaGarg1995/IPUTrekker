@@ -1,0 +1,43 @@
+Paper Code: ETMT-452 L T/P C
+Paper: Robotics Lab 0 2 1
+List of Experiments:
+1. Study of robotic arm, end effectors and its configuration and introduction to any software (such as
+workspace) used to simulate or program a robot;
+2. Program / simulate a robot for moving on a path;
+3. Program / simulate a robot for pick and place operation;
+4. Program / simulate a robot for welding operation;
+5. Program / simulate a robot for water jet machining;
+6. Program / simulate a robot for saving it from striking any other object in workspace;
+7. Program / simulate two robots working together;
+8. Make a 3R robot and simulate its motion.
+9. Use a microcontroller to program simple toy robot / model robot;
+10. Micro controller program to use different sensors and further move toy robot(s) / model robot;
+11. Use MATLAB / Scilab. Any other software to program numericals (Robot Arm kinematics) taught in
+class.
+12. Use MATLAB / Scilab and other robot specific software like Robo-Analizer for the study of kinematic
+and dynamics of 3R robots.
+13. Demos of a real robot; Introduce Virtual Robotics Lab. in ADAMS or SimMechanics of MATLAB.
+Note:
+a. Total Experiments are to be 12 (Twelve).
+b. Experiments suggested by committee are given above- Choose any eight.
+c. Rest (In above list / not in list) is liberty of respective institute to choose as per syllabus.
+d. Suggested Software
+A course on Robotics must use one or more software to not only visualize the motion and characteristics
+of robots but also to analyzer/synthesize/design robots for a given application (say, as class projects).
+Typical software which can be used are as follows:
+• RoboAnalyzer (Developed by IIT Delhi; http://www.roboanalyzer.com)
+• Virtual Labs. (Developed by IIT Kharagpur; http://vlabs.iitkgp.ernet.in/moodle/)
+• MATLAB, its modules Simulink and SimMechanics (http://www.mathworks.com)
+• Mathematica: Symbolic software (http://www.wolfram.com)
+• Multi Bondgraph (http://bondgraph.org)
+• ADAMS (by MSC software; http://www.mscsoftware.com)
+• RerurDyn (by Function Bay, Korea; http://www.functionbay.co.kr)
+e. Other Aids
+• Possible Class projects and presentations: Kinematic/Dynamic modeling, programming, and
+analyses of a robotic arm (say, an RP manipulator); 2. Modeling of an AGV; 3. Building prototypes
+using, say, LEGO kits
+• Video of practical applications
+• Industry visits
+• Robocon competitions: A national-level competition held every year during the 1st weekend of
+March
+NOTE:- At least 8 Experiments out of the list must be done in the semester.

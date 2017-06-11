@@ -6,13 +6,14 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
 import com.example.ipu_trekker.ggsipu.StreamNames;
 import com.example.ipu_trekker.ggsipu.Syllabus;
 import com.example.ipu_trekker.ggsipu.Urls;
 
-public class ME extends AppCompatActivity implements View.OnClickListener{
+public class SEM7_ICE extends AppCompatActivity implements View.OnClickListener{
 
     Button buttons[] = new Button[18];
     Intent intent;
@@ -73,6 +74,8 @@ public class ME extends AppCompatActivity implements View.OnClickListener{
         mSubjectQuadruplet[17] = new SubjectQuadruplet("Sociology", "7", StreamNames.sociology, Urls.sociologyBook);
 
         a.setTitle("ICE: 7th Semester Syllabus");
+
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
 
         for (int i = 0; i < 18; i++){
             buttons[i].setOnClickListener(this);

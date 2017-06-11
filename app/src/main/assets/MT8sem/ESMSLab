@@ -1,0 +1,23 @@
+Paper Code: ETME-452 L T/P C
+Paper: Engineering System Modeling and Simulation Lab 0 2 1
+List of Experiments:
+A. Mechanical Event Simulation:
+The students are exposed to simulating in CAD software in this lab ( software can be choice of institute –
+such as PROE - wildfire 5 / PROE -CREO / NX / Solid Edge / solid works / Catia / any other.
+1. Study assembly module on CAD software;
+2. Simulate movement of cam and follower mechanism on CAD software.
+3. Simulation of Spring Mass Damper System and do dynamic analysis on CAD software.
+4. Perform FEM Analysis (using a simple 3D tetrhedran element) on a Simple model with pressure
+loading and surface constraints;
+5. Perform stress analysis of rectangular L bracket using Pro E / any other software and do global
+sensitivity analysis.
+B. System Simulation:
+The students are exposed to simulation software like Arena / any other.
+1. Study modeling environment;
+2. Study basic process panel;
+3. Study basic process panel - more;
+4. Study advanced process panel;
+5. Study advanced process panel - more;
+6. Study flow process panel;
+7. Study flow process panel- more;
+NOTE:- At least 8 Experiments out of the list must be done in the semester.

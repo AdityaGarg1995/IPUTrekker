@@ -62,14 +62,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b4"
-            android:text="Electrical Drives Lab"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b5"
-            android:text="Advanced Control Systems Lab"
             android:layout_weight="1"
             />
 
@@ -101,55 +99,49 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b6"
-            android:text="Renewable Energy Resources"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b7"
-            android:text="Power Distribution System"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b8"
-            android:text="Telemetry &amp; Data Acquisition Systems"
+            android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b9"
-            android:text="PLC &amp; SCADA Systems"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b10"
-            android:text="Mechatronics"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b11"
-            android:text="High Voltage Engineering"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b12"
-            android:text="Selected Topics in EE"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b13"
-            android:text="Optoelectronics &amp; Optical Communication"
+            android:layout_weight="1"
             />
 
         <TextView
@@ -164,56 +156,48 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b14"
-            android:text="Database Management System"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b15"
-            android:text="Biomedical Instrumentation"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b16"
-            android:text="Digital System Design"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b17"
-            android:text="Power line Carrier Communication"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b18"
-            android:text="Sociology &amp; Elements of Indian History for Engineers"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b19"
-            android:text="Digital System Design"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b20"
-            android:text="Power line Carrier Communication"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/b21"
-            android:text="Sociology &amp; Elements of Indian History for Engineers"
             android:layout_weight="1"
             />
     </LinearLayout>

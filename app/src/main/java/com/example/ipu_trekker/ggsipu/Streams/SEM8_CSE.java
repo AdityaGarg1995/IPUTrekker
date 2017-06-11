@@ -6,8 +6,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
+import com.example.ipu_trekker.ggsipu.StreamNames;
 import com.example.ipu_trekker.ggsipu.Syllabus;
 import com.example.ipu_trekker.ggsipu.Urls;
 
@@ -16,7 +18,6 @@ public class SEM8_CSE extends AppCompatActivity implements View.OnClickListener{
 //    Button button1,button2,button3,button4;
 
     Intent intent;
-
     Activity a = this;
 
     @Override
@@ -55,6 +56,8 @@ public class SEM8_CSE extends AppCompatActivity implements View.OnClickListener{
 
         a.setTitle("CSE: 8th Semester Subjects");
 
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
+
     }
 
 
@@ -63,8 +66,7 @@ public class SEM8_CSE extends AppCompatActivity implements View.OnClickListener{
         intent = new Intent(this, Syllabus.class);
         switch(v.getId()){
             case R.id.hvpe_ii:
-                intent.putExtra("Subject","HVPE-II").putExtra("Sem", "8")
-                        .putExtra("Book", Urls.hvpe_iiBook);
+                StreamNames.hvpeII(intent);
                 break;
 
             case R.id.mc:
@@ -103,7 +105,7 @@ public class SEM8_CSE extends AppCompatActivity implements View.OnClickListener{
 
             case R.id.sc:
                 intent.putExtra("Subject","Soft").putExtra("Sem", "8")
-                        .putExtra("Book", "http://www.wearealgerians.com/up/uploads/139955152739491.pdf");
+                        .putExtra("Book", Urls.softComputingBook);
                 break;
 
             case R.id.vlsi:
@@ -118,7 +120,7 @@ public class SEM8_CSE extends AppCompatActivity implements View.OnClickListener{
 
             case R.id.oose:
                 intent.putExtra("Subject","OOSE").putExtra("Sem", "CSE8")
-                        .putExtra("Book", "https://nscnetwork.files.wordpress.com/2011/09/object-oriented-modeling-and-design.pdf");
+                        .putExtra("Book", Urls.ooseBook);
                 break;
             case R.id.cv:
                 intent.putExtra("Subject","CV").putExtra("Sem", "CSE8")

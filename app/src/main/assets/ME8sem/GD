@@ -1,0 +1,36 @@
+Paper Code: ETME-422 L T/P C
+Paper: Gas Dynamics 3 0 3
+Objective: The objective of this paper is to introduce the students about the knowledge of basic
+concepts and isentropic flows of energy in gas dynamics.
+UNIT- I
+Basic Concepts and Isentropic Flows:
+Energy and momentum equations of compressible fluid flows – Stagnation states, Mach waves and
+Mach cone – Effect of Mach number on compressibility – Isentropic flow through variable ducts –
+Nozzle and Diffusers – Use of Gas tables.
+[T1, T2, R1][No. of Hrs. 10]
+UNIT- II
+Flow through Ducts:
+Flows through constant area ducts with heat transfer (Rayleigh flow) and Friction (Fanno flow)
+variation of flow properties – Use of tables and charts – Generalized gas dynamics.
+[T1, T2, R1][No. of Hrs. 10]
+UNIT- III
+Normal and Oblique Shocks:
+Governing equations – Variation of flow parameters across the normal and oblique shocks – Prandtl –
+Meyer relations – Use of table and charts – Applications. Other shocks -Detached Shocks-Shock
+Reflections-Numerical Examples-Shock-Shock Interactions Shock Expansion Theory-Theory,
+Examples and its Applications.
+[T1, T2, R1, R2][No. of Hrs. 12]
+UNIT- IV
+Nozzle Flow:
+Quasi-1D flow with area variations - Geometric Choking-Numerical Examples-Divergent Nozzles
+Convergent - Divergent-Nozzles-Numerical Examples- Multiple Choking points .Non-isentropic
+flows- Crocco's Theorem-Fanno Flow-Numerical Examples-Rayleigh Flow. Numerical Examples-
+Various Choking mechanisms, Ramjets and scramjets.
+[T1, T2, R1][No. of Hrs. 12]
+Text Books:
+[T1] James John and Theo Keith, “Gas Dynamics”, Pearson, New Delhi
+[T2] B.L Singhal, “Gas Dynamics and Jet Propulsion”, Macmillan Publishers India Ltd, New Delhi
+Reference :
+[R1] Zucker R. D. and Biblarz Oscar, “Introduction to Gas Dynamics”, John Wiley and Sons. Inc., Second
+Edition [2002]
+[R2] A. H. Shapiro, “Dynamics and Thermodynamics of Compressible Fluid Flow”, MIT Press.

@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
 import com.example.ipu_trekker.ggsipu.Syllabus;
@@ -52,6 +53,8 @@ public class SEM6_CEnENE extends AppCompatActivity implements View.OnClickListen
 
         final Activity a = this;
         a.setTitle(stream + ": 6th Semester Subjects");
+
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
 
         setSubject();
     }

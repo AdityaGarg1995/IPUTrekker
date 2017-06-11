@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Compulsory Subjects"
+        android:id="@+id/txtContent"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        >
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Theory Subjects"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:textSize="20dp"
+        android:layout_marginTop="2dp"
+        android:textAlignment="center"
+        />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Practical Subjects"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:textSize="20dp"
+        android:layout_marginTop="2dp"
+        android:textAlignment="center"
+        />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView2"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Elective Subjects"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="@color/colorAccent"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="(Lab is based on elected subjects - one from each group)"
+        android:textAlignment="center"
+        android:textSize="12dp"
+        android:textColor="@color/red"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Group-A"
+        android:textAlignment="center"
+        android:textSize="15dp"
+        android:textColor="@color/colorPrimary"
+        />
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView3"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Group-A"
+        android:textAlignment="center"
+        android:textSize="15dp"
+        android:textColor="@color/colorPrimary"
+        />
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView4"/>
+
+    </LinearLayout>
+</NestedScrollView>

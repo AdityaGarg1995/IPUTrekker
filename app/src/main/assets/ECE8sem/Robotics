@@ -4,28 +4,29 @@ Paper: Robotics 3 0 3
 
 UNIT - I
 Fundamentals of Robot Technology:
-Robot definition, automation and robotics, Robot anatomy, Work volume, Drive systems.
+  Robot definition, automation and robotics, Robot anatomy, Work volume, Drive systems.
 Control systems and dynamic performance.
 Accuracy and repeatability.
 Sensors and actuators used in robotics.
 Machine Vision, Robot configurations, Path control.
 Introduction to robot languages.
-Applications; Types (Mobile, Parallel); Serial: Cartesian, Cylindrical, etc.; Social Issues
+Applications; Types (Mobile, Parallel); Serial: Cartesian, Cylindrical, etc.; Social Issues.
 [T1,T2,T3]
 
 UNIT - II
 Robot Kinematics:
   Mapping, Homogeneous transformations, Rotation matrix, Forward Kinematics (DH Notation) and inverse kinematics: Closed form solution.
 Robot Differential Motion:
-  Linear and Angular velocity of rigid link, Velocity along link, Maipulator jacobian,
+  Linear and Angular velocity of rigid link, Velocity along link, Maipulator Jacobian.
 Statics:
-  Use of jacobian.
+  Use of Jacobian.
 [T1,T2,T3]
 
 UNIT – III
 Robot Dynamics:
   Lagrangian Mechanics, Lagrangian Formulation and numericals.
-  Dynamics, Newton-Euler Recursive Algorithm, Simulation. Euler-Lagrange Equations of motion/Any one other formulation like using Decoupled Natural Orthogonal Complements (DeNOC).
+  Dynamics, Newton-Euler Recursive Algorithm, Simulation.
+  Euler-Lagrange Equations of motion/Any one other formulation like using Decoupled Natural Orthogonal Complements (DeNOC).
 End effectors:
   Mechanical and other types of grippers.
   Tools as end effectors.

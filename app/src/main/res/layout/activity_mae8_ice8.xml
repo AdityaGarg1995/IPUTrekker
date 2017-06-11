@@ -2,20 +2,19 @@
     android:layout_width="fill_parent" android:layout_height="fill_parent">
 
     <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:orientation="vertical">
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/l2">
 
         <TextView
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Compulsory Subjects"
-            android:id="@+id/txtContent"
-            android:textSize="20dp"
             android:textAlignment="center"
+            android:textSize="20dp"
             android:textColor="@color/colorAccent"
-            >
-        </TextView>
+            />
 
         <TextView
             android:layout_width="match_parent"
@@ -24,39 +23,32 @@
             android:textColor="@color/black"
             android:textAllCaps="true"
             android:textSize="20dp"
-            android:layout_marginTop="2dp"
             android:textAlignment="center"
+            android:layout_marginTop="2dp"
             />
-
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/adHoc"
-            android:text="Ad Hoc &amp; Sensor Networks"
-            android:layout_weight="1"
-            />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/mc"
-            android:text="Mobile Computing"
+            android:id="@+id/b1"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/hvpe_ii"
-            android:text="@string/hvpe_ii"
+            android:id="@+id/b2"
             android:layout_weight="1"
             />
-
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/b3"
+            android:layout_weight="1"
+            />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Practical Subjects"
-            android:id="@+id/t1"
             android:textColor="@color/black"
             android:textAllCaps="true"
             android:textSize="20dp"
@@ -64,22 +56,18 @@
             android:textAlignment="center"
             />
 
-
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/adHocLab"
-            android:text="Ad Hoc &amp; Sensor Networks Lab"
+            android:id="@+id/b4"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/mcLab"
-            android:text="Mobile Computing Lab"
+            android:id="@+id/b5"
             android:layout_weight="1"
             />
-
 
         <TextView
             android:layout_width="match_parent"
@@ -89,7 +77,6 @@
             android:textSize="20dp"
             android:textColor="@color/colorAccent"
             />
-
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -101,126 +88,93 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Group-A"
+            android:text="Group A"
             android:textAlignment="center"
             android:textSize="15dp"
             android:textColor="@color/colorPrimary"
             />
-        <!--Group A .NET, soft, bigdata, social, bioinfo, vlsi, infocoding, hci-->
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/bigData"
-            android:text="Big Data Analytics"
+            android:id="@+id/b6"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/biInfo"
-            android:text="Bio-informatics"
+            android:id="@+id/b7"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/social"
-            android:text="Social Network Analysis"
+            android:id="@+id/b8"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/soft"
-            android:text="Soft Computing"
+            android:id="@+id/b9"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/vlsi"
-            android:text="VLSI Design"
+            android:id="@+id/b10"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/net"
-            android:text="Web Application Development using .NET"
-            android:layout_weight="1"
-            />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/infoTheory"
-            android:text="Information Theory &amp; Coding"
-            android:layout_weight="1"
-            />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/hci"
-            android:text="Human Computer Interaction"
+            android:id="@+id/b11"
             android:layout_weight="1"
             />
 
+        <!--Group-B-->
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Group-B"
+            android:text="Group B"
             android:textAlignment="center"
             android:textSize="15dp"
             android:textColor="@color/colorPrimary"
             />
-<!--Group B  NextGen, Distributed, Ecom, gps, satcomm, trends, -->
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ds"
-            android:text="Distributed Systems"
+            android:id="@+id/b12"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ecom"
-            android:text="E-Commerce &amp; M-Commerce"
+            android:id="@+id/b13"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/gps"
-            android:text="GPS &amp; GIS"
+            android:id="@+id/b14"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/nextGen"
-            android:text="Next Generation Networks"
+            android:id="@+id/b15"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/satComm"
-            android:text="Satellite Communication"
+            android:id="@+id/b16"
             android:layout_weight="1"
             />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/trends"
-            android:text="Selected Topics of Recent Trends in Information Technology"
-            android:layout_weight="1"
-            />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/dip"
-            android:text="Digital Image Processing"
+            android:id="@+id/b17"
             android:layout_weight="1"
             />
 
-    </LinearLayout></ScrollView>
+    </LinearLayout>
+</ScrollView>

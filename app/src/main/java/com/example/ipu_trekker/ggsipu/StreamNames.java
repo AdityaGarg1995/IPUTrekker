@@ -1,5 +1,9 @@
 package com.example.ipu_trekker.ggsipu;
 
+import android.content.Intent;
+
+import com.example.ipu_trekker.ggsipu.Streams.SubjectQuadruplet;
+
 public class StreamNames {
 
     public static final String cse = "Computer Science Engineering",
@@ -25,6 +29,14 @@ public class StreamNames {
                                dbms      = "Database Management Systems",
                                hvpe_ii = "Human Values & Professional Ethics-II";
 
+    public static final void hvpeII(Intent intent){
+        intent.putExtra("Subject","HVPE-II").putExtra("Sem", "8")
+                .putExtra("Book", Urls.hvpe_iiBook);
+    }
+
+    public static SubjectQuadruplet setHVPEII(){
+        return new SubjectQuadruplet("HVPE-II", "8", StreamNames.hvpe_ii, Urls.hvpe_iiBook);
+    }
 
 //.................................//
 //    3377  IT7, MAE7, TE7         -
@@ -46,13 +58,13 @@ public class StreamNames {
 //    3298  CSE8                   -
 //    3277  EE8                    -
 //    3233  ENE8                   -
-//    3266  ICE8 MAE8
-//    3265  ME8
-//    3276  PE8 - MT8
+//    3266  ICE8 MAE8              -
+//    3265  ME8                    -
+//    3276  PE8 MT8                -
 
 //    3155  ECE8                   -
 //    3134  CE8                    -
 //    3177  EEE8                   -
 
-//    3065  TE8
+//    3065  TE8                    -
 }

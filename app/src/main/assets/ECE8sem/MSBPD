@@ -1,0 +1,42 @@
+Paper Code: ETEC-434 L T/P C
+Paper: Microprocessor System Based Process Design 3 0 3
+Objective: The objective of the course is to gain a basic understanding of microprocessor-based systems.
+Fundamental concepts and techniques for designing and programming microprocessor-based systems will be
+covered. The Intel 80x86 family of microprocessors and 80x86 assembly languages will be discussed during the
+course.
+UNIT I
+80x86 Processor Architecture: Introduction, Processor Model, Programmer’s model, Designer’s Model : 8086
+hardware details, Clock generator 8284A, Bus buffering and latching, Processor Read & Write bus cycles, Ready
+and wait state generation, Minimum versus Maximum mode operation.
+[T1][T2][No. of Hrs. 10]
+UNIT II
+Memory Interfacing: 80x86 processor-Memory interfacing, Address decoding techniques, Memory Devices –
+ROM, EPROM, SRAM, FLASH, DRAM devices, Memory internal organization, Memory read and write timing
+diagrams, DRAM Controller
+Basic I/O Interfacing: Parallel I/O, Programmed I/O, I/O port address decoding, The 8255A Programmable
+Peripheral Interface(PPI), programming 8255, Operation modes, Interface examples – Keyboard matrix, LCD/7-
+Segment Display, Printer, stepper motor, A/D and D/A converter.
+[T1][T2][No. of Hrs. 14]
+UNIT III
+Timer Interfacing: The 8254 Programmable Interval Timer (PIT), Timing applications.
+Serial I/O Interface: Asynchronous communication, Physical communication standard-EIA RS232,
+Programmable Communication Interface - UART 8251, Interfacing serial I/O devices- mouse, modem, PC
+Keyboard.
+Interrupts: Interrupt driven I/O, Software & Hardware interrupts, Interrupt vectors and vector table, Interrupt
+processing, The 8259A Programmable Interrupt Controller(PIC)- cascading of 8259s, programming 8259,
+Interrupt examples – Printer, Real-Time Clock, PC Keyboard.
+[T1][T2][No. of Hrs. 10]
+UNIT IV
+Direct Memory Access: Basic DMA operation, DMA Controlled I/O, The 8237 DMA Controller, Disk Memory
+Systems- Floppy disk, Hard disk, optical disk memory systems, video displays
+Bus Interfaces: PC bus standards & interfaces – PCI, USB, Firewire, AGP.
+[T1][T2][No. of Hrs. 10]
+Text Books:
+[T1] John B. Peatman, “Microcomputer Based Interfacing”, McGraw Hill, 1988.
+[T2] Douglass V. Hall, “Microprocessor and Interfacing”, McGraw Hill, 1987.
+Reference Books:
+[R1] Williams.G.B, “Troubleshooting on Microprocessor Based Systems”, Pergamon Press 1984.
+[R2] Yu-Cheng Liu and Glenn A. Gibson, “Microcomputer systems, The 8086/8088 family”, Second edition,
+Prentice Hall of India, 1990.
+[R3] Ramesh S. Gaonkar, “Microprocessor Architecture programming and applications with 8085”, Fourth
+edition, Penram International publications, 2000.

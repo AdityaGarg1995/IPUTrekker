@@ -1,0 +1,31 @@
+THEORY OF DESIGN OPTIMIZATION
+Paper Code: ETTE-410 L T/P C
+Paper: Theory of Design Optimization 3 0 3
+Objective: The objective of the paper is to facilitate the student with the basics of design optimization and how
+to design the experiments to get the optimum output.
+UNIT-I
+Introduction to Design:- Introduction, Design through Flow Chart, analysis and Design, Constraints in design ,
+Optimum Design, Introduction to detail design optimization by Simulation and prototyping, Different classes
+of Simulation, Various techniques for system simulation, Selection of configuration, materials and processes.
+[T1, T2][No. of Hrs. 10]
+UNIT-II
+Introduction to optimization, optimization problems, Classical approaches, Single-variable optimization, Multi
+variable optimization with Equality constraints, Multi Variable optimization with inequality constraints. Issues
+of human safety & welfare, Professional ethics.
+[T1, T2][No. of Hrs. 11]
+UNIT-III
+Application of linear programming, Simplex algorithm, Two phase of Simplex method, Duality in Linear
+programming, Dual Simplex method, Transportation problem, Karmarkar’s method, quadratic programming,
+Engineering applications of linear problems.
+[T1, T2][No. of Hrs. 12]
+UNIT-IV
+Multi objective optimization, Calculus of variations, optimal control theory, Genetic algorithms, simulated
+Annealing, Introduction to neural network, Training of neural networks based optimization, Fuzzy logics,
+System modeling by fuzzy logic optimization.
+[T1,T2][No. of Hrs. 10]
+Text Books:
+[T1] S. S. Rao, “Optimization: Theory & Application”, Wiley Eastern,
+[T2] Singiresu S. Rao: Engineering optimization, New age international publishers.
+References Books:
+[R1] Deb. K, “Optimization methods for Engineering Design”, Prentice Hall, 1995
+[R2] J. S. Arora, “Introduction to Optimum Design”, McGraw Hill

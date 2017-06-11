@@ -65,6 +65,7 @@ public class Syllabus extends AppCompatActivity implements View.OnClickListener 
     @Override
     public void onClick(View view) {
         try {
+
             if (view == book)
                 if (!url.equals("") && !url.equals("NA"))
                     startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url)));

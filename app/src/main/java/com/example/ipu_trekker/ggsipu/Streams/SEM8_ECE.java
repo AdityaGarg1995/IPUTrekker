@@ -6,18 +6,19 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
+import com.example.ipu_trekker.ggsipu.StreamNames;
 import com.example.ipu_trekker.ggsipu.Syllabus;
 import com.example.ipu_trekker.ggsipu.Urls;
 
 
 public class SEM8_ECE extends AppCompatActivity implements View.OnClickListener{
 //    3 1 5 5
-//    Button button1,button2,button6,button5;
     Intent intent;
 
-    public static final String url2 = "http://www.engineersinstitute.com/gate_exam_reference_books_electrical_eee.php";
+//    public static final String url2 = "http://www.engineersinstitute.com/gate_exam_reference_books_electrical_eee.php";
 
 
     @Override
@@ -46,6 +47,9 @@ public class SEM8_ECE extends AppCompatActivity implements View.OnClickListener{
 
         final Activity a = this;
         a.setTitle("ECE: 8th Semester Subjects");
+
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
+
     }
 
 
@@ -53,12 +57,11 @@ public class SEM8_ECE extends AppCompatActivity implements View.OnClickListener{
     public void onClick(View v) {
         switch(v.getId()){
             case R.id.hvpe_ii:
-                intent = new Intent(this, Syllabus.class).putExtra("Subject","HVPE-II").putExtra("Sem", "8")
-                        .putExtra("Book", Urls.hvpe_iiBook);
+                StreamNames.hvpeII(intent);
                 break;
             case R.id.satComm:
                 intent = new Intent(this, Syllabus.class).putExtra("Subject","SatComm").putExtra("Sem", "8")
-                        .putExtra("Book", "http://bigsemite.tripod.com/mcgraw.pdf");
+                        .putExtra("Book", Urls.satCommBook);
                 break;
             case R.id.adHoc:
                 intent = new Intent(this, Syllabus.class).putExtra("Subject","AdHoc").putExtra("Sem", "8")
@@ -67,17 +70,17 @@ public class SEM8_ECE extends AppCompatActivity implements View.OnClickListener{
 
             case R.id.satCommLab:
                 intent = new Intent(this, Syllabus.class).putExtra("Subject","SatCommLab").putExtra("Sem", "8")
-                        .putExtra("Book", "http://bigsemite.tripod.com/mcgraw.pdf");
+                        .putExtra("Book", Urls.satCommBook);
                 break;
 
 //            E-A
             case R.id.consumer:
                 intent = new Intent(this, Syllabus.class).putExtra("Subject","Consumer").putExtra("Sem", "ECE8")
-                        .putExtra("Book", Urls.dipBook);
+                        .putExtra("Book", "");
                 break;
             case R.id.dip:
                 intent = new Intent(this, Syllabus.class).putExtra("Subject","DIP").putExtra("Sem", "8")
-                        .putExtra("Book", "");
+                        .putExtra("Book", Urls.dipBook);
                 break;
             case R.id.asic:
                 intent = new Intent(this, Syllabus.class).putExtra("Subject","ASIC").putExtra("Sem", "ECE8")
@@ -94,7 +97,7 @@ public class SEM8_ECE extends AppCompatActivity implements View.OnClickListener{
 
 //            E-B
             case R.id.gps:
-                intent = new Intent(this, Syllabus.class).putExtra("Subject","Embedded").putExtra("Sem", "8")
+                intent = new Intent(this, Syllabus.class).putExtra("Subject","GPS").putExtra("Sem", "8")
                         .putExtra("Book", "http://www.garmin.com/manuals/gps4beg.pdf");
                 break;
             case R.id.asp:

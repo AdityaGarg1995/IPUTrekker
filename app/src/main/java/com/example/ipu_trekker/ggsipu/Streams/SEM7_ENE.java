@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
 import com.example.ipu_trekker.ggsipu.StreamNames;
@@ -77,6 +78,8 @@ public class SEM7_ENE extends AppCompatActivity implements View.OnClickListener 
 
         Activity a = this;
         a.setTitle("ENE: 7th Semester Subjects");
+
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
 
         for(int i = 0;i < 13; i++){
             buttons[i].setOnClickListener(this);

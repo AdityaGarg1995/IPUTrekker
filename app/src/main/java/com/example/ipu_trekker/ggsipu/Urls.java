@@ -37,43 +37,43 @@ public class Urls {
     public static final String civilSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                  "3rd%20Semester4,5,6,7,8/1Final%20Syllabus-CIVIL-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 cseSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
+                               cseSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                "3rd%20Semester4,5,6,7,8/3Final%20Syllabus-CSE-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 eceSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
+                               eceSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                "3rd%20Semester4,5,6,7,8/Final%20Syllabus-ECE-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 eeSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
+                               eeSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                               "3rd%20Semester4,5,6,7,8/Final%20Syllabus-EE-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 eeeSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
+                               eeeSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                "3rd%20Semester4,5,6,7,8/Final%20Syllabus-EEE-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 eneSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
+                               eneSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                "3rd%20Semester4,5,6,7,8/2Final%20Syllabus-Environment-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 iceSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
+                               iceSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                "3rd%20Semester4,5,6,7,8/Final%20Syllabus-ICE-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 itSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
+                               itSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                "3rd%20Semester4,5,6,7,8/4Final%20Syllabus-IT-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 maeSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/" +
+                               maeSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/" +
                                                "2Final%20B.Tech%20Syllabus%203rd%20Semester4,5,6,7,8/Final%20Syllabus-MAE-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 meSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/" +
+                               meSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/" +
                                               "2Final%20B.Tech%20Syllabus%203rd%20Semester4,5,6,7,8/Final%20Syllabus-ME-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 mechSyllabus = "http://dite.delhigovt.nic.in/pdf/b-tech-mech.pdf",
+                               mechSyllabus = "http://dite.delhigovt.nic.in/pdf/b-tech-mech.pdf",
 
-                                 powerSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
+                               powerSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                  "3rd%20Semester4,5,6,7,8/Final%20Syllabus-Power-3rd%20Semester4,5,6,7,8.pdf",
 
-                                 toolSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
+                               toolSyllabus = "http://ipu.ac.in/UnivSyllabus/btechsyllabus010813/2Final%20B.Tech%20Syllabus%20" +
                                                 "3rd%20Semester4,5,6,7,8/Final%20Syllabus-Tool-3rd%20Semester4,5,6,7,8.pdf";
 
 // ..................................................Books.................................................................//
-// IT Books................................................................................................................//
+// IT and CSE Books................................................................................................................//
 
 //    3rd Semester
 //    ETMA 201  Applied Mathematics – III
@@ -146,9 +146,9 @@ public class Urls {
                              wcBook = "http://ece.ut.ac.ir/Classpages/F86/ECE637/FILES/material/rappaport%2025-66.pdf",
 //    C# & .NET
                              cSharpBook = "http://sd.blackball.lv/library/Pro_CSharp_5.0_and_the_.NET_4.5_Framework_6th_edition.pdf",
-
+//    Sociology
                              sociologyBook = "http://doco.co/5Q4",
-
+//    Software Testing
                              softwareTestingBook = "http://www.softwaretestinggenius.com/download/EMFST.pdf",
 //    8th Semester
 //    ETIT 402 Mobile Computing
@@ -161,10 +161,16 @@ public class Urls {
                              ecomBook = "https://geomart25.files.wordpress.com/2014/05/dave-chaffey-e-business-and-e-commerce-management-strategies-4th-ed-qwerty80.pdf",
 //    vlsi
                              vlsiBook = "https://elearningatria.files.wordpress.com/2013/10/ece-v-fundamentals-of-cmos-vlsi-10ec56-notes.pdf",
-//    dip
+//    Digital Image Processing
                              dipBook = "http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/Digital_Image_Processing_3rdEd_truncated.pdf",
+//    Soft Computing
+                             softComputingBook = "http://www.wearealgerians.com/up/uploads/139955152739491.pdf",
+//    OOSE
+                             ooseBook = "https://nscnetwork.files.wordpress.com/2011/09/object-oriented-modeling-and-design.pdf",
+//    ECE Books............................................................................................................//
 
-
+//    Satellite Communication
+                            satCommBook = "http://bigsemite.tripod.com/mcgraw.pdf",
 //    MAE books............................................................................................................//
 //     3rd semester
                             fluidMechanicsBook = "https://drive.google.com/file/d/0B9_2yANiGJ12aWJrSGJZVjlxbHM/view",

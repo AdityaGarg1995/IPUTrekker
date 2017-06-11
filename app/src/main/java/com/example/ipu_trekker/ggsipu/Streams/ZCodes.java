@@ -33,6 +33,7 @@ public class ZCodes extends AppCompatActivity implements View.OnClickListener {
         AssetManager am1 = getAssets();
 
         if(task.equals("NCC")){
+            a.setTitle("NCC/NSS");
             try {
                 InputStream input1 = am1.open("NCC");
                 byte[] buffer = new byte[input1.available()];
@@ -43,6 +44,7 @@ public class ZCodes extends AppCompatActivity implements View.OnClickListener {
         }
 
         else if (task.equals("Codes")){
+            a.setTitle("Stream Codes");
             try {
                 InputStream input1 = am1.open("Codes");
                 byte[] buffer = new byte[input1.available()];
@@ -61,7 +63,7 @@ public class ZCodes extends AppCompatActivity implements View.OnClickListener {
 //        findViewById(R.id.c8).setOnClickListener(this);
 
 //        final Activity a = this;
-        a.setTitle(task);
+
     }
 
 

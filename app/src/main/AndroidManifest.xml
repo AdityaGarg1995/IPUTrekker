@@ -88,25 +88,8 @@
 
 
         <activity
-            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_ENE"
-            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM8_ENE" />
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_MAEnICE" />
 
-        <activity
-            android:name="com.example.ipu_trekker.ggsipu.Streams.TOOL" />
-        <activity
-            android:name="com.example.ipu_trekker.ggsipu.Streams.ME" />
-        <activity
-            android:name="com.example.ipu_trekker.ggsipu.Streams.MECH" />
-
-        <activity
-            android:name="com.example.ipu_trekker.ggsipu.Streams.MAE2"/>
-
-        <activity
-            android:name="com.example.ipu_trekker.ggsipu.Streams.ME2"
-            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.ME2" />
-
-        <activity
-            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_ENE"/>
         <activity
             android:name="com.example.ipu_trekker.ggsipu.Streams.MECH2" />
 
@@ -212,10 +195,33 @@
         <activity
             android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_CE"
             android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM7_CE"/>
-
         <activity
             android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_CE"
             android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM8_CE"/>
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_ICE"
+            android:parentActivityName=".Streams.SEM7_ICE"/>
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_MT"
+            android:parentActivityName=".Streams.SEM7_MT"/>
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_ME"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM7_ME" />
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM7_ENE"
+            android:parentActivityName=".Streams.SEM7_ENE"/>
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_ENE"
+            android:parentActivityName="com.example.ipu_trekker.ggsipu.Streams.SEM8_ENE" />
+
+        <activity
+            android:name="com.example.ipu_trekker.ggsipu.Streams.SEM8_PEnMT"
+            android:parentActivityName=".Streams.SEM8_PEnMT"/>
+
 
         <activity android:name="com.example.ipu_trekker.ggsipu.BookList" />
 

@@ -1,41 +1,61 @@
 Paper Code: ETCS-430 L T/P C
 Paper: Object Oriented Programming Using C++ 3 0 3
-Objective: The objective of the paper is to facilitate the student with the basics of Object Oriented Programming
-that are required for an engineering student.
+
+
 UNIT- I
-Object oriented programming concepts , Benefits of OOP, Applications of OOP , Introduction to C++, History of
-C++, Structure of C++, Difference between C and C++ , Basic data types, Derived data types, Symbolic
-constants., Dynamic initialization, Type modifiers, Type Casting, Operator and control statements, Input and
-Output statements in C++.Classes and objects, class specification, member function specification, scope
-resolution operator, Access qualifiers, Instance creation, Member functions. Function prototyping, Function
-components, Passing parameters, call by reference, Return by reference, Inline functions, Default arguments,
-Overloaded function.
-[T1], [T2][No. of hrs. 12]
+Object oriented programming concepts, Benefits of OOP, Applications of OOP, Introduction to C++, History of C++, Structure of C++, Difference between C and C++, Basic data types, Derived data types, Symbolic constants.
+Dynamic initialization, Type modifiers, Type Casting, Operator and control statements, Input and Output statements in C++.
+Classes and objects, class specification, member function specification, scope resolution operator, Access qualifiers, Instance creation, Member functions.
+Function prototyping, Function components, Passing parameters, call by reference, Return by reference, Inline functions, Default arguments, Overloaded function.
+[T1], [T2]
+
 UNIT- II
 Array of objects, pointers to objects, this pointer, Dynamic allocation operators, Dynamic objects.,Constructors,
 default constructor , Parameterized constructors , Constructor with dynamic allocation ,copy constructor ,
 destructors, operator overloading, friend functions, overloading through friend functions , overloading the
 assignment operator, static members Objects , pointers and objects ,constant objects ,nested classes , local classes
-[T1],[T2][No. of hrs. 11]
+[T1],[T2]
+
 UNIT- III
 Inheritance, Defining derived classes, Single inheritance, protected data with private inheritance, multiple
 inheritance, multi level inheritance, hierarchical inheritance, hybrid inheritance, multipath inheritance,
 Constructors in derived and base class, Abstract classes, virtual function and dynamic polymorphism, pure
 virtual functions, virtual destructor, Exception Handling, principle of Exception handling, Exception handling
 mechanism, multiple catch, Nested try, Rethrowing the exception.
-[T1], [T2][No. of hrs. 12]
+[T1], [T2]
+
 UNIT-IV
 Streams in C++, Stream classes, Formatted and Unformatted data, manipulators, User defined manipulators, file
 streams, file pointer manipulation, file open and close, Templates, Template functions and Template classes.
-[T1],[T2] [No. of hrs. 10]
+[T1],[T2]
+
 Text Books:
-[T1] S. B. Lippman & J. Lajoie, “ C ++ Primer” 3rd Edition, Addison Wesley, 2000.
-[T2] A.R.Venugopal, Rajkumar, T. Ravishanker “Mastering C++”, TMH.
-[T2]. R. Lafore, “Object Oriented Programming using C++”, BPB Publications.
+[T1] S.B. Lippman & J. Lajoie
+      “C ++ Primer” 3rd Edition
+        Addison Wesley, 2000
+[T2] A.R. Venugopal, Rajkumar, T. Ravishanker
+      “Mastering C++”
+       TMH
+[T2] R. Lafore
+      “Object Oriented Programming using C++”
+       BPB Publications
+
 References:
-[R1] A.K. Sharma,” Object Oriented Programming,” Pearson Publication, 2014
-[R2] Schildt Herbert, “C++ Programming”, 2nd Edition, Wiley DreamTech.
-[R3] D . Parasons, “Object Oriented Programming with C++”, BPB Publication.
-[R4] Steven C. Lawlor, “The Art of Programming Computer Science with C++”, Vikas Publication.
-[R5[ Yashwant Kanethkar, “Object Oriented Programming using C++”, BPB Publications.
-[R6[ B. Stroustrup, "The C++ Programming language", Third edition, Pearson Education.
+[R1] A.K. Sharma
+      ”Object Oriented Programming”
+       Pearson Publication, 2014
+[R2] Schildt Herbert
+      “C++ Programming”, 2nd Edition
+       Wiley DreamTech
+[R3] D. Parasons
+      “Object Oriented Programming with C++”
+       BPB Publication
+[R4] Steven C. Lawlor
+      “The Art of Programming Computer Science with C++”
+       Vikas Publication
+[R5[ Yashwant Kanethkar
+      “Object Oriented Programming using C++”
+       BPB Publications
+[R6[ B. Stroustrup
+      "The C++ Programming language", 3rd edition
+       Pearson Education

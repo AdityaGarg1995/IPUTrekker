@@ -226,11 +226,14 @@ public class IT6 extends AppCompatActivity implements View.OnClickListener {
                 mSubjectQuadruplet[0] = new SubjectQuadruplet("MD-MAE", "MAE6",
                         "Machine Design (M)", "");
                 mSubjectQuadruplet[1] = new SubjectQuadruplet("Automobile", "MAE6",
-                        "Automobile Engineering", "");
+                        "Automobile Engineering",
+                        Urls.automobileEngineeringBook);
                 mSubjectQuadruplet[2] = new SubjectQuadruplet("DCN", "6",
-                        "Data Communication & Networks (M)", Urls.dcnBook);
+                        "Data Communication & Networks (M)",
+                        Urls.dcnBook);
                 mSubjectQuadruplet[3] = new SubjectQuadruplet("OR", "MAE6",
-                        "Operations Research", "");
+                        "Operations Research",
+                        Urls.operationResearchBook);
                 mSubjectQuadruplet[4] = new SubjectQuadruplet("RAC-MAE", "6",
                         "Refrigeration & Air Conditioning (M)", "");
                 mSubjectQuadruplet[5] = new SubjectQuadruplet("Micro", "6",

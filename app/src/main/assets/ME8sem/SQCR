@@ -1,0 +1,40 @@
+Paper Code: ETME-404 L T/P C
+Paper: Statistical Quality Control and Reliability 3 0 3
+Objective: The objective of the paper is to facilitate the student with techniques being adopted in industry for
+quality control.
+UNIT - I
+Introduction: Definition and Need of quality, Aspects of quality, Quality characteristic, Quality specification,
+Quality function, Economics of quality. Inspection, Its objectives and types, Inspection versus Quality Control,
+Statistical Quality Control, its Tools, Advantages, limitations and Applications.
+Probability & Statistics: Definition, Laws, Probability Distributions (Normal Binomial, Poisson, Exponential)
+& related problems. Measures of Central tendency & Dispersion, Concept of Variation, Variable and attribute
+data, Frequency distribution.
+[T1, T2][No. of Hrs. 11]
+UNIT - II
+Control Charts: Concept of variability, Assignable and chance causes, Concept of specifications and tolerances,
+Definition and objectives of control charts, Control charts for variables and attributes and related problems,
+Variable charts vs attribute charts, Patterns on control charts, Type–I & Type-II Errors, Process capability and its
+methods of determination.
+[T1, T2][No. of Hrs. 10]
+UNIT - III
+Acceptance Sampling: Definition, Advantages over 100% inspection, Methods of taking samples, Operating
+characteristics curve & its characteristics. Single, Double and Multiple, Sequential Sampling Plan & Related
+problems.
+Quality Assurance: Need, Principles, Essentials and Advantages of Quality Assurance System, Quality Manual,
+Field complaints, Quality Audit & its types, Quality Assurance Methods, Quality Control vs Quality Assurance.
+[T1, T2][No. of Hrs. 10]
+UNIT - IV
+Quality systems: Description of ISO: 9000 series of standards, ISO: 9001–2000 Systems. Description of TQM,
+Concept of Quality Circles, JIT System, Taguchi’s Concept of Quality, Zero Defect Concept, 6σ Concept and 5S.
+Reliability: Definitions of Reliability Failure, Elements of reliability. Quality vs reliability, System Reliability &
+related problems. Causes of failures, Constant Failure rate, MTBF, Bath Tub Curve.
+[T1, T2][No. of Hrs. 11]
+Text Books:
+[T1] M. Mahajan, “Statistical Quality Control”, Dhanpat Rai & Co.
+[T2] Amitav Mitra, “Fundamentals of Quality Control”, Pearson Education
+Reference Books:
+[R1] EL Grant & RS Leavenworth, “Statistical Quality Control”, McGraw Hill & Co.
+[R2] Feigenbaum, “Total Quality Control”, McGraw Hill & Co.
+[R3] Montgomery DC, “Introduction to Statistical Quality Control”, John Wiley & Sons Inc.
+[R4] Stephan B. Vardeman, J Marcus Jobe, “Statistical QA Methods for Engineers”, John Wiley & Sons Inc.
+[R5] Taylor J.R., “Quality Control systems”, McGraw Hill Int. Education

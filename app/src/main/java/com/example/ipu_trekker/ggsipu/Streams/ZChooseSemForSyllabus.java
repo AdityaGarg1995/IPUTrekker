@@ -113,12 +113,12 @@ public class ZChooseSemForSyllabus extends AppCompatActivity implements View.OnC
                             startActivity(new Intent(this, SEM7_ENE.class).putExtra("Stream", stream));
                             break;
                         case "MT":
-                            startActivity(new Intent(this, MAE2.class).putExtra("Stream", stream));
+                            startActivity(new Intent(this, SEM7_MT.class).putExtra("Stream", stream));
                         case "ICE":
-                            startActivity(new Intent(this, ME.class).putExtra("Stream", stream));
+                            startActivity(new Intent(this, SEM7_ICE.class).putExtra("Stream", stream));
                             break;
                         case "ME":
-                            startActivity(new Intent(this, ME2.class).putExtra("Stream", stream));
+                            startActivity(new Intent(this, SEM7_ME.class).putExtra("Stream", stream));
                             break;
                     }
                 }  catch (Exception e){e.printStackTrace();}
@@ -128,12 +128,12 @@ public class ZChooseSemForSyllabus extends AppCompatActivity implements View.OnC
                 try {
                     switch (stream) {
                         case "IT":
-                        case "ICE":
-                        case "MAE":
                         case "ME":
-                        case "MT":
                         case "TE":
                             startActivity(new Intent(this, IT8.class).putExtra("Stream", stream));
+                            break;
+                        case "MT":
+                            startActivity(new Intent(this, SEM8_PEnMT.class).putExtra("Stream", stream));
                             break;
                         case "CSE":
                             startActivity(new Intent(this, SEM8_CSE.class));
@@ -146,13 +146,17 @@ public class ZChooseSemForSyllabus extends AppCompatActivity implements View.OnC
                             startActivity(new Intent(this, SEM8_EEEnEE.class).putExtra("Stream", stream));
                             break;
                         case "PE":
-                            startActivity(new Intent(this, SEM8_EEEnEE.class).putExtra("Stream", stream));
+                            startActivity(new Intent(this, SEM8_PEnMT.class).putExtra("Stream", stream));
                             break;
                         case "CE":
                             startActivity(new Intent(this, SEM8_CE.class).putExtra("Stream", stream));
                             break;
                         case "ENE":
                             startActivity(new Intent(this, SEM8_ENE.class).putExtra("Stream", stream));
+                            break;
+                        case "ICE":
+                        case "MAE":
+                            startActivity(new Intent(this, SEM8_MAEnICE.class).putExtra("Stream", stream));
                             break;}
                 }  catch (Exception e){e.printStackTrace();}
                 break;

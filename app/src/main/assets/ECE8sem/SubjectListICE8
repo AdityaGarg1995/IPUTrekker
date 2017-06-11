@@ -14,7 +14,7 @@ ELECTIVE (SELECT ANY TWO , ONE FROM EACH GROUP)
 
 GROUP-A
 
-ETIC-408 System Modelling and Simulation 3 0 3
+ETIC-408 System Modelling & Simulation 3 0 3
 ETIC-410 Embedded Systems 3 0 3                         ee8
 ETIT-418 Digital Image Processing 3 0 3                 8
 ETIC-414 VLSI Design 3 0 3                              8
@@ -24,7 +24,7 @@ ETIC-418 Mobile Communication 3 0 3                     8
 GROUP-B
 
 ETMT-402 Robotics 3 0 3                                ece8
-ETEC-406 Ad hoc and Sensor Networks 3 0 3              8
+ETEC-406 Ad Hoc & Sensor Networks 3 0 3                8
 ETCS-412 Object Oriented Software Engineering 3 0 3    cse8
 ETIC-428 Computer Graphics and Multimedia 3 0 3        ece8
 ETIC-430 Electromagnetic Field Theory 3 0 3

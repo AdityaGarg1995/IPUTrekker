@@ -6,8 +6,10 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
+import com.example.ipu_trekker.ggsipu.StreamNames;
 import com.example.ipu_trekker.ggsipu.Syllabus;
 import com.example.ipu_trekker.ggsipu.Urls;
 
@@ -38,8 +40,7 @@ public class SEM8_CE extends AppCompatActivity implements View.OnClickListener {
         buttons[10] = (Button)findViewById(R.id.b11);
 
         mSubjectQuadruplet = new SubjectQuadruplet[11];
-        mSubjectQuadruplet[0] = new SubjectQuadruplet("HVPE-II", "8",
-                "Human Values & Professional Ethics-II", Urls.hvpe_iiBook);
+        mSubjectQuadruplet[0] = StreamNames.setHVPEII();
         mSubjectQuadruplet[1] = new SubjectQuadruplet("Planning", "CE8",
                 "Planning & Management of Construction Projects", "");
         mSubjectQuadruplet[2] = new SubjectQuadruplet("Bridges", "CE8",
@@ -72,6 +73,9 @@ public class SEM8_CE extends AppCompatActivity implements View.OnClickListener {
 
         Activity a = this;
         a.setTitle("CE: 8th Semester Subjects");
+
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
+
     }
 
 

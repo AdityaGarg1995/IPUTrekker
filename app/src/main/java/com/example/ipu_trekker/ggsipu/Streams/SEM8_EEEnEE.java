@@ -6,8 +6,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
+import com.example.ipu_trekker.ggsipu.StreamNames;
 import com.example.ipu_trekker.ggsipu.Syllabus;
 import com.example.ipu_trekker.ggsipu.Urls;
 
@@ -19,11 +21,6 @@ public class SEM8_EEEnEE extends AppCompatActivity implements View.OnClickListen
     Intent intent;
 
     String stream;
-
-    String peA[] = {"Mechanical Vibrations", "Design of Electrical Machine", "Project Management", "Smart Grid",
-            "Nuclear Power Generation & Supply", "Power System Analysis & Stability", "Robotics"},
-           peB[] = {"Energy Management", "Data Communication & Networks",  "High Voltage AC & DC Technology",
-            "Residual Life Assessment & Extension of TPP", "Cryogenic Engineering", "Total Quality Management"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,31 +58,20 @@ public class SEM8_EEEnEE extends AppCompatActivity implements View.OnClickListen
             buttons[i].setOnClickListener(this);
 
         stream = getIntent().getStringExtra("Stream");
+
         final Activity a = this;
         a.setTitle(stream + ": 8th Semester Subjects");
 
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
+
         if(stream.equals("EEE")){
-            dspLab.setVisibility(View.INVISIBLE);
+            dspLab.setVisibility(View.GONE);
 
             psas.setText("Neuro-Fuzzy Systems");
             psasLab.setText("Neuro-Fuzzy Systems Lab");
             dsp.setText("Power System Operation & Control");
         }
 
-        else if(stream.equals("PE")){
-            psas.setText("Environmental Management");
-            dsp.setText("Microprocessor & Microcontroller");
-
-            psasLab.setText("Environmental & Energy Audit Lab");
-            dspLab.setText("Microprocessor & Microcontroller Lab");
-
-            buttons[16].setVisibility(View.INVISIBLE);
-
-            for (int i = 0; i < 7; i++)
-                buttons[i+3].setText(peA[i]);
-            for (int i = 0; i < 6; i++)
-                buttons[i+10].setText(peB[i]);
-        }
     }
 
 
@@ -94,7 +80,7 @@ public class SEM8_EEEnEE extends AppCompatActivity implements View.OnClickListen
         intent = new Intent(this, Syllabus.class);
         switch(v.getId()){
             case R.id.hvpe_ii:
-                intent.putExtra("Subject", "HVPE-II").putExtra("Sem", "8").putExtra("Book", Urls.hvpe_iiBook);
+                StreamNames.hvpeII(intent);
                 break;
 
             case R.id.dsp:
@@ -299,7 +285,7 @@ public class SEM8_EEEnEE extends AppCompatActivity implements View.OnClickListen
                 switch (stream) {
                     case "EE":
                     case "EEE":
-                        intent.putExtra("Subject", "DigiComm").putExtra("Sem", "EE8").putExtra("Book", "");
+                        intent.putExtra("Subject", "DigiComm").putExtra("Sem", "ECE8").putExtra("Book", "");
                         break;
                     case "PE":
                         intent.putExtra("Subject", "TQM").putExtra("Sem", "PE8").putExtra("Book", "");

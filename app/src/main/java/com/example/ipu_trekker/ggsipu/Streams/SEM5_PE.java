@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
 import com.example.ipu_trekker.ggsipu.Syllabus;
@@ -35,6 +36,8 @@ public class SEM5_PE extends AppCompatActivity implements View.OnClickListener{
         findViewById(R.id.tppLab).setOnClickListener(this);
         findViewById(R.id.racLab).setOnClickListener(this);
         findViewById(R.id.eemiLab).setOnClickListener(this);
+
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
 
         final Activity a = this;
         a.setTitle("PE: 5th Semester Subjects");

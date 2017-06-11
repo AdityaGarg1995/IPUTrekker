@@ -6,13 +6,14 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
 import com.example.ipu_trekker.ggsipu.StreamNames;
 import com.example.ipu_trekker.ggsipu.Syllabus;
 import com.example.ipu_trekker.ggsipu.Urls;
 
-public class MAE2 extends AppCompatActivity implements View.OnClickListener {
+public class SEM7_MT extends AppCompatActivity implements View.OnClickListener {
 
     Button[] buttons = new Button[21];
     SubjectQuadruplet mSubjectQuadruplet[];
@@ -101,6 +102,9 @@ public class MAE2 extends AppCompatActivity implements View.OnClickListener {
 
         final Activity a = this;
         a.setTitle("MT: 7th Semester Syllabus");
+
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
+
     }
 
     @Override

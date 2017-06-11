@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
 import com.example.ipu_trekker.ggsipu.Syllabus;
@@ -54,19 +55,24 @@ public class SEM7_EEEnEE extends AppCompatActivity implements View.OnClickListen
         findViewById(R.id.sociology).setOnClickListener(this);
 
         Button eb = (Button)findViewById(R.id.eb);
+        eb.setVisibility(View.GONE);
 
         stream = getIntent().getStringExtra("Stream");
         final Activity a = this;
         a.setTitle(stream + ": 7th Semester Subjects");
+
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
 
 
         if(stream.equals("EEE")){
 
             eb.setVisibility(View.VISIBLE);
             eb.setOnClickListener(this);
-            eb.setText("Electrical Machine Design");
+            eb.setText("Electrical Machines Design");
 
-            emdLab.setVisibility(View.INVISIBLE);
+            emdLab.setText("EHV AC & HVDC Transmissions");
+
+            emdLab.setVisibility(View.GONE);
 
             topics.setText(topics.getText().toString() + "E");
         }

@@ -4,47 +4,82 @@ Paper: Robotics 2 1 3
 
 UNIT - I
 Fundamentals of Robot Technology:
-Robot definition, automation and robotics, Robot anatomy, Work volume, Drive systems. Control systems and
-dynamic performance. Accuracy and repeatability. Sensors and actuators used in robotics. Machine Vision, Robot
-configurations, Path control. Introduction to robot languages. Applications; Types (Mobile, Parallel); Serial:
-Cartesian, Cylindrical, etc.; Social Issues
+  Robot definition, automation and robotics, Robot anatomy, Work volume, Drive systems.
+  Control systems and dynamic performance.
+  Accuracy and repeatability.
+  Sensors and actuators used in robotics.
+  Machine Vision, Robot configurations, Path control.
+  Introduction to robot languages.
+  Applications; Types (Mobile, Parallel); Serial: Cartesian, Cylindrical, etc.; Social Issues.
 [T1,T2,T3]
 
 UNIT - II
-Robot Kinematics: Mapping, Homogeneous transformations, Rotation matrix, Forward Kinematics (DH
-Notation) and inverse kinematics: Closed form solution.
-Robot Differential Motion: Linear and Angular velocity of rigid link, Velocity along link, Maipulator jacobian,
-Statics: Use of jacobian.
+Robot Kinematics:
+  Mapping, Homogeneous transformations, Rotation matrix, Forward Kinematics (DH Notation) and inverse kinematics: Closed form solution.
+Robot Differential Motion:
+  Linear and Angular velocity of rigid link, Velocity along link, Maipulator Jacobian,
+Statics:
+  Use of Jacobian.
 [T1,T2,T3]
 
 UNIT – III
-Robot Dynamics: Lagrangian Mechanics, Lagrangian Formulation and numericals. Dynamics, Newton-Euler
-Recursive Algorithm, Simulation. Euler-Lagrange Equations of motion/Any one other formulation like using
-Decoupled Natural Orthogonal Complements (DeNOC)
-End effectors: Mechanical and other types of grippers. Tools as end effectors. Robot and effector interface.
-Gripper selection and design.
+Robot Dynamics:
+  Lagrangian Mechanics, Lagrangian Formulation and numericals.
+  Dynamics, Newton-Euler Recursive Algorithm, Simulation.
+  Euler-Lagrange Equations of motion/Any one other formulation like using Decoupled Natural Orthogonal Complements (DeNOC).
+End effectors:
+  Mechanical and other types of grippers.
+  Tools as end effectors.
+  Robot and effector interface.
+  Gripper selection and design.
 [T1,T2,T3]
 
 UNIT - IV
-Applications for Manufacturing. Flexible automation. Robot cell layouts. Machine interference. Other
-considerations in work cell design. Work cell control, interlocks. Robot cycle time analysis. Mechanical design of
-robot links.
-Typical applications of robots in material transfer, machine loading/unloading; processing operations; assembly
-and inspection.
+Applications for Manufacturing.
+Flexible automation.
+Robot cell layouts.
+Machine interference.
+Other considerations in work cell design.
+Work cell control, interlocks.
+Robot cycle time analysis.
+Mechanical design of robot links.
+Typical applications of robots in material transfer, machine loading/unloading; processing operations; assembly and inspection.
 [T1,T2,T3]
 
 
 Text Books:
-[T1] R.K. Mittal, I.J. Nagrath, “Robotics & Control”, Tata McGraw & Hills, 2005
-[T2] Mikell P Groover , Mitchell Weiss “Industrial Robotics :Technology, Programming and Application” Tata McGraw & Hills, 2009
-[T3] Saha, S.K., Introduction to Robotics, 2nd Edition, McGraw-Hill Education, New Delhi, 2014
+[T1] R.K. Mittal, I.J. Nagrath
+      “Robotics & Control”
+       Tata McGraw & Hills, 2005
+[T2] Mikell P. Groover, Mitchell Weiss
+      “Industrial Robotics: Technology, Programming and Application”
+       Tata McGraw & Hills, 2009
+[T3] Saha, S.K.
+      Introduction to Robotics, 2nd Edition
+       McGraw-Hill Education, New Delhi, 2014
 
 Reference Books:
-[R1] John J. Craig; “Introduction to Robotics Mechanics & Control”, Pearson Education, 2004
-[R2] Robert J. Schilling, “Fundamentals of Robotics, analysis & Control”, Prentice Hall (I) P Ltd, 2002
-[R3] Mark W. Spong, Seth Hutchinson, M. Vidyasagar “Robot Modeling and Control” John Wiley 2nd Ed
-[R4] J. Srinivasan, R.V. Dukkipati, K. Ramji, “Robotics control & programming”, Narosa.
-[R5] Ghosal, Ashitava, “Robotics: Fundamental Concepts and Analysis,” Oxford University Press, 2006
-[R6] M. Murray, M., Li, Zexiang, Sastry, S.S., “A Mathematical Introduction to Robotic Manipulation,” CRC Press, 1994
-[R7] Tsai, L.W., “Robot Analysis: The Mechanics of Serial & Parallel Manipulators,” Wiley 1999
-[R8] Niku, S.B., “Introduction to Robotics: Analysis, Systems, Applications”, Prentice Hall, 2001
+[R1] John J. Craig
+      “Introduction to Robotics Mechanics & Control”
+       Pearson Education, 2004
+[R2] Robert J. Schilling
+      “Fundamentals of Robotics, analysis & Control”
+       Prentice Hall (I) P Ltd, 2002
+[R3] Mark W. Spong, Seth Hutchinson, M. Vidyasagar
+      “Robot Modeling and Control”, 2nd Ed
+       John Wiley
+[R4] J. Srinivasan, R.V. Dukkipati, K. Ramji
+      “Robotics control & programming”
+       Narosa
+[R5] Ghosal, Ashitava
+      “Robotics: Fundamental Concepts and Analysis”
+       Oxford University Press, 2006
+[R6] M. Murray, M., Li, Zexiang, Sastry, S.S.
+      “A Mathematical Introduction to Robotic Manipulation”
+       CRC Press, 1994
+[R7] Tsai, L.W.
+      “Robot Analysis: The Mechanics of Serial & Parallel Manipulators”
+       Wiley, 1999
+[R8] Niku, S.B.
+      “Introduction to Robotics: Analysis, Systems, Applications”
+       Prentice Hall, 2001

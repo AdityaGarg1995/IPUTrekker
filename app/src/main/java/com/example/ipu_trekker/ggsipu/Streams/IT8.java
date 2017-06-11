@@ -6,16 +6,28 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.ipu_trekker.ggsipu.R;
+import com.example.ipu_trekker.ggsipu.StreamNames;
 import com.example.ipu_trekker.ggsipu.Syllabus;
 import com.example.ipu_trekker.ggsipu.Urls;
+
+import java.util.ArrayList;
 
 public class IT8 extends AppCompatActivity implements View.OnClickListener {
 
 //    3 2 8 7
-    Intent i;
+//    IT8, TE8, ME8
+    Intent intent;
     Activity a = this;
+    String stream;
+
+    Button buttons[] = new Button[20];
+
+    ArrayList<Button> buttonList = new ArrayList<>();
+    ArrayList<SubjectQuadruplet> mSubjectQuadruplets = new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,119 +35,215 @@ public class IT8 extends AppCompatActivity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_it8);
 
-        a.setTitle("IT: 8th Semester Subjects");
+        stream = getIntent().getStringExtra("Stream");
+        a.setTitle(stream + ": 8th Semester Subjects");
 
-//        Common to all
-        findViewById(R.id.hvpe_ii).setOnClickListener(this);
+        Toast.makeText(getApplicationContext(), "Swipe up for more", Toast.LENGTH_SHORT).show();
 
-        findViewById(R.id.adHoc).setOnClickListener(this);
-        findViewById(R.id.adHocLab).setOnClickListener(this);
-        findViewById(R.id.mc).setOnClickListener(this);
-        findViewById(R.id.mcLab).setOnClickListener(this);
+        buttons[0] = (Button) findViewById(R.id.hvpe_ii);
+        buttons[1] = (Button) findViewById(R.id.adHoc);
+        buttons[2] = (Button) findViewById(R.id.mc);
 
-        findViewById(R.id.net).setOnClickListener(this);
-        findViewById(R.id.bigData).setOnClickListener(this);
-        findViewById(R.id.ds).setOnClickListener(this);
-        findViewById(R.id.ecom).setOnClickListener(this);
-        findViewById(R.id.gps).setOnClickListener(this);
-        findViewById(R.id.hci).setOnClickListener(this);
-        findViewById(R.id.infoTheory).setOnClickListener(this);
-        findViewById(R.id.nextGen).setOnClickListener(this);
-        findViewById(R.id.satComm).setOnClickListener(this);
-        findViewById(R.id.social).setOnClickListener(this);
-        findViewById(R.id.soft).setOnClickListener(this);
-        findViewById(R.id.trends).setOnClickListener(this);
-        findViewById(R.id.vlsi).setOnClickListener(this);
-        findViewById(R.id.dip).setOnClickListener(this);
-        findViewById(R.id.biInfo).setOnClickListener(this);
+        mSubjectQuadruplets.add(0, StreamNames.setHVPEII());
+        setSubjects();
     }
 
 
-    @Override
-    public void onClick(View v) {
-        i = new Intent(this,Syllabus.class);
-        switch (v.getId()){
-//            Common to all
-            case R.id.hvpe_ii: i.putExtra("Subject","HVPE-II")
-                    .putExtra("Book", Urls.hvpe_iiBook);
+    public void setSubjects(){
+        switch (stream){
+            case "IT":
+                buttons[3] = (Button) findViewById(R.id.adHocLab);
+                buttons[4] = (Button) findViewById(R.id.mcLab);
+
+                buttons[5] = (Button) findViewById(R.id.bigData);
+                buttons[6] = (Button) findViewById(R.id.social);
+                buttons[7] = (Button) findViewById(R.id.infoTheory);
+                buttons[8] = (Button) findViewById(R.id.vlsi);
+                buttons[9] = (Button) findViewById(R.id.soft);
+                buttons[10] = (Button) findViewById(R.id.net);
+                buttons[11] = (Button) findViewById(R.id.hci);
+                buttons[12] = (Button) findViewById(R.id.biInfo);
+
+                buttons[13] = (Button) findViewById(R.id.dip);
+                buttons[14] = (Button) findViewById(R.id.nextGen);
+                buttons[15] = (Button) findViewById(R.id.gps);
+                buttons[16] = (Button) findViewById(R.id.satComm);
+                buttons[17] = (Button) findViewById(R.id.ecom);
+                buttons[18] = (Button) findViewById(R.id.ds);
+                buttons[19] = (Button) findViewById(R.id.trends);
+
+                mSubjectQuadruplets.add(1, new SubjectQuadruplet("AdHoc", "8", "Ad hoc & Sensor Networks",
+                        Urls.adHocBook));
+                mSubjectQuadruplets.add(2, new SubjectQuadruplet("MC", "8", "Mobile Communication",
+                        Urls.mcBook));
+
+                mSubjectQuadruplets.add(3, new SubjectQuadruplet("AdHocLab", "8", "Ad hoc & Sensor Networks Lab",
+                        Urls.adHocBook));
+                mSubjectQuadruplets.add(4, new SubjectQuadruplet("MCLab", "8", "Mobile Communication Lab",
+                        "http://iit.qau.edu.pk/books/Android.Application.Development.for.For.Dummies.pdf"));
+
+                mSubjectQuadruplets.add(5, new SubjectQuadruplet("BigData", "8", "Big Data Analytics",
+                        "http://eecs.wsu.edu/~yinghui/mat/courses/fall%202015/resources/Big%20data%20for%20dummies.pdf"));
+                mSubjectQuadruplets.add(6, new SubjectQuadruplet("SocialNetwork", "8", "Social Network Analysis",
+                        "https://archive.org/details/SocialAndEconomicNetworksMatthewO.Jackson"));
+                mSubjectQuadruplets.add(7, new SubjectQuadruplet("InfoTheory", "8", "Information Theory & Coding",
+                        "http://coltech.vnu.edu.vn/~thainp/books/Wiley_-_2006_-_Elements_of_Information_Theory_2nd_Ed.pdf"));
+                mSubjectQuadruplets.add(8, new SubjectQuadruplet("VLSI", "8", "VLSI Design",
+                        Urls.vlsiBook));
+                mSubjectQuadruplets.add(9, new SubjectQuadruplet("Soft", "8", "Soft Computing",
+                        Urls.softComputingBook));
+                mSubjectQuadruplets.add(10, new SubjectQuadruplet(".NET", "8", "Web Application development using .NET",
+                        "ftp://www.mans.edu.eg/Learn/Asp.Net2008/Sams.ASP.NET.3.5.Unleashed.Jan.2008.pdf"));
+                mSubjectQuadruplets.add(11, new SubjectQuadruplet("HCI", "8", "Human Computer Interaction",
+                        "http://fit.mta.edu.vn/files/DanhSach/__Human_computer_interaction.pdf"));
+                mSubjectQuadruplets.add(12, new SubjectQuadruplet("BioInfo", "8", "Bio Informatics",
+                        "ftp://ftp.ufv.br/dbg/material%20curso%20bioinfo/Leitura%20Complementar/livros/MIT%20Press,%20Bioinformatics%20The%20Machine%20Learning%20Approach%202Nd%20Edition.pdf"));
+
+                mSubjectQuadruplets.add(13, new SubjectQuadruplet("DIP", "8", "Digital Image Processing",
+                        Urls.dipBook));
+                mSubjectQuadruplets.add(14, new SubjectQuadruplet("NextGen", "8", "Next Generation Networks",
+                        "https://imcs.dvfu.ru/lib.int/docs/Networks/Administration/Next%20Generation%20Network%20Services.pdf"));
+                mSubjectQuadruplets.add(15, new SubjectQuadruplet("GPS", "8", "GPS & GIS",
+                        "http://www.garmin.com/manuals/gps4beg.pdf"));
+                mSubjectQuadruplets.add(16, new SubjectQuadruplet("SatComm", "8", "Satellite Communication",
+                        Urls.satCommBook));
+                mSubjectQuadruplets.add(17, new SubjectQuadruplet("Ecom", "8", "E-Commerce & M-Commerce",
+                        Urls.ecomBook));
+                mSubjectQuadruplets.add(18, new SubjectQuadruplet("Distributed", "8", "Distributed Systems",
+                        "https://vowi.fsinf.at/images/b/bc/TU_Wien-Verteilte_Systeme_VO_(G%C3%B6schka)_-_Tannenbaum-distributed_systems_principles_and_paradigms_2nd_edition.pdf"));
+                mSubjectQuadruplets.add(19, new SubjectQuadruplet("TrendsInIT", "8", "Selected Topics of Recent Trends in Information Technology",
+                        "https://mis343dw.wikispaces.com/file/view/%5Bbackup%5Ddata-warehousing-fundamentals-for-it-professionals.9780470462072.52994.pdf"));
+
+                for (int i = 0; i < 20; i++) {
+                    buttons[i].setOnClickListener(this);
+                    buttons[i].setText(mSubjectQuadruplets.get(i).getSubjectName());
+                    buttonList.add(i, buttons[i]);
+                }
                 break;
 
-            case R.id.adHoc: i.putExtra("Subject","AdHoc")
-                    .putExtra("Book", Urls.adHocBook);
-                break;
-            case R.id.adHocLab: i.putExtra("Subject","AdHocLab")
-                    .putExtra("Book", Urls.adHocBook);
+            case "TE":
+                buttons[3] = (Button) findViewById(R.id.bigData);
+                buttons[4] = (Button) findViewById(R.id.social);
+                buttons[5] = (Button) findViewById(R.id.infoTheory);
+                buttons[6] = (Button) findViewById(R.id.vlsi);
+                buttons[7] = (Button) findViewById(R.id.soft);
+                buttons[8] = (Button) findViewById(R.id.net);
+
+                buttons[9] = (Button) findViewById(R.id.dip);
+                buttons[10] = (Button) findViewById(R.id.nextGen);
+                buttons[11] = (Button) findViewById(R.id.gps);
+                buttons[12] = (Button) findViewById(R.id.satComm);
+                buttons[13] = (Button) findViewById(R.id.ecom);
+
+
+                buttons[14] = (Button) findViewById(R.id.adHocLab);
+                buttons[15] = (Button) findViewById(R.id.mcLab);
+                buttons[16] = (Button) findViewById(R.id.hci);
+                buttons[17] = (Button) findViewById(R.id.biInfo);
+                buttons[18] = (Button) findViewById(R.id.ds);
+                buttons[19] = (Button) findViewById(R.id.trends);
+
+                for(int i = 14; i < 20; i++){
+                   buttons[i].setVisibility(View.GONE);
+                }
+
+                TextView t1 = (TextView) findViewById(R.id.t1);
+                t1.setVisibility(View.GONE);
+
+                mSubjectQuadruplets.add(1, new SubjectQuadruplet("ADCDD", "TE8", "Advanced Die Casting & Die Design", ""));
+                mSubjectQuadruplets.add(2, new SubjectQuadruplet("MMS", "TE8", "Modern Manufacturing Methods", ""));
+
+                mSubjectQuadruplets.add(3, new SubjectQuadruplet("Cryo", "PE8", "Cryogenic Engineering", ""));
+                mSubjectQuadruplets.add(4, new SubjectQuadruplet("TDO", "TE8", "Theory of Design Optimization", ""));
+                mSubjectQuadruplets.add(5, new SubjectQuadruplet("FMS", "PE8", "Flexible Manufacturing System", ""));
+                mSubjectQuadruplets.add(6, new SubjectQuadruplet("Plastic", "ME8", "Applied Plasticity", ""));
+                mSubjectQuadruplets.add(7, new SubjectQuadruplet("Robotics", "PE8", "Robotics", ""));
+                mSubjectQuadruplets.add(8, new SubjectQuadruplet("ESMS", "MT8", "Engineering System Modeling & Simulation", ""));
+
+                mSubjectQuadruplets.add(9, new SubjectQuadruplet("PM", "PE8", "Project Management", ""));
+                mSubjectQuadruplets.add(10, new SubjectQuadruplet("Soft", "8", "Soft Computing",
+                        Urls.softComputingBook));
+                mSubjectQuadruplets.add(11, new SubjectQuadruplet("IM", "5", "Industrial Management", ""));
+                mSubjectQuadruplets.add(12, new SubjectQuadruplet("SCMP", "TE8", "Supply Chain Management-Planning", ""));
+                mSubjectQuadruplets.add(13, new SubjectQuadruplet("Safety", "TE8", "Safety Engineering", ""));
+
+                for (int i = 0; i < 14; i++) {
+                    buttons[i].setOnClickListener(this);
+                    buttons[i].setText(mSubjectQuadruplets.get(i).getSubjectName());
+                    buttonList.add(i, buttons[i]);
+                }
                 break;
 
-            case R.id.mc: i.putExtra("Subject","MC")
-                    .putExtra("Book", Urls.mcBook);
-                break;
-            case R.id.mcLab: i.putExtra("Subject","MCLab")
-                    .putExtra("Book", "http://iit.qau.edu.pk/books/Android.Application.Development.for.For.Dummies.pdf");
-                break;
+            case "ME":
+                buttons[3] = (Button) findViewById(R.id.adHocLab);
+                buttons[4] = (Button) findViewById(R.id.mcLab);
 
-            case R.id.net: i.putExtra("Subject",".NET")
-                    .putExtra("Book", "ftp://www.mans.edu.eg/Learn/Asp.Net2008/Sams.ASP.NET.3.5.Unleashed.Jan.2008.pdf");
-                break;
+                buttons[5] = (Button) findViewById(R.id.bigData);
+                buttons[6] = (Button) findViewById(R.id.social);
+                buttons[7] = (Button) findViewById(R.id.infoTheory);
+                buttons[8] = (Button) findViewById(R.id.vlsi);
+                buttons[9] = (Button) findViewById(R.id.soft);
+                buttons[10] = (Button) findViewById(R.id.net);
 
-            case R.id.bigData: i.putExtra("Subject","BigData")
-                    .putExtra("Book", "http://eecs.wsu.edu/~yinghui/mat/courses/fall%202015/resources/Big%20data%20for%20dummies.pdf");
-                break;
+                buttons[11] = (Button) findViewById(R.id.dip);
+                buttons[12] = (Button) findViewById(R.id.nextGen);
+                buttons[13] = (Button) findViewById(R.id.gps);
+                buttons[14] = (Button) findViewById(R.id.satComm);
+                buttons[15] = (Button) findViewById(R.id.ecom);
 
-            case R.id.dip: i.putExtra("Subject","DIP")
-                    .putExtra("Book", "http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/Digital_Image_Processing_3rdEd_truncated.pdf");
-                break;
 
-            case R.id.ds: i.putExtra("Subject","Distributed")
-                    .putExtra("Book", "https://vowi.fsinf.at/images/b/bc/TU_Wien-Verteilte_Systeme_VO_(G%C3%B6schka)_-_Tannenbaum-distributed_systems_principles_and_paradigms_2nd_edition.pdf");
-                break;
+                buttons[16] = (Button) findViewById(R.id.hci);
+                buttons[17] = (Button) findViewById(R.id.biInfo);
+                buttons[18] = (Button) findViewById(R.id.ds);
+                buttons[19] = (Button) findViewById(R.id.trends);
 
-            case R.id.ecom: i.putExtra("Subject","Ecom")
-                    .putExtra("Book", Urls.ecomBook);
-                break;
+                for(int i = 16; i < 20; i++){
+                    buttons[i].setVisibility(View.GONE);
+                }
 
-            case R.id.gps: i.putExtra("Subject","GPS")
-                    .putExtra("Book", "http://www.garmin.com/manuals/gps4beg.pdf");
-                break;
+                mSubjectQuadruplets.add(1, new SubjectQuadruplet("SQCR", "ME8", "Statistical Quality Control & Reliability", ""));
+                mSubjectQuadruplets.add(2, new SubjectQuadruplet("ESMS", "MT8", "Engineering System Modeling & Simulation", ""));
 
-            case R.id.infoTheory: i.putExtra("Subject","InfoTheory")
-                    .putExtra("Book", "http://coltech.vnu.edu.vn/~thainp/books/Wiley_-_2006_-_Elements_of_Information_Theory_2nd_Ed.pdf");
-                break;
+                mSubjectQuadruplets.add(3, new SubjectQuadruplet("SQCRLab", "ME8", "Statistical Quality Control & Reliability Lab", ""));
+                mSubjectQuadruplets.add(4, new SubjectQuadruplet("ESMSLab", "MT8", "Engineering System Modeling & Simulation Lab", ""));
 
-            case R.id.nextGen: i.putExtra("Subject","NextGen")
-                    .putExtra("Book", "https://imcs.dvfu.ru/lib.int/docs/Networks/Administration/Next%20Generation%20Network%20Services.pdf");
-                break;
+                mSubjectQuadruplets.add(5, new SubjectQuadruplet("Nuclear", "PE8", "Nuclear Power Generation & Supply", ""));
+                mSubjectQuadruplets.add(6, new SubjectQuadruplet("Robotics", "PE8", "Robotics", ""));
+                mSubjectQuadruplets.add(7, new SubjectQuadruplet("RP", "ME8", "Rapid prototyping", ""));
+                mSubjectQuadruplets.add(8, new SubjectQuadruplet("MV", "PE8", "Mechanical Vibrations", ""));
+                mSubjectQuadruplets.add(9, new SubjectQuadruplet("Soft", "8", "Soft Computing",
+                        Urls.softComputingBook));
+                mSubjectQuadruplets.add(10, new SubjectQuadruplet("DCN", "ECE8", "Data Communication & Networks",
+                        Urls.dcnBook));
 
-            case R.id.soft: i.putExtra("Subject","Soft")
-                    .putExtra("Book", "http://www.wearealgerians.com/up/uploads/139955152739491.pdf");
-                break;
+                mSubjectQuadruplets.add(11, new SubjectQuadruplet("GD", "ME8", "Gas Dynamics", ""));
+                mSubjectQuadruplets.add(12, new SubjectQuadruplet("SCMP", "TE8", "Supply Chain Management-Planning", ""));
+                mSubjectQuadruplets.add(13, new SubjectQuadruplet("TQM", "PE8", "Total Quality Management", ""));
+                mSubjectQuadruplets.add(14, new SubjectQuadruplet("Cryo", "PE8", "Cryogenic Engineering", ""));
+                mSubjectQuadruplets.add(15, new SubjectQuadruplet("TM", "ME8", "Turbo Machinery", ""));
 
-            case R.id.social: i.putExtra("Subject","SocialNetwork")
-                    .putExtra("Book", "https://archive.org/details/SocialAndEconomicNetworksMatthewO.Jackson");
-                break;
-
-            case R.id.satComm: i.putExtra("Subject","SatComm")
-                    .putExtra("Book", "http://bigsemite.tripod.com/mcgraw.pdf");
-                break;
-
-            case R.id.trends: i.putExtra("Subject","TrendsInIT")
-                    .putExtra("Book", "https://mis343dw.wikispaces.com/file/view/%5Bbackup%5Ddata-warehousing-fundamentals-for-it-professionals.9780470462072.52994.pdf");
-                break;
-
-            case R.id.vlsi: i.putExtra("Subject","VLSI")
-                    .putExtra("Book", Urls.vlsiBook);
-                break;
-            case R.id.biInfo: i.putExtra("Subject","BioInfo")
-                    .putExtra("Book", "ftp://ftp.ufv.br/dbg/material%20curso%20bioinfo/Leitura%20Complementar/livros/MIT%20Press,%20Bioinformatics%20The%20Machine%20Learning%20Approach%202Nd%20Edition.pdf");
-                break;
-            case R.id.hci: i.putExtra("Subject", "HCI")
-                    .putExtra("Book", "http://fit.mta.edu.vn/files/DanhSach/__Human_computer_interaction.pdf");
+                for (int i = 0; i < 16; i++) {
+                    buttons[i].setOnClickListener(this);
+                    buttons[i].setText(mSubjectQuadruplets.get(i).getSubjectName());
+                    buttonList.add(i, buttons[i]);
+                }
                 break;
         }
+    }
+
+    @Override
+    public void onClick(View v) {
+        intent = new Intent(this,Syllabus.class);
+        for (int i = 0; i < buttonList.size(); i++)
+            if (v == buttonList.get(i))
+                intent.putExtra("Subject", mSubjectQuadruplets.get(i).getSubject())
+                      .putExtra("Sem", mSubjectQuadruplets.get(i).getSem())
+                      .putExtra("Book", mSubjectQuadruplets.get(i).getBook());
+
         try {
-            i.putExtra("Sem", "8").putExtra("SubjectName", ((Button)v).getText().toString());
-            if(i != null)
-               startActivity(i);
+            intent.putExtra("SubjectName", ((Button)v).getText().toString());
+            if(intent != null)
+               startActivity(intent);
         } catch(Exception e){e.printStackTrace();}
     }
 }
