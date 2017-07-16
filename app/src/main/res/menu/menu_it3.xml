@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-
-    <!--<item-->
-        <!--android:id="@+id/home"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="Home"-->
-        <!--app:showAsAction="never" />-->
-    <!--<item-->
-        <!--android:id="@+id/streams"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="Streams"-->
-        <!--app:showAsAction="never" />-->
-    <!--<item-->
-        <!--android:id="@+id/result"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="Individual Result"-->
-        <!--app:showAsAction="never" />-->
-    <!--<item-->
-        <!--android:id="@+id/codes"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="College Codes"-->
-        <!--app:showAsAction="never" />-->
-    <!--&lt;!&ndash;<item&ndash;&gt;-->
-        <!--android:id="@+id/codes"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="Stream Codes"-->
-        <!--app:showAsAction="never" />-->
-
-
+    <item
+        android:id="@+id/college"
+        android:orderInCategory="100"
+        android:title="College Codes"
+        app:showAsAction="never" />
 </menu>

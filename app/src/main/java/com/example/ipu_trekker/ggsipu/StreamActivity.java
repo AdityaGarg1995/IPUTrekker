@@ -8,13 +8,11 @@ import android.view.MenuItem;
 import android.view.View;
 
 
-import com.example.ipu_trekker.ggsipu.Streams.IT;
+import com.example.ipu_trekker.ggsipu.Streams.StreamMenuActivity;
 import com.example.ipu_trekker.ggsipu.Streams.ZCodes;
 
 
 public class StreamActivity extends AppCompatActivity implements View.OnClickListener {
-
-//    ImageButton[] b = new ImageButton[13];
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,72 +36,69 @@ public class StreamActivity extends AppCompatActivity implements View.OnClickLis
     }
 
 
+    public void activityStart(String streamCode){
+        try{ startActivity(new Intent(this, StreamMenuActivity.class).putExtra("StreamCode", streamCode)); }
+        catch (Exception e){e.printStackTrace();}
+    }
+
+    public void startCodes(String code){
+        try { startActivity(new Intent(StreamActivity.this, ZCodes.class).putExtra("Task", code)); }
+        catch (Exception e) {e.printStackTrace();}
+    }
+
     @Override
     public void onClick(View v) {
         switch(v.getId()){
             case R.id.cse:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","CSE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("CSE");
                 break;
 
             case R.id.ece:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","ECE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("ECE");
                 break;
 
             case R.id.it:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","IT")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("IT");
                 break;
 
             case R.id.mae:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","MAE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("MAE");
                 break;
 
             case R.id.eee:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","EEE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("EEE");
                 break;
 
             case R.id.civil:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","CE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("CE");
                 break;
 
             case R.id.power:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","PE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("PE");
                 break;
 
             case R.id.ee:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","EE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("EE");
                 break;
 
             case R.id.me:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","ME")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("ME");
                 break;
 
             case R.id.ice:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","ICE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("ICE");
                 break;
 
             case R.id.mech:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","MT")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("MT");
                 break;
 
             case R.id.envo:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","ENE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("ENE");
                 break;
 
             case R.id.tool:
-                try{ startActivity(new Intent(this, IT.class).putExtra("StreamCode","TE")); }
-                catch (Exception e){e.printStackTrace();}
+                activityStart("TE");
                 break;
         }
     }
@@ -119,28 +114,48 @@ public class StreamActivity extends AppCompatActivity implements View.OnClickLis
         // Handle action bar item clicks here.
         // The action bar will automatically handle clicks on the Home/Up button, so long as you specify a parent activity in AndroidManifest.xml.
         switch (item.getItemId()) {
-//            case R.id.home:
-//                startActivity(new Intent(StreamActivity.this, HomeActivity.class));
-//                return true;
-//
-//            case R.id.colleges:
-//                startActivity(new Intent(StreamActivity.this, CollegeActivity.class));
-//                return true;
-//
-//            case R.id.result:
-//                startActivity(new Intent(StreamActivity.this, logo.class).putExtra("Task", StreamNames.task2));
-//                return true;
             case R.id.ncc:
-                startActivity(new Intent(StreamActivity.this, ZCodes.class).putExtra("Task", "NCC"));
+                startCodes("NCC");
                 return true;
 
             case R.id.codes:
-                startActivity(new Intent(StreamActivity.this, ZCodes.class).putExtra("Task", "Codes"));
+                startCodes("Codes");
                 return true;
 
+            case R.id.codes2:
+                startCodes("Codes2");
+                return true;
         }
-
         return super.onOptionsItemSelected(item);
-
     }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
+    @Override
+    protected void onPause() {
+        super.onPause();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+    }
+
 }

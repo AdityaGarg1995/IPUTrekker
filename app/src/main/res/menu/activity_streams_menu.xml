@@ -12,11 +12,9 @@
         android:orderInCategory="100"
         android:title="Stream Codes"
         app:showAsAction="never" />
-    <!--<item-->
-        <!--android:id="@+id/codes2"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="Stream Codes 2"-->
-        <!--app:showAsAction="never" />-->
-
-
+    <item
+        android:id="@+id/codes2"
+        android:orderInCategory="100"
+        android:title="Stream Codes-II"
+        app:showAsAction="never" />
 </menu>

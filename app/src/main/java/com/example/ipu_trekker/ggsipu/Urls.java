@@ -3,8 +3,8 @@ package com.example.ipu_trekker.ggsipu;
 public class Urls {
 
 
-    public static final String ipu = "http://www.ipu.ac.in/";
-    public static final String result = "http://ipuresult.com";
+    public static final String ipu = "http://www.ipu.ac.in/",
+                               result = "http://ipuresult.com";
 
     // University school of biotech
     public static final String usbt = "http://ipu.ac.in/usbt/",
@@ -222,7 +222,7 @@ public class Urls {
                             hydraulicsNPneumaticsBook = "http://engineering.nyu.edu/mechatronics/Control_Lab/Criag/Craig_RPI/SenAc",
 
                             machineElementDesignBook = "https://drive.google.com/file/d/0B7X9XpFonUR5NVNDMm9sZVg0VjQ/view",
-
+//      5th sem
                             mqcBook = "www.pssurvival.com/ps/Weather/Handbook_Of_Meteorology_1921.pdf",
 
 //    .......................................................................................................................//
@@ -232,6 +232,8 @@ public class Urls {
                             chemBook = "http://ronispc.chem.mcgill.ca/ronis/chem223/course_pac.pdf",
 
                             mpBook = "https://futureingscientist.files.wordpress.com/2014/01/fundamentals-of-modern-manufacturing-4th-edition-by-mikell-p-groover.pdf";
+
+
 //............................................BookList.....................................................................//
     public static final String civilBookList = "http://bookboon.com/en/civil-engineering-ebooks",
                                cseBookList = "http://gatecse.in/best-books-for-gate/",
@@ -255,6 +257,5 @@ public class Urls {
 
 
     public static String geturl(String url){ return url; }
-
 
 }

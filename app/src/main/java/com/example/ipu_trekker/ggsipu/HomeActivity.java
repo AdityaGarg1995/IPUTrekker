@@ -23,7 +23,6 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.colleges).setOnClickListener(this);
         findViewById(R.id.streams).setOnClickListener(this);
         findViewById(R.id.result).setOnClickListener(this);
-
     }
 
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -31,27 +30,30 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         getMenuInflater().inflate(R.menu.activity_home_menu, menu);
         return true;
     }
-
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here.
         // The action bar will automatically handle clicks on the Home/Up button, so long as you specify a parent activity in AndroidManifest.xml.
 
-//        if(item.getItemId() == R.id.exit){
-//            System.exit(0);
-//            return true;
-//        }
+        if(item.getItemId() == R.id.exit){
+            finish();
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 
+
+    public void activityStart(String task){
+        try{
+            startActivity(new Intent(this, UniversityActivity.class).putExtra("Task", task));
+        } catch (Exception e){e.printStackTrace();}
+    }
 
     @Override
     public void onClick(View v) {
 
         switch(v.getId()){
             case R.id.university:
-                try{
-                    startActivity(new Intent(this, logo.class).putExtra("Task", StreamNames.task1));
-                } catch (Exception e){e.printStackTrace();}
+                activityStart(ImportantStrings.task1);
                 break;
 
             case R.id.colleges:
@@ -67,10 +69,38 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
                 break;
 
             case R.id.result:
-                try{
-                    startActivity(new Intent(this, logo.class).putExtra("Task", StreamNames.task2));
-                } catch (Exception e){e.printStackTrace();}
+                activityStart(ImportantStrings.task2);
                 break;
         }
     }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
+    @Override
+    protected void onPause() {
+        super.onPause();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+    }
+
 }

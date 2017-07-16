@@ -16,9 +16,19 @@ import java.io.InputStream;
 
 public class ZCodes extends AppCompatActivity implements View.OnClickListener {
 
-//    Button[] buttons = new Button[8];
-
     Activity a = this;
+    AssetManager am1;
+    TextView text;
+
+    public void showText(String string){
+        try {
+            InputStream input1 = am1.open(string);
+            byte[] buffer = new byte[input1.available()];
+            input1.read(buffer);
+            input1.close(); // byte buffer into a string
+            text.setText(new String(buffer));
+        } catch (IOException e) { e.printStackTrace(); }
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,74 +37,32 @@ public class ZCodes extends AppCompatActivity implements View.OnClickListener {
         setContentView(R.layout.nues);
 
         String task = getIntent().getStringExtra("Task");
+        text = (TextView)findViewById(R.id.text);
+        am1 = getAssets();
 
-        TextView text = (TextView)findViewById(R.id.text);
-
-        AssetManager am1 = getAssets();
-
-        if(task.equals("NCC")){
-            a.setTitle("NCC/NSS");
-            try {
-                InputStream input1 = am1.open("NCC");
-                byte[] buffer = new byte[input1.available()];
-                input1.read(buffer);
-                input1.close(); // byte buffer into a string
-                text.setText(new String(buffer));
-            } catch (IOException e) { e.printStackTrace(); }
+        switch (task) {
+            case "NCC":
+                a.setTitle("NCC/NSS");
+                showText("NCC");
+                break;
+            case"Codes":
+                a.setTitle("Stream Codes");
+                showText("Codes");
+                break;
+            case "Codes2":
+                a.setTitle("Stream Codes-II");
+                showText("Codes2");
+                break;
+            case "College":
+                a.setTitle("College Codes");
+                showText("CollegeCodes");
+                break;
         }
-
-        else if (task.equals("Codes")){
-            a.setTitle("Stream Codes");
-            try {
-                InputStream input1 = am1.open("Codes");
-                byte[] buffer = new byte[input1.available()];
-                input1.read(buffer);
-                input1.close(); // byte buffer into a string
-                text.setText(new String(buffer));
-            } catch (IOException e) { e.printStackTrace(); }
-        }
-//        findViewById(R.id.c1).setOnClickListener(this);
-//        findViewById(R.id.c2).setOnClickListener(this);
-//        findViewById(R.id.c3).setOnClickListener(this);
-//        findViewById(R.id.c4).setOnClickListener(this);
-//        findViewById(R.id.c5).setOnClickListener(this);
-//        findViewById(R.id.c6).setOnClickListener(this);
-//        findViewById(R.id.c7).setOnClickListener(this);
-//        findViewById(R.id.c8).setOnClickListener(this);
-
-//        final Activity a = this;
-
     }
 
 
     @Override
     public void onClick(View v) {
 
-//        String url = "";
-//        Intent intent = new Intent(Intent.ACTION_VIEW);
-
-//        switch (v.getId()){
-//            case R.id.c1: url = url1;
-//                break;
-//            case R.id.c2: url = url2;
-//                break;
-//            case R.id.c3: url = url3;
-//                break;
-//            case R.id.c4: url = url4;
-//                break;
-//            case R.id.c5: url = url5;
-//                break;
-//            case R.id.c6: url = url6;
-//                break;
-//            case R.id.c7: url = url7;
-//                break;
-//            case R.id.c8: url = url8;
-//                break;
-//        }
-
-//        if(!url.equals("") && (intent != null)){
-//            intent.setData(Uri.parse(url));
-//            startActivity(intent);
-//        }
     }
 }
